@@ -1,0 +1,15 @@
+<map id="IGameAudioManager" name="IGameAudioManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,841,325,937"/>
+<area shape="rect" id="Node000007" href="$d3/df3/class_r_t_s_engine_1_1_audio_1_1_game_audio_manager.html" title=" " alt="" coords="127,985,361,1413"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="247,951,247,986,241,986,241,951"/>
+<area shape="rect" id="Node000002" href="$d6/d52/interface_r_t_s_engine_1_1_audio_1_1_i_audio_manager.html" title=" " alt="" coords="5,448,253,793"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,805,226,840,221,843,206,808"/>
+<area shape="rect" id="Node000003" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="278,584,442,657"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,671,267,843,262,841,336,669"/>
+<area shape="rect" id="Node000004" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="304,327,416,400"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="363,414,363,584,357,584,357,414"/>
+<area shape="rect" id="Node000005" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="177,96,335,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="286,200,346,326,341,328,281,202"/>
+<area shape="rect" id="Node000006" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="360,5,568,279"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="396,292,379,328,374,326,391,290"/>
+</map>

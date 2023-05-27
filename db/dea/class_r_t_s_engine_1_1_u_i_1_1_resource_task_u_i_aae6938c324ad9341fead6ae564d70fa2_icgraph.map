@@ -1,0 +1,12 @@
+<map id="UpdateAmountText" name="UpdateAmountText">
+<area shape="rect" id="Node000001" title=" " alt="" coords="468,87,622,115"/>
+<area shape="rect" id="Node000002" href="$db/dea/class_r_t_s_engine_1_1_u_i_1_1_resource_task_u_i.html#afcae45d9b4bc28fdb0b3fcb415d342be" title=" " alt="" coords="170,60,420,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,94,420,90,421,85,454,89"/>
+<area shape="rect" id="Node000005" href="$db/dea/class_r_t_s_engine_1_1_u_i_1_1_resource_task_u_i.html#a7714b0d1437ed97682c0ad1fadfac674" title=" " alt="" coords="18,112,109,141"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="453,108,109,127,109,121,453,103"/>
+<area shape="rect" id="Node000003" href="$db/dea/class_r_t_s_engine_1_1_u_i_1_1_resource_task_u_i.html#ad18822b6a8b26509fc31ee61589194a2" title=" " alt="" coords="11,5,116,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,59,115,35,117,29,218,53"/>
+<area shape="rect" id="Node000004" href="$db/dea/class_r_t_s_engine_1_1_u_i_1_1_resource_task_u_i.html#a5aaf47591a0457cff1b214b32b638a98" title=" " alt="" coords="5,59,122,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="155,76,122,76,122,71,155,71"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="214,95,110,119,109,114,213,90"/>
+</map>

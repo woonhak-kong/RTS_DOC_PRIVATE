@@ -1,0 +1,75 @@
+<map id="AdvancedBuildingPlacer" name="AdvancedBuildingPlacer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1217,3410,1485,3642"/>
+<area shape="rect" id="Node000002" href="$dc/d2e/class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html" title=" " alt="" coords="646,1521,910,2515"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="667,2530,658,2632,655,2737,658,2844,670,2951,690,3055,722,3157,765,3253,792,3299,821,3342,859,3385,904,3420,954,3448,1007,3471,1061,3489,1116,3502,1218,3517,1217,3523,1115,3507,1060,3494,1005,3476,951,3453,901,3424,856,3389,817,3346,787,3301,760,3255,717,3158,685,3057,664,2951,653,2844,649,2737,653,2632,662,2529"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1196,1166,1317,1239"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1259,1254,1254,1302,1242,1356,1221,1410,1205,1435,1186,1457,1154,1480,1122,1491,1089,1493,1057,1491,1025,1488,993,1490,962,1500,930,1523,912,1542,908,1538,927,1519,959,1495,992,1485,1025,1483,1057,1485,1089,1487,1121,1485,1152,1475,1183,1453,1201,1432,1216,1408,1237,1355,1249,1301,1254,1253"/>
+<area shape="rect" id="Node000004" href="$d1/d40/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placer.html" title=" " alt="" coords="668,985,888,1421"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="781,1434,781,1521,775,1521,775,1434"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="703,598,911,871"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="801,886,794,985,789,985,795,885"/>
+<area shape="rect" id="Node000033" href="$d0/de4/interface_r_t_s_engine_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="912,951,1172,1455"/>
+<area shape="poly" id="edge38_Node000033_Node000005" title=" " alt="" coords="884,883,918,950,913,952,879,885"/>
+<area shape="rect" id="Node000006" href="$d7/dae/interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="489,1166,643,1239"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="581,1252,651,1520,646,1522,576,1253"/>
+<area shape="rect" id="Node000007" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="501,698,631,771"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="569,785,569,1167,563,1167,563,785"/>
+<area shape="rect" id="Node000008" href="$d4/dbb/class_r_t_s_engine_1_1_terrain_1_1_terrain_area_type.html" title=" " alt="" coords="1341,1064,1481,1341"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1397,1342,1387,1374,1373,1404,1355,1432,1332,1457,1300,1479,1270,1493,1241,1499,1212,1499,1151,1495,1115,1495,1076,1499,999,1505,958,1511,930,1523,924,1529,920,1525,927,1518,957,1506,999,1500,1075,1494,1115,1490,1151,1490,1213,1494,1241,1493,1269,1488,1297,1475,1328,1453,1351,1429,1368,1402,1382,1372,1392,1340"/>
+<area shape="rect" id="Node000009" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="1361,698,1571,771"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1463,786,1430,1065,1425,1064,1458,785"/>
+<area shape="rect" id="Node000024" href="$d2/d5f/class_r_t_s_engine_1_1_resource_extension_1_1_resource_type_info.html" title=" " alt="" coords="1505,1030,1643,1375"/>
+<area shape="poly" id="edge24_Node000024_Node000009" title=" " alt="" coords="1480,785,1537,1029,1532,1031,1475,786"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1401,355,1531,428"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1469,442,1469,698,1463,698,1463,442"/>
+<area shape="rect" id="Node000011" href="$da/db3/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placer_condition.html" title=" " alt="" coords="121,1166,305,1239"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="226,1238,262,1338,289,1396,319,1453,393,1566,475,1676,558,1777,637,1866,633,1869,554,1780,471,1679,389,1569,314,1456,284,1399,258,1340,221,1240"/>
+<area shape="rect" id="Node000012" href="$d8/d6c/class_r_t_s_engine_1_1_audio_1_1_audio_clip_fetcher.html" title="Allows to define a set of AudioClip instances and retrieve one of them depending on the chosen type." alt="" coords="329,1155,464,1251"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="411,1250,439,1345,479,1454,556,1619,640,1777,635,1780,552,1622,474,1456,434,1347,406,1251"/>
+<area shape="rect" id="Node000013" href="$d7/dba/class_r_t_s_engine_1_1_utilities_1_1_fetcher.html" title=" " alt="" coords="316,630,477,839"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="399,853,399,1155,394,1155,394,853"/>
+<area shape="rect" id="Node000014" href="$df/d35/class_r_t_s_engine_1_1_determinism_1_1_global_time_modified_timer.html" title=" " alt="" coords="59,585,292,885"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="283,883,319,950,358,1047,384,1138,379,1139,353,1049,314,952,278,886"/>
+<area shape="rect" id="Node000015" href="$dc/d59/class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html" title=" " alt="" coords="5,264,175,519"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="128,532,141,584,136,586,122,533"/>
+<area shape="rect" id="Node000016" href="$d3/d00/class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="199,343,322,439"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="252,440,219,569,214,567,246,439"/>
+<area shape="rect" id="Node000017" href="$d7/d61/class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="199,5,322,215"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="263,228,263,343,258,343,258,228"/>
+<area shape="rect" id="Node000018" href="$de/d0d/struct_r_t_s_engine_1_1_utilities_1_1_int2_d.html" title=" " alt="" coords="1186,2791,1319,2933"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1276,2932,1298,3017,1318,3112,1337,3257,1348,3393,1343,3393,1332,3257,1313,3112,1293,3018,1271,2933"/>
+<area shape="rect" id="Node000030" href="$d6/d0d/struct_r_t_s_engine_1_1_building_extension_1_1_building_placement_grid_data.html" title=" " alt="" coords="832,3112,1039,3344"/>
+<area shape="poly" id="edge34_Node000030_Node000018" title=" " alt="" coords="1197,2934,1064,3090,1052,3104,1048,3100,1060,3086,1193,2930"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1178,1981,1327,2055"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1255,2069,1255,2791,1250,2791,1250,2069"/>
+<area shape="rect" id="Node000020" href="$d0/d87/struct_r_t_s_engine_1_1_building_extension_1_1_building_placement_segment_data.html" title=" " alt="" coords="1063,3169,1303,3287"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="1197,3286,1211,3336,1232,3385,1237,3394,1233,3397,1227,3387,1206,3337,1192,3288"/>
+<area shape="rect" id="Node000021" href="$d7/d70/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_task.html" title=" " alt="" coords="1589,2678,1799,3046"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="1591,2956,1523,3029,1492,3070,1465,3113,1435,3215,1388,3394,1383,3393,1430,3213,1460,3111,1488,3067,1519,3026,1587,2952"/>
+<area shape="rect" id="Node000028" href="$db/d50/struct_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer_1_1_segment_period_replacement_data.html" title=" " alt="" coords="1685,3159,1935,3297"/>
+<area shape="poly" id="edge30_Node000028_Node000021" title=" " alt="" coords="1755,3045,1786,3142,1781,3144,1750,3046"/>
+<area shape="rect" id="Node000022" href="$d2/ddf/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_task.html" title=" " alt="" coords="1394,1902,1605,2134"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="1532,2147,1654,2678,1649,2679,1526,2149"/>
+<area shape="rect" id="Node000023" href="$d4/d10/struct_r_t_s_engine_1_1_resource_extension_1_1_resource_input.html" title=" " alt="" coords="1629,1981,1765,2055"/>
+<area shape="poly" id="edge22_Node000021_Node000023" title=" " alt="" coords="1698,2054,1693,2304,1692,2654,1692,2661,1687,2661,1687,2654,1688,2304,1693,2054"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="1602,1374,1691,1964,1686,1965,1597,1375"/>
+<area shape="rect" id="Node000025" href="$d3/dd4/struct_r_t_s_engine_1_1_resource_extension_1_1_resource_type_value.html" title=" " alt="" coords="1609,687,1763,783"/>
+<area shape="poly" id="edge26_Node000023_Node000025" title=" " alt="" coords="1689,782,1699,1964,1694,1964,1684,782"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="1656,784,1571,910,1560,960,1556,1013,1551,1013,1555,960,1567,908,1651,781"/>
+<area shape="rect" id="Node000026" href="$db/de9/struct_r_t_s_engine_1_1_entities_1_1_faction_entity_requirement.html" title=" " alt="" coords="2030,1959,2222,2077"/>
+<area shape="poly" id="edge27_Node000021_Node000026" title=" " alt="" coords="2144,2077,2166,2191,2174,2264,2177,2342,2174,2423,2162,2504,2138,2583,2122,2620,2102,2655,2075,2691,2043,2722,2008,2749,1971,2773,1892,2810,1816,2836,1815,2831,1890,2805,1968,2768,2005,2745,2040,2718,2071,2687,2097,2653,2117,2618,2133,2581,2157,2503,2169,2423,2172,2342,2169,2264,2161,2192,2139,2078"/>
+<area shape="rect" id="Node000027" href="$d9/de6/struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html" title=" " alt="" coords="1975,1143,2125,1262"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="2062,1261,2091,1478,2113,1733,2125,1942,2120,1942,2107,1733,2086,1479,2057,1262"/>
+<area shape="rect" id="Node000029" href="$d5/d0a/struct_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer_1_1_segment_snap_data.html" title=" " alt="" coords="1847,2539,2098,2654"/>
+<area shape="poly" id="edge32_Node000029_Node000027" title=" " alt="" coords="2032,1262,2003,1363,1979,1479,1963,1629,1953,1782,1949,1934,1949,2081,1957,2339,1969,2523,1964,2523,1952,2340,1944,2081,1944,1934,1948,1782,1958,1628,1974,1478,1998,1361,2027,1261"/>
+<area shape="poly" id="edge29_Node000001_Node000028" title=" " alt="" coords="1732,3299,1668,3346,1585,3399,1502,3448,1499,3443,1582,3394,1664,3342,1729,3294"/>
+<area shape="poly" id="edge31_Node000001_Node000029" title=" " alt="" coords="1992,2653,2023,2787,2035,2874,2042,2969,2040,3067,2026,3165,2014,3213,1997,3259,1976,3304,1949,3346,1921,3373,1879,3397,1826,3420,1766,3441,1632,3476,1503,3503,1502,3498,1631,3471,1764,3436,1825,3415,1877,3393,1918,3368,1945,3342,1971,3301,1992,3257,2008,3211,2021,3164,2035,3066,2037,2969,2030,2875,2017,2788,1987,2654"/>
+<area shape="poly" id="edge33_Node000001_Node000030" title=" " alt="" coords="1040,3332,1053,3342,1128,3395,1204,3443,1202,3447,1125,3399,1050,3346,1037,3336"/>
+<area shape="rect" id="Node000031" href="$d6/dd6/interface_r_t_s_engine_1_1_entities_1_1_i_building.html" title=" " alt="" coords="866,2746,1050,2978"/>
+<area shape="poly" id="edge35_Node000030_Node000031" title=" " alt="" coords="954,2978,946,3095,941,3095,948,2978"/>
+<area shape="rect" id="Node000032" href="$d5/d4f/interface_r_t_s_engine_1_1_entities_1_1_i_faction_entity.html" title=" " alt="" coords="941,1879,1109,2157"/>
+<area shape="poly" id="edge36_Node000031_Node000032" title=" " alt="" coords="1015,2171,970,2747,964,2746,1010,2170"/>
+<area shape="poly" id="edge37_Node000032_Node000033" title=" " alt="" coords="1039,1469,1030,1880,1025,1880,1034,1469"/>
+<area shape="rect" id="Node000034" title=" " alt="" coords="965,698,1119,771"/>
+<area shape="poly" id="edge39_Node000033_Node000034" title=" " alt="" coords="1045,786,1045,951,1039,951,1039,786"/>
+</map>

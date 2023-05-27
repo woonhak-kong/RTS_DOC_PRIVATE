@@ -1,0 +1,23 @@
+<map id="AddCode" name="AddCode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="774,158,863,187"/>
+<area shape="rect" id="Node000002" href="$d0/d86/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#a2f3b8390ed6fd73a114e5e2cba6fb745" title=" " alt="" coords="411,5,711,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="796,149,764,116,725,85,700,73,702,68,727,81,768,112,800,145"/>
+<area shape="rect" id="Node000004" href="$df/dda/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager.html#a0ee1ceb1a467f9844252e182c63c6491" title=" " alt="" coords="424,95,698,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="759,165,698,154,699,149,760,159"/>
+<area shape="rect" id="Node000006" href="$db/d37/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html#ad2147e9c0616eeba974f6436dad607d8" title=" " alt="" coords="404,184,718,249"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="760,185,719,192,718,187,759,180"/>
+<area shape="rect" id="Node000009" href="$db/dad/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html#ac1aba020bf0ddb45ebaccf55a8625b14" title=" " alt="" coords="396,297,726,362"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="797,200,766,232,727,263,657,299,655,294,725,258,762,228,794,196"/>
+<area shape="rect" id="Node000003" href="$d0/d86/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#a534c6da30f10b5cfdb0529d3d4168ec3" title="Called after all INPCComponent instances have been cached and initialized by the INPCManager instance..." alt="" coords="41,14,312,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,40,313,40,313,35,396,35"/>
+<area shape="rect" id="Node000005" href="$df/dda/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager.html#a534c6da30f10b5cfdb0529d3d4168ec3" title="Called after all INPCComponent instances have been cached and initialized by the INPCManager instance..." alt="" coords="32,94,321,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="409,126,322,124,322,119,409,121"/>
+<area shape="rect" id="Node000007" href="$db/d37/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="35,165,318,212"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="388,206,318,201,318,196,389,201"/>
+<area shape="rect" id="Node000008" href="$db/d37/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html#a30d8ad62047e95132edf459b2aabb5d2" title="Called when the INPCManager instance first initializes the INPCComponent instance." alt="" coords="35,236,318,282"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="389,238,318,246,318,241,389,233"/>
+<area shape="rect" id="Node000010" href="$db/dad/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="5,306,348,353"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="381,332,348,332,348,327,381,327"/>
+<area shape="rect" id="Node000011" href="$db/dad/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html#a30d8ad62047e95132edf459b2aabb5d2" title="Called when the INPCManager instance first initializes the INPCComponent instance." alt="" coords="19,377,334,424"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="382,365,308,379,307,374,381,360"/>
+</map>

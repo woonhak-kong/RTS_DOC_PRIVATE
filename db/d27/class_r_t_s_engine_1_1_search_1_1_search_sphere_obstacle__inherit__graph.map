@@ -1,0 +1,11 @@
+<map id="SearchSphereObstacle" name="SearchSphereObstacle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,293,340,593"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,149,127,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,233,131,293,126,295,91,236"/>
+<area shape="rect" id="Node000003" href="$d9/d76/interface_r_t_s_engine_1_1_search_1_1_i_search_obstacle.html" title=" " alt="" coords="151,127,279,245"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,260,218,294,213,294,213,260"/>
+<area shape="rect" id="Node000004" href="$d7/d9a/interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="304,149,465,223"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="356,236,316,295,312,292,351,233"/>
+<area shape="rect" id="Node000005" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="320,5,449,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="387,93,387,150,382,150,382,93"/>
+</map>

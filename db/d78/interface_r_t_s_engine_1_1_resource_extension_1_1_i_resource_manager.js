@@ -1,0 +1,26 @@
+var interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager =
+[
+    [ "CreateResource", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a7b5b268a7535c0db76cd75c42275c95f", null ],
+    [ "CreateResourceLocal", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a752ba765111e38af06ccd0bd4e1cdcf6", null ],
+    [ "HasResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a2481ca99d23d70d0e59b8b6e3e793b0d", null ],
+    [ "HasResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#ac98c7dd4256c1bb75f40f64d8345229f", null ],
+    [ "HasResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#ae68ab848563b348a1a7fa1efd6efa5b4", null ],
+    [ "HasResourceTypeReachedLimitCapacity", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a94a43e338703bceb9d9806efc93dbd48", null ],
+    [ "IsResourceTypeValidInGame", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a6f011d40aaeb4e20fae98da93005d018", null ],
+    [ "IsResourceTypeValidInGame", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a3b54bcd263609c79df0a179d42a9e5fc", null ],
+    [ "IsResourceTypeValidInGame", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a378f7214661a5e67e1fe512e483e58a9", null ],
+    [ "ReleaseResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a5fb64515b43947ff01e81bf02624f1e7", null ],
+    [ "SetReserveResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a57069efb88e89ce8d3974633d6ea2fa9", null ],
+    [ "SetReserveResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#acbbb514a3273ca36135cdb99007d3966", null ],
+    [ "SetResource", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a1b91535555b0206331089978ddbd472c", null ],
+    [ "SetResource", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a7097e51fe263003c85900c475c8605ec", null ],
+    [ "TryGetResourceTypeWithKey", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a42fd24af2a40fbbb53ca1cb44e978e65", null ],
+    [ "UpdateReserveResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a1e415273a1cc15ebdb85429472e10693", null ],
+    [ "UpdateReserveResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a7886b2b582b081dde4cac4885ac9469d", null ],
+    [ "UpdateResource", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#af7f3b342f60b783116fedaa2308c1269", null ],
+    [ "UpdateResource", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#af1cdd23a0be5715783f60b5ec9b6b806", null ],
+    [ "UpdateResource", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#ab09aee3a4e91498ae7435f7ac9274f13", null ],
+    [ "AllResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a0c20225d6b8a9b4a7748eec50617e3a6", null ],
+    [ "FactionResources", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a7016a65ef53f306914cd9c3310a5e687", null ],
+    [ "MapResourceTypes", "db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#aa96aed1b6e3712c677b3583fb7e7469a", null ]
+];

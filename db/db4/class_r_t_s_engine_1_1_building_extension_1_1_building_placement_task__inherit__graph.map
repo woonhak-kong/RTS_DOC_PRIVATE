@@ -1,0 +1,5 @@
+<map id="BuildingPlacementTask" name="BuildingPlacementTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,285,216,699"/>
+<area shape="rect" id="Node000002" href="$d2/ddf/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_task.html" title=" " alt="" coords="5,5,216,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,251,113,285,108,285,108,251"/>
+</map>

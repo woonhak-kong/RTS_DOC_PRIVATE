@@ -1,0 +1,19 @@
+<map id="TooltipUIHandler" name="TooltipUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="126,988,339,1152"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,758,127,831"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,842,140,921,182,987,177,990,136,923,90,845"/>
+<area shape="rect" id="Node000003" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="151,758,315,831"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,845,235,989,230,989,230,845"/>
+<area shape="rect" id="Node000004" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="177,428,289,501"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="235,516,235,758,230,758,230,516"/>
+<area shape="rect" id="Node000005" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="49,96,208,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="150,201,224,427,219,429,145,203"/>
+<area shape="rect" id="Node000006" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="233,5,441,279"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="291,293,247,429,242,427,286,291"/>
+<area shape="rect" id="Node000007" href="$df/dec/class_r_t_s_engine_1_1_u_i_1_1_utilities_1_1_text_message.html" title=" " alt="" coords="339,667,526,922"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="342,924,304,976,300,973,338,920"/>
+<area shape="rect" id="Node000008" href="$d4/db5/interface_r_t_s_engine_1_1_u_i_1_1_utilities_1_1_i_text_message.html" title=" " alt="" coords="345,394,454,535"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="410,549,423,667,417,668,405,550"/>
+<area shape="rect" id="Node000009" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="478,328,686,601"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="523,602,500,653,495,651,518,600"/>
+</map>

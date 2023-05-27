@@ -1,0 +1,9 @@
+<map id="OnBuildingPlacementRequest" name="OnBuildingPlacementRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="686,54,915,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a62638141d22059ca37e0e843c6590a2a" title=" " alt="" coords="346,36,638,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="671,71,638,71,638,66,671,66"/>
+<area shape="rect" id="Node000003" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="10,5,293,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,52,293,48,293,43,331,47"/>
+<area shape="rect" id="Node000004" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a6d1d2134007f2df1703dc03fc069840e" title=" " alt="" coords="5,76,298,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="331,90,298,94,298,89,331,85"/>
+</map>

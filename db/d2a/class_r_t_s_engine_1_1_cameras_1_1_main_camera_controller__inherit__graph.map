@@ -1,0 +1,17 @@
+<map id="MainCameraController" name="MainCameraController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,1016,305,1565"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,793,127,866"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,879,112,1015,107,1017,75,880"/>
+<area shape="rect" id="Node000003" href="$de/dbf/interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_controller.html" title=" " alt="" coords="151,691,413,968"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,982,241,1017,236,1015,244,981"/>
+<area shape="rect" id="Node000004" href="$df/d39/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_priority_service.html" title=" " alt="" coords="175,569,389,643"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="285,657,285,691,279,691,279,657"/>
+<area shape="rect" id="Node000005" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="200,448,364,521"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="285,536,285,570,279,570,279,536"/>
+<area shape="rect" id="Node000006" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="226,327,338,400"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="285,414,285,448,279,448,279,414"/>
+<area shape="rect" id="Node000007" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="99,96,257,188"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="208,200,268,326,263,328,203,202"/>
+<area shape="rect" id="Node000008" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="282,5,490,279"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="318,292,301,328,296,326,313,290"/>
+</map>

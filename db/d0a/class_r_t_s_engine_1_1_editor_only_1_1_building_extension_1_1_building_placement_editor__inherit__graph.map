@@ -1,0 +1,5 @@
+<map id="BuildingPlacementEditor" name="BuildingPlacementEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,236,256,423"/>
+<area shape="rect" id="Node000002" href="$db/db2/class_r_t_s_engine_1_1_editor_only_1_1_tabs_editor_base.html" title=" " alt="" coords="33,5,229,188"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,202,133,236,128,236,128,202"/>
+</map>

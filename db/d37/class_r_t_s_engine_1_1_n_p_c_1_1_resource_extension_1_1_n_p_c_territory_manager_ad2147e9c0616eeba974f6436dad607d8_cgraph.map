@@ -1,0 +1,7 @@
+<map id="HandleFirstBuildingCenterInitialized" name="HandleFirstBuildingCenterInitialized">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,210,101"/>
+<area shape="rect" id="Node000002" href="$df/d8d/interface_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_i_n_p_c_building_creator.html#a2abf616fe320c8e2a1b52a3986348f59" title=" " alt="" coords="260,5,543,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,61,245,56,245,62,211,66"/>
+<area shape="rect" id="Node000003" href="$db/d88/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_active_regulator_monitor.html#a79684c0f385f100f14acc86cacd15b80" title=" " alt="" coords="258,94,545,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,89,244,93,243,99,210,94"/>
+</map>

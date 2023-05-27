@@ -1,0 +1,7 @@
+<map id="OnIncreaseCapacityRequest" name="OnIncreaseCapacityRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,226,92"/>
+<area shape="rect" id="Node000002" href="$df/d8d/interface_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_i_n_p_c_building_creator.html#a6d1d2134007f2df1703dc03fc069840e" title=" " alt="" coords="274,5,569,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,61,258,56,259,62,227,66"/>
+<area shape="rect" id="Node000003" href="$dc/d29/interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#af8b38bf3129e38d1b73998e72a0d4fd2" title=" " alt="" coords="274,94,569,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,89,259,94,258,99,226,95"/>
+</map>
