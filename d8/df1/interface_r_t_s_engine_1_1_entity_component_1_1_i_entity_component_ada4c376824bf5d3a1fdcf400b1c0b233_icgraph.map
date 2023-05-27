@@ -1,0 +1,9 @@
+<map id="HandleComponentUpgrade" name="HandleComponentUpgrade">
+<area shape="rect" id="Node000001" title=" " alt="" coords="795,14,1008,43"/>
+<area shape="rect" id="Node000002" href="$dc/d4e/class_r_t_s_engine_1_1_entities_1_1_entity.html#a843550635df59d721239b815be7fc700" title=" " alt="" coords="544,5,747,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="781,31,748,31,748,26,781,26"/>
+<area shape="rect" id="Node000003" href="$dc/d4e/class_r_t_s_engine_1_1_entities_1_1_entity.html#af713873db13b86c2ae3fd6ff8649744f" title=" " alt="" coords="276,5,496,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,31,496,31,496,26,529,26"/>
+<area shape="rect" id="Node000004" href="$dc/d4e/class_r_t_s_engine_1_1_entities_1_1_entity.html#a986f3d85839928aa120e3593f0a4f872" title=" " alt="" coords="5,14,228,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,31,228,31,228,26,261,26"/>
+</map>

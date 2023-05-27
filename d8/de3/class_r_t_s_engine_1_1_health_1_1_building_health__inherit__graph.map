@@ -1,0 +1,26 @@
+<map id="BuildingHealth" name="BuildingHealth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="214,2436,445,3076"/>
+<area shape="rect" id="Node000002" href="$d7/d5e/class_r_t_s_engine_1_1_health_1_1_faction_entity_health.html" title=" " alt="" coords="224,2020,435,2388"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,2402,332,2436,327,2436,327,2402"/>
+<area shape="rect" id="Node000003" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html" title=" " alt="" coords="221,901,467,1972"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,1986,336,2020,330,2020,331,1986"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="234,553,355,627"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,641,315,901,310,902,295,641"/>
+<area shape="rect" id="Node000005" href="$d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html" title=" " alt="" coords="29,327,197,853"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="202,867,212,901,224,944,219,945,207,902,197,868"/>
+<area shape="rect" id="Node000009" href="$dd/d87/interface_r_t_s_engine_1_1_health_1_1_i_faction_entity_health.html" title=" " alt="" coords="5,1366,197,1507"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="112,867,105,1366,100,1366,107,867"/>
+<area shape="rect" id="Node000006" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="9,5,217,279"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="116,293,116,327,111,327,111,293"/>
+<area shape="rect" id="Node000007" href="$d7/dae/interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="380,553,535,627"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="453,641,418,902,413,901,448,640"/>
+<area shape="rect" id="Node000008" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="450,105,579,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="511,193,465,554,459,553,506,192"/>
+<area shape="rect" id="Node000011" href="$d7/d9a/interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="491,1400,653,1473"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="528,192,540,256,549,326,562,488,571,653,580,970,579,1234,576,1400,570,1400,574,1234,574,970,566,653,557,488,544,327,535,257,523,193"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="114,1521,127,1615,147,1728,175,1851,212,1971,231,2019,226,2021,207,1973,170,1852,142,1730,122,1616,108,1522"/>
+<area shape="rect" id="Node000010" href="$d7/d1d/interface_r_t_s_engine_1_1_health_1_1_i_building_health.html" title=" " alt="" coords="70,2156,186,2252"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="107,1522,129,2156,124,2156,102,1522"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="152,2264,217,2439,212,2441,147,2266"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="571,1487,559,1640,535,1864,499,2124,476,2258,449,2389,438,2437,432,2436,444,2387,471,2257,494,2123,530,1863,553,1640,566,1487"/>
+</map>

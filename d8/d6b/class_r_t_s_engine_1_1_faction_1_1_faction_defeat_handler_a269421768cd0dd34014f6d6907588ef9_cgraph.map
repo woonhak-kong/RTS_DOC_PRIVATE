@@ -1,0 +1,9 @@
+<map id="Init" name="Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,46,74"/>
+<area shape="rect" id="Node000002" href="$d8/d6b/class_r_t_s_engine_1_1_faction_1_1_faction_defeat_handler.html#a8ab1d90b3b9a3250383a08ededd4959a" title=" " alt="" coords="94,36,308,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,57,79,57,79,62,46,62"/>
+<area shape="rect" id="Node000003" href="$d6/d3a/class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html#a78ee3a5a62e6bb8ed3e416ef07b20276" title=" " alt="" coords="356,5,601,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="308,45,341,41,342,46,309,50"/>
+<area shape="rect" id="Node000004" href="$d8/d6b/class_r_t_s_engine_1_1_faction_1_1_faction_defeat_handler.html#ad0b69d029688d2354872f1ef271a6384" title=" " alt="" coords="372,76,585,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="309,69,358,74,357,79,308,74"/>
+</map>

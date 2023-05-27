@@ -1,0 +1,9 @@
+<map id="OnInit" name="OnInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,66,79"/>
+<area shape="rect" id="Node000002" href="$d8/d49/class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_manager.html#ae9f9f0bf49f902109af6699fce3ca7e1" title=" " alt="" coords="114,50,243,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,62,98,62,98,67,66,67"/>
+<area shape="rect" id="Node000003" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html#a34897eac13eec9d010e88a424e65b11c" title=" " alt="" coords="303,5,524,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,52,287,45,288,51,244,57"/>
+<area shape="rect" id="Node000004" href="$df/d91/interface_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_i_local_lobby_faction_slot.html#a2ec8da30c9e90fcd2bef4edabb270c53" title=" " alt="" coords="291,76,535,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,72,276,76,276,82,243,77"/>
+</map>

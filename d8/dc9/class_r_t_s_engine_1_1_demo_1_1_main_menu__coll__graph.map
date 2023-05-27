@@ -1,0 +1,7 @@
+<map id="MainMenu" name="MainMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="59,213,236,422"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,39,127,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,125,115,212,110,214,80,127"/>
+<area shape="rect" id="Node000003" href="$d5/d5a/class_r_t_s_engine_1_1_scene_1_1_scene_loader.html" title=" " alt="" coords="151,5,307,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,147,191,197,186,196,203,146"/>
+</map>

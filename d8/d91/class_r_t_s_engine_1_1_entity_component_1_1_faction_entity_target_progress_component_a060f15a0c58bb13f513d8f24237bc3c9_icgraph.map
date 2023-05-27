@@ -1,0 +1,18 @@
+<map id="ToggleSourceTargetEffect" name="ToggleSourceTargetEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="754,32,958,61"/>
+<area shape="rect" id="Node000002" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#a0a5020ef5650ecea65ce12350faee8fe" title=" " alt="" coords="478,5,706,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="738,37,706,34,707,29,739,32"/>
+<area shape="rect" id="Node000007" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#a4e4c71b1c451c0d8eefee35e3c5e8a7d" title=" " alt="" coords="481,59,703,87"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="739,61,704,64,703,59,738,56"/>
+<area shape="rect" id="Node000003" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#abc04dcc838487be226200f4d622c7209" title=" " alt="" coords="291,5,430,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,22,431,22,431,17,463,17"/>
+<area shape="rect" id="Node000004" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#abb79ef2b8455509b21b5e4d924a338fa" title=" " alt="" coords="147,5,222,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,22,222,22,222,17,276,17"/>
+<area shape="rect" id="Node000005" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#af9d0044d92fc30540e870087a24296e4" title=" " alt="" coords="126,59,243,87"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="297,41,235,61,233,56,296,36"/>
+<area shape="rect" id="Node000006" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,59,78,87"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="111,76,78,76,78,70,111,70"/>
+<area shape="rect" id="Node000008" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#a6bf809300cb87a9861c2ac0f329f6953" title=" " alt="" coords="294,59,428,87"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="466,76,428,76,428,70,466,70"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="279,76,243,76,243,70,279,70"/>
+</map>

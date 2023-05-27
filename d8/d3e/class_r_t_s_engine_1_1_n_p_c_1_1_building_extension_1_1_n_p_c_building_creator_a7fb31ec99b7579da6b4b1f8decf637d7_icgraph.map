@@ -1,0 +1,9 @@
+<map id="DestroyBuildingCenterRegulator" name="DestroyBuildingCenterRegulator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,32,686,61"/>
+<area shape="rect" id="Node000002" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#af15f0285302f3b23ebdf77c893ae71a3" title=" " alt="" coords="167,32,393,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,49,393,49,393,44,426,44"/>
+<area shape="rect" id="Node000003" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="5,5,119,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="152,33,119,29,119,24,153,28"/>
+<area shape="rect" id="Node000004" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a534c6da30f10b5cfdb0529d3d4168ec3" title="Called after all INPCComponent instances have been cached and initialized by the INPCManager instance..." alt="" coords="16,59,108,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="153,65,109,70,108,65,152,59"/>
+</map>

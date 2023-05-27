@@ -1,0 +1,12 @@
+<map id="Disable" name="Disable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,81,61"/>
+<area shape="rect" id="Node000002" href="$d8/dc6/class_r_t_s_engine_1_1_u_i_1_1_faction_slot_stats_u_i_handler.html#a840367e896e1e74a7649a4239234657a" title=" " alt="" coords="144,5,364,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,39,129,33,130,38,81,44"/>
+<area shape="rect" id="Node000005" href="$d8/dc6/class_r_t_s_engine_1_1_u_i_1_1_faction_slot_stats_u_i_handler.html#af9b5db351f3e4c60a81fa1de5f353416" title=" " alt="" coords="129,59,379,87"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="81,48,122,54,121,59,81,54"/>
+<area shape="rect" id="Node000003" href="$d8/dc6/class_r_t_s_engine_1_1_u_i_1_1_faction_slot_stats_u_i_handler.html#aca101d8e2ec56817acea1f42e12aea08" title=" " alt="" coords="427,32,535,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,30,413,36,412,41,363,35"/>
+<area shape="rect" id="Node000004" href="$d2/d23/interface_r_t_s_engine_1_1_u_i_1_1_i_game_u_i_text_display_manager.html#a927e6defaf6a2f61d4f9783c444c8d78" title=" " alt="" coords="583,14,820,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="536,44,568,44,568,49,536,49"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="379,56,412,52,413,57,380,61"/>
+</map>

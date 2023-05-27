@@ -1,0 +1,18 @@
+<map id="OnCreateBuildingRequest" name="OnCreateBuildingRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,209,104"/>
+<area shape="rect" id="Node000002" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a25c2c625e0e5b0b9a36429a040fdf2b9" title=" " alt="" coords="264,5,502,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,72,260,53,261,58,175,78"/>
+<area shape="rect" id="Node000003" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="585,37,843,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,82,569,65,570,70,209,88"/>
+<area shape="rect" id="Node000004" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a62638141d22059ca37e0e843c6590a2a" title=" " alt="" coords="257,157,509,186"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,102,318,150,317,155,158,107"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="412,154,477,123,556,93,579,86,581,91,558,98,479,128,415,159"/>
+<area shape="rect" id="Node000005" href="$dc/d29/interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#af1ef9dc6c908b881d5c0ed1bd43dea7b" title=" " alt="" coords="562,108,866,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="507,154,546,149,547,154,507,159"/>
+<area shape="rect" id="Node000006" href="$d0/df9/interface_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_i_n_p_c_building_constructor.html#af5f16a87a5f2fb5689d397ac24c7d740" title=" " alt="" coords="574,179,853,244"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="507,184,560,190,559,195,507,189"/>
+<area shape="rect" id="Node000007" href="$db/df9/interface_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_i_n_p_c_building_placer.html#aac1b8b6e15183ee028c4bbaad1f3f49b" title=" " alt="" coords="557,268,870,333"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="412,184,478,217,558,253,580,261,578,266,556,258,475,222,410,189"/>
+<area shape="rect" id="Node000008" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#acdea566083bf9007a9fc133fe486d370" title=" " alt="" coords="606,357,822,404"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="396,185,421,218,459,261,505,305,558,342,592,357,590,362,556,347,502,309,455,264,417,221,392,188"/>
+</map>

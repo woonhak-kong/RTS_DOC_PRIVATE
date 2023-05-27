@@ -1,0 +1,10 @@
+<map id="AddBuildingCenterRegulator" name="AddBuildingCenterRegulator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,226,119"/>
+<area shape="rect" id="Node000002" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a0d8b7c8a11475b22b92429acf316f416" title=" " alt="" coords="303,29,503,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,87,273,66,309,59,310,64,274,72,181,93"/>
+<area shape="rect" id="Node000003" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="274,82,532,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="226,102,259,102,259,108,226,108"/>
+<area shape="rect" id="Node000004" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a0c2f7ccce49917d19cdd094eaf46cd8e" title=" " alt="" coords="305,152,501,199"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="178,117,292,146,291,151,177,123"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="354,30,346,20,353,11,372,5,403,3,437,5,455,12,453,17,436,11,403,8,373,10,356,15,352,20,358,27"/>
+</map>

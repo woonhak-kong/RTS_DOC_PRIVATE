@@ -1,0 +1,7 @@
+<map id="OnStartLobbyInterrupt" name="OnStartLobbyInterrupt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,178,79"/>
+<area shape="rect" id="Node000002" href="$df/dd6/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_faction_slot.html#a4c9f328cecd99d8000bf610f71d0e237" title=" " alt="" coords="231,5,481,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,50,215,45,216,50,179,56"/>
+<area shape="rect" id="Node000003" href="$dd/d95/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager_u_i.html#a4c9f328cecd99d8000bf610f71d0e237" title=" " alt="" coords="226,76,486,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,73,211,78,211,83,178,79"/>
+</map>

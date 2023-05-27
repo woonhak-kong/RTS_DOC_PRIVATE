@@ -1,0 +1,7 @@
+<map id="ShowSquadHealthUI" name="ShowSquadHealthUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,170,79"/>
+<area shape="rect" id="Node000002" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html#ac2f2e3fb5c58c04a445bac9a09da4e5b" title=" " alt="" coords="218,5,430,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,50,203,44,203,50,170,55"/>
+<area shape="rect" id="Node000003" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html#a7b067e0772a91a0c212c289441ac2cd5" title=" " alt="" coords="218,76,430,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,74,203,79,203,84,170,79"/>
+</map>

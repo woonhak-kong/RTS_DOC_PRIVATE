@@ -1,0 +1,9 @@
+<map id="OnInProgressDisabledEffects" name="OnInProgressDisabledEffects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,233,79"/>
+<area shape="rect" id="Node000002" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#a060f15a0c58bb13f513d8f24237bc3c9" title=" " alt="" coords="281,50,485,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,62,266,62,266,67,233,67"/>
+<area shape="rect" id="Node000003" href="$d9/dae/interface_r_t_s_engine_1_1_effect_1_1_i_effect_object.html#a6794acc3b70953521571143cbabdd275" title=" " alt="" coords="533,5,725,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,47,518,42,519,48,486,52"/>
+<area shape="rect" id="Node000004" href="$d9/dae/interface_r_t_s_engine_1_1_effect_1_1_i_effect_object.html#a8242863439e70c62b51a2d776cd8ace9" title=" " alt="" coords="533,76,725,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="486,76,519,81,518,86,485,82"/>
+</map>
