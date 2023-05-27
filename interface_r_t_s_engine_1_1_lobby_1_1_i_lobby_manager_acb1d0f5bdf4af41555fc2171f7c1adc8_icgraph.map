@@ -1,0 +1,16 @@
+<map id="GetMap" name="GetMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="998,68,1076,97"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#ac6d94757686448b2783d3ea35589ef51" title=" " alt="" coords="638,23,950,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="984,77,950,72,951,67,984,72"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#a401fe9aff1beb7683615377509903bc9" title=" " alt="" coords="647,94,941,140"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="984,93,942,99,941,93,983,87"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#a91aa2493b4e23c665a2294747c9e4e86" title=" " alt="" coords="313,49,590,113"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="624,66,591,70,590,64,623,61"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#a3103deaa259ae918cb76200ba40643d3" title=" " alt="" coords="13,92,257,139"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="673,23,591,12,499,8,405,16,358,26,314,40,299,48,290,59,281,71,266,82,239,94,237,89,263,78,277,67,286,55,296,44,312,35,357,20,404,11,499,3,592,7,674,17"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="299,101,258,105,257,100,298,95"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#ac54ce402cec4f1d67a1cef4db841d26d" title=" " alt="" coords="5,22,265,68"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="298,66,265,63,265,57,298,61"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="632,103,590,98,590,93,632,97"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="632,127,590,128,451,130,313,128,258,126,258,120,313,122,451,125,590,122,632,121"/>
+</map>

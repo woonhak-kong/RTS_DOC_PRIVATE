@@ -1,0 +1,10 @@
+<map id="HandleWorkerRemoved" name="HandleWorkerRemoved">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,194,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_health_1_1_building_health.html#a61d2d1d2651d162ebf0148a4588bc967" title=" " alt="" coords="242,5,460,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,34,226,30,227,35,194,39"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_health_1_1_building_health.html#a2d9b5db06b99a59ab3890e7924ad7586" title=" " alt="" coords="242,59,460,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,54,227,57,226,62,194,59"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_health_1_1_building_health.html#a3c078fa9ba6f69bb4b4f649d34cc1796" title=" " alt="" coords="508,32,650,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,30,494,34,493,39,460,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="460,58,493,54,494,59,461,63"/>
+</map>

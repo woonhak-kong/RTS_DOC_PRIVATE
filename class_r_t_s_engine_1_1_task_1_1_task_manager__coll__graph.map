@@ -1,0 +1,25 @@
+<map id="TaskManager" name="TaskManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="265,940,491,1393"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,718,127,791"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,802,140,872,203,956,268,1035,263,1039,199,959,136,876,91,805"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_task_1_1_i_task_manager.html" title=" " alt="" coords="151,635,373,874"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="302,887,317,940,312,941,297,889"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="180,473,344,547"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,561,265,636,259,636,259,561"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="206,328,318,401"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="265,415,265,474,259,474,259,415"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="79,96,237,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="188,200,248,327,243,329,183,202"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="262,5,470,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="298,293,281,329,276,327,294,290"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_task_1_1_entity_component_awaiting_task.html" title=" " alt="" coords="397,661,623,848"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="483,849,458,925,453,923,478,847"/>
+<area shape="rect" id="Node000009" href="$struct_r_t_s_engine_1_1_task_1_1_task_cursor_data.html" title=" " alt="" coords="446,451,574,569"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="513,569,513,644,507,644,507,569"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="647,661,786,848"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="656,849,636,876,504,1032,500,1029,632,872,652,846"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="612,473,821,547"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="719,561,719,662,714,662,714,561"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="652,328,781,401"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="719,415,719,474,714,474,714,415"/>
+</map>

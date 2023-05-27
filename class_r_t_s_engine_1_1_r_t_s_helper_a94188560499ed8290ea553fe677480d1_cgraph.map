@@ -1,0 +1,7 @@
+<map id="InitFactionEntities" name="InitFactionEntities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,150,74"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_manager.html#a1e9d0a6c6266bd5fc9f603ceeafdb051" title=" " alt="" coords="198,5,462,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,48,183,44,183,49,150,53"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#ada26455412e24932d773a702e4bae90c" title=" " alt="" coords="310,76,350,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,65,295,83,295,89,150,71"/>
+</map>

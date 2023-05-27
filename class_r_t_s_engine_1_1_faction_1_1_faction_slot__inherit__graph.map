@@ -1,0 +1,5 @@
+<map id="FactionSlot" name="FactionSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,331,256,857"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_faction_1_1_i_faction_slot.html" title=" " alt="" coords="28,5,233,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,297,133,331,128,331,128,297"/>
+</map>

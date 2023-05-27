@@ -1,0 +1,16 @@
+<map id="LobbyAudioManager" name="LobbyAudioManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="193,1363,352,1436"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html" title=" " alt="" coords="34,539,282,1315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,1328,267,1362,261,1363,253,1329"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,281,127,355"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,368,102,538,97,539,71,369"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_audio_1_1_i_audio_manager.html" title=" " alt="" coords="151,145,399,491"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="242,505,235,539,230,538,237,504"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_lobby_1_1_audio_1_1_i_lobby_audio_manager.html" title=" " alt="" coords="307,890,468,963"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="312,504,384,890,378,891,307,505"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="378,978,297,1315,284,1363,279,1362,291,1314,373,977"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_lobby_1_1_service_1_1_i_lobby_service.html" title=" " alt="" coords="423,281,535,355"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="474,369,395,890,390,890,469,368"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="392,5,567,97"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="482,111,482,282,477,282,477,111"/>
+</map>

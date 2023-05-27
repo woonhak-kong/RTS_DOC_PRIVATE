@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,165,143,194"/>
+<area shape="rect" id="Node000001" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator_data.html" title=" " alt="" coords="221,59,378,87"/>
+<area shape="poly" id="edge698_Node000000_Node000001" title=" " alt="" coords="118,156,266,85,268,90,120,161"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="191,245,408,274"/>
+<area shape="poly" id="edge701_Node000000_Node000004" title=" " alt="" coords="131,197,257,242,256,247,130,202"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator_data.html" title=" " alt="" coords="464,5,676,34"/>
+<area shape="poly" id="edge699_Node000001_Node000002" title=" " alt="" coords="390,53,493,32,494,37,391,58"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_regulator_data.html" title=" " alt="" coords="479,59,662,87"/>
+<area shape="poly" id="edge700_Node000001_Node000003" title=" " alt="" coords="392,70,478,70,478,76,392,76"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="518,112,623,141"/>
+<area shape="poly" id="edge702_Node000004_Node000005" title=" " alt="" coords="327,234,384,191,455,151,516,132,518,137,457,155,387,195,330,238"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_faction_1_1_faction_type_info.html" title=" " alt="" coords="505,165,636,194"/>
+<area shape="poly" id="edge703_Node000004_Node000006" title=" " alt="" coords="353,237,455,204,503,191,505,196,457,209,355,242"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_movement_1_1_movement_formation_type.html" title=" " alt="" coords="471,219,669,247"/>
+<area shape="poly" id="edge704_Node000004_Node000007" title=" " alt="" coords="423,245,470,240,471,245,423,250"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_type.html" title=" " alt="" coords="526,272,615,301"/>
+<area shape="poly" id="edge705_Node000004_Node000008" title=" " alt="" coords="423,269,525,279,525,285,423,274"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_resource_extension_1_1_resource_type_info.html" title=" " alt="" coords="497,325,643,354"/>
+<area shape="poly" id="edge706_Node000004_Node000009" title=" " alt="" coords="355,277,457,310,501,322,500,327,455,316,353,282"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_terrain_1_1_terrain_area_type.html" title=" " alt="" coords="501,379,639,407"/>
+<area shape="poly" id="edge707_Node000004_Node000010" title=" " alt="" coords="330,282,387,324,457,364,502,379,500,384,455,369,384,328,327,286"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_u_i_1_1_entity_component_task_u_i_asset.html" title=" " alt="" coords="456,432,684,461"/>
+<area shape="poly" id="edge708_Node000004_Node000011" title=" " alt="" coords="321,284,377,352,415,388,457,417,484,429,481,434,455,422,411,392,373,356,317,288"/>
+</map>

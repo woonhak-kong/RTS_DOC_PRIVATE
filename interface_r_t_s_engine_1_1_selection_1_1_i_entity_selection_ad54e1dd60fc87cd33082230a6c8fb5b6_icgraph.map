@@ -1,0 +1,7 @@
+<map id="IsSelectionCollider" name="IsSelectionCollider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,50,438,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#acff9d685fff96c7038a9bab324551813" title=" " alt="" coords="5,5,239,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,54,239,49,239,44,272,49"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#a60b32e83e938754f7c10383f48b6f276" title=" " alt="" coords="5,76,239,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,80,239,85,239,80,272,75"/>
+</map>

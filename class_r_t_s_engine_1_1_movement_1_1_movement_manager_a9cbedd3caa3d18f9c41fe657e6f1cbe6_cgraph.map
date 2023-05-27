@@ -1,0 +1,7 @@
+<map id="IsPositionClear" name="IsPositionClear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,133,74"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_search_1_1_i_grid_search_handler.html#a9e8fa94ecd04cc569406bddff597fe93" title=" " alt="" coords="181,5,423,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,48,165,44,166,49,134,54"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#aa46d11fb1734d341877723be2984882d" title=" " alt="" coords="210,76,394,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,65,195,73,195,79,133,70"/>
+</map>

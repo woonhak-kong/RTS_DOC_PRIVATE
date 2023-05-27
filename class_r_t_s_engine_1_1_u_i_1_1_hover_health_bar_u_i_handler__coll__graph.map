@@ -1,0 +1,24 @@
+<map id="HoverHealthBarUIHandler" name="HoverHealthBarUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,1234,385,1647"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_object_pool.html" title=" " alt="" coords="5,827,223,1168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,1181,195,1233,190,1235,172,1182"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="179,729,343,803"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,817,263,1234,258,1234,258,817"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="205,328,317,401"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,415,263,730,258,730,258,415"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="117,96,276,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="216,201,253,328,248,329,211,202"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="301,5,509,279"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="311,292,286,330,281,327,306,289"/>
+<area shape="rect" id="Node000010" href="$interface_r_t_s_engine_1_1_utilities_1_1_i_poolable_object.html" title=" " alt="" coords="343,328,466,401"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="407,293,407,328,402,328,402,293"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html" title=" " alt="" coords="298,859,522,1136"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="366,1137,338,1218,333,1217,361,1135"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_utilities_1_1_poolable_object.html" title=" " alt="" coords="300,462,515,694"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="411,708,412,859,406,859,405,708"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="491,328,612,401"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="521,415,488,464,483,461,517,412"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="408,416,409,462,403,462,403,416"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html" title=" " alt="" coords="539,451,726,705"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="568,706,494,845,489,842,563,704"/>
+</map>

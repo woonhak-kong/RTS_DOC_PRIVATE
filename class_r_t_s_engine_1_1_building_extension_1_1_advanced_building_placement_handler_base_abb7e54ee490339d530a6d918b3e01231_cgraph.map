@@ -1,0 +1,9 @@
+<map id="OnSegmentationUpdate" name="OnSegmentationUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,195,141"/>
+<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_building_extension_1_1_building_placement_grid_data.html#aaed5348159c2fb631fa0fa506c324293" title=" " alt="" coords="251,5,509,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,110,262,72,264,77,149,115"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_building_extension_1_1_building_placement_grid_data.html#a3621f0ee2641b6e4b009d11dac7f45b5" title=" " alt="" coords="251,95,509,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,124,236,124,236,130,195,130"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placer.html#a5b0b3777b2fee779b1059d6b35459909" title=" " alt="" coords="243,184,517,230"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,139,243,168,273,177,271,182,242,174,147,145"/>
+</map>

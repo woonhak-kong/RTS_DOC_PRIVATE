@@ -1,0 +1,7 @@
+<map id="CreateUnit" name="CreateUnit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="343,50,439,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_creator.html#a342a83f48527e86a970689cd7c67a253" title=" " alt="" coords="5,5,295,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,58,295,53,296,48,329,53"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_faction_1_1_initial_faction_entities_spawner.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="45,76,255,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,76,256,87,255,82,328,71"/>
+</map>

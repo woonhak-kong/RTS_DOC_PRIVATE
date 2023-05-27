@@ -1,0 +1,5 @@
+<map id="OnStartLobby" name="OnStartLobby">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,5,268,34"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_lobby_1_1_lobby_manager_base.html#ab215d192503279b0b9d54137871b2a4f" title=" " alt="" coords="5,5,103,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,22,103,22,103,17,136,17"/>
+</map>

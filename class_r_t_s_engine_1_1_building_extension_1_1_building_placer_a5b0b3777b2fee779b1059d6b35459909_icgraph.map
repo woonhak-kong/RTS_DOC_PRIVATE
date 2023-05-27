@@ -1,0 +1,10 @@
+<map id="OnPlacementUpdate" name="OnPlacementUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,59,386,87"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="340,46,327,40,303,37,281,39,269,44,265,49,270,57,266,59,260,50,265,40,280,34,303,32,328,35,342,41"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#ac073bb422a43f1f2e2752e70f55f3f77" title=" " alt="" coords="5,5,172,34"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="227,57,149,37,150,32,229,52"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#acff9d685fff96c7038a9bab324551813" title=" " alt="" coords="24,59,153,87"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="204,76,153,76,153,70,204,70"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#a60b32e83e938754f7c10383f48b6f276" title=" " alt="" coords="30,112,147,141"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="228,94,148,114,147,109,227,89"/>
+</map>

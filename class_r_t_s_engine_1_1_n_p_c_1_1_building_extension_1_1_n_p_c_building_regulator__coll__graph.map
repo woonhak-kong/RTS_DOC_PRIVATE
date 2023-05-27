@@ -1,0 +1,15 @@
+<map id="NPCBuildingRegulator" name="NPCBuildingRegulator">
+<area shape="rect" id="Node000001" title="Regulates the creation of a building type for a NPC faction." alt="" coords="27,2019,295,2289"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html" title=" " alt="" coords="5,1208,273,1953"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,1968,158,2019,153,2020,151,1968"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entities_1_1_i_building.html" title=" " alt="" coords="298,1465,482,1697"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="369,1697,335,1823,313,1890,287,1954,261,2006,256,2004,282,1952,308,1888,330,1821,364,1696"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_faction_entity.html" title=" " alt="" coords="306,881,474,1159"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="393,1173,393,1465,387,1465,387,1173"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="260,328,520,832"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="393,847,393,882,387,882,387,847"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="183,5,391,279"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="325,292,334,328,328,329,320,293"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="416,105,569,179"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="484,193,452,329,446,328,478,192"/>
+</map>

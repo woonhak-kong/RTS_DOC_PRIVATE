@@ -1,0 +1,16 @@
+<map id="IUnitCarrier" name="IUnitCarrier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,796,342,1073"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html" title=" " alt="" coords="117,1121,342,2347"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="232,1088,232,1122,227,1122,227,1088"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="5,448,229,748"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,761,186,796,181,797,169,762"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="229,127,437,400"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,413,216,450,212,447,235,410"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_addable_unit.html" title=" " alt="" coords="254,516,429,680"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="340,414,342,516,337,516,334,414"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="37,227,198,300"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="120,314,120,448,115,448,115,314"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="53,5,182,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="120,93,120,227,115,227,115,93"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="312,694,278,797,273,795,307,693"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="FactionEntityDependantHitEffectData" name="FactionEntityDependantHitEffectData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,1113,427,1205"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html" title=" " alt="" coords="5,951,199,1047"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,1044,251,1101,248,1105,167,1049"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_entity_target_picker_base.html" title=" " alt="" coords="9,689,187,781"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,795,104,951,99,951,96,795"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_utilities_1_1_game_object_to_effect_object_input.html" title=" " alt="" coords="225,953,429,1045"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,1045,330,1096,325,1096,325,1045"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_utilities_1_1_game_object_to_component_input.html" title=" " alt="" coords="211,666,443,803"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="330,817,330,953,325,953,325,817"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_audio_1_1_audio_clip_fetcher.html" title="Allows to define a set of AudioClip instances and retrieve one of them depending on the chosen type." alt="" coords="481,951,616,1047"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="485,1049,405,1105,402,1101,482,1044"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html" title=" " alt="" coords="468,630,629,839"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="551,854,551,951,546,951,546,854"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_determinism_1_1_global_time_modified_timer.html" title=" " alt="" coords="653,585,887,885"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="656,875,601,940,597,937,651,872"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html" title=" " alt="" coords="632,264,801,519"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="741,532,749,585,744,585,736,533"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="826,343,949,439"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="874,440,829,570,824,568,869,438"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="826,5,949,215"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="890,228,890,343,885,343,885,228"/>
+</map>

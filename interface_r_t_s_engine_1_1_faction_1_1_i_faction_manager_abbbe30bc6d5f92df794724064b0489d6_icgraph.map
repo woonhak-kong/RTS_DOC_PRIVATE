@@ -1,0 +1,7 @@
+<map id="Init" name="Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="528,14,568,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_faction_1_1_faction_slot.html#ad3f8b715e2ba50aa458903c3907c39e6" title=" " alt="" coords="267,5,480,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="513,31,480,31,480,26,513,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_faction_1_1_faction_slot.html#a3bc9c3a5f8fded29fa5367366096c4c5" title=" " alt="" coords="5,5,219,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,31,219,31,219,26,251,26"/>
+</map>

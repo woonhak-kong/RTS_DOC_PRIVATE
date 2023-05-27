@@ -1,0 +1,14 @@
+<map id="UpdateStats" name="UpdateStats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="427,59,535,87"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_slot_stats_u_i_handler.html#a840367e896e1e74a7649a4239234657a" title=" " alt="" coords="144,59,364,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,76,364,76,364,70,412,70"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_slot_stats_u_i_handler.html#a01f1070c46e4cc24d25a0ea0869bc972" title=" " alt="" coords="13,59,73,87"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="420,94,379,102,309,111,254,114,198,111,128,102,73,87,74,82,129,97,199,106,254,109,309,105,379,97,419,89"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_slot_stats_u_i_handler.html#af9b5db351f3e4c60a81fa1de5f353416" title=" " alt="" coords="129,5,379,34"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="412,57,378,49,327,37,328,32,380,44,413,52"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_slot_stats_u_i_handler.html#a1f8be84feac6d2e2b44e604854725f81" title=" " alt="" coords="5,5,81,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,57,128,49,80,35,82,30,129,44,164,52"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="129,76,74,76,74,70,129,70"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="114,22,81,22,81,17,114,17"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="164,40,129,49,75,65,73,60,128,44,163,35"/>
+</map>

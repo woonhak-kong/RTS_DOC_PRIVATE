@@ -1,0 +1,9 @@
+<map id="HandleBorderResourceAddedGlobal" name="HandleBorderResourceAddedGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,238,101"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_manager.html#aba1ac77dbf2912422bfec7c17f90d9b9" title=" " alt="" coords="286,63,451,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,75,271,75,271,80,238,80"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_resource_collector.html#a92965854ed3621d81f411f5ccf04b39d" title=" " alt="" coords="499,5,804,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,63,484,59,485,64,452,69"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="523,94,781,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="452,87,509,95,508,100,451,92"/>
+</map>

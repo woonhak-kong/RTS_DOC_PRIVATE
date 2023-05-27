@@ -1,0 +1,7 @@
+<map id="CreateUnitLocal" name="CreateUnitLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="604,14,738,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_upgrades_1_1_entity_upgrade_manager.html#a3e419244ac7a0a41096bb1e3ab442709" title=" " alt="" coords="290,5,556,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="589,31,556,31,556,26,589,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_upgrades_1_1_entity_upgrade_manager.html#af1589d6e91f5386913232423e6ba2642" title=" " alt="" coords="5,5,242,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,31,242,31,242,26,275,26"/>
+</map>

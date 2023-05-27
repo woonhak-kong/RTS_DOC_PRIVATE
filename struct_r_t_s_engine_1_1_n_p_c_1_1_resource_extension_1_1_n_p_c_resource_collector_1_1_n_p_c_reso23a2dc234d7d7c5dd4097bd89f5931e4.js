@@ -1,0 +1,6 @@
+var struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector_1_1_n_p_c_reso23a2dc234d7d7c5dd4097bd89f5931e4 =
+[
+    [ "collectorsAmount", "struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector_1_1_n_p_c_reso23a2dc234d7d7c5dd4097bd89f5931e4.html#a7bca7c87f49edd6417e0bc044108d4af", null ],
+    [ "resourceType", "struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector_1_1_n_p_c_reso23a2dc234d7d7c5dd4097bd89f5931e4.html#ab6fd599b0f17f57519b6f04a1a0b3844", null ],
+    [ "targetResources", "struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector_1_1_n_p_c_reso23a2dc234d7d7c5dd4097bd89f5931e4.html#a5eeac585ca9e46eb6170e298540d4f75", null ]
+];

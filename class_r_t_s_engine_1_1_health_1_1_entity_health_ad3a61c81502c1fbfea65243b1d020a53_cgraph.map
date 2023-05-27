@@ -1,0 +1,9 @@
+<map id="DestroyCoroutine" name="DestroyCoroutine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,149,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_health_1_1_entity_health.html#a6c821c05270060afda2c579bebd0f592" title=" " alt="" coords="197,50,272,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,62,182,62,182,67,149,67"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="320,5,553,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,55,305,49,306,55,273,61"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#a380b4a9b28b93b6e2ed73cfecddca5bd" title=" " alt="" coords="320,76,553,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="273,68,306,74,305,79,272,74"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TryAddSearchObstacle" name="TryAddSearchObstacle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="382,14,565,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_search_1_1_grid_search_handler.html#ae02a50a2e491976909278611a0186917" title=" " alt="" coords="94,5,334,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="367,31,334,31,334,26,367,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_search_1_1_grid_search_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,14,46,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,31,46,31,46,26,79,26"/>
+</map>

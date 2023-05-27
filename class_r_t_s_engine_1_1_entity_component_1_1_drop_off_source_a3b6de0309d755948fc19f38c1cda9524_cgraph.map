@@ -1,0 +1,13 @@
+<map id="Unload" name="Unload">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,76,141"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#aff13a911b85bc5a4b172fc0d58cef335" title=" " alt="" coords="130,5,393,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,110,80,76,100,59,122,44,137,37,139,42,125,49,103,63,84,80,54,114"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#aca6f6f90140b891c9a969ab9a25e4a7a" title=" " alt="" coords="154,59,369,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="75,112,123,97,160,88,161,94,124,102,77,117"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#a38a2fa1511e2a112a78c1570156e17f1" title=" " alt="" coords="169,112,354,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="76,124,154,124,154,129,76,129"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a7e1a08d24ecafc753e08337c5c93c581" title=" " alt="" coords="131,165,392,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="77,135,124,150,145,157,144,162,123,156,75,140"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#af7f3b342f60b783116fedaa2308c1269" title=" " alt="" coords="124,254,399,300"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="51,140,78,189,100,216,125,239,133,244,131,249,122,243,96,220,74,192,46,142"/>
+</map>

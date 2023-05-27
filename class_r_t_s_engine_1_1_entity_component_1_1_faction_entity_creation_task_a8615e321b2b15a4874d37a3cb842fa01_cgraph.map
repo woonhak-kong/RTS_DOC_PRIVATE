@@ -1,0 +1,7 @@
+<map id="CanComplete" name="CanComplete">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,124,79"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_manager.html#a1e9d0a6c6266bd5fc9f603ceeafdb051" title=" " alt="" coords="172,5,436,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,53,157,48,157,53,124,58"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_faction_1_1_i_faction_manager.html#a0fe7ebbb262dbd199414a4ac6911b61e" title=" " alt="" coords="196,76,412,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,71,181,79,180,84,123,76"/>
+</map>

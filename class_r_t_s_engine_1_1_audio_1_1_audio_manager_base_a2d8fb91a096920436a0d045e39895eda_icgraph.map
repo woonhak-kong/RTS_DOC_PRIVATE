@@ -1,0 +1,9 @@
+<map id="PlayMusic" name="PlayMusic">
+<area shape="rect" id="Node000001" title="Starts playing the music loops." alt="" coords="419,50,511,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a7089be27c6f25883fc13b7b3df06900a" title=" " alt="" coords="294,50,371,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,67,371,67,371,62,404,62"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_audio_1_1_game_audio_manager.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="8,5,243,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,58,243,52,244,47,279,53"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_lobby_1_1_audio_1_1_lobby_audio_manager.html#a13e8bb380e7f50580dbcdc898ece0236" title=" " alt="" coords="5,76,246,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="279,76,247,82,246,76,278,71"/>
+</map>

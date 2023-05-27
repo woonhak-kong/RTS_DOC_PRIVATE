@@ -1,0 +1,20 @@
+<map id="OnGUI" name="OnGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,188,73,216"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_editor_only_1_1_entities_1_1_entity_category_input_drawer.html#afc954ee21cc2ae1e5c2dffb5b22b41d6" title=" " alt="" coords="121,188,179,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,199,106,199,106,205,73,205"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_editor_helper.html#a8b7375024d8a28509c5630e6ec51c598" title=" " alt="" coords="227,117,481,164"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,191,259,166,261,171,180,196"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_editor_helper.html#a1051ef7bf2394e30128520aea3183675" title=" " alt="" coords="887,128,1141,175"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="179,198,872,157,872,162,179,203"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_editor_helper.html#a58e3f4ad32dbf752b59ae1055bda6580" title=" " alt="" coords="227,240,481,287"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="180,208,261,233,259,238,179,213"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_editor_helper.html#ac58c66f67c9cee886b44af2a3c31b695" title=" " alt="" coords="529,67,839,113"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,118,514,113,515,119,482,124"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_editor_helper.html#a8e53a0c799b4ca20b72dc17e2cad9450" title=" " alt="" coords="887,5,1141,52"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="813,63,872,52,873,58,814,69"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="814,111,873,122,872,128,813,117"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="886,152,496,146,496,140,886,147"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_editor_helper.html#a38f86a52e217971d561504946a45fcce" title=" " alt="" coords="1189,97,1443,144"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1141,136,1174,132,1175,138,1142,141"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="1188,117,854,101,854,96,1188,112"/>
+</map>

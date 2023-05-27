@@ -1,0 +1,5 @@
+var struct_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator_1_1_n_p_c_buildifef306ef660508bb20c679c1e692405e =
+[
+    [ "buildings", "struct_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator_1_1_n_p_c_buildifef306ef660508bb20c679c1e692405e.html#ad583f603b0fdd74086bb188d80c36d1f", null ],
+    [ "center", "struct_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator_1_1_n_p_c_buildifef306ef660508bb20c679c1e692405e.html#a7bdb5b2682482f73679657607739a6c0", null ]
+];

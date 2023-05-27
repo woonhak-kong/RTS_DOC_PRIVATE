@@ -1,0 +1,18 @@
+<map id="OnAudioDataUpdated" name="OnAudioDataUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="792,59,969,87"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a49381496f82d00d2eba1bddb7c039bde" title="Updates the volume of the music loops." alt="" coords="578,32,744,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="778,63,744,59,745,54,778,58"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a8d6c405e3b67d2b0259b4697a3d7ab9e" title="Updates the volume of the local SFX AudioSource instances (coming from units, buildings,..." alt="" coords="583,85,740,114"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="778,88,741,93,740,87,778,83"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a7089be27c6f25883fc13b7b3df06900a" title=" " alt="" coords="373,59,451,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="563,59,451,72,450,66,563,54"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#abb6e28433f86b340117054d51fee4a95" title="Called when the music&#39;s volume slider&#39;s value is updated." alt="" coords="294,5,530,34"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="563,39,530,35,531,30,563,33"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_audio_1_1_game_audio_manager.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="8,15,243,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="358,69,243,55,244,50,359,64"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_lobby_1_1_audio_1_1_lobby_audio_manager.html#a13e8bb380e7f50580dbcdc898ece0236" title=" " alt="" coords="5,86,246,132"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="359,82,246,97,245,91,358,77"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="568,92,451,80,451,74,568,87"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#ada989b48eda91cce0ffe4f7648129349" title="Called when the local and global SFX volume slider&#39;s value is updated." alt="" coords="298,112,526,141"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="568,112,526,117,526,111,567,107"/>
+</map>

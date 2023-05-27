@@ -1,0 +1,25 @@
+<map id="HandleTargetFactionSlotStateUpdated" name="HandleTargetFactionSlotStateUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="882,131,1113,178"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#ade0979f29f25f8d6c0bc856593115695" title="Stops the NPC faction from attacking and resets its targets." alt="" coords="719,113,834,142"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="867,150,834,145,834,140,867,145"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a6233a72bab3684a38f37edca959579e8" title="Pick the target faction from the available active factions." alt="" coords="477,164,619,193"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="867,164,620,177,619,172,867,159"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a5b5c78c30d1b5f8f6517906626268e6b" title="Directly assign a target faction slot." alt="" coords="477,217,619,246"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="867,179,620,222,619,217,866,174"/>
+<area shape="poly" id="edge5_Node000002_Node000001" title=" " alt="" coords="849,125,881,129,881,134,848,130"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a58394a4c1f5a711e09e1f8988303aa98" title=" " alt="" coords="425,59,671,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="704,113,610,91,612,85,706,108"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#add97cb272e313c30c700835aef5555dc" title=" " alt="" coords="193,112,373,141"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="704,130,373,129,373,124,704,125"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="705,146,617,166,615,161,704,141"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="751,154,715,182,672,207,620,224,619,219,670,203,712,178,747,150"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="226,5,340,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="458,58,339,34,341,28,459,53"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a534c6da30f10b5cfdb0529d3d4168ec3" title="Called after all INPCComponent instances have been cached and initialized by the INPCManager instance..." alt="" coords="237,59,329,87"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="410,76,329,76,329,70,410,70"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,139,141,167"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="179,142,142,147,141,142,178,137"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a61452b2dbdffcde6e029aab4214abdef" title=" " alt="" coords="189,165,377,194"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="462,181,378,182,377,177,462,176"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="174,168,141,164,141,159,174,163"/>
+</map>

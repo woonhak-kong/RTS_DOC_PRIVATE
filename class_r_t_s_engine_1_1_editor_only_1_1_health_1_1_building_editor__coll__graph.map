@@ -1,0 +1,5 @@
+<map id="BuildingEditor" name="BuildingEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,259,237,355"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_editor_only_1_1_health_1_1_entity_health_editor.html" title=" " alt="" coords="5,5,237,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,225,124,259,119,259,119,225"/>
+</map>

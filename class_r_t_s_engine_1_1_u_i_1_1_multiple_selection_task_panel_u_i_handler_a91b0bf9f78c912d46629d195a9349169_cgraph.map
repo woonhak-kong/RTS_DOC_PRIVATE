@@ -1,0 +1,12 @@
+<map id="HandleUnitSquadSelectionUpdate" name="HandleUnitSquadSelectionUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,214,70"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_multiple_selection_task_panel_u_i_handler.html#a130bc36524c72ad408ecd7338f1e0070" title=" " alt="" coords="370,5,424,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,34,355,21,355,26,214,39"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_multiple_selection_task_panel_u_i_handler.html#ace79e5f49885e486e8e1d48ff0666476" title=" " alt="" coords="262,57,322,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,58,247,63,246,68,214,64"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="321,55,355,37,358,42,324,59"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_multiple_selection_task_panel_u_i_handler.html#ad53d1996cedb0f0c338455e622cfec1b" title=" " alt="" coords="372,59,422,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="322,69,357,70,357,75,322,75"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html#a37d1ea833e3c8b695835e1e87feed923" title=" " alt="" coords="472,41,727,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,70,457,70,457,76,423,76"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="MainCameraZoomHandlerBase" name="MainCameraZoomHandlerBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="270,639,510,1506"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,398,127,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,483,273,835,268,838,88,485"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_zoom_handler.html" title=" " alt="" coords="151,353,352,517"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,530,298,639,293,640,269,531"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_control_handler.html" title=" " alt="" coords="146,128,357,247"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="254,261,254,353,249,353,249,261"/>
+<area shape="rect" id="Node000005" href="$struct_r_t_s_engine_1_1_utilities_1_1_smooth_speed.html" title=" " alt="" coords="377,387,497,483"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="436,482,426,622,420,622,431,482"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_terrain_1_1_terrain_area_type.html" title=" " alt="" coords="521,296,661,573"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="550,574,518,677,513,676,545,572"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="487,151,696,224"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="594,238,594,296,589,296,589,238"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="527,5,656,79"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="594,93,594,151,589,151,589,93"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="RaiseAttackDamageDealt" name="RaiseAttackDamageDealt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="969,14,1173,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a0dd9cc162a49395739fba688ced86a7e" title=" " alt="" coords="867,14,921,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="954,31,921,31,921,26,954,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a5f80ca2e0cd8c3f5023a427983acf1e8" title=" " alt="" coords="594,14,665,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="852,30,819,30,713,30,666,31,666,25,713,25,819,25,852,25"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#ae46ee737a55c988a3a30409f741eae8e" title=" " alt="" coords="713,40,819,68"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="853,39,820,46,819,41,852,34"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_attack_1_1_attack_object.html#a50842c72303ec8316d3ddcbc750122f2" title=" " alt="" coords="300,5,546,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="579,31,547,31,547,26,579,26"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_attack_1_1_attack_object.html#acff9d685fff96c7038a9bab324551813" title=" " alt="" coords="5,5,252,52"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="285,31,252,31,252,26,285,26"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="698,44,665,38,666,33,699,39"/>
+</map>

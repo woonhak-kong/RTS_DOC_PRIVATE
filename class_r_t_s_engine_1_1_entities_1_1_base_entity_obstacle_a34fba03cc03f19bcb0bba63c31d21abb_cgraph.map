@@ -1,0 +1,9 @@
+<map id="OnEntityPreInit" name="OnEntityPreInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,129,95"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_base_entity_obstacle.html#afb4e6d8e6b6369f0abdcff108097b381" title=" " alt="" coords="247,5,333,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,63,176,42,232,29,234,34,177,48,111,69"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#ae921eb90b8b14d59ae5e2ab06f926707" title=" " alt="" coords="177,58,403,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,78,162,78,162,84,129,84"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entities_1_1_base_entity_obstacle.html#a05f5340e636cbd550d5f948357ecba46" title=" " alt="" coords="246,128,334,157"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,93,177,113,232,127,230,132,176,118,112,98"/>
+</map>

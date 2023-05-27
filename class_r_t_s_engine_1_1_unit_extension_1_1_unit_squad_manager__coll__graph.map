@@ -1,0 +1,22 @@
+<map id="UnitSquadManager" name="UnitSquadManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="270,853,474,1289"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="61,691,182,764"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,774,272,929,268,933,154,777"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_unit_squad_manager.html" title=" " alt="" coords="207,668,364,787"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,800,320,852,314,854,301,801"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_post_run_game_service.html" title=" " alt="" coords="5,451,176,524"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,533,240,667,236,670,127,537"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="193,328,305,401"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,412,139,453,136,449,190,408"/>
+<area shape="rect" id="Node000009" href="$interface_r_t_s_engine_1_1_save_1_1_game_1_1_service_1_1_i_savable_game_service.html" title=" " alt="" coords="319,548,489,644"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="319,393,354,417,384,449,395,473,403,498,409,548,403,548,398,499,391,475,379,452,351,421,316,397"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="66,96,225,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="175,200,235,327,230,329,170,202"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="249,5,457,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="286,293,268,329,264,327,281,290"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_game_1_1_i_optional_game_service.html" title=" " alt="" coords="201,451,370,524"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="288,538,288,668,283,668,283,538"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="403,658,389,853,384,853,397,658"/>
+<area shape="rect" id="Node000010" href="$struct_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager_1_1_default_unit_squad_element.html" title=" " alt="" coords="439,681,641,773"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="520,774,484,848,479,846,516,772"/>
+</map>

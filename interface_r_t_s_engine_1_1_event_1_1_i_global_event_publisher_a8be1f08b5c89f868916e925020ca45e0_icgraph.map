@@ -1,0 +1,21 @@
+<map id="RaiseBuildingBuiltGlobal" name="RaiseBuildingBuiltGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1432,116,1625,144"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#a25acd480fc654746cf93a7c99c2ff7c5" title=" " alt="" coords="1111,107,1384,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1417,133,1385,133,1385,127,1417,127"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#aa9778387bbab9ee0f2e1c13ce62bd699" title=" " alt="" coords="841,107,1063,153"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1096,133,1063,133,1063,127,1096,127"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#a1191ec7a8cbddc2b6e9bb652b78e930d" title=" " alt="" coords="563,71,793,117"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="826,125,793,121,793,115,827,120"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#a36b1732dd46461df42a413e10bed6858" title=" " alt="" coords="568,141,789,188"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="827,158,789,162,789,157,826,152"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="809,99,841,104,840,109,808,105"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#ac99f25c8ef36c56fa13b462671ea8b9e" title=" " alt="" coords="284,5,506,52"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="559,69,498,55,500,50,561,64"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#a991137bc2929256b71655de7a9f39100" title=" " alt="" coords="284,76,506,123"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="548,99,506,100,506,95,548,94"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="803,137,840,133,841,138,804,142"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#af4e5fcb1760d83c83336450da855ba6c" title=" " alt="" coords="275,150,515,179"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="553,167,516,167,516,162,553,162"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#a31ceee1c99d457d1811b3e9a58a996f1" title=" " alt="" coords="5,141,227,188"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="260,167,227,167,227,162,260,162"/>
+</map>

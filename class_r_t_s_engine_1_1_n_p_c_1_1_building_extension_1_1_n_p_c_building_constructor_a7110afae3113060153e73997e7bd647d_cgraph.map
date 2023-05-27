@@ -1,0 +1,11 @@
+<map id="OnBuildingEnterConstruction" name="OnBuildingEnterConstruction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,227,74"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#a1c548e185a4b644fe65ae56682a01035" title=" " alt="" coords="275,67,488,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,70,260,73,260,79,227,75"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#a1ac558186ff8bef5dcbe52f8c3fab813" title=" " alt="" coords="536,5,757,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,63,528,53,529,59,486,69"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="536,38,242,55,241,49,535,32"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#abaf9e452b46fccae457797862391abcc" title=" " alt="" coords="805,45,1016,74"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="758,39,791,43,790,48,757,44"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="805,68,503,86,503,80,805,63"/>
+</map>

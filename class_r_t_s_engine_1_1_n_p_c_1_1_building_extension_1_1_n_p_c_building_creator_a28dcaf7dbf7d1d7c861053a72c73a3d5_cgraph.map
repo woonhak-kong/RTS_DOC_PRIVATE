@@ -1,0 +1,7 @@
+<map id="DestroyAllActiveRegulators" name="DestroyAllActiveRegulators">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,216,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a74d97905ea06d923ccc1ee31ed594fbd" title=" " alt="" coords="270,5,516,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,49,255,44,255,49,216,54"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="264,76,522,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,75,249,79,248,84,216,80"/>
+</map>

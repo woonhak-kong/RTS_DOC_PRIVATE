@@ -1,0 +1,7 @@
+<map id="NPCUnitRegulatorData" name="NPCUnitRegulatorData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,588,198,684"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator_data.html" title=" " alt="" coords="5,127,216,540"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,554,113,588,108,588,108,554"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="46,5,175,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,93,113,127,108,127,108,93"/>
+</map>

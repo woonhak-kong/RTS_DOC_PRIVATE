@@ -1,0 +1,16 @@
+<map id="RaiseBorderResourceAddedGlobal" name="RaiseBorderResourceAddedGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="920,85,1145,132"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_border.html#ab7ee2534d28d154d2e4a7f2cb90de13c" title="Adds a Resource instance to the border list if it belongs to it." alt="" coords="639,85,872,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="906,111,873,111,873,106,906,106"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_border.html#a4ca4fb5326df8b06e6a7234727f74b48" title=" " alt="" coords="287,76,591,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="624,111,591,111,591,106,624,106"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_building_extension_1_1_border.html#aadf64e4ad96ad2b072f674f74a7870eb" title=" " alt="" coords="5,85,239,132"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="668,139,591,155,506,165,439,169,372,165,286,155,196,135,197,130,287,150,372,160,439,163,506,160,591,150,667,134"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_building_extension_1_1_border.html#a6aa51ea7c7aafa8f41ec68252de38254" title=" " alt="" coords="295,5,583,52"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="652,83,590,67,541,55,543,50,592,62,654,78"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_border.html#a0b0a8402327309e2554c218967e472fe" title=" " alt="" coords="5,11,239,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="284,75,223,61,225,55,285,70"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="272,111,239,111,239,106,272,106"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="280,34,239,35,239,29,280,29"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="322,59,287,67,211,87,210,82,286,62,321,53"/>
+</map>

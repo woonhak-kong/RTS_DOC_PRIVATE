@@ -1,0 +1,17 @@
+<map id="AddFactionEntity" name="AddFactionEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="925,32,1065,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#a759104be6f9c1a5c4c849f9227bb1449" title=" " alt="" coords="771,5,877,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="910,36,877,31,878,25,911,31"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#a29b116163f0d27d84f747e2cc50c4962" title=" " alt="" coords="785,59,863,87"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="911,62,863,70,863,64,910,57"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#a9b8199c539dda4ad40dc139a5a1a04f8" title=" " alt="" coords="511,23,723,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="756,31,724,35,723,30,756,26"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#a0b0a8402327309e2554c218967e472fe" title=" " alt="" coords="388,5,463,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="496,32,464,28,464,22,497,27"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#abbbe30bc6d5f92df794724064b0489d6" title=" " alt="" coords="5,32,46,61"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="496,49,46,49,46,44,496,44"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#a238236921d2f77c3f3e63add0371c52a" title=" " alt="" coords="94,5,340,34"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,22,340,22,340,17,373,17"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="96,39,46,46,46,41,95,34"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="770,69,723,63,724,57,771,64"/>
+</map>

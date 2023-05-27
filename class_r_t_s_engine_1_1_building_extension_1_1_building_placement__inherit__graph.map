@@ -1,0 +1,15 @@
+<map id="BuildingPlacement" name="BuildingPlacement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,981,283,1663"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,715,127,788"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,801,108,981,103,982,72,802"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement.html" title=" " alt="" coords="151,569,375,933"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,948,226,982,221,981,227,947"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="181,448,345,521"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,535,266,569,261,569,261,535"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="207,327,319,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="266,414,266,448,261,448,261,414"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="80,96,239,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="189,200,249,326,244,328,184,202"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="263,5,471,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="299,292,282,328,278,326,295,290"/>
+</map>

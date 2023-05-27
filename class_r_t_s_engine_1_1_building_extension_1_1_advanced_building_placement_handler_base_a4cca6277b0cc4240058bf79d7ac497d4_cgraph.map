@@ -1,0 +1,21 @@
+<map id="RevertSnappedInstance" name="RevertSnappedInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,275,193,304"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#a0ee561e74cb326e4d5a392079012b181" title=" " alt="" coords="241,275,379,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,287,226,287,226,292,193,292"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_building_extension_1_1_advanced_pending_placement_data.html#a8f7f9d9a17bd8dc8010f5dd90edfe2f8" title=" " alt="" coords="427,5,717,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,274,326,236,348,184,381,129,402,103,425,81,431,76,435,81,429,85,406,107,386,132,353,186,331,238,318,276"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_manager.html#a801dfac1c36a16a17148eb1325c078e4" title=" " alt="" coords="438,95,706,159"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="320,273,362,222,392,194,426,169,434,164,437,169,428,173,395,198,366,226,324,277"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#aaf09c1e2086b06db42786dc2d53e1edc" title=" " alt="" coords="528,183,616,212"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="330,273,373,246,426,221,470,208,513,201,514,206,471,213,428,225,376,250,333,277"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_task.html#add808b4d5f2a80991bebc15c85da630c" title=" " alt="" coords="450,236,695,282"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="379,279,435,272,436,278,380,284"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#abb98dd0b13f29ece5534ffebb2089dcb" title=" " alt="" coords="535,306,609,335"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="380,295,520,312,520,317,379,300"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#af935b34b8977f2aa603caee50c1d4b20" title=" " alt="" coords="442,359,703,423"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="339,302,428,345,445,351,443,356,426,349,337,307"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#ad0115f46c30e1bea9f66847cc89885ee" title=" " alt="" coords="481,447,664,476"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="321,303,336,332,360,367,391,403,428,433,467,449,465,454,426,437,387,407,356,370,332,334,316,306"/>
+<area shape="rect" id="Node000010" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html#a5a4be58268c72aa1dc70df7e1492cb61" title=" " alt="" coords="443,500,702,565"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="318,303,331,340,354,390,386,442,406,465,429,486,433,490,430,494,425,490,402,469,382,445,349,392,326,342,313,305"/>
+</map>

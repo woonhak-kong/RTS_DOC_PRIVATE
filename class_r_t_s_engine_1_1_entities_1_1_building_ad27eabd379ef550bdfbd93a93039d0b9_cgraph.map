@@ -1,0 +1,7 @@
+<map id="OnFactionUpdated" name="OnFactionUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,159,79"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_border.html#a0b0a8402327309e2554c218967e472fe" title=" " alt="" coords="207,5,440,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,51,192,46,192,51,159,56"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_border.html#aadf64e4ad96ad2b072f674f74a7870eb" title=" " alt="" coords="207,76,440,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,73,192,78,192,83,158,78"/>
+</map>

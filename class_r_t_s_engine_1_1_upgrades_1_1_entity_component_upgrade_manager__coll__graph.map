@@ -1,0 +1,15 @@
+<map id="EntityComponentUpgradeManager" name="EntityComponentUpgradeManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,781,304,1195"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,615,127,688"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,701,110,781,105,782,79,702"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_upgrades_1_1_i_entity_component_upgrade_manager.html" title=" " alt="" coords="151,569,408,733"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,748,241,782,236,781,247,746"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="197,448,361,521"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="282,536,282,569,277,569,277,536"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="223,327,335,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="282,414,282,448,277,448,277,414"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="96,96,255,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="205,200,265,326,260,328,200,202"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="279,5,487,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="315,292,298,328,294,326,311,290"/>
+</map>

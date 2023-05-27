@@ -1,0 +1,11 @@
+<map id="IsNPCFaction" name="IsNPCFaction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="588,85,706,114"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_determinism_1_1_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="303,5,534,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="589,82,539,66,504,55,505,50,541,61,591,77"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_determinism_1_1_input_manager.html#ae9fad90b3998afde68e7a0653f774de4" title=" " alt="" coords="303,76,534,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="573,102,534,102,534,97,573,97"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_task_1_1_pending_tasks_handler.html#ae80b387c718d3190007c8549becaaced" title=" " alt="" coords="297,147,540,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="588,121,541,137,501,149,500,144,539,131,587,116"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_task_1_1_pending_tasks_handler.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,147,249,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="282,173,249,173,249,167,282,167"/>
+</map>

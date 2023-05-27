@@ -1,0 +1,7 @@
+<map id="HandleBuildingDeadGlobal" name="HandleBuildingDeadGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,216,52"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#ade6eb6c4cbe714afc4fc54b8cb20b77a" title=" " alt="" coords="264,5,543,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,35,249,35,249,40,216,40"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#a7d498b13dc60fe7d0ba25025182d53fd" title=" " alt="" coords="591,14,870,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="543,35,576,35,576,40,543,40"/>
+</map>

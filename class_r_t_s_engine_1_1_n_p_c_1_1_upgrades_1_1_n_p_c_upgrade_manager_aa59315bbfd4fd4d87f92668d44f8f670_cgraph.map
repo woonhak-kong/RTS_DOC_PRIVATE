@@ -1,0 +1,9 @@
+<map id="OnUpgradeLaunchRequestInternal" name="OnUpgradeLaunchRequestInternal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,265,132"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_pending_task_entity_component.html#aade57004c1a0f4774262895d70625ce4" title=" " alt="" coords="330,5,620,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,100,320,71,321,76,200,105"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="346,94,604,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,115,331,115,331,120,265,120"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_resource_manager.html#a97f18c711069e436031ad106a55ff4fc" title=" " alt="" coords="313,165,637,230"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,130,321,159,320,164,199,135"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SetTargetLocal" name="SetTargetLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="317,62,445,91"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_attack_1_1_attack_manager.html#a6388419feadf041dc7a273433567e211" title=" " alt="" coords="5,5,269,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,64,258,55,259,50,303,59"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_attack_1_1_attack_manager.html#a7502ad3e04d884d295a59db1ca573e7e" title=" " alt="" coords="5,100,269,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,94,262,102,261,97,301,89"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="177,88,162,81,137,79,114,81,100,85,94,91,96,99,90,100,89,90,97,81,113,75,137,73,164,76,179,83"/>
+</map>

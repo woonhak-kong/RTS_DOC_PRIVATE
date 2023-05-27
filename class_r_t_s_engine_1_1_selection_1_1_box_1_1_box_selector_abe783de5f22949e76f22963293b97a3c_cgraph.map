@@ -1,0 +1,9 @@
+<map id="HandleBuildingPlacementStartGlobal" name="HandleBuildingPlacementStartGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,239,88"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_selection_1_1_box_1_1_box_selector.html#a0b0a8402327309e2554c218967e472fe" title=" " alt="" coords="287,50,362,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,62,272,62,272,67,239,67"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_u_i_1_1_i_game_u_i_manager.html#a531a9f602008d33e00dda29ab57aea01" title=" " alt="" coords="410,5,659,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,56,395,50,396,55,363,61"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_selection_1_1_i_selector.html#a9337367c51f1d0d964a666a81b1b6037" title=" " alt="" coords="415,76,654,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="363,68,401,75,400,80,362,73"/>
+</map>

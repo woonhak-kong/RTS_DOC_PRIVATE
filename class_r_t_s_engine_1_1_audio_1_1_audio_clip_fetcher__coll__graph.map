@@ -1,0 +1,13 @@
+<map id="AudioClipFetcher" name="AudioClipFetcher">
+<area shape="rect" id="Node000001" title="Allows to define a set of AudioClip instances and retrieve one of them depending on the chosen type." alt="" coords="40,951,175,1047"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html" title=" " alt="" coords="5,630,167,839"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,853,106,951,101,951,93,854"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_determinism_1_1_global_time_modified_timer.html" title=" " alt="" coords="191,585,424,885"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,886,155,939,151,936,191,883"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html" title=" " alt="" coords="169,264,339,519"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,532,287,585,281,585,273,533"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="363,343,486,439"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="411,440,367,570,362,568,406,438"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="363,5,486,215"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="427,228,427,343,422,343,422,228"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="PlayerErrorMessageWrapper" name="PlayerErrorMessageWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,916,321,1035"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="82,328,342,832"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,832,215,899,209,899,209,832"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="5,5,213,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,292,156,328,150,329,142,293"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="238,105,391,179"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="306,193,274,329,268,328,300,192"/>
+</map>

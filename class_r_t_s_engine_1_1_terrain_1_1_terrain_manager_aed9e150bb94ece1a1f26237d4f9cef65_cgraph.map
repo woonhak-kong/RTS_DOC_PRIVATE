@@ -1,0 +1,5 @@
+<map id="TerrainAreasToMask" name="TerrainAreasToMask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,174,43"/>
+<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_terrain_1_1_terrain_area_mask.html#add2ff4e00710c2bc350f5f18c48486c0" title=" " alt="" coords="222,5,429,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,26,206,26,206,31,174,31"/>
+</map>

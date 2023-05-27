@@ -1,0 +1,17 @@
+<map id="BuildingModelHeightModifier" name="BuildingModelHeightModifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,987,541,1283"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_demo_1_1_model_height_modifier_base.html" title=" " alt="" coords="187,467,406,903"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,917,378,987,373,988,355,918"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,228,127,301"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,313,142,400,190,487,185,490,137,403,89,315"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="151,228,306,301"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="239,315,264,467,259,468,234,316"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="164,5,293,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,93,231,228,226,228,226,93"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="330,128,538,401"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="388,416,370,468,365,467,383,414"/>
+<area shape="rect" id="Node000007" href="$struct_r_t_s_engine_1_1_demo_1_1_model_position_modifier_data.html" title=" " alt="" coords="520,637,724,733"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="603,734,492,973,487,971,598,732"/>
+<area shape="rect" id="Node000008" href="$struct_r_t_s_engine_1_1_determinism_1_1_time_modified_float.html" title=" " alt="" coords="563,217,727,313"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="645,312,628,621,623,620,639,312"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TriggerEffectAudio" name="TriggerEffectAudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,158,79"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_audio_1_1_i_game_audio_manager.html#abcb0aaf0710a42221dc8858d7a231c67" title=" " alt="" coords="206,5,443,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,51,191,46,191,51,159,56"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_effect_1_1_i_effect_object_pool.html#afcfbd9536a0e60dd0e33d310367ea66e" title=" " alt="" coords="228,76,421,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,73,214,81,213,86,158,78"/>
+</map>

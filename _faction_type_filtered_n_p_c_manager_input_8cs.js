@@ -1,0 +1,5 @@
+var _faction_type_filtered_n_p_c_manager_input_8cs =
+[
+    [ "FactionTypeFilteredNPCManagerInput", "class_r_t_s_engine_1_1_n_p_c_1_1_faction_type_filtered_n_p_c_manager_input.html", "class_r_t_s_engine_1_1_n_p_c_1_1_faction_type_filtered_n_p_c_manager_input" ],
+    [ "FactionTypeFilteredNPCManagerInput.ElementInput", "struct_r_t_s_engine_1_1_n_p_c_1_1_faction_type_filtered_n_p_c_manager_input_1_1_element_input.html", "struct_r_t_s_engine_1_1_n_p_c_1_1_faction_type_filtered_n_p_c_manager_input_1_1_element_input" ]
+];

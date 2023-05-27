@@ -1,0 +1,5 @@
+<map id="IsTerrainArea" name="IsTerrainArea">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,121,34"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_terrain_1_1_terrain_manager.html#a1e844027ab2df2bbb8e65ee8c6e27ef6" title=" " alt="" coords="169,5,284,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,17,154,17,154,22,121,22"/>
+</map>

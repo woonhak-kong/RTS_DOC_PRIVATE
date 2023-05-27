@@ -1,0 +1,7 @@
+<map id="RaiseTerritoryDefenseCancelled" name="RaiseTerritoryDefenseCancelled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="670,14,918,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_defense_manager.html#af7b5c4520b94cee95bc1b84204a6d5fc" title=" " alt="" coords="338,5,622,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="655,31,623,31,623,26,655,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_defense_manager.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,5,290,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,31,290,31,290,26,323,26"/>
+</map>

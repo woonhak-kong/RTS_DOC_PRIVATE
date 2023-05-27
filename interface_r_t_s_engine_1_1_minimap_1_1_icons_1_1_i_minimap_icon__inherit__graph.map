@@ -1,0 +1,12 @@
+<map id="IMinimapIcon" name="IMinimapIcon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,448,261,521"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon.html" title=" " alt="" coords="5,724,185,820"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="192,535,116,725,111,723,187,533"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_u_i_icon.html" title=" " alt="" coords="209,569,437,975"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="231,533,245,569,240,571,226,535"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_utilities_1_1_i_poolable_object.html" title=" " alt="" coords="197,327,319,400"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,414,226,449,221,447,235,412"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="105,5,313,279"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="186,293,184,346,187,400,199,448,194,449,182,400,178,347,180,293"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,292,253,326,247,327,240,293"/>
+</map>

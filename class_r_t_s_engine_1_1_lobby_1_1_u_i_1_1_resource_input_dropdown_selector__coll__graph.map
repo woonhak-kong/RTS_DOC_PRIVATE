@@ -1,0 +1,7 @@
+<map id="ResourceInputDropdownSelector" name="ResourceInputDropdownSelector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,526,391,622"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_lobby_1_1_u_i_1_1_dropdown_selector.html" title=" " alt="" coords="5,5,248,460"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,472,244,525,239,527,218,474"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_lobby_1_1_u_i_1_1_resource_input_dropdown_selector_1_1_option.html" title=" " alt="" coords="272,175,517,290"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="375,291,287,511,282,509,370,289"/>
+</map>

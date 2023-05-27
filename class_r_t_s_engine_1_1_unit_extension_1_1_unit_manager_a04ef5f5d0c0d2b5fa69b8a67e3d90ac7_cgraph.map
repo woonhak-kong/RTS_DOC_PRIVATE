@@ -1,0 +1,9 @@
+<map id="CreateUnitLocal" name="CreateUnitLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,140,104"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html#a34897eac13eec9d010e88a424e65b11c" title=" " alt="" coords="221,5,442,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,73,216,53,217,59,136,78"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entities_1_1_i_unit.html#a049847e5dceca00d60cde811564b7688" title=" " alt="" coords="224,76,439,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,87,209,87,209,93,140,93"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_unit_squad_manager.html#a545d2c243031853f6c0b98ac49d6e2b9" title=" " alt="" coords="188,128,475,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,102,217,121,216,127,135,107"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="OnPreInit" name="OnPreInit">
+<area shape="rect" id="Node000001" title="Called when the INPCManager instance first initializes the INPCComponent instance." alt="" coords="5,63,91,92"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html#ad2147e9c0616eeba974f6436dad607d8" title=" " alt="" coords="139,54,343,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,75,124,75,124,80,91,80"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_i_n_p_c_building_creator.html#a2abf616fe320c8e2a1b52a3986348f59" title=" " alt="" coords="393,5,676,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="343,61,378,56,379,62,344,66"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_active_regulator_monitor.html#a79684c0f385f100f14acc86cacd15b80" title=" " alt="" coords="391,94,678,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="344,89,377,93,376,99,343,94"/>
+</map>

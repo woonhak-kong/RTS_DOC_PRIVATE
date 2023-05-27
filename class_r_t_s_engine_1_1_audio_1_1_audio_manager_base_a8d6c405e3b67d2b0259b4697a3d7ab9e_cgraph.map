@@ -1,0 +1,5 @@
+<map id="UpdateSFXVolume" name="UpdateSFXVolume">
+<area shape="rect" id="Node000001" title="Updates the volume of the local SFX AudioSource instances (coming from units, buildings,..." alt="" coords="5,5,163,34"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a71eed4ed7a331c53e5d715d386a33ac4" title=" " alt="" coords="211,5,387,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,17,196,17,196,22,163,22"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Despawn" name="Despawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,93,104"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_object_pool.html#a3feacf416b81d1192a83e78361e174b3" title=" " alt="" coords="144,5,350,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,74,155,54,157,59,94,79"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#afee149cf822bd739452126a0c20319f3" title=" " alt="" coords="173,76,321,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,95,159,96,159,102,93,100"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#afd0afb47c214032b8a4d4f592ec495e4" title=" " alt="" coords="141,129,353,158"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="94,100,141,114,171,122,170,127,140,119,92,106"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="173,84,107,84,107,79,173,79"/>
+</map>

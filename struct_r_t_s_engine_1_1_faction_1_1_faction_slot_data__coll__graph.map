@@ -1,0 +1,14 @@
+<map id="FactionSlotData" name="FactionSlotData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="225,561,351,748"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_faction_1_1_faction_type_info.html" title=" " alt="" coords="321,309,444,495"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,496,331,547,326,545,345,494"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="278,149,487,222"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,236,385,309,380,309,380,236"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_type.html" title=" " alt="" coords="95,331,297,473"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="345,234,258,333,254,330,341,231"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="318,5,447,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="385,93,385,149,380,149,380,93"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="224,471,251,545,246,546,219,473"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_n_p_c_1_1_faction_type_filtered_n_p_c_manager_input.html" title=" " alt="" coords="5,128,253,243"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="149,242,172,314,167,316,144,243"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="MainCameraKeyboardPanningHandler" name="MainCameraKeyboardPanningHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="794,1373,1023,1487"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html" title=" " alt="" coords="264,648,516,1307"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="528,1302,530,1305,559,1328,591,1348,659,1379,729,1401,795,1415,794,1420,727,1406,657,1384,588,1353,556,1332,527,1309,524,1306"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,375,127,449"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,460,266,756,262,759,91,462"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_panning_handler.html" title=" " alt="" coords="151,296,368,528"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="292,541,316,648,311,649,287,543"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_control_handler.html" title=" " alt="" coords="154,128,365,247"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,261,262,296,257,296,257,261"/>
+<area shape="rect" id="Node000006" href="$struct_r_t_s_engine_1_1_utilities_1_1_smooth_speed.html" title=" " alt="" coords="393,364,513,460"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="450,460,431,632,426,631,445,460"/>
+<area shape="rect" id="Node000007" href="$struct_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base_1_1_panning_limit.html" title=" " alt="" coords="537,343,752,481"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="625,481,596,553,555,626,543,638,531,650,527,655,523,652,527,646,539,634,551,622,591,550,620,479"/>
+<area shape="rect" id="Node000008" href="$struct_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_panning_handler_1_1_input_axis_panning.html" title=" " alt="" coords="541,909,770,1046"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="665,1045,677,1114,698,1193,731,1274,752,1312,776,1347,788,1360,784,1364,772,1350,747,1315,726,1276,693,1194,672,1115,660,1046"/>
+<area shape="rect" id="Node000009" href="$struct_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_panning_handler_1_1_key_panning.html" title=" " alt="" coords="794,931,1023,1023"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="911,1023,911,1355,906,1355,906,1023"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="839,319,978,505"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="911,505,911,914,906,914,906,505"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="804,151,1013,224"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="911,238,911,319,906,319,906,238"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="844,5,973,79"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="911,93,911,151,906,151,906,93"/>
+<area shape="rect" id="Node000013" href="$struct_r_t_s_engine_1_1_utilities_1_1_toggable_smooth_factor.html" title=" " alt="" coords="1048,929,1225,1025"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1130,1026,1097,1156,1071,1233,1038,1308,1019,1337,997,1363,993,1359,1015,1333,1033,1305,1066,1231,1092,1154,1125,1025"/>
+<area shape="rect" id="Node000014" href="$struct_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_panning_handler_1_1_screen_edge_panning.html" title=" " alt="" coords="1250,909,1479,1046"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1353,1046,1336,1106,1312,1174,1281,1243,1240,1308,1221,1330,1199,1350,1149,1380,1095,1402,1041,1417,1039,1412,1093,1397,1147,1376,1196,1345,1217,1327,1236,1305,1276,1241,1307,1172,1331,1104,1348,1045"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ResourceSelection" name="ResourceSelection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,1272,320,1345"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_selection_1_1_entity_selection.html" title=" " alt="" coords="151,629,343,1224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,1238,250,1272,245,1272,245,1238"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,417,127,491"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,503,154,676,149,678,82,505"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_selection_1_1_i_entity_selection.html" title=" " alt="" coords="151,327,343,581"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="250,596,250,629,245,629,245,596"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="143,5,351,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,293,250,327,245,327,245,293"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="367,417,522,491"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="427,505,346,698,341,696,422,503"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="380,105,509,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="447,193,447,417,442,417,442,193"/>
+</map>

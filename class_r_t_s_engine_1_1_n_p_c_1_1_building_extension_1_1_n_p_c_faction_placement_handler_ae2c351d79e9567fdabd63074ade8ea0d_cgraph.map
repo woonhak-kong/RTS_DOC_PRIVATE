@@ -1,0 +1,9 @@
+<map id="TrySetNextPlaceAroundData" name="TrySetNextPlaceAroundData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,227,83"/>
+<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_building_extension_1_1_building_place_around_data.html#a9efd51c1f904397bbb3edfd25780d408" title=" " alt="" coords="275,5,561,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,51,259,47,260,52,227,57"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_place_around_handler.html#a36f5a13fdb9ccd44064d20df90332891" title=" " alt="" coords="283,76,553,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,81,268,86,268,91,227,86"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html#a982003b4988cf50dcd00f488172d1de3" title=" " alt="" coords="609,5,873,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="561,26,594,26,594,31,561,31"/>
+</map>

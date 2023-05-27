@@ -1,0 +1,25 @@
+<map id="Update" name="Update">
+<area shape="rect" id="Node000001" title="Updates the generated resources." alt="" coords="5,293,78,322"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a71f707ee0a61cf7591e62c3e39604945" title="Generates the resources for one period." alt="" coords="128,248,380,295"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,299,113,293,114,298,78,304"/>
+<area shape="rect" id="Node000012" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html#a99934fbeea3a630beef45ffe692eb311" title=" " alt="" coords="126,319,382,365"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="78,311,111,316,110,321,77,316"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a76c5d81663d8bbc5005cd8b5866b1605" title="Collects all the generated resources." alt="" coords="501,14,689,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,246,288,203,325,150,372,96,399,72,429,52,456,39,486,31,487,36,458,44,431,56,402,76,375,99,329,153,293,206,269,249"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_resource_extension_1_1_modifiable_resource_type_value.html#a8e2c6f182f9f97732ca69e51049b0440" title=" " alt="" coords="462,67,729,113"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="274,245,339,183,382,150,429,122,447,115,449,119,431,127,385,154,343,187,278,249"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#ae68ab848563b348a1a7fa1efd6efa5b4" title=" " alt="" coords="465,137,725,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="302,245,362,218,429,193,453,186,455,191,431,198,364,223,304,250"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#a68bc67b62407402b3ab782409b0d1989" title=" " alt="" coords="473,208,718,255"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="380,254,457,245,458,250,381,259"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a68aef8fb7cf560e86aac6450187affb4" title=" " alt="" coords="453,279,737,344"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="381,283,439,290,438,296,380,289"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html#a7c6d9cfe80065438024b2055c8cf0a04" title=" " alt="" coords="479,368,712,415"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="361,293,383,304,399,316,408,329,417,342,431,353,465,368,463,373,429,358,413,345,404,332,395,320,381,308,359,298"/>
+<area shape="rect" id="Node000010" href="$interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#af7f3b342f60b783116fedaa2308c1269" title=" " alt="" coords="458,439,733,485"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="369,293,384,304,397,319,404,335,408,366,413,396,419,410,432,424,446,434,443,438,428,428,415,413,407,398,403,367,399,336,392,322,380,308,365,297"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_resource_extension_1_1_modifiable_resource_type_value.html#ac07b1439dc4225baeb131815fbdb07b0" title=" " alt="" coords="430,509,760,556"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="371,293,384,304,401,328,409,353,410,378,408,402,406,426,407,449,415,472,432,495,436,498,432,502,428,498,410,475,402,450,401,426,403,402,405,378,404,354,397,331,380,308,367,297"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_component_base.html#a2ffdb175512ab4a96394786b76f782a2" title=" " alt="" coords="808,5,1084,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="690,26,793,26,793,31,690,31"/>
+</map>

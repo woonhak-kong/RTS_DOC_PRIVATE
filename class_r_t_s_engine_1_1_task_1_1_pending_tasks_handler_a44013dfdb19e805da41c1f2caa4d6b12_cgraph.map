@@ -1,0 +1,11 @@
+<map id="CancelBySourceID" name="CancelBySourceID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,159,88"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#ae31801a9905ea48ffd15615561590479" title=" " alt="" coords="207,5,515,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,61,192,57,192,62,160,66"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_task_1_1_pending_tasks_handler.html#a9d240fed40c4dc30fe23701efcfb4f3e" title=" " alt="" coords="318,94,404,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,81,304,99,303,104,159,86"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_task_1_1_pending_tasks_handler.html#abe74d6dfc6b5e84bcfcd75f0c450d5a6" title=" " alt="" coords="563,63,814,92"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="404,102,548,88,548,93,404,107"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html#a7c6d9cfe80065438024b2055c8cf0a04" title=" " alt="" coords="572,116,805,162"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="404,110,557,124,557,129,404,115"/>
+</map>

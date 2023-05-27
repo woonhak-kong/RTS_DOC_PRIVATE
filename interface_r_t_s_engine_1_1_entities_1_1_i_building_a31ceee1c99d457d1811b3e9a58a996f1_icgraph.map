@@ -1,0 +1,5 @@
+<map id="InitPlacementInstance" name="InitPlacementInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="319,23,490,52"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a3f6f517940546f017eab307bf63d6a26" title=" " alt="" coords="5,5,271,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,40,271,40,271,35,304,35"/>
+</map>

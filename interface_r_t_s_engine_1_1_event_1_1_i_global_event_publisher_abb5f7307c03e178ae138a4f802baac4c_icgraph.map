@@ -1,0 +1,7 @@
+<map id="RaiseShowPlayerMessageGlobal" name="RaiseShowPlayerMessageGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="318,50,573,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_logging_1_1_player_message_handler.html#ad4e048d5e8983e2b48e058a52aec1600" title=" " alt="" coords="5,5,270,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,51,270,47,270,42,303,45"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_game_1_1_game_manager.html#a0650ba17e832802a4108d2be2d98878f" title=" " alt="" coords="7,76,268,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,83,269,87,268,82,303,78"/>
+</map>

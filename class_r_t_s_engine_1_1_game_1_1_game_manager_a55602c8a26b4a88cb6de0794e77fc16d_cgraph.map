@@ -1,0 +1,7 @@
+<map id="OnFactionDefeated" name="OnFactionDefeated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,164,79"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="212,5,445,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,50,197,45,198,51,165,56"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#a380b4a9b28b93b6e2ed73cfecddca5bd" title=" " alt="" coords="212,76,445,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,73,198,78,197,83,164,79"/>
+</map>

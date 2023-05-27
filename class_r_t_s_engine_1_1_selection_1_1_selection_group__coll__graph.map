@@ -1,0 +1,11 @@
+<map id="SelectionGroup" name="SelectionGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,503,259,962"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_selection_1_1_i_selection_group.html" title=" " alt="" coords="49,296,173,392"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,406,122,503,117,504,111,406"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="197,251,336,437"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,438,220,488,215,486,232,436"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="162,128,371,201"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,216,269,251,264,251,264,216"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="202,5,331,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,93,269,128,264,128,264,93"/>
+</map>

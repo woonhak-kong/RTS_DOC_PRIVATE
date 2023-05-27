@@ -1,0 +1,9 @@
+<map id="OnReservedUpdated" name="OnReservedUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="390,32,558,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#ac9eaa2983e1a2c43bdac0390db7cba81" title=" " alt="" coords="210,5,342,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,36,342,31,343,26,376,30"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a52a18e307355b40602236a72527b1d67" title=" " alt="" coords="210,59,342,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="376,62,343,67,342,61,375,57"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#ad47f7cc2395bf197ae8760d096788622" title=" " alt="" coords="5,59,162,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,76,162,76,162,70,195,70"/>
+</map>

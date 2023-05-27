@@ -1,0 +1,9 @@
+<map id="IMainCameraZoomHandler" name="IMainCameraZoomHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,172,239,336"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_zoom_handler_base.html" title=" " alt="" coords="18,384,258,1296"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,350,141,384,135,384,135,350"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_control_handler.html" title=" " alt="" coords="33,5,243,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,138,141,172,135,172,135,138"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_zoom_handler.html" title=" " alt="" coords="5,1344,271,1463"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,1310,141,1344,135,1344,135,1310"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="GameAudioManager" name="GameAudioManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="214,2183,449,2611"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html" title=" " alt="" coords="94,1381,342,2134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,2147,296,2183,291,2184,285,2148"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,1105,127,1179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,1192,128,1380,122,1382,76,1193"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_audio_1_1_i_audio_manager.html" title=" " alt="" coords="310,969,558,1315"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="371,1329,344,1405,339,1404,366,1327"/>
+<area shape="rect" id="Node000011" href="$interface_r_t_s_engine_1_1_audio_1_1_i_game_audio_manager.html" title=" " alt="" coords="367,1709,528,1805"/>
+<area shape="poly" id="edge11_Node000011_Node000004" title=" " alt="" coords="441,1329,449,1710,444,1710,435,1329"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_audio_1_1_audio_clip_fetcher.html" title="Allows to define a set of AudioClip instances and retrieve one of them depending on the chosen type." alt="" coords="151,1094,285,1190"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="221,1190,221,1364,215,1364,215,1190"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html" title=" " alt="" coords="71,649,232,858"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="174,871,213,1094,207,1095,169,872"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_determinism_1_1_global_time_modified_timer.html" title=" " alt="" coords="256,603,489,903"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="316,904,246,1079,241,1077,311,902"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html" title=" " alt="" coords="140,273,309,528"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="286,540,312,602,307,604,281,542"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="334,353,457,449"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="395,449,386,587,381,586,390,448"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="334,5,457,215"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="398,229,398,353,393,353,393,229"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="439,1820,373,2184,367,2183,434,1819"/>
+<area shape="rect" id="Node000012" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="583,1105,747,1179"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="650,1193,466,1711,461,1709,645,1191"/>
+<area shape="rect" id="Node000013" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="609,717,721,790"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="667,804,667,1106,662,1106,662,804"/>
+<area shape="rect" id="Node000014" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="511,355,669,447"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="605,460,660,716,655,718,600,461"/>
+<area shape="rect" id="Node000015" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="694,264,902,537"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="744,552,680,718,676,716,739,550"/>
+</map>

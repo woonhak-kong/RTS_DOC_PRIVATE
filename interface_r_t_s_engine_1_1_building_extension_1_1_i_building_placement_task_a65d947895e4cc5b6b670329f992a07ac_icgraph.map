@@ -1,0 +1,7 @@
+<map id="OnCancel" name="OnCancel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="368,63,458,92"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html#ae97ca89b021d4abab5ae84a5e76557be" title=" " alt="" coords="5,5,320,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,71,320,66,320,60,353,66"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#ae97ca89b021d4abab5ae84a5e76557be" title=" " alt="" coords="23,94,302,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="354,90,303,98,302,93,353,84"/>
+</map>

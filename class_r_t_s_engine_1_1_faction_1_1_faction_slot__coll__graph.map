@@ -1,0 +1,25 @@
+<map id="FactionSlot" name="FactionSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,1157,470,1639"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_faction_1_1_i_faction_slot.html" title=" " alt="" coords="13,814,218,1091"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,1102,223,1156,219,1159,191,1105"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_faction_1_1_faction_slot_data.html" title=" " alt="" coords="479,561,605,748"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="548,748,547,831,541,929,527,1033,502,1134,480,1191,475,1189,497,1133,522,1032,536,928,542,831,543,748"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_faction_1_1_faction_type_info.html" title=" " alt="" coords="261,309,383,495"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="385,466,469,560,470,561,466,564,465,563,381,470"/>
+<area shape="rect" id="Node000011" href="$struct_r_t_s_engine_1_1_entities_1_1_faction_type_filtered_faction_entities_1_1_element.html" title=" " alt="" coords="5,609,209,701"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="263,476,159,598,155,594,259,473"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="217,149,427,222"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="325,236,325,309,319,309,319,236"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_type.html" title=" " alt="" coords="441,331,643,473"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="370,230,473,330,469,334,366,234"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="257,5,387,79"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="325,93,325,149,319,149,319,93"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="545,472,545,544,539,544,539,472"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_n_p_c_1_1_faction_type_filtered_n_p_c_manager_input.html" title=" " alt="" coords="451,128,699,243"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="569,243,558,315,553,314,564,242"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_entities_1_1_faction_type_filtered_faction_entities.html" title=" " alt="" coords="243,884,447,1021"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="347,1021,347,1141,342,1141,342,1021"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_utilities_1_1_type_filtered_value.html" title=" " alt="" coords="234,589,455,721"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="347,735,347,884,342,884,342,735"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="145,699,282,869,278,873,141,702"/>
+</map>

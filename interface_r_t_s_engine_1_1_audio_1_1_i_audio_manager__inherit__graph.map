@@ -1,0 +1,15 @@
+<map id="IAudioManager" name="IAudioManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="191,5,439,351"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html" title=" " alt="" coords="191,399,439,1175"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,365,318,399,313,399,313,365"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_audio_1_1_i_game_audio_manager.html" title=" " alt="" coords="5,739,167,835"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,364,182,400,149,492,124,586,95,740,90,739,119,585,144,490,177,398,193,362"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_lobby_1_1_audio_1_1_i_lobby_audio_manager.html" title=" " alt="" coords="464,750,625,823"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="437,362,454,398,488,495,514,594,543,750,537,751,509,595,483,497,449,400,432,364"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_audio_1_1_game_audio_manager.html" title=" " alt="" coords="85,1223,319,1651"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,1189,242,1223,237,1223,243,1188"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_lobby_1_1_audio_1_1_lobby_audio_manager.html" title=" " alt="" coords="348,1400,507,1473"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="387,1188,424,1400,419,1401,382,1189"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="99,848,167,1222,161,1223,94,849"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="538,838,436,1401,431,1400,533,837"/>
+</map>

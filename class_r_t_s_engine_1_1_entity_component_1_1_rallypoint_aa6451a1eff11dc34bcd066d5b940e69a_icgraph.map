@@ -1,0 +1,5 @@
+<map id="HandleRallypointTargetDead" name="HandleRallypointTargetDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,5,445,34"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_rallypoint.html#a0fe3a52aecb5b8b583b198364c7eb571" title=" " alt="" coords="5,5,176,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,22,176,22,176,17,209,17"/>
+</map>

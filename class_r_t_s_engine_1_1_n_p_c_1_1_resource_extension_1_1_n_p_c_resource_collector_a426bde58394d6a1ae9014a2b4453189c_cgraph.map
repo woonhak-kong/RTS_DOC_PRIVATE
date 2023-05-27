@@ -1,0 +1,11 @@
+<map id="InitCollectorRegulators" name="InitCollectorRegulators">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,183,114"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html#a1d4a1d518f93cc03db0308ec83d834d6" title=" " alt="" coords="231,85,437,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,97,216,97,216,102,183,102"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#a32f396e453ecc8bddff762f648bf4019" title=" " alt="" coords="485,5,777,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,82,484,61,515,53,516,59,486,66,398,87"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html#a34897eac13eec9d010e88a424e65b11c" title=" " alt="" coords="521,76,742,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="437,97,506,97,506,102,437,102"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_resource_collector.html#a71ace32f93e21dee2a325e9f7302b612" title=" " alt="" coords="497,147,766,212"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="391,112,495,140,494,145,390,117"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="OnLeftMouseClick" name="OnLeftMouseClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,155,79"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_panning_handler.html#a31213ad519fb568d639ed98b07d4af56" title=" " alt="" coords="203,5,471,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,52,187,47,188,52,156,57"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_panning_handler.html#a3eaab14ab7d16460ca32309efa9b8394" title=" " alt="" coords="203,76,471,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,72,188,77,187,82,155,77"/>
+</map>

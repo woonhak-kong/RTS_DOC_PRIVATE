@@ -1,0 +1,5 @@
+<map id="AttackDamage" name="AttackDamage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,263,229,835"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_attack_1_1_attack_sub_component.html" title=" " alt="" coords="35,5,200,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,229,120,263,115,263,115,229"/>
+</map>

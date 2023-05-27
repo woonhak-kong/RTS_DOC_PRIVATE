@@ -1,0 +1,23 @@
+<map id="OnDestroy" name="OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,101,166"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a51908ae27c17af66ac7cecb5d6be5ac9" title=" " alt="" coords="159,5,352,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,135,95,89,119,64,147,43,156,38,158,43,150,47,123,68,99,93,65,139"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a3ca2845ce1213bd8179e16bdcd3eb48c" title=" " alt="" coords="150,199,361,246"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="95,164,150,184,170,191,169,196,148,189,93,169"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a867395159a90058becc67b821f9495b1" title=" " alt="" coords="150,58,361,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="91,134,148,113,166,107,168,112,150,118,93,139"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#af62407f9621016a99a9d1263eb210b91" title=" " alt="" coords="152,269,359,298"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="65,165,99,210,123,235,150,256,158,261,156,265,147,261,119,239,95,214,61,168"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a78a1ee9c0eb663ae02565349fd542733" title=" " alt="" coords="149,128,362,175"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="101,149,134,149,134,154,101,154"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a22c7960d495d3e0502b7c73394d3fbf3" title=" " alt="" coords="410,67,497,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="326,32,363,42,406,58,404,63,361,48,324,37"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a04494b24fc0354f545cbc86a958cf621" title="Creates a new minimap icon or gets an inactive one." alt="" coords="419,208,488,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="361,220,404,220,404,225,361,225"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_minimap_1_1_icons_1_1_i_minimap_icon.html#a254e8c82901a2374d0ddea78a8b4019a" title=" " alt="" coords="545,199,755,246"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="489,220,531,220,531,225,489,225"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="361,78,395,78,395,84,361,84"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="324,266,361,256,404,240,406,245,363,261,326,271"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="327,125,361,113,400,99,402,104,363,118,329,130"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="332,173,363,184,406,200,404,205,361,189,330,178"/>
+</map>

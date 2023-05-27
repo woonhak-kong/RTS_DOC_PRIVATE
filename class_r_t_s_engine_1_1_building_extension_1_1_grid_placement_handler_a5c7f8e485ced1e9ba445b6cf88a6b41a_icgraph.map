@@ -1,0 +1,11 @@
+<map id="UpdateCells" name="UpdateCells">
+<area shape="rect" id="Node000001" title=" " alt="" coords="362,32,469,61"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="452,19,439,13,416,11,394,13,382,17,379,23,383,30,379,33,373,23,378,13,393,7,416,5,441,8,454,15"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#a39b84c48d491e797d2aa9f1cc2dee7da" title=" " alt="" coords="99,5,309,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,40,309,36,310,30,348,35"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#a261d4a48f3c787a89517c7abeff536fc" title=" " alt="" coords="94,59,314,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="347,58,315,62,314,56,347,52"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,32,46,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,39,46,46,45,41,89,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="89,58,45,52,46,47,90,53"/>
+</map>

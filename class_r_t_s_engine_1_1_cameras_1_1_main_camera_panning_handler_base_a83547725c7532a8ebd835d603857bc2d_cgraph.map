@@ -1,0 +1,18 @@
+<map id="Apply" name="Apply">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,169,66,198"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#afeea8f55dfb565a5bcde463b90518375" title=" " alt="" coords="122,117,311,146"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,172,149,148,151,153,67,177"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_controller.html#a6a1668eb6dfdf5bb8464cdfd64bade1e" title=" " alt="" coords="550,139,871,185"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="66,180,535,165,536,170,66,185"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#a00db65f5cf5b50d5a1aef6a4b48ce1e6" title=" " alt="" coords="114,221,319,250"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="67,189,151,214,149,219,66,194"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#a8adc99a82d8c0291f6a9babbf4693595" title="Make the camera look at a target position and return the final position while considering the offset ..." alt="" coords="399,64,470,92"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,114,384,87,385,93,279,119"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#a3eaab14ab7d16460ca32309efa9b8394" title="Updates the target that the camera will be following." alt="" coords="367,117,502,146"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="311,129,352,129,352,134,311,134"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,88,551,114,609,131,608,137,550,119,470,93"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_rotation_handler.html#adad2be5535ddd08366d19f38b3bf2fa8" title=" " alt="" coords="576,5,845,52"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="470,69,562,53,563,58,471,74"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#a4d6198af44c6a65751029869a9d44980" title=" " alt="" coords="659,76,762,104"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="471,77,645,85,645,90,470,82"/>
+</map>

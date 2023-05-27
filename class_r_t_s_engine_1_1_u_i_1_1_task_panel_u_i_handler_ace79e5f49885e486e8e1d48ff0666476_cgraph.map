@@ -1,0 +1,18 @@
+<map id="Show" name="Show">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,66,34"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_task_panel_u_i_handler.html#a6122668fbd0c32bee1559d717caf067d" title="Disables an active EntityComponentTaskUITracker instance that tracks a task." alt="" coords="833,20,1062,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,16,353,10,560,10,772,16,818,19,818,24,772,21,560,15,353,15,66,21"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_task_panel_u_i_handler.html#a1c7d14aaf33d6f1adc7b070a9a8831fb" title=" " alt="" coords="114,31,352,59"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="66,21,103,26,102,31,66,26"/>
+<area shape="poly" id="edge8_Node000003_Node000002" title=" " alt="" coords="352,40,721,34,818,33,818,38,721,40,352,46"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_task_panel_u_i_handler.html#ac2260ab5d86943c1c2bbdde55d7a9610" title=" " alt="" coords="435,56,638,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="353,52,420,58,420,63,352,58"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html#a1cb11cb60c89761cad3f376f884c1530" title=" " alt="" coords="400,108,673,155"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="280,57,401,94,426,101,425,107,399,100,279,62"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="639,59,818,43,818,48,639,64"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_u_i_1_1_task_panel_u_i_handler.html#a60741e2d4b538895e0fee5f0d44cdd67" title=" " alt="" coords="721,107,772,135"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="623,83,674,94,708,105,706,110,673,100,622,88"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="768,104,819,75,878,51,880,56,821,79,770,109"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html#a37d1ea833e3c8b695835e1e87feed923" title=" " alt="" coords="820,89,1075,153"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="772,118,805,118,805,124,772,124"/>
+</map>

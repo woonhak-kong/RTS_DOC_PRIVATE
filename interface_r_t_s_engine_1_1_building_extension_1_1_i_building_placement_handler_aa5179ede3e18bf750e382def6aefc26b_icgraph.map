@@ -1,0 +1,10 @@
+<map id="Init" name="Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="929,47,970,76"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement.html#a29e00129e94af7087eb02f78fdc327fb" title=" " alt="" coords="615,29,881,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="914,64,882,64,882,59,914,59"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement.html#aa00895a5066ad46cc83128560731f2b5" title=" " alt="" coords="287,29,567,94"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="600,64,567,64,567,59,600,59"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="477,18,458,11,427,8,401,10,383,15,374,21,372,29,367,28,370,18,381,10,400,5,427,3,459,6,479,13"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,38,239,85"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="272,64,239,64,239,59,272,59"/>
+</map>

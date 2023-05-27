@@ -1,0 +1,7 @@
+<map id="SetInteractable" name="SetInteractable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="373,50,498,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_manager.html#aa05b7021b09a2fc7b6c2f912e81644b7" title=" " alt="" coords="33,5,297,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,57,297,49,298,44,359,52"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_manager.html#ac3fda604a5343d93fe5e67ff071b01dc" title=" " alt="" coords="5,76,325,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,77,325,81,325,76,358,72"/>
+</map>

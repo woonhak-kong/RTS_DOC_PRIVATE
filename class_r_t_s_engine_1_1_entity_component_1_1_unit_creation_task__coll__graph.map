@@ -1,0 +1,7 @@
+<map id="UnitCreationTask" name="UnitCreationTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,167,344,467"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_creation_task.html" title=" " alt="" coords="5,7,203,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,111,156,167,151,169,127,113"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_entity_component_1_1_unit_squad_creation_task_data.html" title=" " alt="" coords="227,5,440,101"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,102,293,153,288,151,311,100"/>
+</map>

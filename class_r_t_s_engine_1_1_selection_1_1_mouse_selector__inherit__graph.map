@@ -1,0 +1,17 @@
+<map id="MouseSelector" name="MouseSelector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,1783,289,1901"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_selection_1_1_selector_base.html" title=" " alt="" coords="39,827,299,1735"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,1749,171,1783,166,1783,166,1749"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,637,127,711"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,724,94,827,89,828,72,725"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_selection_1_1_i_selector.html" title=" " alt="" coords="151,569,391,779"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,793,248,827,243,826,249,792"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="189,448,353,521"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="274,535,274,570,269,570,269,535"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="215,327,327,400"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="274,414,274,448,269,448,269,414"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="88,96,247,188"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="197,200,257,326,252,328,192,202"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="271,5,479,279"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="307,292,290,328,286,326,303,290"/>
+</map>

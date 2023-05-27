@@ -1,0 +1,20 @@
+<map id="UnitSquadManager" name="UnitSquadManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,736,332,1195"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,592,127,665"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,677,130,755,126,757,87,679"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_unit_squad_manager.html" title=" " alt="" coords="151,569,309,688"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,702,233,736,227,736,227,702"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_post_run_game_service.html" title=" " alt="" coords="15,448,186,521"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,530,179,568,175,571,141,534"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="203,327,315,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,411,149,451,146,446,199,406"/>
+<area shape="rect" id="Node000009" href="$interface_r_t_s_engine_1_1_save_1_1_game_1_1_service_1_1_i_savable_game_service.html" title=" " alt="" coords="333,581,503,677"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="329,390,365,414,395,447,411,479,420,514,424,581,419,581,415,515,406,481,390,449,362,418,327,395"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="76,96,235,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="185,200,245,326,240,328,180,202"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="259,5,467,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="295,292,278,328,274,326,291,290"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_game_1_1_i_optional_game_service.html" title=" " alt="" coords="211,448,380,521"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="275,536,259,571,254,568,270,533"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="387,690,334,784,330,782,382,688"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="IEntityTasksQueueHandler" name="IEntityTasksQueueHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,796,334,983"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_task_1_1_entity_tasks_queue_handler.html" title=" " alt="" coords="77,1031,349,1599"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="216,997,216,1031,211,1031,211,997"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="101,448,325,748"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,762,216,796,211,796,211,762"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="5,127,213,400"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,413,169,447,164,449,153,414"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="238,227,399,300"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="306,314,263,449,258,447,301,313"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="254,5,383,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,93,321,227,316,227,316,93"/>
+</map>

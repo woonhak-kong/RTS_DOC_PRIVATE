@@ -1,0 +1,7 @@
+<map id="AddLocal" name="AddLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,36,372,65"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#a986f3d85839928aa120e3593f0a4f872" title=" " alt="" coords="9,5,232,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,44,221,37,222,32,269,39"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_determinism_1_1_input_manager.html#a36fe5c345aafb45dcfd5b8874ed2e1d7" title=" " alt="" coords="5,58,236,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,62,237,66,236,61,268,56"/>
+</map>

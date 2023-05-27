@@ -1,0 +1,10 @@
+<map id="EngageCurrentTargetFactionEntity" name="EngageCurrentTargetFactionEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,28,230,74"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="596,28,854,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,24,277,12,353,5,413,3,548,12,611,22,610,27,548,18,413,8,354,10,278,18,209,30"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_event_1_1_i_n_p_c_event_publisher.html#a68d73460f1f001f3d9f9d3feccb647e8" title=" " alt="" coords="278,28,548,74"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,48,263,48,263,54,230,54"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a841d4e4a4765d16740e8b122c1e2a7e9" title="Resets the currentTarget FactionEntity to null." alt="" coords="334,98,492,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,72,278,83,321,92,320,97,277,88,227,78"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="489,95,588,75,589,80,490,100"/>
+</map>

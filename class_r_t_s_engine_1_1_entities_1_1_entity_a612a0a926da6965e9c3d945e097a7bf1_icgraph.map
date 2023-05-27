@@ -1,0 +1,17 @@
+<map id="HandleEntitySelected" name="HandleEntitySelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="771,32,941,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#a821e47be313e914530646f5b12611875" title=" " alt="" coords="591,5,705,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="756,36,705,30,706,24,756,31"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#a239ebebc96ff32d0beab58dbfcc0f5c2" title=" " alt="" coords="573,59,723,87"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="756,62,723,66,723,61,756,56"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#a986f3d85839928aa120e3593f0a4f872" title=" " alt="" coords="5,5,46,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="576,21,525,21,94,21,46,22,46,17,94,16,525,16,576,16"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#a843550635df59d721239b815be7fc700" title=" " alt="" coords="362,31,525,59"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="576,31,526,38,525,32,576,26"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#af713873db13b86c2ae3fd6ff8649744f" title=" " alt="" coords="94,31,314,59"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="347,48,314,48,314,42,347,42"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="84,31,46,25,47,20,85,25"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="558,63,525,59,526,54,559,58"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#ac54ce402cec4f1d67a1cef4db841d26d" title=" " alt="" coords="396,84,491,113"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="559,87,492,95,492,90,558,81"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="RTSEngineScriptableObject" name="RTSEngineScriptableObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="525,127,734,200"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="5,339,144,525"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="511,176,412,186,308,201,218,223,183,236,158,250,138,269,122,291,98,340,94,338,117,288,134,265,154,246,181,231,216,217,307,196,411,181,510,170"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_faction_1_1_faction_type_info.html" title=" " alt="" coords="168,339,291,525"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="511,172,458,180,403,195,351,218,304,250,286,269,272,291,250,340,245,338,267,289,282,266,301,246,348,213,402,190,457,175,510,166"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_movement_1_1_movement_formation_type.html" title=" " alt="" coords="315,339,504,525"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="562,211,518,250,484,294,456,340,451,337,480,290,514,246,558,207"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_type.html" title=" " alt="" coords="529,350,730,514"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="632,214,632,350,627,350,627,214"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_resource_extension_1_1_resource_type_info.html" title=" " alt="" coords="754,248,891,616"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="703,206,745,246,756,262,752,265,741,250,699,210"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_terrain_1_1_terrain_area_type.html" title=" " alt="" coords="915,293,1055,571"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="749,176,790,186,831,201,870,220,906,246,926,268,943,292,938,295,922,271,902,250,868,225,829,205,788,191,748,181"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_u_i_1_1_entity_component_task_u_i_asset.html" title=" " alt="" coords="1079,373,1299,491"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="749,174,839,186,931,202,1013,222,1045,233,1069,246,1101,273,1129,305,1151,339,1168,372,1163,374,1146,342,1124,308,1098,276,1067,250,1043,238,1011,227,930,207,838,191,748,179"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="565,5,694,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="632,93,632,127,627,127,627,93"/>
+</map>

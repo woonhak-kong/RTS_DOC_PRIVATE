@@ -1,0 +1,9 @@
+<map id="LaunchTaskAction" name="LaunchTaskAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="738,50,887,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_upgrades_1_1_n_p_c_upgrade_manager.html#aa59315bbfd4fd4d87f92668d44f8f670" title=" " alt="" coords="365,41,690,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="723,67,690,67,690,62,723,62"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_upgrades_1_1_n_p_c_upgrade_manager.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,5,317,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,50,317,47,317,41,350,45"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_upgrades_1_1_n_p_c_upgrade_manager.html#ad504e1c5827f3a806a21a65960911339" title=" " alt="" coords="5,76,317,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="350,84,317,87,317,82,350,79"/>
+</map>

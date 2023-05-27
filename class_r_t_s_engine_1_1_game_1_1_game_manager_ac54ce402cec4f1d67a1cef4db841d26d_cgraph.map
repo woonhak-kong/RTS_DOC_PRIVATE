@@ -1,0 +1,11 @@
+<map id="OnDestroy" name="OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,101,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_game_1_1_game_manager.html#a25edb5512f5f6f68b19e9d2a9782dfd6" title=" " alt="" coords="149,41,412,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,62,134,62,134,67,101,67"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_game_1_1_game_manager.html#a55602c8a26b4a88cb6de0794e77fc16d" title=" " alt="" coords="460,50,618,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,62,445,62,445,67,412,67"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="666,5,900,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="618,50,651,45,652,51,619,56"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#a380b4a9b28b93b6e2ed73cfecddca5bd" title=" " alt="" coords="666,76,900,123"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="619,73,652,78,651,83,618,79"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RaiseEntityDeadGlobal" name="RaiseEntityDeadGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="580,14,764,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_health_1_1_entity_health.html#a9d384fc6821301c535a4f09ccb9c943c" title=" " alt="" coords="293,5,532,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="565,31,533,31,533,26,565,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_health_1_1_entity_health.html#a3aa2a1abf8a38911fe27f45613b8f607" title=" " alt="" coords="5,5,245,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,31,245,31,245,26,278,26"/>
+</map>

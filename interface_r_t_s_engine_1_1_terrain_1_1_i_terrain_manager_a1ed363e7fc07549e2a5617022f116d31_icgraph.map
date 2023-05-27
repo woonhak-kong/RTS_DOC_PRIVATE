@@ -1,0 +1,17 @@
+<map id="GetTerrainAreaPosition" name="GetTerrainAreaPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="624,210,810,239"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer_rallypoint_condition.html#a2c1b82bff81c9c7157f6a306230d55c1" title=" " alt="" coords="307,5,567,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,200,644,141,611,111,575,84,554,73,557,68,577,79,614,106,648,138,699,196"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#a821e3be2aa89059dfcbdb78c466a2a0c" title=" " alt="" coords="305,94,569,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="678,205,629,179,575,155,543,144,545,139,577,150,632,174,680,200"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_resource_extension_1_1_drop_off_target.html#afe495446ede18e0e8c941b4a5808edae" title=" " alt="" coords="304,165,570,212"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="609,213,570,208,571,203,610,208"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entity_component_1_1_rallypoint.html#a2656d8fa7e7dd0e3b7768c607bc9c6ab" title=" " alt="" coords="323,236,551,282"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="609,240,552,247,551,242,609,235"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_resource_extension_1_1_drop_off_target.html#a25d428f586ae81fec6f4611d500bc6ac" title=" " alt="" coords="315,306,559,353"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="678,249,631,273,577,296,540,308,539,303,575,291,628,268,676,244"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_worker_manager.html#a34fba03cc03f19bcb0bba63c31d21abb" title=" " alt="" coords="298,377,576,424"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="699,252,648,310,615,341,577,367,552,379,550,374,575,362,611,337,644,307,695,249"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_resource_extension_1_1_drop_off_target.html#a0faa0c53f64faf163f49747fde98e4c3" title=" " alt="" coords="5,165,250,212"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="289,191,250,191,250,186,289,186"/>
+</map>

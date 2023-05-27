@@ -1,0 +1,32 @@
+<map id="HasResources" name="HasResources">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1053,294,1178,323"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_component_task_input_base.html#ae9e29a05408d46956fb9785dc814b18d" title=" " alt="" coords="707,5,983,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1106,280,1094,237,1074,183,1044,129,1025,105,1004,84,982,69,985,65,1007,80,1029,102,1049,127,1079,181,1099,235,1111,279"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_task.html#ae9e29a05408d46956fb9785dc814b18d" title=" " alt="" coords="702,94,988,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1100,282,1064,216,1036,183,1004,155,985,144,988,139,1007,150,1040,179,1068,213,1105,279"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_health_1_1_building_health.html#a9765fcf4def0796bb0bd9ff18b6aa954" title=" " alt="" coords="740,165,949,212"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1087,286,1050,255,1004,227,949,207,951,202,1006,222,1053,250,1091,282"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a71f707ee0a61cf7591e62c3e39604945" title="Generates the resources for one period." alt="" coords="708,236,982,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1038,300,982,291,983,286,1039,294"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#add97cb272e313c30c700835aef5555dc" title=" " alt="" coords="710,325,979,372"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1039,322,980,331,979,326,1038,317"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a861e749da3289aeda5f541e1b16a96cd" title=" " alt="" coords="710,396,979,442"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1087,335,1050,361,1006,385,974,398,972,393,1004,381,1047,357,1084,330"/>
+<area shape="rect" id="Node000012" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_manager.html#a97f18c711069e436031ad106a55ff4fc" title=" " alt="" coords="684,467,1005,531"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1103,337,1065,397,1038,429,1007,456,986,468,983,464,1004,451,1035,425,1061,394,1098,334"/>
+<area shape="rect" id="Node000013" href="$class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#a4d78a6e2d487a88315a3487f0d060541" title=" " alt="" coords="714,556,975,602"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1112,338,1101,384,1081,440,1050,497,1030,523,1007,545,977,563,974,558,1004,541,1026,519,1046,494,1076,438,1095,383,1107,337"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_health_1_1_building_health.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="384,165,594,212"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="726,191,594,191,594,186,726,186"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a028103aee6a09cd6a2d2520ae7a1f841" title=" " alt="" coords="342,241,636,288"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="693,269,636,269,636,263,693,264"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#aec0783b5a136e042adcc47bae4fe5291" title="Updates the generated resources." alt="" coords="375,312,603,358"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="694,299,604,316,603,311,693,294"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="354,389,624,436"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="697,377,623,391,622,386,696,372"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="695,419,624,418,624,412,695,414"/>
+<area shape="rect" id="Node000014" href="$class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#ae07dcb561c668c9a1b0262da549a3837" title=" " alt="" coords="345,547,633,611"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="699,582,633,582,633,576,699,576"/>
+<area shape="rect" id="Node000015" href="$class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#a199462e93ede235ee2a8c2f8451bde3a" title=" " alt="" coords="5,556,294,602"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="330,582,294,582,294,576,330,576"/>
+</map>

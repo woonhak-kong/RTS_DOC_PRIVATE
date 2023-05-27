@@ -1,0 +1,27 @@
+<map id="HandleFactionEntityHealthUpdatedGlobal" name="HandleFactionEntityHealthUpdatedGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,210,233"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#a942c81adff888a4382d1daf0fe7b1535" title=" " alt="" coords="258,156,493,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,196,242,192,243,197,211,201"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_minimap_1_1_notification_1_1_attack_minimap_notification_manager.html#a1411b441c7fee9734835447428ff28b6" title="Spawns a new attack warning." alt="" coords="341,226,410,255"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,219,326,232,325,238,210,224"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_minimap_1_1_notification_1_1_attack_minimap_notification_manager.html#ac820af4e6b121216315e00440d51ab58" title="Checks whether a new attack warning effect can be added in a potential position." alt="" coords="629,24,727,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="410,239,452,233,473,226,491,213,506,196,513,178,514,139,516,100,524,80,539,61,556,50,575,42,613,34,614,39,576,47,558,54,543,65,528,83,521,101,519,139,518,179,510,198,495,217,476,230,454,239,411,245"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#aff9a086b4bfcb9a767e6e735f27843b2" title=" " alt="" coords="569,76,786,123"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="410,238,451,231,472,224,491,213,508,195,515,175,522,154,539,133,554,124,557,128,543,137,527,156,520,176,512,197,495,217,475,229,453,236,411,243"/>
+<area shape="rect" id="Node000009" href="$interface_r_t_s_engine_1_1_logging_1_1_i_player_message_handler.html#ad4e048d5e8983e2b48e058a52aec1600" title=" " alt="" coords="546,147,810,193"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="410,231,492,213,567,195,568,200,494,218,411,236"/>
+<area shape="rect" id="Node000010" href="$interface_r_t_s_engine_1_1_audio_1_1_i_game_audio_manager.html#abcb0aaf0710a42221dc8858d7a231c67" title=" " alt="" coords="559,217,796,264"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="410,238,544,238,544,243,410,243"/>
+<area shape="rect" id="Node000011" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#aed95630b3e224827d3bb402bcfc38278" title=" " alt="" coords="565,288,791,335"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="411,246,561,281,560,287,410,251"/>
+<area shape="rect" id="Node000012" href="$interface_r_t_s_engine_1_1_effect_1_1_i_effect_object_pool.html#afcfbd9536a0e60dd0e33d310367ea66e" title=" " alt="" coords="582,359,774,405"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="397,253,459,298,500,323,542,345,569,355,567,360,540,350,497,328,456,303,394,258"/>
+<area shape="rect" id="Node000013" href="$interface_r_t_s_engine_1_1_minimap_1_1_cameras_1_1_i_minimap_camera_controller.html#a2305b0b4aab0d13f5bcc4797a3c2728e" title=" " alt="" coords="541,430,814,494"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="388,254,448,331,492,376,543,416,550,420,547,425,539,420,488,380,444,334,384,257"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#ab05dd73c340047063857952d613c5f53" title=" " alt="" coords="862,5,1080,52"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="777,73,857,53,858,59,778,78"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#af6790a7bb539c2d3d760bfe34d129cff" title=" " alt="" coords="862,76,1080,123"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="787,97,847,97,847,102,787,102"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#a967ed4c750af7faa152862f3a014ab97" title=" " alt="" coords="862,147,1080,193"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="778,121,858,140,857,145,777,126"/>
+</map>

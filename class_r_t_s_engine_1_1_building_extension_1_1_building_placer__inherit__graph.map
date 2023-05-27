@@ -1,0 +1,15 @@
+<map id="BuildingPlacer" name="BuildingPlacer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,811,393,1873"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer.html" title=" " alt="" coords="127,1921,395,2335"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="263,1887,263,1921,258,1921,258,1887"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,508,127,581"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,594,133,810,128,812,75,596"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placer.html" title=" " alt="" coords="151,327,371,763"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,777,263,811,258,811,258,777"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="157,5,365,279"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,293,263,327,258,327,258,293"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="395,508,550,581"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="462,596,395,847,390,845,457,594"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="408,105,537,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="475,193,475,508,470,508,470,193"/>
+</map>

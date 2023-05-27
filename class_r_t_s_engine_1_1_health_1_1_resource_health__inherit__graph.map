@@ -1,0 +1,18 @@
+<map id="ResourceHealth" name="ResourceHealth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,2020,419,2252"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_health_1_1_entity_health.html" title=" " alt="" coords="101,901,346,1972"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,1986,314,2020,309,2021,304,1986"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,553,127,627"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,640,126,901,121,902,73,641"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html" title=" " alt="" coords="346,327,514,853"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,867,348,935,343,934,360,866"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_health_1_1_i_resource_health.html" title=" " alt="" coords="371,1400,497,1473"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="434,867,437,1400,431,1400,429,867"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="326,5,534,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="433,293,433,327,427,327,427,293"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="151,553,306,627"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="231,641,229,902,224,902,226,641"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="164,105,293,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="231,193,231,553,226,553,226,193"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="430,1487,402,1698,361,1972,353,2021,347,2020,355,1972,396,1698,425,1487"/>
+</map>

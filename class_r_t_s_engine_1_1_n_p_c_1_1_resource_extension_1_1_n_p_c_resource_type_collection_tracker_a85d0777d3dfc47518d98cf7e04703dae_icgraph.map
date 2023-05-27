@@ -1,0 +1,9 @@
+<map id="RaiseCollectorSlotFreed" name="RaiseCollectorSlotFreed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="436,32,629,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_tracker.html#a193d92cf886e5adc50c4db2648dc5f60" title=" " alt="" coords="200,32,388,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,49,388,49,388,44,421,44"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_tracker.html#ab7ee2534d28d154d2e4a7f2cb90de13c" title=" " alt="" coords="20,5,137,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,35,137,30,138,24,185,30"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_tracker.html#a6b99cfd6a22391b4946b87e1213903e1" title=" " alt="" coords="5,59,152,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="185,62,152,67,152,61,185,57"/>
+</map>

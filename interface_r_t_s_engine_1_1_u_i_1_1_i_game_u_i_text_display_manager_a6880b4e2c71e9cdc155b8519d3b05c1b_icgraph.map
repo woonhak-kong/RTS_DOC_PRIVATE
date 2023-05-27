@@ -1,0 +1,7 @@
+<map id="BuildingCreationTaskTooltipToString" name="BuildingCreationTaskTooltipToString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="569,5,787,52"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_builder.html#a808692d3cfa0cbb7f5f4dd25fa922bcd" title=" " alt="" coords="293,5,521,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,31,521,31,521,26,554,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_builder.html#ad9168ed1dcab5a11d15ac255d3f18939" title=" " alt="" coords="5,5,245,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,31,245,31,245,26,278,26"/>
+</map>

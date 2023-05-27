@@ -1,0 +1,10 @@
+<map id="SetTargetEntity" name="SetTargetEntity">
+<area shape="rect" id="Node000001" title="Sets the current faction entity target to the closest from an a set of potential targets." alt="" coords="5,76,134,104"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html#a78ee3a5a62e6bb8ed3e416ef07b20276" title=" " alt="" coords="182,5,427,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,73,198,54,199,59,128,78"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="475,93,733,140"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,91,460,107,460,112,134,96"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a841d4e4a4765d16740e8b122c1e2a7e9" title="Resets the currentTarget FactionEntity to null." alt="" coords="225,128,384,156"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,102,223,121,222,126,134,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="384,133,460,126,460,132,384,138"/>
+</map>

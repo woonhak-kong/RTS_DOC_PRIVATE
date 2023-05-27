@@ -1,0 +1,10 @@
+<map id="OnAttackDisabled" name="OnAttackDisabled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,154,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#afc13119c1c433059dbfcb31c1785195a" title=" " alt="" coords="202,5,377,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,34,186,30,187,35,154,40"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#acc59a76d9ea624477e83b5cf7fde75b8" title=" " alt="" coords="202,59,377,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,53,187,57,186,63,154,58"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#ab2a6eb1ec73ffe10b577d30a03447af6" title=" " alt="" coords="425,32,582,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,28,411,32,410,37,377,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="377,59,410,55,411,61,378,65"/>
+</map>

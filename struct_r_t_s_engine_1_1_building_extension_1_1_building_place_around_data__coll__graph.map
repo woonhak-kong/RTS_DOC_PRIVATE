@@ -1,0 +1,9 @@
+<map id="BuildingPlaceAroundData" name="BuildingPlaceAroundData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,449,233,522"/>
+<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html" title=" " alt="" coords="5,264,156,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,382,108,424,112,432,107,434,103,426,90,383"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="181,275,303,371"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,373,191,426,183,437,179,434,186,423,218,370"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="181,5,303,215"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="245,229,245,276,239,276,239,229"/>
+</map>

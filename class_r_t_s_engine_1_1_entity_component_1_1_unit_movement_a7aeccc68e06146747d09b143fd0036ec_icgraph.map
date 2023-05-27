@@ -1,0 +1,9 @@
+<map id="EnableMovementRotation" name="EnableMovementRotation">
+<area shape="rect" id="Node000001" title="Deactivates the movement controller and sets the unit&#39;s rotation target to the next corner in the pat..." alt="" coords="415,32,615,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a5105526f7076d2237fe7fd7e514e5b06" title=" " alt="" coords="196,5,336,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="400,37,336,30,336,24,401,31"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a42d98ff12482cf1b8052be56a3fd0a44" title="Handles updating the unit&#39;s rotation while it is in its movement state. This mainly handles blocking ..." alt="" coords="165,59,367,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="401,61,368,65,367,60,400,56"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a64cb65bfc7daed53934ffc6d155ff1ed" title="Handles updating the unit state whether it is in its idle or movement state." alt="" coords="5,59,117,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="150,76,117,76,117,70,150,70"/>
+</map>

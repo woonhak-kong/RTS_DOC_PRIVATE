@@ -1,0 +1,14 @@
+<map id="BorderObject" name="BorderObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="116,728,296,915"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_poolable_object.html" title=" " alt="" coords="5,448,220,680"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,692,175,727,170,729,157,694"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="52,327,173,400"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,414,115,448,110,448,110,414"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_utilities_1_1_i_poolable_object.html" title=" " alt="" coords="218,327,341,400"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="243,412,211,450,207,447,239,409"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_border_object.html" title=" " alt="" coords="245,516,354,612"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="287,414,297,516,292,516,282,414"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="175,5,383,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="282,293,282,327,277,327,277,293"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="280,626,242,729,237,727,275,624"/>
+</map>

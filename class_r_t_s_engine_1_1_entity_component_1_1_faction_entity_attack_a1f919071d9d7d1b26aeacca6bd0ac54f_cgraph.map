@@ -1,0 +1,9 @@
+<map id="SwitchAttackActionLocal" name="SwitchAttackActionLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,199,74"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html#abf0a21848f8d3e1d439d073dc3d34bcd" title=" " alt="" coords="247,5,499,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,46,231,42,232,47,199,51"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#a3d32f9914598d12cd611c8b79a5242a0" title=" " alt="" coords="328,76,418,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,68,313,81,313,86,199,73"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_attack_1_1_i_attack_manager.html#ab2d0deb4a4d3868d2c9f8f19e34fc848" title=" " alt="" coords="547,67,747,113"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,87,532,87,532,93,418,93"/>
+</map>

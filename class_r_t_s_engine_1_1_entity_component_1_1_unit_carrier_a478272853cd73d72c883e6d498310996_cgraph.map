@@ -1,0 +1,7 @@
+<map id="HandlEntityDead" name="HandlEntityDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,144,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html#a69ea7e9e22382bb9b552f03def930aec" title=" " alt="" coords="192,14,309,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,26,177,26,177,31,144,31"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_component_base.html#a2ffdb175512ab4a96394786b76f782a2" title=" " alt="" coords="357,5,632,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,26,342,26,342,31,310,31"/>
+</map>

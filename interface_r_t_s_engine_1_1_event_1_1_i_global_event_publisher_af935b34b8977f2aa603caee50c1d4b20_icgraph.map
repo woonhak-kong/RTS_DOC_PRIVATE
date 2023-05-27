@@ -1,0 +1,19 @@
+<map id="RaiseBuildingPlacementStartGlobal" name="RaiseBuildingPlacementStartGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1087,104,1313,150"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html#acff8886a227180e29bb415b6ae4c91a7" title=" " alt="" coords="725,15,1039,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1090,102,1013,83,1014,77,1091,97"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#acff8886a227180e29bb415b6ae4c91a7" title=" " alt="" coords="745,104,1020,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1073,130,1020,130,1020,124,1073,124"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#a0ee561e74cb326e4d5a392079012b181" title=" " alt="" coords="745,184,1020,249"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1101,157,1000,186,999,181,1100,152"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_placer.html#abf2834321a36e599ffc33b57d3ced821" title=" " alt="" coords="367,5,677,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="760,102,724,94,645,73,646,68,726,88,762,97"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html#a610ca1d9720113bf9bbc466f86bd579d" title=" " alt="" coords="390,95,654,159"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="730,130,654,130,654,124,730,124"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#acff8886a227180e29bb415b6ae4c91a7" title=" " alt="" coords="384,184,660,249"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="730,219,660,219,660,214,730,214"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#a4cca6277b0cc4240058bf79d7ac497d4" title=" " alt="" coords="384,273,660,338"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="736,255,656,275,654,270,734,250"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#a610ca1d9720113bf9bbc466f86bd579d" title=" " alt="" coords="5,184,319,249"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="369,219,319,219,319,214,369,214"/>
+</map>

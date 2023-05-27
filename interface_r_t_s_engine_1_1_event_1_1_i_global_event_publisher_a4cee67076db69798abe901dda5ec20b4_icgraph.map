@@ -1,0 +1,7 @@
+<map id="RaiseUnitResourceDropOffStartGlobal" name="RaiseUnitResourceDropOffStartGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="632,5,843,52"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#ab1d97cde87ff611190213c154f477cb8" title=" " alt="" coords="316,5,584,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="617,31,585,31,585,26,617,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#a028103aee6a09cd6a2d2520ae7a1f841" title=" " alt="" coords="5,5,268,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="301,31,268,31,268,26,301,26"/>
+</map>

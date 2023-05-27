@@ -1,0 +1,29 @@
+<map id="TerrainManager" name="TerrainManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="365,1216,607,2128"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,877,127,951"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,963,105,1043,140,1131,193,1231,251,1330,368,1507,363,1510,246,1333,188,1234,136,1133,100,1045,76,965"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_terrain_1_1_i_terrain_manager.html" title=" " alt="" coords="151,696,392,1132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="339,1145,368,1246,363,1247,334,1146"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_priority_service.html" title=" " alt="" coords="143,573,357,647"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,661,259,696,253,696,251,661"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="168,451,332,524"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="253,538,253,574,247,574,247,538"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="194,328,306,401"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="253,415,253,451,247,451,247,415"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="67,96,225,188"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="176,200,236,327,231,329,171,202"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="250,5,458,279"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="286,293,269,329,264,327,282,290"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_terrain_1_1_terrain_area_type.html" title=" " alt="" coords="416,775,556,1053"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="489,1053,489,1199,483,1199,483,1053"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="381,573,591,647"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="489,661,489,775,483,775,483,661"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="421,451,551,524"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="489,538,489,574,483,574,483,538"/>
+<area shape="rect" id="Node000012" href="$struct_r_t_s_engine_1_1_utilities_1_1_int2_d.html" title=" " alt="" coords="581,843,714,985"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="635,985,589,1200,584,1199,630,984"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="615,573,765,647"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="686,661,660,844,654,843,680,661"/>
+<area shape="rect" id="Node000014" href="$struct_r_t_s_engine_1_1_model_1_1_camera_boundaries_margin.html" title=" " alt="" coords="738,866,935,962"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="823,963,783,1069,731,1193,617,1430,612,1427,726,1191,778,1067,818,961"/>
+</map>

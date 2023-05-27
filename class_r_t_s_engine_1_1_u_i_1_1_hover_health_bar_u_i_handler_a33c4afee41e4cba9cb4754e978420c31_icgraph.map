@@ -1,0 +1,13 @@
+<map id="Hide" name="Hide">
+<area shape="rect" id="Node000001" title=" " alt="" coords="472,32,526,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar_u_i_handler.html#ace9190a2c5f55f16d1a89b8e436efac6" title=" " alt="" coords="191,5,424,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,43,415,37,415,32,458,38"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar_u_i_handler.html#a4e8ad086fa92a43365bc24d619ad3e10" title=" " alt="" coords="194,59,421,87"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="458,55,415,61,415,55,457,49"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar_u_i_handler.html#ac54ce402cec4f1d67a1cef4db841d26d" title=" " alt="" coords="26,5,122,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="176,22,122,22,122,17,176,17"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar_u_i_handler.html#ace86fd313acb1f2fd71aec161ee8f153" title=" " alt="" coords="5,59,143,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="228,41,141,61,140,55,226,35"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="226,57,122,33,123,28,228,52"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="179,76,143,76,143,70,179,70"/>
+</map>

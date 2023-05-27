@@ -1,0 +1,5 @@
+<map id="UnitTargetPicker" name="UnitTargetPicker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,191,154,264"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_target_picker.html" title=" " alt="" coords="5,5,173,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,157,92,191,87,191,87,157"/>
+</map>

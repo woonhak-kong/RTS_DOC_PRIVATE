@@ -1,0 +1,9 @@
+<map id="GetRandomMovablePosition" name="GetRandomMovablePosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,227,95"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#a43654cdceea6b7e9d9dfd182d842170e" title=" " alt="" coords="339,5,467,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,63,274,42,324,32,325,37,275,48,181,69"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_terrain_1_1_i_terrain_manager.html#ae027f5e68cf7683d77d654b229c016ee" title=" " alt="" coords="298,58,508,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,78,282,78,282,84,227,84"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_movement_1_1_i_movement_system.html#a7288786d9eb3d7e37d7c671bf597c6db" title="Attempt to get a valid position that can be used as a movement path destination by sampling an area." alt="" coords="275,128,531,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,93,292,122,291,127,177,99"/>
+</map>

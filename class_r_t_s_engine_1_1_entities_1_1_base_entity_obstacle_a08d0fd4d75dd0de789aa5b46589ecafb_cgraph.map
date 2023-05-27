@@ -1,0 +1,7 @@
+<map id="Disable" name="Disable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,81,65"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_base_entity_obstacle.html#af8ca6e47001fa8a4a5a0b7a2a7a7bdbe" title=" " alt="" coords="217,5,297,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,42,202,25,202,30,81,48"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_movement_1_1_i_movement_system.html#ae87297cd54f1134e345896cf4255d970" title=" " alt="" coords="129,58,385,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,53,114,58,114,63,81,58"/>
+</map>

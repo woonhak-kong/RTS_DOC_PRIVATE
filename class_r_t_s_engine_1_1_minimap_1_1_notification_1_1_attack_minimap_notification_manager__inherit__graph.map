@@ -1,0 +1,15 @@
+<map id="AttackMinimapNotificationManager" name="AttackMinimapNotificationManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,732,262,1160"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,590,127,663"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,676,99,731,94,733,78,678"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_minimap_1_1_notification_1_1_i_attack_minimap_notification_manager.html" title=" " alt="" coords="151,569,349,684"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,698,222,733,217,732,227,697"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="168,448,332,521"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="253,536,253,570,247,570,247,536"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="194,327,306,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="253,414,253,448,247,448,247,414"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="67,96,225,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="176,200,236,326,231,328,171,202"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="250,5,458,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="286,292,269,328,264,326,281,290"/>
+</map>

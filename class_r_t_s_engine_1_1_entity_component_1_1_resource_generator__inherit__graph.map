@@ -1,0 +1,21 @@
+<map id="ResourceGenerator" name="ResourceGenerator">
+<area shape="rect" id="Node000001" title="Allows a FactionEntity instance (can be a unit or a building) to generate resources." alt="" coords="203,1529,467,2279"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_component_base.html" title=" " alt="" coords="117,796,341,1481"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,1495,286,1529,281,1530,276,1496"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,561,127,635"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,647,128,796,123,797,78,649"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="330,448,554,748"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="371,762,356,797,343,830,338,828,352,795,366,760"/>
+<area shape="rect" id="Node000009" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_resource_generator.html" title=" " alt="" coords="365,1091,519,1187"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="445,762,445,1091,439,1091,439,762"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="266,127,474,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="405,413,412,448,407,449,400,415"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="499,227,660,300"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="562,314,506,449,501,447,557,312"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="339,5,468,79"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="453,87,488,125,527,177,560,225,555,228,523,180,484,128,449,90"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="151,561,306,635"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="327,71,287,95,270,110,256,128,229,183,212,243,203,304,200,365,202,424,208,478,223,561,217,562,202,479,197,424,195,365,197,304,207,241,224,181,252,125,266,107,284,91,324,66"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="231,649,231,797,226,797,226,649"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="436,1201,390,1530,385,1529,431,1200"/>
+</map>

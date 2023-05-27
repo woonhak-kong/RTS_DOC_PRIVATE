@@ -1,0 +1,19 @@
+<map id="OnInit" name="OnInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,66,114"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html#ab52a2180cfbf302a6ed9a1df58edfc81" title=" " alt="" coords="116,5,338,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,82,113,61,129,55,131,60,115,66,67,87"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="114,76,340,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="66,97,99,97,99,102,66,102"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_gate_handler.html#ad609db95ec19866e8b8adf0660b81699" title=" " alt="" coords="156,146,298,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="67,112,115,131,143,140,141,145,113,137,65,117"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_gate_handler.html#abca49fcb710d09f4c50235ab482c772e" title=" " alt="" coords="454,14,586,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="297,150,319,143,338,132,355,113,361,93,369,72,386,52,411,39,438,31,440,36,413,44,390,56,373,74,366,95,359,116,342,136,321,148,299,155"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#a942c81adff888a4382d1daf0fe7b1535" title=" " alt="" coords="403,67,638,113"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="290,143,339,131,407,115,409,120,341,137,292,148"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_logging_1_1_i_player_message_handler.html#ad4e048d5e8983e2b48e058a52aec1600" title=" " alt="" coords="388,137,652,184"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="298,158,373,158,373,163,298,163"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_gate_handler.html#a6d4236210e075a53675a9a9e73b86d74" title=" " alt="" coords="444,208,597,236"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="297,173,389,193,431,202,430,207,387,198,296,178"/>
+<area shape="rect" id="Node000009" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_obstacle_handler.html#a05f5340e636cbd550d5f948357ecba46" title=" " alt="" coords="416,260,624,307"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="252,173,313,209,389,246,406,252,404,257,387,251,310,214,250,178"/>
+</map>

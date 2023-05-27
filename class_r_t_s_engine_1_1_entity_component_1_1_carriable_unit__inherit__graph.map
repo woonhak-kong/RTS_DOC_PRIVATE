@@ -1,0 +1,17 @@
+<map id="CarriableUnit" name="CarriableUnit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,2391,374,3008"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html" title=" " alt="" coords="5,1257,251,2343"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,2356,203,2391,198,2391,194,2357"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_carriable_unit.html" title=" " alt="" coords="275,1718,427,1882"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,1897,280,2391,274,2391,336,1896"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_target_component.html" title=" " alt="" coords="244,796,457,1209"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="353,1223,353,1718,348,1718,348,1223"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="239,448,463,748"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="353,762,353,796,348,796,348,762"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="143,127,351,400"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="296,413,307,447,302,449,291,414"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="375,227,537,300"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="443,314,400,449,395,447,438,313"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="391,5,521,79"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="459,93,459,227,453,227,453,93"/>
+</map>

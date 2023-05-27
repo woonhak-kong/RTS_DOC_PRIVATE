@@ -1,0 +1,13 @@
+<map id="RemoveUnitCreator" name="RemoveUnitCreator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,165,150"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_regulator.html#ab33766a8c904620feb2932c95dcc3fa3" title=" " alt="" coords="213,112,421,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,133,198,133,198,138,165,138"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#a84ec573022251aae6022bb56afba3658" title=" " alt="" coords="518,5,762,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,109,411,84,468,61,502,51,504,56,470,66,413,89,362,114"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a5fb64515b43947ff01e81bf02624f1e7" title=" " alt="" coords="495,76,785,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="421,121,479,115,480,120,422,126"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#af4602f9cb71c7c3533b61ab5bd73a215" title=" " alt="" coords="518,147,762,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="422,144,503,153,502,158,421,149"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a1e415273a1cc15ebdb85429472e10693" title=" " alt="" coords="469,217,810,264"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="364,157,414,181,470,202,498,211,496,216,468,207,412,185,362,162"/>
+</map>

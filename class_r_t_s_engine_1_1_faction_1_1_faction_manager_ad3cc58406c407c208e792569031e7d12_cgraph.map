@@ -1,0 +1,9 @@
+<map id="RemoveFactionEntity" name="RemoveFactionEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,175,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#aee94641306fd9668a397094b6afad117" title=" " alt="" coords="223,23,388,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,51,207,47,208,52,175,57"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#ad90be35c7ba45a7c1e041382701796ad" title=" " alt="" coords="252,77,359,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,72,238,80,238,85,174,77"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a784542668041efe851d873e03714a3cb" title=" " alt="" coords="436,5,693,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,35,421,35,421,40,389,40"/>
+</map>

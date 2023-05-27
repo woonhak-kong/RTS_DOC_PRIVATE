@@ -1,0 +1,19 @@
+<map id="NPCActiveBuildingRegulatorData" name="NPCActiveBuildingRegulatorData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,2355,405,2428"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator.html" title="Regulates the creation of a building type for a NPC faction." alt="" coords="27,2019,295,2289"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,2287,258,2339,254,2341,227,2290"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html" title=" " alt="" coords="5,1208,273,1953"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="156,1968,158,2019,153,2020,151,1968"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_building.html" title=" " alt="" coords="298,1465,482,1697"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="369,1697,335,1823,313,1890,287,1954,261,2006,256,2004,282,1952,308,1888,330,1821,364,1696"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entities_1_1_i_faction_entity.html" title=" " alt="" coords="306,881,474,1159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="393,1173,393,1465,387,1465,387,1173"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="260,328,520,832"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="393,847,393,882,387,882,387,847"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="183,5,391,279"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="325,292,334,328,328,329,320,293"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="416,105,569,179"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="484,193,452,329,446,328,478,192"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html" title=" " alt="" coords="319,2027,488,2281"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="354,2282,328,2332,322,2343,317,2340,324,2329,350,2280"/>
+</map>

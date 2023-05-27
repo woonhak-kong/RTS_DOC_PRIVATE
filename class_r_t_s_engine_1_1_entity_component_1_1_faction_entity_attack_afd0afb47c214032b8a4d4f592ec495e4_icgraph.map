@@ -1,0 +1,7 @@
+<map id="HandleEntityHealthUpdated" name="HandleEntityHealthUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,32,415,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#af2e2b253b2ef0b1b1778bf7de3f8fe82" title=" " alt="" coords="18,5,142,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,35,142,30,143,24,188,30"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#a4699386ad7b6684042610cdb65a3ed6d" title=" " alt="" coords="5,59,155,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,63,156,67,155,62,188,58"/>
+</map>

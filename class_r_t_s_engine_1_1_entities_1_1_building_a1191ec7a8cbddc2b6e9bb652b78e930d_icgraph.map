@@ -1,0 +1,17 @@
+<map id="HandleBuildingHealthUpdated" name="HandleBuildingHealthUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="647,32,877,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#aa9778387bbab9ee0f2e1c13ce62bd699" title=" " alt="" coords="422,5,599,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="631,44,576,37,577,32,632,39"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#ac99f25c8ef36c56fa13b462671ea8b9e" title=" " alt="" coords="473,59,548,87"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="632,63,549,72,548,66,632,57"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#a991137bc2929256b71655de7a9f39100" title=" " alt="" coords="453,112,568,141"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="703,68,599,102,562,114,560,109,598,97,702,63"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="614,19,696,29,696,34,613,24"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#a36b1732dd46461df42a413e10bed6858" title=" " alt="" coords="313,5,374,34"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="407,31,375,29,375,24,407,26"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="389,9,422,8,422,13,389,14"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#af4e5fcb1760d83c83336450da855ba6c" title=" " alt="" coords="225,5,265,34"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="298,22,265,22,265,17,298,17"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_entities_1_1_building.html#a31ceee1c99d457d1811b3e9a58a996f1" title=" " alt="" coords="5,5,177,34"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="210,22,177,22,177,17,210,17"/>
+</map>

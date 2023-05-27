@@ -1,0 +1,7 @@
+<map id="ResetFollowEntity" name="ResetFollowEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,32,401,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_u_i_icon.html#aa9a665650277e5e430ec67edd5264061" title=" " alt="" coords="5,5,208,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,38,208,35,208,29,241,33"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_u_i_icon.html#a254e8c82901a2374d0ddea78a8b4019a" title=" " alt="" coords="62,59,151,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,59,152,70,151,65,241,54"/>
+</map>

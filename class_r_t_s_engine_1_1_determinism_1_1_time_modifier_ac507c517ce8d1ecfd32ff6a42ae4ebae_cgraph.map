@@ -1,0 +1,15 @@
+<map id="HandleGameStateUpdatedGlobal" name="HandleGameStateUpdatedGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,261,131"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modifier.html#a5f4338291f6c55d592a335c6f69a2e5c" title=" " alt="" coords="325,76,444,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,100,310,95,310,100,262,106"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modifier.html#a81d38936bdf38dc0d7910f8053acc65a" title=" " alt="" coords="309,129,460,158"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="262,128,294,131,294,136,261,133"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#aed95630b3e224827d3bb402bcfc38278" title=" " alt="" coords="508,5,734,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,73,514,54,515,59,443,78"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modifier.html#a65a2778dd189f97cf830bfb242d27e77" title=" " alt="" coords="570,76,672,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="444,87,555,87,555,93,444,93"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="782,67,1016,113"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="673,87,768,87,768,93,673,93"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modifier.html#a83d08a6d1c2f90d41c84edd37538f10c" title=" " alt="" coords="536,129,706,158"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="460,141,521,141,521,146,460,146"/>
+</map>

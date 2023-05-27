@@ -1,0 +1,7 @@
+<map id="ResourceTypeValueRange" name="ResourceTypeValueRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,444,205,517"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_int_range.html" title=" " alt="" coords="44,264,167,360"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,360,108,427,103,427,103,360"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="44,5,167,215"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,229,108,264,103,264,103,229"/>
+</map>

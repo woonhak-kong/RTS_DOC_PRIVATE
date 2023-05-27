@@ -1,0 +1,7 @@
+<map id="RaiseGraphUpdated" name="RaiseGraphUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="290,50,455,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_base_entity_obstacle.html#a08d0fd4d75dd0de789aa5b46589ecafb" title=" " alt="" coords="5,5,242,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,53,242,48,242,43,275,48"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_base_entity_obstacle.html#a25d428f586ae81fec6f4611d500bc6ac" title=" " alt="" coords="5,76,242,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,81,242,85,242,80,274,76"/>
+</map>

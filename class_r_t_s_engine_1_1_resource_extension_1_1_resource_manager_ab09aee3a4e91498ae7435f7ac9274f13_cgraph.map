@@ -1,0 +1,7 @@
+<map id="UpdateResource" name="UpdateResource">
+<area shape="rect" id="Node000001" title="Adds/removes an amount of a faction&#39;s resource." alt="" coords="5,36,145,65"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_resource_extension_1_1_resource_manager.html#a3b54bcd263609c79df0a179d42a9e5fc" title=" " alt="" coords="234,5,457,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,40,219,31,219,37,146,45"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_resource_extension_1_1_i_faction_resource_handler.html#a8220421cca5b47428698292933348fa0" title=" " alt="" coords="193,58,498,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,56,178,59,177,65,145,61"/>
+</map>

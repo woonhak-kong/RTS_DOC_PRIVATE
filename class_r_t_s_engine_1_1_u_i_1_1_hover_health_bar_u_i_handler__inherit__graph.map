@@ -1,0 +1,13 @@
+<map id="HoverHealthBarUIHandler" name="HoverHealthBarUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,837,345,1273"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_object_pool.html" title=" " alt="" coords="5,448,223,789"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,802,170,837,165,838,156,804"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="247,582,411,655"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="319,670,277,838,272,837,314,668"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="273,327,385,400"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="331,414,331,582,326,582,326,414"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="145,96,304,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="254,200,314,326,310,328,250,202"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="329,5,537,279"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="365,292,348,328,343,326,360,290"/>
+</map>

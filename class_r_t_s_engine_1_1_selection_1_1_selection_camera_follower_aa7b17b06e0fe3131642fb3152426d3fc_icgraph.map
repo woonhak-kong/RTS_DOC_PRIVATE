@@ -1,0 +1,13 @@
+<map id="HandleCurrentFollowedEntityDeselected" name="HandleCurrentFollowedEntityDeselected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="464,48,687,95"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#a246f3588aa16db93cb8f2efb36c78c3f" title=" " alt="" coords="126,5,261,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="449,53,416,48,261,29,262,24,417,42,450,47"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aff33a898a3c13dc0f16b8b8b61e8a63e" title=" " alt="" coords="309,57,416,86"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="449,83,417,82,417,77,450,78"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,5,78,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,22,78,22,78,17,111,17"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="431,61,464,60,464,65,431,66"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="299,55,242,37,243,32,301,50"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="173,59,214,87"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="294,75,214,76,214,70,294,70"/>
+</map>

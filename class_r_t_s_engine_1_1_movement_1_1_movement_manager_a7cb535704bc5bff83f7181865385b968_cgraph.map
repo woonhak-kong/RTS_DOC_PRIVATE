@@ -1,0 +1,5 @@
+<map id="SpawnMovementTargetEffect" name="SpawnMovementTargetEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,232,43"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_effect_1_1_i_effect_object_pool.html#afcfbd9536a0e60dd0e33d310367ea66e" title=" " alt="" coords="280,5,472,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,26,265,26,265,31,232,31"/>
+</map>

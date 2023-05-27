@@ -1,0 +1,7 @@
+<map id="HandleCameraPositionUpdated" name="HandleCameraPositionUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,250,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_raycast_hitter.html#a4eba8a2fad14065cb672d352cf3d28da" title=" " alt="" coords="324,5,540,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,48,309,40,310,46,251,53"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_controller.html#aad1c4f7bf74c0be46861603ec0b31cb3" title=" " alt="" coords="298,76,566,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,76,283,80,283,85,250,81"/>
+</map>

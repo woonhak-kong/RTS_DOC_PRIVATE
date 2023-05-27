@@ -1,0 +1,6 @@
+<map id="HandleGameStartRunning" name="HandleGameStartRunning">
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,29,296,58"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="223,17,214,10,195,8,178,10,168,15,166,20,170,28,165,30,160,20,164,11,176,5,195,3,215,5,226,12"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,29,46,58"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="79,46,46,46,46,41,79,41"/>
+</map>

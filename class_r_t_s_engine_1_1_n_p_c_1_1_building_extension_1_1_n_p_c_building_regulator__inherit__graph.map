@@ -1,0 +1,5 @@
+<map id="NPCBuildingRegulator" name="NPCBuildingRegulator">
+<area shape="rect" id="Node000001" title="Regulates the creation of a building type for a NPC faction." alt="" coords="5,799,273,1091"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html" title=" " alt="" coords="5,5,273,751"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,765,142,799,137,799,137,765"/>
+</map>

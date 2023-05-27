@@ -1,0 +1,14 @@
+<map id="OnDestroy" name="OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,126,101,155"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a0969f123498ee034881cb8cec91b0f5d" title=" " alt="" coords="149,5,360,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,124,102,93,147,61,157,56,160,61,150,66,105,97,70,128"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a10ef363cc8038b8794537a8d4d5d0307" title=" " alt="" coords="153,100,356,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,132,138,127,139,132,101,137"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#aa6a97aa3d5c7d04123f3d606b26197d6" title=" " alt="" coords="164,153,345,182"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="101,144,149,151,149,156,101,150"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#ad9b86dbedb9eda60f3de8b912f6227db" title=" " alt="" coords="156,206,353,235"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="78,153,111,173,150,192,171,199,169,204,148,196,109,178,75,158"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="219,100,214,91,219,81,232,75,254,73,278,76,291,82,289,87,277,81,254,78,234,80,222,85,219,90,224,98"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="408,91,634,137"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="356,111,393,111,393,117,356,117"/>
+</map>

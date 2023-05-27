@@ -1,0 +1,18 @@
+<map id="HandleBuildingPlacementStopGlobal" name="HandleBuildingPlacementStopGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,239,184"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_local_grid_placement_mesh.html#a62863aba32c6e49d7413e59aebf42c27" title=" " alt="" coords="287,146,356,175"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,158,272,158,272,163,239,163"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_local_grid_placement_mesh.html#a3d3ae34da2d26f9f49575661b3b0d86b" title=" " alt="" coords="404,24,674,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,144,364,115,403,88,431,74,433,79,405,92,367,120,338,148"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html#a5a4be58268c72aa1dc70df7e1492cb61" title=" " alt="" coords="725,76,984,141"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="356,145,403,131,482,119,561,111,710,105,710,110,562,117,482,125,405,137,357,150"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_building_extension_1_1_local_grid_placement_mesh.html#a17429e13c9a428508d2aee33cdce1730" title=" " alt="" coords="458,146,620,175"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="356,158,443,158,443,163,356,163"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="426,199,652,245"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="357,170,405,185,429,192,428,197,403,190,356,175"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_effect_1_1_i_effect_object_pool.html#afcfbd9536a0e60dd0e33d310367ea66e" title=" " alt="" coords="443,269,635,316"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="333,174,362,215,382,237,405,256,431,269,428,273,403,260,378,241,357,218,329,177"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html#a30ad10d24e0d1f4a22672c29713bced7" title=" " alt="" coords="722,5,987,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="675,37,707,35,707,40,675,42"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="663,69,711,78,710,83,662,74"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="NPCUnitRegulatorData" name="NPCUnitRegulatorData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,828,449,901"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator_data.html" title=" " alt="" coords="171,501,381,779"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,791,350,827,345,829,331,793"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="167,303,297,377"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,391,253,477,257,501,252,502,248,478,236,391"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_int_range.html" title=" " alt="" coords="5,292,128,388"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="71,387,79,432,96,476,125,516,160,553,156,556,121,520,91,479,74,433,66,388"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="5,5,128,215"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="69,228,69,292,64,292,64,228"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="321,292,444,388"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="416,387,431,423,433,450,431,478,422,630,414,696,396,779,386,813,380,811,391,778,408,695,417,629,425,477,428,450,425,424,411,389"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="324,390,280,425,269,454,263,485,258,484,264,452,276,422,321,386"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="321,5,444,215"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="385,228,385,292,380,292,380,228"/>
+<area shape="rect" id="Node000008" href="$struct_r_t_s_engine_1_1_entities_1_1_faction_entity_requirement.html" title=" " alt="" coords="468,281,660,399"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="511,401,435,479,395,521,391,517,431,475,507,397"/>
+<area shape="rect" id="Node000009" href="$struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html" title=" " alt="" coords="489,51,639,169"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="567,169,567,264,561,264,561,169"/>
+</map>

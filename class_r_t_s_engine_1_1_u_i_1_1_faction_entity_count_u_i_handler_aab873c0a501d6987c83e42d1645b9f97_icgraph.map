@@ -1,0 +1,16 @@
+<map id="Add" name="Add">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,85,534,114"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a85d97e85990a6374d1de2891bf8dbfd6" title=" " alt="" coords="375,85,435,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,102,436,102,436,97,468,97"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a943ad1f0927f3bc449566aefd5204d9f" title=" " alt="" coords="129,76,327,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,102,328,102,328,97,360,97"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a01f1070c46e4cc24d25a0ea0869bc972" title=" " alt="" coords="13,85,73,114"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="367,123,328,138,272,149,228,152,184,148,128,138,98,129,70,117,73,112,100,124,129,133,184,143,228,146,272,143,326,133,365,118"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a7bf61279407a67f1ff26b0d8d07cdbac" title=" " alt="" coords="129,5,327,52"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="360,81,326,66,299,55,300,50,328,61,363,76"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a1f8be84feac6d2e2b44e604854725f81" title=" " alt="" coords="5,24,81,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,73,80,53,82,48,143,68"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="114,102,74,102,74,97,114,97"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="114,37,81,39,81,33,114,32"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="145,60,130,66,75,89,73,84,128,61,143,55"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="OnBuildingEnterConstruction" name="OnBuildingEnterConstruction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="811,157,1033,186"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#a1ac558186ff8bef5dcbe52f8c3fab813" title=" " alt="" coords="542,117,763,164"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="796,160,763,156,764,151,797,154"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#ae7f75085065718bec303f48968466072" title=" " alt="" coords="264,5,494,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="585,113,493,74,445,55,447,50,495,69,587,108"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#a534c6da30f10b5cfdb0529d3d4168ec3" title="Called after all INPCComponent instances have been cached and initialized by the INPCManager instance..." alt="" coords="64,72,157,100"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="527,131,157,93,157,88,527,125"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#a1c548e185a4b644fe65ae56682a01035" title=" " alt="" coords="272,179,486,225"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="532,170,487,181,486,175,530,165"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="54,14,167,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,31,167,31,167,26,249,26"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="253,58,158,79,156,74,252,53"/>
+<area shape="poly" id="edge6_Node000006_Node000001" title=" " alt="" coords="501,192,811,175,811,180,501,198"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_constructor.html#abaf9e452b46fccae457797862391abcc" title=" " alt="" coords="5,154,216,183"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="257,190,216,184,216,179,258,184"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="230,160,541,144,542,149,231,165"/>
+</map>

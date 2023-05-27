@@ -1,0 +1,47 @@
+<map id="IPostRunGameService" name="IPostRunGameService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1369,448,1540,521"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_audio_1_1_audio_listener_handler.html" title=" " alt="" coords="5,779,261,965"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1355,490,1085,496,747,510,584,521,442,534,335,551,298,561,275,572,251,591,229,614,195,667,170,724,153,780,148,778,165,722,190,665,225,611,247,587,272,567,296,556,334,546,441,529,583,515,746,505,1085,491,1355,485"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_mesh.html" title=" " alt="" coords="285,835,443,909"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1355,491,1123,498,841,513,707,523,591,537,504,553,475,562,456,571,429,599,408,631,392,666,381,704,368,776,366,836,360,835,363,776,376,702,387,665,404,628,425,595,453,567,472,557,503,547,590,531,706,518,841,507,1123,493,1355,485"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_building_extension_1_1_local_grid_placement_mesh.html" title=" " alt="" coords="467,569,739,1175"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1355,489,1202,493,1025,506,939,517,862,531,798,549,752,572,740,581,737,576,749,567,796,544,861,526,938,511,1024,501,1202,488,1355,484"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_dev_tools_1_1_dev_tool_component_base.html" title=" " alt="" coords="763,722,952,1022"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1355,494,1249,503,1134,518,1032,540,993,555,966,571,936,603,912,640,893,681,880,723,875,721,888,679,907,638,931,600,962,567,991,550,1031,535,1133,513,1248,498,1355,489"/>
+<area shape="rect" id="Node000014" href="$class_r_t_s_engine_1_1_faction_1_1_faction_defeat_handler.html" title=" " alt="" coords="977,758,1202,986"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1356,503,1320,514,1283,528,1248,547,1217,571,1181,613,1153,660,1131,710,1115,759,1110,757,1126,708,1148,658,1177,609,1213,567,1245,543,1281,524,1318,509,1355,498"/>
+<area shape="rect" id="Node000015" href="$class_r_t_s_engine_1_1_faction_1_1_initial_faction_entities_spawner.html" title=" " alt="" coords="1227,790,1440,954"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1442,536,1361,791,1356,789,1437,534"/>
+<area shape="rect" id="Node000016" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html" title=" " alt="" coords="1464,745,1691,999"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1473,534,1540,744,1535,746,1468,536"/>
+<area shape="rect" id="Node000017" href="$class_r_t_s_engine_1_1_u_i_1_1_f_p_s_u_i_handler.html" title=" " alt="" coords="1715,779,1861,965"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1554,495,1594,505,1634,520,1672,540,1705,568,1739,615,1763,669,1778,726,1787,778,1781,779,1773,727,1758,671,1735,618,1701,571,1669,545,1632,524,1592,510,1553,500"/>
+<area shape="rect" id="Node000018" href="$interface_r_t_s_engine_1_1_u_i_1_1_i_game_player_message_u_i_handler.html" title=" " alt="" coords="1886,835,2122,909"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1554,492,1643,504,1737,519,1819,540,1851,553,1875,567,1905,596,1930,629,1950,666,1967,703,1990,776,2002,835,1997,836,1985,777,1962,705,1945,668,1925,632,1901,600,1872,571,1849,558,1817,546,1735,525,1642,509,1553,498"/>
+<area shape="rect" id="Node000020" href="$class_r_t_s_engine_1_1_u_i_1_1_time_modifier_u_i_handler.html" title=" " alt="" coords="2147,654,2381,1090"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="1554,484,1702,488,1873,501,1955,512,2029,526,2091,544,2135,567,2175,606,2206,653,2201,656,2171,609,2132,571,2089,549,2028,531,1954,517,1872,506,1702,494,1554,489"/>
+<area shape="rect" id="Node000021" href="$class_r_t_s_engine_1_1_u_i_1_1_utility_buttons_u_i_handler.html" title=" " alt="" coords="2405,615,2645,1129"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="1555,486,1772,496,2034,512,2159,522,2266,535,2348,550,2376,558,2395,567,2420,588,2442,613,2438,617,2416,592,2392,572,2374,563,2347,555,2266,540,2158,528,2034,517,1772,501,1554,492"/>
+<area shape="rect" id="Node000022" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_unit_squad_manager.html" title=" " alt="" coords="2669,813,2827,931"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="1555,484,1830,488,2177,501,2343,511,2488,525,2597,544,2635,555,2659,567,2684,592,2704,621,2720,653,2732,686,2746,753,2751,813,2746,813,2741,754,2727,688,2715,655,2700,624,2680,595,2656,571,2633,560,2596,549,2487,531,2343,516,2176,506,1830,494,1555,489"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="1399,327,1511,400"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1457,414,1457,448,1452,448,1452,414"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="1271,96,1430,188"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1380,200,1440,326,1436,328,1376,202"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="1455,5,1663,279"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1491,292,1474,328,1469,326,1486,290"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_building_extension_1_1_global_grid_placement_mesh.html" title=" " alt="" coords="225,1223,503,1832"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="367,923,367,1223,361,1223,361,923"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_dev_tools_1_1_faction_1_1_faction_limit_setter.html" title=" " alt="" coords="552,1457,693,1598"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="816,1037,788,1108,753,1176,741,1191,729,1201,718,1210,708,1224,680,1282,659,1344,634,1457,629,1456,654,1343,675,1280,703,1221,714,1206,726,1196,737,1187,748,1173,783,1106,811,1035"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_dev_tools_1_1_health_1_1_auto_building_constructor.html" title=" " alt="" coords="717,1434,949,1621"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="854,1036,839,1435,834,1434,849,1036"/>
+<area shape="rect" id="Node000012" href="$class_r_t_s_engine_1_1_dev_tools_1_1_resource_extension_1_1_faction_resource_setter.html" title=" " alt="" coords="973,1445,1147,1609"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="910,1035,1038,1445,1032,1446,905,1036"/>
+<area shape="rect" id="Node000013" href="$class_r_t_s_engine_1_1_dev_tools_1_1_task_1_1_pending_tasks_auto_completer.html" title=" " alt="" coords="1171,1423,1443,1632"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="886,1034,899,1072,917,1109,939,1143,966,1173,990,1189,1013,1197,1036,1199,1060,1197,1109,1197,1134,1205,1160,1221,1203,1264,1237,1315,1264,1370,1283,1422,1278,1424,1259,1372,1233,1318,1199,1268,1157,1225,1132,1209,1108,1203,1060,1203,1036,1204,1012,1202,987,1194,962,1177,935,1146,912,1112,894,1074,881,1036"/>
+<area shape="rect" id="Node000019" href="$class_r_t_s_engine_1_1_u_i_1_1_game_player_message_u_i_handler.html" title=" " alt="" coords="1866,1457,2142,1598"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="2007,923,2007,1457,2001,1457,2001,923"/>
+<area shape="rect" id="Node000023" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html" title=" " alt="" coords="2646,1298,2850,1757"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="2751,946,2751,1298,2745,1298,2745,946"/>
+</map>

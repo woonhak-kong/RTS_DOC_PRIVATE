@@ -1,0 +1,11 @@
+<map id="CanMove" name="CanMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,94,150"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_entity_amount_handler.html#a376d4854e8dcb7b68ce901de5e65ce25" title=" " alt="" coords="160,5,370,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,119,97,89,140,61,152,56,154,60,143,66,100,94,67,123"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_faction_1_1_free_faction_behaviour.html#a561042c2648f4f583982c6424ec945e2" title=" " alt="" coords="142,76,388,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,125,127,120,128,125,94,131"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#aebb5dde03e162537cd9f39632cf2533c" title=" " alt="" coords="145,147,385,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,140,131,146,130,151,93,145"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html#a78ee3a5a62e6bb8ed3e416ef07b20276" title=" " alt="" coords="142,217,388,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="68,148,101,176,143,202,157,209,155,214,140,207,98,180,65,152"/>
+</map>

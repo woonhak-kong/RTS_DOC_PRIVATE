@@ -1,0 +1,7 @@
+<map id="LoadPrefabs" name="LoadPrefabs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,118,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_object_pool.html#a3feacf416b81d1192a83e78361e174b3" title=" " alt="" coords="166,5,253,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,34,150,28,151,33,119,39"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_utilities_1_1_object_pool.html#a3f15b37bea8ee74d440042831559b184" title=" " alt="" coords="186,59,233,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,54,172,64,171,69,118,59"/>
+</map>

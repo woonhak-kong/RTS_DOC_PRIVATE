@@ -1,0 +1,5 @@
+<map id="NPCTypeDrawer" name="NPCTypeDrawer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,259,177,332"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_editor_only_1_1_scriptable_object_input_drawer.html" title=" " alt="" coords="5,5,217,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,225,114,259,109,259,109,225"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="IMinimapCameraHandler" name="IMinimapCameraHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,5,375,101"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_minimap_1_1_cameras_1_1_minimap_camera_direct_handler.html" title=" " alt="" coords="5,204,243,300"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,115,157,206,153,203,214,112"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_minimap_1_1_cameras_1_1_minimap_camera_u_i_render_texture_handler.html" title=" " alt="" coords="267,149,512,355"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,111,323,148,318,151,293,114"/>
+</map>

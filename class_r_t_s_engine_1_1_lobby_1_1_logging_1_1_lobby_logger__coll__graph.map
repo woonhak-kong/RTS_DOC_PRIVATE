@@ -1,0 +1,17 @@
+<map id="LobbyLogger" name="LobbyLogger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,1023,233,1096"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_logging_1_1_logger_base.html" title=" " alt="" coords="5,652,165,975"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,987,169,1022,164,1024,150,989"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="25,429,146,502"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,516,88,652,83,652,83,516"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_lobby_1_1_logging_1_1_i_lobby_logging_service.html" title=" " alt="" coords="190,777,359,850"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,864,196,1024,191,1022,253,862"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_lobby_1_1_service_1_1_i_lobby_service.html" title=" " alt="" coords="195,429,307,502"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,516,275,777,270,777,251,516"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="149,96,323,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="241,202,252,429,246,429,236,202"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html" title=" " alt="" coords="359,327,519,604"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="370,618,294,778,289,776,365,615"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="348,5,556,279"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="448,293,447,327,442,327,443,293"/>
+</map>

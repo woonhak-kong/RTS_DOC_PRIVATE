@@ -1,0 +1,7 @@
+<map id="InitNPC" name="InitNPC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="251,5,325,34"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_faction_1_1_faction_slot.html#ad3f8b715e2ba50aa458903c3907c39e6" title=" " alt="" coords="94,5,203,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,22,203,22,203,17,236,17"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_faction_1_1_faction_slot.html#a3bc9c3a5f8fded29fa5367366096c4c5" title=" " alt="" coords="5,5,46,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,22,46,22,46,17,79,17"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="AutoBuildingConstructor" name="AutoBuildingConstructor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,939,433,1126"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_dev_tools_1_1_dev_tool_component_base.html" title=" " alt="" coords="222,613,411,890"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,904,319,939,314,939,314,904"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,462,127,535"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,543,224,654,220,657,110,547"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="151,462,315,535"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="252,548,273,612,268,614,247,550"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="271,328,383,401"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,414,260,464,256,460,292,411"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_game_1_1_i_post_run_game_service.html" title=" " alt="" coords="339,462,510,535"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="364,411,401,460,396,464,360,414"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="144,96,303,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="253,200,313,327,308,329,248,202"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="327,5,535,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="364,293,346,329,342,327,359,290"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="406,549,378,614,373,612,401,547"/>
+<area shape="rect" id="Node000009" href="$struct_r_t_s_engine_1_1_utilities_1_1_faction_slot_role_filter.html" title=" " alt="" coords="535,451,731,547"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="576,549,426,667,423,663,572,544"/>
+</map>

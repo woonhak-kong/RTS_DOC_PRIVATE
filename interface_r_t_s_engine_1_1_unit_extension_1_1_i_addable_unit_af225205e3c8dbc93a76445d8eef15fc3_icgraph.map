@@ -1,0 +1,7 @@
+<map id="CanMove" name="CanMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="282,50,370,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_unit.html#a3f697cddd2e0493f40f184bedc9ea59b" title=" " alt="" coords="23,5,216,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,57,215,48,216,43,268,52"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_carriable_unit.html#a6091e61125899983c7eca0140872e155" title=" " alt="" coords="5,76,234,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,77,234,83,233,77,267,72"/>
+</map>

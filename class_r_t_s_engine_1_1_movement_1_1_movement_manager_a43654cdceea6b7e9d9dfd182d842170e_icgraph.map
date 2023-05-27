@@ -1,0 +1,11 @@
+<map id="IsPositionClear" name="IsPositionClear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="517,59,644,87"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#a7f7e6e500e6453605c3511174079702e" title=" " alt="" coords="260,5,457,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,57,421,37,422,32,504,52"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#a8aac7fb23ed200262341ee7bec103512" title=" " alt="" coords="248,59,469,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="502,76,470,76,470,70,502,70"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#a846d9c23ca2bc4e574dbca49c4438f36" title=" " alt="" coords="261,112,456,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="504,94,422,114,421,109,503,89"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#a6ed6e42f9515f896e099c8ac7507123a" title=" " alt="" coords="5,112,200,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="246,129,200,129,200,124,246,124"/>
+</map>

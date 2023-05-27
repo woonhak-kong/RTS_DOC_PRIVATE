@@ -1,0 +1,9 @@
+<map id="OnBuildingConstructionRequestInternal" name="OnBuildingConstructionRequestInternal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,248,123"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#af1ef9dc6c908b881d5c0ed1bd43dea7b" title=" " alt="" coords="296,5,600,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,73,324,53,325,58,236,78"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="319,76,577,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,97,304,97,304,102,248,102"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_target_component.html#a500bfa1d5fcff4164d73d7fa06f47446" title=" " alt="" coords="317,147,579,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,121,325,140,324,146,235,126"/>
+</map>

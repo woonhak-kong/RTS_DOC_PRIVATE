@@ -1,0 +1,9 @@
+<map id="RegisterFactionPlacementHandler" name="RegisterFactionPlacementHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,212,123"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_manager.html#a1e9d0a6c6266bd5fc9f603ceeafdb051" title=" " alt="" coords="260,5,524,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,73,281,53,282,59,206,78"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_handler.html#aa5179ede3e18bf750e382def6aefc26b" title=" " alt="" coords="275,76,509,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,97,260,97,260,102,212,102"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="279,147,505,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,121,282,140,281,145,204,126"/>
+</map>

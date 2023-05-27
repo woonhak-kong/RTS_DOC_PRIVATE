@@ -1,0 +1,9 @@
+<map id="INPCDefenseManager" name="INPCDefenseManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,493,226,657"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_defense_manager.html" title="Responsible for defending a NPC faction&#39;s territory." alt="" coords="5,705,253,1337"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,671,132,706,127,706,127,671"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_component.html" title=" " alt="" coords="61,327,197,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,459,132,494,127,494,127,459"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="25,5,233,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,293,132,327,127,327,127,293"/>
+</map>

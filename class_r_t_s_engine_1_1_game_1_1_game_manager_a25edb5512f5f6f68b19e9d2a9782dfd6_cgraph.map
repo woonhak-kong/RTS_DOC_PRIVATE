@@ -1,0 +1,9 @@
+<map id="HandleFactionSlotDefeatConditionTriggeredGlobal" name="HandleFactionSlotDefeatConditionTriggeredGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,269,88"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_game_1_1_game_manager.html#a55602c8a26b4a88cb6de0794e77fc16d" title=" " alt="" coords="317,50,475,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,62,302,62,302,67,269,67"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="523,5,756,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,50,508,45,509,51,476,56"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#a380b4a9b28b93b6e2ed73cfecddca5bd" title=" " alt="" coords="523,76,756,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="476,73,509,78,508,83,475,79"/>
+</map>

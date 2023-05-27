@@ -1,0 +1,6 @@
+<map id="HandleEntityDead" name="HandleEntityDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,29,331,58"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="289,17,278,10,257,8,238,10,228,15,225,20,229,27,224,30,220,20,224,11,237,5,257,3,280,5,292,12"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_demo_1_1_open_treasure_handler.html#a25d428f586ae81fec6f4611d500bc6ac" title=" " alt="" coords="5,29,136,58"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="169,46,136,46,136,41,169,41"/>
+</map>

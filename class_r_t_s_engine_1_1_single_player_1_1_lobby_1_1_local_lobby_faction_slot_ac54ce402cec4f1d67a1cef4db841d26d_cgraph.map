@@ -1,0 +1,21 @@
+<map id="OnDestroy" name="OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,101,83"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#a90903e8e45f4ca8975b2fe28890c5bce" title=" " alt="" coords="167,12,381,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,59,152,51,153,56,102,64"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#a91aa2493b4e23c665a2294747c9e4e86" title=" " alt="" coords="149,85,399,114"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="102,73,152,80,151,85,101,78"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#a4c9f328cecd99d8000bf610f71d0e237" title=" " alt="" coords="459,17,584,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,31,443,30,443,35,381,36"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#aedf91ef2af1d9bdfd594668a4fd87efe" title=" " alt="" coords="643,5,908,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="584,28,628,28,628,33,584,33"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#ac6d94757686448b2783d3ea35589ef51" title=" " alt="" coords="447,85,595,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="400,97,432,97,432,102,400,102"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#a401fe9aff1beb7683615377509903bc9" title=" " alt="" coords="456,138,586,167"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="345,112,442,133,441,138,343,117"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#acb1d0f5bdf4af41555fc2171f7c1adc8" title=" " alt="" coords="643,147,908,193"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="572,112,644,133,669,140,667,145,643,138,570,117"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#a569d0b1596246041c1ab7b855d43d25a" title=" " alt="" coords="657,76,894,123"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="596,97,642,97,642,102,596,102"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="587,154,629,157,628,163,586,160"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="586,136,647,124,648,129,587,142"/>
+</map>

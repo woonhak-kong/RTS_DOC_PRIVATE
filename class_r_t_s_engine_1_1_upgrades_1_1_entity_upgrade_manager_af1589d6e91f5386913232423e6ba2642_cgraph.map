@@ -1,0 +1,27 @@
+<map id="LaunchLocal" name="LaunchLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,241,115,270"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_manager.html#a1e9d0a6c6266bd5fc9f603ceeafdb051" title=" " alt="" coords="173,5,437,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,240,74,205,94,159,123,111,161,69,179,57,182,61,164,73,127,114,99,161,79,207,68,241"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_upgrades_1_1_entity_upgrade_manager.html#aae99b56d695da6e746216c9ba464901e" title=" " alt="" coords="255,128,355,156"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="74,239,111,205,161,173,200,158,239,148,241,154,202,163,164,178,115,210,77,243"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#a93db54f4c52971d6dffc3508422911fa" title=" " alt="" coords="547,76,780,123"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="64,239,77,211,98,175,126,140,161,113,206,93,253,79,301,69,350,64,446,63,533,71,532,76,446,68,351,69,302,74,254,84,208,98,164,118,129,144,102,178,82,213,69,242"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="551,163,777,209"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="95,238,162,217,259,201,358,190,536,182,536,188,358,196,260,206,163,222,97,243"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_upgrades_1_1_upgrade.html#a526d27cfc0f9dcbda6d46cb8b53ba6cd" title=" " alt="" coords="183,232,427,279"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="115,253,168,253,168,258,115,258"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#ae5f721301c46de947ce61ce746ade1ad" title=" " alt="" coords="176,303,434,368"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="105,268,164,287,187,295,186,300,162,293,103,273"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#aaa9747eec44f1f9bbb1ac725d9cc995f" title=" " alt="" coords="163,392,447,439"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="71,269,107,322,133,352,164,377,174,383,171,388,161,382,129,356,103,326,67,272"/>
+<area shape="rect" id="Node000009" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a547430e616acf782b817db2ce6a20ce1" title=" " alt="" coords="168,463,442,509"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="67,270,78,307,96,355,125,406,143,429,164,449,169,453,166,457,161,453,139,433,120,409,91,358,72,308,62,271"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_upgrades_1_1_entity_upgrade_manager.html#a3e419244ac7a0a41096bb1e3ab442709" title=" " alt="" coords="235,533,375,562"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="65,270,70,319,86,387,99,424,116,460,137,492,164,520,191,535,221,544,220,549,189,540,161,524,133,495,111,462,94,426,81,389,65,320,59,271"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="355,133,532,112,533,118,356,139"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="356,145,536,168,535,173,355,151"/>
+<area shape="rect" id="Node000011" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_manager.html#a172983d7a5740b67c4ecdad5e3176020" title=" " alt="" coords="495,488,832,535"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="375,538,480,527,480,532,375,543"/>
+<area shape="rect" id="Node000012" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_unit_manager.html#a04ef5f5d0c0d2b5fa69b8a67e3d90ac7" title=" " alt="" coords="549,559,779,605"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="375,551,534,567,533,572,375,557"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="HandleFactionEntityDead" name="HandleFactionEntityDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,205,114"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#adcb6e7367b620ec421212972b74be193" title=" " alt="" coords="253,85,387,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,106,238,106,238,111,205,111"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="252,94,220,93,220,88,252,89"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#aa5984913922e5931963e4bd0a103b453" title=" " alt="" coords="447,5,645,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,82,434,44,460,36,461,41,436,49,350,87"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#a3130e12f09fe66fe5af7b24ac971ed3d" title=" " alt="" coords="435,59,656,87"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="387,89,420,85,420,90,388,94"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#a2bf8330abaa005de7e75d1fc5e584695" title=" " alt="" coords="441,112,651,141"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="388,105,426,110,426,115,387,110"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#a5a2bd1e8f0d7b5273130b5f7a2d95a7c" title=" " alt="" coords="458,165,633,194"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="350,112,436,151,461,159,460,164,434,155,348,117"/>
+</map>

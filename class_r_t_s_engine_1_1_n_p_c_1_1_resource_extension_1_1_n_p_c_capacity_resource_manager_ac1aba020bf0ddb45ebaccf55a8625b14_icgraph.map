@@ -1,0 +1,7 @@
+<map id="HandleFirstBuildingCenterInitialized" name="HandleFirstBuildingCenterInitialized">
+<area shape="rect" id="Node000001" title=" " alt="" coords="167,23,371,70"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="5,5,119,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,34,119,30,119,24,152,29"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html#a30d8ad62047e95132edf459b2aabb5d2" title="Called when the INPCManager instance first initializes the INPCComponent instance." alt="" coords="19,59,105,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,64,105,70,105,65,152,59"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ActivateBuildingRegulator" name="ActivateBuildingRegulator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="774,126,974,155"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html#ad2147e9c0616eeba974f6436dad607d8" title=" " alt="" coords="404,63,718,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="759,127,718,121,719,115,760,121"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html#ac1aba020bf0ddb45ebaccf55a8625b14" title=" " alt="" coords="396,152,726,217"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="760,159,727,164,726,159,759,154"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="35,5,318,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,68,315,55,315,50,389,63"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html#a30d8ad62047e95132edf459b2aabb5d2" title="Called when the INPCManager instance first initializes the INPCComponent instance." alt="" coords="35,76,318,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="389,100,318,101,318,95,389,94"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="5,156,348,203"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="381,185,348,184,348,179,381,180"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html#a30d8ad62047e95132edf459b2aabb5d2" title="Called when the INPCManager instance first initializes the INPCComponent instance." alt="" coords="19,227,334,273"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="382,218,318,229,317,223,381,213"/>
+</map>

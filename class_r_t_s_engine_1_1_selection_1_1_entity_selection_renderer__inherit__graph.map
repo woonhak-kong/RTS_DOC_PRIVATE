@@ -1,0 +1,11 @@
+<map id="EntitySelectionRenderer" name="EntitySelectionRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,339,326,661"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,172,127,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,256,147,343,142,346,91,259"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_selection_1_1_i_entity_selection_marker.html" title=" " alt="" coords="151,127,319,291"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,305,238,339,233,339,233,305"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="343,172,498,245"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="393,258,328,359,324,356,388,255"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="356,5,485,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,93,423,172,418,172,418,93"/>
+</map>

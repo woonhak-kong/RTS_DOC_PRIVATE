@@ -1,0 +1,7 @@
+<map id="IModelChildRenderer" name="IModelChildRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,127,201,245"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_model_1_1_model_child_renderer_handler.html" title=" " alt="" coords="5,293,237,525"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,260,124,294,119,294,119,260"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_model_1_1_i_model_child.html" title=" " alt="" coords="61,5,181,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,93,124,127,119,127,119,93"/>
+</map>

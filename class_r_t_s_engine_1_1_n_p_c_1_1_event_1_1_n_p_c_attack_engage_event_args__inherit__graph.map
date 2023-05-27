@@ -1,0 +1,5 @@
+<map id="NPCAttackEngageEventArgs" name="NPCAttackEngageEventArgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,244,223"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="82,5,167,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,93,127,127,122,127,122,93"/>
+</map>

@@ -1,0 +1,26 @@
+var class_r_t_s_engine_1_1_building_extension_1_1_building_manager =
+[
+    [ "CreatePlacedBuilding", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a53a9edbf0569b44d4e6b52dc8c277e5e", null ],
+    [ "CreatePlacedBuildingLocal", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a172983d7a5740b67c4ecdad5e3176020", null ],
+    [ "CreatePlacementBuilding", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a3f6f517940546f017eab307bf63d6a26", null ],
+    [ "HandleBorderActivatedGlobal", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#aefbc6c48a1e4fbce9c39e6aa60d08192", null ],
+    [ "HandleBorderDisabledGlobal", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a39f12a65816c083d00e40ee7dd77c0fe", null ],
+    [ "HandleEntityFactionUpdateStartGlobal", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a0969f123498ee034881cb8cec91b0f5d", null ],
+    [ "HandleGameStartRunning", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a10ef363cc8038b8794537a8d4d5d0307", null ],
+    [ "OnDisable", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a3e9a1e1cd7a478a0d00f0efb51a8e4cf", null ],
+    [ "OnObjectPoolInit", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a0929fa40a996e5f15b4ee0a836e08c13", null ],
+    [ "SpawnBorderObject", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a0e2ead06ca98731e59b2022767c1caf7", null ],
+    [ "allBorders", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a7f287cb8df6f1dcdabf2d4fae39849ec", null ],
+    [ "constructionType", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a27330e042053ea8b287debc63be05488", null ],
+    [ "freeBuildingColor", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a866f369826f7f14c45e525e70bfc3192", null ],
+    [ "freeBuildings", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a3d7e06192e9be3f017b21cfc359b0e0e", null ],
+    [ "preSpawnedFreeBuildings", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#aa8001d444e7357d4e9ce3d4112e98ae1", null ],
+    [ "AllBorders", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a94285536fb947cb94994318555dfd65b", null ],
+    [ "ConstructionType", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a9cc30f9c6d4808dfefdf2728c2a0852d", null ],
+    [ "FreeBuildingColor", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#ad81b84940be1a4f76c5dbdaf6c79fff3", null ],
+    [ "FreeBuildings", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#ae55dc876b54a80461cd6029882000cba", null ],
+    [ "globalEvent", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a7fce91063eb2562fefba866862a1a26c", null ],
+    [ "inputMgr", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a2823acc544813d58d72c4affc4c66d76", null ],
+    [ "LastBorderSortingOrder", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a2e6693e05d1c9d4494760a98b7ea5f40", null ],
+    [ "placementMgr", "class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#ac4cdec004502acfe4c6c548dccb3fc9f", null ]
+];

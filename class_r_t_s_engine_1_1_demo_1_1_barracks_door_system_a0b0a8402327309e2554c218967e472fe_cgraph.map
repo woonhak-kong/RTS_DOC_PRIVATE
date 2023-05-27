@@ -1,0 +1,10 @@
+<map id="Disable" name="Disable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,81,74"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_demo_1_1_barracks_door_system.html#ab33766a8c904620feb2932c95dcc3fa3" title=" " alt="" coords="129,5,337,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,51,113,45,114,51,82,56"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_demo_1_1_barracks_door_system.html#a024b81ee86f387ee4366bdec5ad5c3a6" title=" " alt="" coords="151,76,315,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="82,63,136,72,136,77,81,68"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_demo_1_1_barracks_door_system.html#a5e53001785ff30ae485a113b9b8a0ddc" title=" " alt="" coords="385,45,444,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,44,371,49,370,55,337,49"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="315,73,370,64,371,69,316,79"/>
+</map>

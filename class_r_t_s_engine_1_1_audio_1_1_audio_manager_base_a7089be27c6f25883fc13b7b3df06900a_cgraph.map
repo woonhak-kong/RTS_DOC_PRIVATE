@@ -1,0 +1,24 @@
+<map id="InitBase" name="InitBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,83,206"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a2d8fb91a096920436a0d045e39895eda" title="Starts playing the music loops." alt="" coords="198,85,290,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,175,89,148,130,122,182,105,184,110,132,127,92,152,61,179"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#ae921eb90b8b14d59ae5e2ab06f926707" title=" " alt="" coords="131,137,357,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="82,183,116,178,116,183,83,188"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a49381496f82d00d2eba1bddb7c039bde" title="Updates the volume of the music loops." alt="" coords="161,208,327,236"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="83,195,147,204,146,210,82,200"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a8d6c405e3b67d2b0259b4697a3d7ab9e" title="Updates the volume of the local SFX AudioSource instances (coming from units, buildings,..." alt="" coords="165,261,323,290"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="65,204,95,226,132,246,152,254,150,259,130,251,92,230,62,208"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#ae66b35cc5dce8aec7bfd22b848b10203" title="Coroutine that plays music loops." alt="" coords="418,85,568,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,97,403,97,403,102,290,102"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#aff9a086b4bfcb9a767e6e735f27843b2" title=" " alt="" coords="629,76,847,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="568,97,614,97,614,102,568,102"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#ab05dd73c340047063857952d613c5f53" title=" " alt="" coords="895,5,1112,52"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="828,73,899,54,900,59,829,78"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#af6790a7bb539c2d3d760bfe34d129cff" title=" " alt="" coords="895,76,1112,123"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="847,97,879,97,879,102,847,102"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#a967ed4c750af7faa152862f3a014ab97" title=" " alt="" coords="895,147,1112,193"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="829,121,900,140,899,145,828,126"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a71eed4ed7a331c53e5d715d386a33ac4" title=" " alt="" coords="405,234,581,263"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="328,228,390,235,390,240,327,234"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="323,264,390,257,390,262,323,270"/>
+</map>

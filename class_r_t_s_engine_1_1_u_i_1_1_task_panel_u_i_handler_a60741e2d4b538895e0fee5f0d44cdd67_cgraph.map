@@ -1,0 +1,7 @@
+<map id="Add" name="Add">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,56,88"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html#a37d1ea833e3c8b695835e1e87feed923" title=" " alt="" coords="104,5,359,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,67,89,61,90,66,57,72"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_task_panel_u_i_handler.html#a6122668fbd0c32bee1559d717caf067d" title="Disables an active EntityComponentTaskUITracker instance that tracks a task." alt="" coords="117,94,346,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="57,75,130,88,130,93,56,81"/>
+</map>

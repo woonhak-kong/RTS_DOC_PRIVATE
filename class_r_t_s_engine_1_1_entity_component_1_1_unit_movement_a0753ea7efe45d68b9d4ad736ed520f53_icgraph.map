@@ -1,0 +1,10 @@
+<map id="UpdateRotationTarget" name="UpdateRotationTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="246,59,421,87"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="374,47,360,40,333,37,309,39,296,44,293,49,298,57,293,60,287,50,293,40,308,34,333,32,362,35,376,42"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a846ed46332b8888b75a8301823369432" title=" " alt="" coords="5,5,198,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,57,167,37,168,32,254,52"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#ae7b01447576c83c845fd84c56fa67997" title="Stops the current unit&#39;s movement." alt="" coords="64,59,139,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,76,139,76,139,70,231,70"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#ad7e332ef2754a08385f0bf1fda652c20" title=" " alt="" coords="49,112,154,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,94,155,117,154,112,253,89"/>
+</map>

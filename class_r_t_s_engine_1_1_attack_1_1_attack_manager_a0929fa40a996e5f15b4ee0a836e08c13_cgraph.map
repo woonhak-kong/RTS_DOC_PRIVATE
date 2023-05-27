@@ -1,0 +1,7 @@
+<map id="OnObjectPoolInit" name="OnObjectPoolInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,143,74"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_controls_1_1_i_game_controls_manager.html#aef924d15dd6e475f0070d225fc5b2dee" title=" " alt="" coords="191,5,439,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,48,175,44,176,49,143,53"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_attack_1_1_attack_manager.html#aa2e77c38af13839955e7ffe9b097deb9" title=" " alt="" coords="285,76,345,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,65,271,82,270,87,143,71"/>
+</map>

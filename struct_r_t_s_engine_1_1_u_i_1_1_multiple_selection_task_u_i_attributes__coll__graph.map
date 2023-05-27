@@ -1,0 +1,9 @@
+<map id="MultipleSelectionTaskUIAttributes" name="MultipleSelectionTaskUIAttributes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="143,167,389,241"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_u_i_1_1_i_task_u_i_attributes.html" title=" " alt="" coords="5,17,135,90"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,96,221,165,218,170,127,101"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_u_i_1_1_multiple_selection_task_u_i_data.html" title=" " alt="" coords="159,5,373,101"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,101,269,150,263,150,263,101"/>
+<area shape="rect" id="Node000004" href="$struct_r_t_s_engine_1_1_u_i_1_1_multiple_selection_u_i_element.html" title=" " alt="" coords="397,5,599,101"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="427,103,337,161,334,156,424,99"/>
+</map>

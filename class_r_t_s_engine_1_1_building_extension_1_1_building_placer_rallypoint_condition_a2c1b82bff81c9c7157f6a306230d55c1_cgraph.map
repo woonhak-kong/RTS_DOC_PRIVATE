@@ -1,0 +1,5 @@
+<map id="CanPlaceBuilding" name="CanPlaceBuilding">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,152,43"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_terrain_1_1_i_terrain_manager.html#a1ed363e7fc07549e2a5617022f116d31" title=" " alt="" coords="200,5,452,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,26,185,26,185,31,152,31"/>
+</map>

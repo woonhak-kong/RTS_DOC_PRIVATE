@@ -1,0 +1,9 @@
+<map id="SendToSpawnPoints" name="SendToSpawnPoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,174,114"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#af1ef9dc6c908b881d5c0ed1bd43dea7b" title=" " alt="" coords="222,5,526,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,82,221,61,251,53,252,59,222,66,144,87"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="245,76,503,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,97,230,97,230,102,174,102"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_movement_1_1_i_movement_manager.html#a9efb73f7d04b22239ce14fa7260b6451" title=" " alt="" coords="246,147,502,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,112,222,131,257,140,256,145,221,137,145,117"/>
+</map>

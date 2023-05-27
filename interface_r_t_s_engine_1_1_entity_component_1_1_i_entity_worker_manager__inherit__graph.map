@@ -1,0 +1,19 @@
+<map id="IEntityWorkerManager" name="IEntityWorkerManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,539,403,725"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_worker_manager.html" title=" " alt="" coords="215,773,407,1459"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="314,739,314,773,309,773,309,739"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_building_worker_manager.html" title=" " alt="" coords="5,1079,191,1153"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="227,738,206,775,169,857,141,943,107,1080,102,1079,136,941,164,856,201,772,223,736"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_resource_worker_manager.html" title=" " alt="" coords="432,1079,628,1153"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="400,736,422,772,459,856,489,941,525,1079,520,1080,484,943,454,858,417,775,395,738"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_addable_unit.html" title=" " alt="" coords="224,327,399,491"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,505,314,539,309,539,309,505"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="207,5,415,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,293,314,327,309,327,309,293"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_entity_component_1_1_building_worker_manager.html" title=" " alt="" coords="114,1507,295,1580"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="225,1473,216,1508,211,1506,220,1472"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entity_component_1_1_resource_worker_manager.html" title=" " alt="" coords="320,1507,513,1580"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="402,1472,411,1506,405,1508,397,1473"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="113,1166,198,1506,193,1507,108,1167"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="519,1167,429,1508,423,1506,514,1166"/>
+</map>

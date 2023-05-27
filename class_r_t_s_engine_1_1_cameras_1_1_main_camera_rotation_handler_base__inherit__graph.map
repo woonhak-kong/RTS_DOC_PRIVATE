@@ -1,0 +1,11 @@
+<map id="MainCameraRotationHandlerBase" name="MainCameraRotationHandlerBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,361,290,1069"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_rotation_handler.html" title=" " alt="" coords="49,1117,278,1277"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,1083,166,1117,161,1117,161,1083"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,206,127,279"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,293,93,361,88,362,74,294"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_rotation_handler.html" title=" " alt="" coords="151,172,370,313"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,328,239,362,234,361,241,327"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_control_handler.html" title=" " alt="" coords="155,5,366,124"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,138,263,173,258,173,258,138"/>
+</map>

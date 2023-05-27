@@ -1,0 +1,8 @@
+<map id="OnTriggerEnter" name="OnTriggerEnter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,57,134,86"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_selection_1_1_i_entity_selection.html#ad54e1dd60fc87cd33082230a6c8fb5b6" title=" " alt="" coords="182,5,402,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,56,167,50,168,55,134,62"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#a5b0b3777b2fee779b1059d6b35459909" title=" " alt="" coords="209,100,375,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,81,200,94,199,99,133,86"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="253,100,247,91,253,81,268,75,292,73,318,76,332,82,330,87,317,81,292,78,269,80,256,85,253,90,258,98"/>
+</map>

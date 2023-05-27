@@ -1,0 +1,7 @@
+<map id="HandleEntityDeadGlobal" name="HandleEntityDeadGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,198,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_search_1_1_grid_search_handler.html#ae0004375a646dadbbb44084b62eaa71e" title=" " alt="" coords="246,14,390,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,26,231,26,231,31,198,31"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#ac3eedd3b5a7b1b6aa219e5909e06ded7" title=" " alt="" coords="438,5,664,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,26,423,26,423,31,390,31"/>
+</map>

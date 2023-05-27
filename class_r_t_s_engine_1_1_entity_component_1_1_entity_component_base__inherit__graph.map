@@ -1,0 +1,36 @@
+<map id="EntityComponentBase" name="EntityComponentBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="758,796,982,1481"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_gate_handler.html" title=" " alt="" coords="5,1958,204,2326"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="745,1181,617,1232,546,1266,473,1307,401,1353,333,1406,271,1465,218,1531,188,1580,164,1632,144,1687,129,1742,110,1854,102,1958,96,1958,104,1853,124,1741,139,1685,159,1630,183,1577,213,1528,267,1461,329,1402,398,1349,470,1302,544,1262,615,1227,743,1176"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_building_extension_1_1_faction_entity_seller.html" title=" " alt="" coords="228,2049,427,2235"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="748,1220,669,1279,585,1352,506,1437,472,1483,442,1531,410,1595,385,1664,366,1735,351,1805,334,1939,329,2049,324,2049,329,1938,346,1804,361,1733,380,1662,405,1593,437,1528,467,1480,502,1433,581,1348,665,1275,745,1216"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html" title=" " alt="" coords="451,1609,715,2675"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="756,1448,730,1530,707,1610,702,1608,725,1529,751,1446"/>
+<area shape="rect" id="Node000012" href="$class_r_t_s_engine_1_1_entity_component_1_1_pending_task_entity_component_base.html" title=" " alt="" coords="739,1867,1001,2417"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="873,1496,873,1867,867,1867,867,1496"/>
+<area shape="rect" id="Node000015" href="$class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html" title="Allows a FactionEntity instance (can be a unit or a building) to generate resources." alt="" coords="1025,1767,1289,2517"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="989,1446,1015,1529,1079,1767,1074,1768,1010,1530,984,1448"/>
+<area shape="rect" id="Node000016" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html" title=" " alt="" coords="1313,1529,1539,2755"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="995,1216,1074,1276,1158,1349,1237,1434,1272,1480,1303,1528,1316,1552,1311,1554,1298,1531,1268,1483,1233,1437,1154,1353,1071,1280,992,1221"/>
+<area shape="rect" id="Node000017" href="$class_r_t_s_engine_1_1_task_1_1_entity_tasks_queue_handler.html" title=" " alt="" coords="1563,1858,1835,2426"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="997,1175,1129,1226,1203,1260,1280,1301,1356,1347,1428,1401,1495,1461,1553,1528,1601,1604,1637,1686,1663,1772,1682,1858,1677,1859,1658,1774,1632,1688,1596,1606,1549,1531,1491,1464,1425,1405,1353,1352,1277,1305,1201,1265,1127,1231,995,1180"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="612,561,733,635"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="693,647,761,831,756,833,688,649"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="758,448,982,748"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="873,762,873,796,867,796,867,762"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="651,127,859,400"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="809,412,821,447,816,449,804,414"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="884,227,1045,300"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="953,314,915,449,910,447,948,313"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="959,5,1088,79"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1013,93,977,228,971,226,1008,91"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="1006,561,1161,635"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="1048,91,1059,126,1079,250,1088,374,1090,483,1088,561,1083,561,1084,482,1083,374,1074,251,1054,127,1043,93"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1066,649,984,856,980,854,1062,647"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html" title=" " alt="" coords="448,2803,719,3824"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="586,2690,586,2803,581,2803,581,2690"/>
+<area shape="rect" id="Node000013" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_creator.html" title=" " alt="" coords="744,3109,991,3518"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="872,2431,870,3109,865,3109,867,2431"/>
+<area shape="rect" id="Node000014" href="$class_r_t_s_engine_1_1_entity_component_1_1_upgrade_launcher.html" title=" " alt="" coords="1015,3101,1277,3525"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="939,2430,1015,2754,1098,3101,1093,3102,1010,2755,934,2431"/>
+</map>

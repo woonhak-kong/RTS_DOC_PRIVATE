@@ -1,0 +1,7 @@
+<map id="HandleFactionEntitySelectionUpdated" name="HandleFactionEntitySelectionUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,231,52"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_rallypoint.html#a8104f9c0b462ad8b7ab0be5a18718805" title=" " alt="" coords="279,14,471,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,26,264,26,264,31,231,31"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_rallypoint.html#a9c666f6b3e352cf0319076860befd24c" title=" " alt="" coords="519,14,767,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,26,504,26,504,31,471,31"/>
+</map>

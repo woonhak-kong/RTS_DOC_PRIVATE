@@ -1,0 +1,7 @@
+<map id="DefeatConditionDropdownSelector" name="DefeatConditionDropdownSelector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,526,373,622"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_lobby_1_1_u_i_1_1_dropdown_selector.html" title=" " alt="" coords="5,5,208,460"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,473,220,525,215,527,195,475"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_lobby_1_1_u_i_1_1_defeat_condition_dropdown_selector_1_1_option.html" title=" " alt="" coords="232,175,493,290"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="344,291,261,511,256,509,339,289"/>
+</map>

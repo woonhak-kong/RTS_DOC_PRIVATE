@@ -1,0 +1,12 @@
+<map id="OnResourceCollectionRequest" name="OnResourceCollectionRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,241,79"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="595,5,853,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,55,580,35,580,40,241,60"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html#a9bd0d10fb0415700c58e7a8dd5b76090" title=" " alt="" coords="289,72,524,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,75,274,78,274,84,241,80"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="520,69,595,53,596,58,522,74"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#af1ef9dc6c908b881d5c0ed1bd43dea7b" title=" " alt="" coords="572,76,876,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="525,94,557,95,557,100,525,99"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_target_component.html#a500bfa1d5fcff4164d73d7fa06f47446" title=" " alt="" coords="594,147,855,193"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="506,117,573,133,604,140,603,145,571,138,504,122"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OnPlacementStop" name="OnPlacementStop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,154,34"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#a217801d6211f4c5c434497e5fa80aca4" title=" " alt="" coords="202,5,377,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,17,187,17,187,22,154,22"/>
+</map>

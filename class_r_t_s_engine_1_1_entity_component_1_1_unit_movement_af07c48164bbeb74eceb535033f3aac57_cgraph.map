@@ -1,0 +1,7 @@
+<map id="OnHandleAddableUnitStop" name="OnHandleAddableUnitStop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,215,83"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_addable_unit.html#a14e98402a78b54f41ee57d3cd1dd0723" title=" " alt="" coords="279,5,484,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,51,264,43,265,48,212,56"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html#a17a237457e57625296e6b24feb19c60a" title=" " alt="" coords="263,76,500,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,81,248,86,247,92,211,86"/>
+</map>

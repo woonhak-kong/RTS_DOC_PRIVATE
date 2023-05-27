@@ -1,0 +1,11 @@
+<map id="OnComplete" name="OnComplete">
+<area shape="rect" id="Node000001" title=" " alt="" coords="769,63,878,92"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html#ac70ce5a06bea6bf2c278f8383f56f93d" title=" " alt="" coords="407,5,721,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="754,70,721,65,722,59,754,64"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#ac70ce5a06bea6bf2c278f8383f56f93d" title=" " alt="" coords="407,94,721,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="755,91,719,96,719,91,754,86"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="50,45,314,110"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="391,102,314,94,314,89,392,97"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,134,359,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="392,138,359,142,359,136,392,133"/>
+</map>

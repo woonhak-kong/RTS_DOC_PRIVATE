@@ -1,0 +1,13 @@
+<map id="IsInSquad" name="IsInSquad">
+<area shape="rect" id="Node000001" title=" " alt="" coords="526,32,616,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a5a1ad1575aa012b56205ff35d5975a00" title=" " alt="" coords="337,5,429,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,41,429,29,430,24,512,35"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a7c28171d2a0dc6f97ec4684bcba10740" title=" " alt="" coords="287,59,478,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="512,57,479,62,479,57,511,52"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a545d2c243031853f6c0b98ac49d6e2b9" title=" " alt="" coords="94,32,239,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="272,62,239,58,240,53,272,57"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#ad1e461f41bbb265ca7302f69d3a810ec" title=" " alt="" coords="138,85,195,114"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="272,89,196,99,195,94,272,84"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,32,46,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="79,49,46,49,46,44,79,44"/>
+</map>

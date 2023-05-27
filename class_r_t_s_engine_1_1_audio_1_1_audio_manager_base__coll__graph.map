@@ -1,0 +1,19 @@
+<map id="AudioManagerBase" name="AudioManagerBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,1362,399,2115"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,1087,127,1160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,1172,154,1374,149,1376,80,1174"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_audio_1_1_i_audio_manager.html" title=" " alt="" coords="151,951,399,1296"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,1310,278,1362,273,1362,273,1310"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_audio_1_1_audio_clip_fetcher.html" title="Allows to define a set of AudioClip instances and retrieve one of them depending on the chosen type." alt="" coords="424,1075,559,1171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="477,1172,407,1371,402,1369,472,1170"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html" title=" " alt="" coords="345,630,507,839"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="448,853,486,1075,481,1076,443,854"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_determinism_1_1_global_time_modified_timer.html" title=" " alt="" coords="531,585,764,885"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="590,885,519,1061,514,1059,585,883"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html" title=" " alt="" coords="509,264,679,519"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="619,532,627,585,621,585,613,533"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="703,343,826,439"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="751,440,707,570,702,568,746,438"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="703,5,826,215"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="767,228,767,343,762,343,762,228"/>
+</map>

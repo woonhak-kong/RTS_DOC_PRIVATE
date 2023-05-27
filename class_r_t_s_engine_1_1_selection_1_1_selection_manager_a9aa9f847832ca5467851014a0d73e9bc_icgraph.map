@@ -1,0 +1,9 @@
+<map id="RemoveAll" name="RemoveAll">
+<area shape="rect" id="Node000001" title=" " alt="" coords="251,32,347,61"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_selection_1_1_selection_manager.html#a952691c8689bd799b2876160558eb6d3" title=" " alt="" coords="104,32,203,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,49,203,49,203,44,236,44"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_selection_1_1_selection_manager.html#aa78ee55184da33271d339f15eaf2a669" title=" " alt="" coords="5,5,56,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,35,56,28,57,22,90,30"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_selection_1_1_selection_manager.html#a7fe03ae72093e73f55294b7f906a9cc4" title=" " alt="" coords="5,59,56,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="90,63,57,70,56,65,88,58"/>
+</map>

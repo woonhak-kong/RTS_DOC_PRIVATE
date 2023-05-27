@@ -1,0 +1,17 @@
+<map id="SetIdle" name="SetIdle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="988,85,1058,114"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_worker_manager.html#ac6dbc2fbfdf91299085b0f08c3be8000" title=" " alt="" coords="686,5,929,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="977,81,939,66,906,55,908,50,941,61,979,76"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#ac5efcc971d3b948a1b1551f0063f2924" title=" " alt="" coords="693,76,923,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="974,102,923,102,923,97,974,97"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html#a5d8c266d4fa10d42a684f80a0f2b4853" title=" " alt="" coords="675,147,940,212"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="978,123,941,138,911,149,910,144,939,133,976,118"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_worker_manager.html#aaed19a6c542af74e71c9a7b7457a82f2" title=" " alt="" coords="377,5,605,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="671,31,605,31,605,26,671,26"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#aace29dc7a3903a0fa49aafa35039debd" title=" " alt="" coords="355,76,627,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="678,102,627,102,627,97,678,97"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#afbfb92739f7bb39aabe5928f014732f0" title=" " alt="" coords="5,40,307,87"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="340,86,307,82,307,77,340,80"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#a0fe3a52aecb5b8b583b198364c7eb571" title=" " alt="" coords="16,111,296,157"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="340,118,296,122,296,117,340,112"/>
+</map>

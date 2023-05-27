@@ -1,0 +1,9 @@
+<map id="IBuildingPlacer" name="IBuildingPlacer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,327,249,763"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html" title=" " alt="" coords="7,811,271,1873"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,777,142,811,137,811,137,777"/>
+<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="35,5,243,279"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,293,142,327,137,327,137,293"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer.html" title=" " alt="" coords="5,1921,273,2335"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,1887,142,1921,137,1921,137,1887"/>
+</map>

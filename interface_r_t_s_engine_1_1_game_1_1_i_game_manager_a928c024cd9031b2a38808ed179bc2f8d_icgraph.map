@@ -1,0 +1,7 @@
+<map id="LeaveGame" name="LeaveGame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="654,14,761,43"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_game_menu_u_i_handler.html#abf55c63cc003a871d17d37361cba9488" title=" " alt="" coords="330,5,606,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="639,31,606,31,606,26,639,26"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_game_menu_u_i_handler.html#a20b6741d6a86c45598df4b59f14c575e" title=" " alt="" coords="5,5,282,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,31,282,31,282,26,315,26"/>
+</map>

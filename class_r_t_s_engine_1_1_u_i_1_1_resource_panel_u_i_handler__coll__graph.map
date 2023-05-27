@@ -1,0 +1,19 @@
+<map id="ResourcePanelUIHandler" name="ResourcePanelUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,1082,309,1291"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html" title=" " alt="" coords="63,743,283,1016"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,1030,189,1082,184,1082,180,1030"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_u_i_1_1_resource_panel_u_i_handler_1_1_resource_u_i_data.html" title=" " alt="" coords="307,833,566,925"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="403,927,289,1071,285,1067,399,923"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_resource_extension_1_1_resource_type_info.html" title=" " alt="" coords="247,331,384,677"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="374,676,419,817,414,818,368,677"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="5,160,215,233"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="144,243,249,399,244,402,139,246"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="45,5,175,79"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="113,93,113,160,107,160,107,93"/>
+<area shape="rect" id="Node000007" href="$struct_r_t_s_engine_1_1_resource_extension_1_1_resource_type_value.html" title=" " alt="" coords="239,149,392,245"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="318,244,318,314,313,314,313,244"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_faction_1_1_faction_type_target_picker.html" title="Target picker for FactionTypeInfo." alt="" coords="421,467,610,541"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="511,541,452,817,447,816,505,540"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_entities_1_1_target_picker.html" title=" " alt="" coords="417,128,635,265"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="526,280,519,467,514,467,520,279"/>
+</map>

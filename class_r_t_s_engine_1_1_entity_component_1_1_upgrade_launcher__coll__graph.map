@@ -1,0 +1,34 @@
+<map id="UpgradeLauncher" name="UpgradeLauncher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="408,2271,669,2631"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_pending_task_entity_component_base.html" title=" " alt="" coords="168,1642,429,2169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,2180,462,2270,457,2272,418,2183"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_component_base.html" title=" " alt="" coords="171,881,395,1567"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,1581,295,1642,290,1642,288,1581"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="201,636,322,709"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,723,272,882,267,882,261,724"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="409,523,633,823"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="427,836,409,873,397,900,392,898,404,871,422,834"/>
+<area shape="rect" id="Node000010" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_pending_task_entity_component.html" title=" " alt="" coords="419,1153,658,1295"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="529,836,539,1154,534,1154,524,837"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="397,128,605,401"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="511,415,517,523,511,523,506,415"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="630,228,791,301"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="691,315,593,524,588,522,686,313"/>
+<area shape="rect" id="Node000008" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="311,5,441,79"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="455,55,538,81,580,101,619,126,644,149,665,175,697,227,692,229,661,178,640,152,616,130,577,106,536,86,453,60"/>
+<area shape="rect" id="Node000009" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="283,425,437,499"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="377,93,364,426,359,426,371,93"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="360,513,336,823,330,882,324,882,331,822,354,513"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="512,1308,394,1643,389,1641,507,1307"/>
+<area shape="rect" id="Node000013" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_upgrade_launcher.html" title=" " alt="" coords="468,1869,609,1942"/>
+<area shape="poly" id="edge15_Node000013_Node000010" title=" " alt="" coords="541,1309,541,1869,536,1869,536,1309"/>
+<area shape="rect" id="Node000011" href="$struct_r_t_s_engine_1_1_utilities_1_1_int2_d.html" title=" " alt="" coords="13,1153,147,1295"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="94,1294,121,1425,161,1575,179,1625,173,1627,156,1577,116,1427,89,1295"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="5,636,155,709"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="83,723,83,1153,77,1153,77,723"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="541,1956,541,2271,536,2271,536,1956"/>
+<area shape="rect" id="Node000014" href="$class_r_t_s_engine_1_1_entity_component_1_1_upgrade_task.html" title=" " alt="" coords="681,1801,801,2010"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="705,2010,614,2256,609,2254,700,2008"/>
+<area shape="rect" id="Node000015" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_component_task_input_base.html" title=" " alt="" coords="683,872,893,1576"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="766,1590,751,1801,746,1801,760,1590"/>
+</map>

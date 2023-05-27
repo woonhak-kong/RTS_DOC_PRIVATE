@@ -1,0 +1,15 @@
+<map id="InitPlaced" name="InitPlaced">
+<area shape="rect" id="Node000001" title="Called on the building instance when it is placed. Called after the EntityPreInit method." alt="" coords="5,146,95,175"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#aff9a086b4bfcb9a767e6e735f27843b2" title=" " alt="" coords="153,76,370,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,145,164,125,165,130,96,150"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#a9a80feadf8bd2bb1b8a8d9212167a25d" title=" " alt="" coords="207,146,316,175"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="95,158,192,158,192,163,95,163"/>
+<area shape="rect" id="Node000007" href="$interface_r_t_s_engine_1_1_audio_1_1_i_game_audio_manager.html#abcb0aaf0710a42221dc8858d7a231c67" title=" " alt="" coords="143,199,380,245"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="96,171,165,191,164,197,94,176"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#ab05dd73c340047063857952d613c5f53" title=" " alt="" coords="428,5,645,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,73,428,54,430,59,356,78"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#af6790a7bb539c2d3d760bfe34d129cff" title=" " alt="" coords="428,76,645,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="370,97,413,97,413,102,370,102"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#a967ed4c750af7faa152862f3a014ab97" title=" " alt="" coords="428,147,645,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="356,121,430,140,428,145,354,126"/>
+</map>

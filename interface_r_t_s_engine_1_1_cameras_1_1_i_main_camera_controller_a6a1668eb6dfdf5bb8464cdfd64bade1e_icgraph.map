@@ -1,0 +1,24 @@
+<map id="RaiseCameraTransformUpdated" name="RaiseCameraTransformUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="990,172,1240,200"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#a83547725c7532a8ebd835d603857bc2d" title=" " alt="" coords="5,100,271,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="975,180,271,134,271,129,976,174"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_rotation_handler_base.html#a83547725c7532a8ebd835d603857bc2d" title=" " alt="" coords="675,76,940,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1047,170,892,126,894,121,1048,165"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_zoom_handler_base.html#ae0cfde2521eb7cd0d1eb4f519ae9834d" title=" " alt="" coords="319,199,624,245"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="976,196,625,216,624,211,975,191"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_zoom_handler_base.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="339,269,604,316"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1018,206,943,219,605,275,604,269,942,214,1017,201"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#a8adc99a82d8c0291f6a9babbf4693595" title="Make the camera look at a target position and return the final position while considering the offset ..." alt="" coords="675,5,940,52"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1085,164,1022,114,983,88,941,66,915,55,917,50,943,61,985,84,1025,110,1088,160"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_zoom_handler_base.html#aa347a431ec403d13d23497f210fe4dea" title=" " alt="" coords="672,300,942,347"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1079,211,1017,247,943,283,893,302,891,297,941,278,1015,242,1077,206"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_zoom_handler_base.html#a83547725c7532a8ebd835d603857bc2d" title=" " alt="" coords="5,236,271,283"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="304,243,271,247,271,242,303,238"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#afeea8f55dfb565a5bcde463b90518375" title=" " alt="" coords="330,28,613,93"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="660,45,614,50,613,45,660,40"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="315,93,266,102,265,97,314,87"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="657,312,604,307,605,302,658,307"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_zoom_handler_base.html#a77b7e709e9e3fc151011c7c272bc23f7" title=" " alt="" coords="337,340,606,387"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="658,344,606,350,606,345,657,339"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="347,338,318,330,196,286,198,281,319,325,348,333"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BasicNPCManager" name="BasicNPCManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,535,272,853"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,370,127,443"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,456,111,534,106,536,80,458"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_manager.html" title=" " alt="" coords="151,327,359,487"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,501,216,536,211,534,222,499"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="151,5,359,279"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,293,258,327,253,327,253,293"/>
+</map>

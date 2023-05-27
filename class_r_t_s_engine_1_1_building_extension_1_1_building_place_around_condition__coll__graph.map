@@ -1,0 +1,21 @@
+<map id="BuildingPlaceAroundCondition" name="BuildingPlaceAroundCondition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,724,535,843"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,517,127,590"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,600,115,630,141,656,181,684,224,709,311,746,309,751,221,713,178,689,138,660,111,633,90,603"/>
+<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="151,517,306,590"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,599,375,723,371,726,266,602"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="164,287,293,360"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,374,231,517,226,517,226,374"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placer_condition.html" title=" " alt="" coords="330,517,514,590"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="425,604,425,724,419,724,419,604"/>
+<area shape="rect" id="Node000006" href="$struct_r_t_s_engine_1_1_building_extension_1_1_building_place_around_data.html" title=" " alt="" coords="539,517,732,590"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="604,592,490,714,486,710,601,588"/>
+<area shape="rect" id="Node000007" href="$struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html" title=" " alt="" coords="491,264,641,383"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="582,382,594,424,619,500,614,502,588,425,577,383"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="666,275,789,371"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="711,372,658,502,654,500,706,370"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="666,5,789,215"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="730,229,730,276,725,276,725,229"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_place_around_handler.html" title=" " alt="" coords="756,449,989,658"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="758,653,746,660,649,708,552,745,550,740,647,703,743,656,755,649"/>
+</map>

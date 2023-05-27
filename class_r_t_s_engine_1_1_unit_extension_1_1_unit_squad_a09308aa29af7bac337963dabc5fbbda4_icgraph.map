@@ -1,0 +1,12 @@
+<map id="RaiseSquadDead" name="RaiseSquadDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="415,59,563,87"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#abe1e6709da362ffec69d286c762ffe1e" title=" " alt="" coords="288,59,367,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="400,76,368,76,368,70,400,70"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#ac919a991060ede6983343719401686de" title=" " alt="" coords="134,5,210,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,57,209,35,211,30,275,52"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#a5483c7619ad005659ef824cdbf3b6f3c" title=" " alt="" coords="104,59,240,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="273,84,240,85,240,79,273,79"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="255,61,288,62,288,68,255,67"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#adac31525ae7d06bf0583dd61a333112e" title=" " alt="" coords="5,59,56,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="89,76,56,76,56,70,89,70"/>
+</map>

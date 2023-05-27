@@ -1,0 +1,13 @@
+<map id="InitBuildingParameters" name="InitBuildingParameters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,694,425,767"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_init_faction_entity_parameters.html" title=" " alt="" coords="5,441,209,515"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,524,179,575,223,626,297,692,293,696,219,630,174,578,137,528"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_init_entity_parameters.html" title=" " alt="" coords="31,37,183,247"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,261,110,441,105,441,105,261"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_border.html" title=" " alt="" coords="233,328,448,628"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="343,628,343,677,338,677,338,628"/>
+<area shape="rect" id="Node000005" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="237,5,445,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="343,293,343,328,338,328,338,293"/>
+<area shape="rect" id="Node000006" href="$struct_r_t_s_engine_1_1_building_extension_1_1_building_placed_data.html" title=" " alt="" coords="473,430,625,526"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="539,527,511,600,490,638,463,672,441,690,438,686,459,668,485,635,506,597,534,525"/>
+</map>

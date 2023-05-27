@@ -1,0 +1,7 @@
+<map id="HandleBuildingPlacementStartGlobal" name="HandleBuildingPlacementStartGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,239,52"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html#a8b3dc5dea6ba28593cdaedb9e2ab080a" title=" " alt="" coords="287,14,467,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,26,272,26,272,31,239,31"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="515,5,773,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,26,500,26,500,31,467,31"/>
+</map>

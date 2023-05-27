@@ -1,0 +1,15 @@
+<map id="Init" name="Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,46,87"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#a39b84c48d491e797d2aa9f1cc2dee7da" title=" " alt="" coords="99,5,309,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,62,93,44,121,36,122,41,95,49,47,67"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#a261d4a48f3c787a89517c7abeff536fc" title=" " alt="" coords="94,59,314,87"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="46,70,79,70,79,76,46,76"/>
+<area shape="rect" id="Node000006" href="$interface_r_t_s_engine_1_1_terrain_1_1_i_terrain_manager.html#ae027f5e68cf7683d77d654b229c016ee" title=" " alt="" coords="99,111,309,158"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="47,79,95,97,112,103,110,108,93,102,45,84"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#a5c7f8e485ced1e9ba445b6cf88a6b41a" title=" " alt="" coords="362,32,469,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="309,30,348,35,347,40,309,36"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="384,33,380,23,384,13,396,7,416,5,437,8,448,15,446,19,435,13,416,11,398,13,388,17,385,23,389,30"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#abdfa116c0ef8b4aadc2227593de24787" title=" " alt="" coords="517,32,669,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,44,502,44,502,49,470,49"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="314,56,347,52,348,58,315,62"/>
+</map>

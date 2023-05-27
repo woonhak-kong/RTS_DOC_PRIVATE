@@ -1,0 +1,39 @@
+<map id="GetLookRotation" name="GetLookRotation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1046,250,1186,279"/>
+<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_utilities_1_1_rotation_data.html#a6f3f8827d433c425a35f8c9db8e98340" title=" " alt="" coords="713,33,931,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1097,239,1056,181,1028,151,997,124,957,101,913,83,916,78,959,96,1000,120,1032,147,1060,178,1101,236"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a7aeccc68e06146747d09b143fd0036ec" title="Deactivates the movement controller and sets the unit&#39;s rotation target to the next corner in the pat..." alt="" coords="670,135,973,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1083,244,1043,218,997,195,965,184,967,179,999,190,1046,213,1086,239"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="645,276,998,323"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1032,277,999,281,998,276,1031,272"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_utilities_1_1_follow_transform.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="719,347,924,393"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1085,290,1045,314,999,336,926,358,924,353,997,332,1042,310,1082,285"/>
+<area shape="rect" id="Node000014" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a1dd376c9856fd74687e66a1c16e9b2e1" title="Handles updating the unit&#39;s rotation while in idle state." alt="" coords="693,205,950,252"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1031,257,950,247,951,242,1032,252"/>
+<area shape="rect" id="Node000015" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a0753ea7efe45d68b9d4ad736ed520f53" title=" " alt="" coords="683,520,961,567"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1098,293,1055,348,1000,408,927,472,859,522,856,517,923,467,996,404,1051,344,1093,290"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_utilities_1_1_poolable_object.html#a94a19f8abaa35311ddef1ba51ba106a7" title=" " alt="" coords="333,5,556,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="697,50,556,40,556,34,698,45"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a5105526f7076d2237fe7fd7e514e5b06" title=" " alt="" coords="323,76,566,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="655,135,565,121,566,115,656,130"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a42d98ff12482cf1b8052be56a3fd0a44" title="Handles updating the unit&#39;s rotation while it is in its movement state. This mainly handles blocking ..." alt="" coords="292,147,597,193"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="655,166,597,168,597,162,655,161"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a64cb65bfc7daed53934ffc6d155ff1ed" title="Handles updating the unit state whether it is in its idle or movement state." alt="" coords="10,177,239,224"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="277,189,239,192,239,187,277,183"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_attack_1_1_attack_object.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="321,273,568,320"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="704,350,567,323,568,318,705,345"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_effect_1_1_effect_object.html#a8f01c71ecef14c9db6aff06735a62ffd" title=" " alt="" coords="325,344,564,391"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="704,372,564,371,564,366,704,367"/>
+<area shape="rect" id="Node000013" href="$class_r_t_s_engine_1_1_entity_component_1_1_carriable_unit.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="330,415,559,461"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="705,394,560,420,559,415,704,388"/>
+<area shape="rect" id="Node000012" href="$class_r_t_s_engine_1_1_effect_1_1_effect_object.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,344,244,391"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="311,370,244,370,244,365,311,365"/>
+<area shape="poly" id="edge14_Node000014_Node000007" title=" " alt="" coords="678,226,239,208,239,203,678,220"/>
+<area shape="poly" id="edge19_Node000015_Node000015" title=" " alt="" coords="871,508,852,501,822,499,794,501,777,505,770,512,771,519,766,520,765,510,774,501,793,495,822,493,854,496,872,503"/>
+<area shape="rect" id="Node000016" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a846ed46332b8888b75a8301823369432" title=" " alt="" coords="297,485,592,532"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="667,532,592,525,593,520,668,527"/>
+<area shape="rect" id="Node000017" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#ae7b01447576c83c845fd84c56fa67997" title="Stops the current unit&#39;s movement." alt="" coords="330,556,559,603"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="668,561,559,571,559,566,667,555"/>
+<area shape="rect" id="Node000018" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#ad7e332ef2754a08385f0bf1fda652c20" title=" " alt="" coords="330,627,559,673"/>
+<area shape="poly" id="edge18_Node000015_Node000018" title=" " alt="" coords="738,574,598,618,556,629,555,623,596,613,737,569"/>
+</map>

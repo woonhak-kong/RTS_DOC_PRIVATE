@@ -1,0 +1,7 @@
+<map id="IPendingPlacementData" name="IPendingPlacementData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="158,5,339,79"/>
+<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_building_extension_1_1_advanced_pending_placement_data.html" title=" " alt="" coords="5,127,255,513"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,93,215,128,210,126,225,90"/>
+<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_building_extension_1_1_pending_placement_data.html" title=" " alt="" coords="279,249,458,391"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,91,341,249,336,251,267,93"/>
+</map>

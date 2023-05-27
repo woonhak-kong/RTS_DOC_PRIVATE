@@ -1,0 +1,19 @@
+<map id="OnDestroy" name="OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,89,101,118"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_global_grid_placement_mesh.html#a39b84c48d491e797d2aa9f1cc2dee7da" title=" " alt="" coords="164,5,375,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,87,107,65,148,44,170,36,172,41,150,49,109,69,76,91"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_building_extension_1_1_global_grid_placement_mesh.html#a261d4a48f3c787a89517c7abeff536fc" title=" " alt="" coords="159,59,380,87"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="101,94,149,87,150,93,102,100"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_building_extension_1_1_global_grid_placement_mesh.html#a2253e22e17d8824c28d253b0fef6f79f" title=" " alt="" coords="149,111,390,158"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="102,108,134,112,134,118,101,113"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_building_extension_1_1_global_grid_placement_mesh.html#abe783de5f22949e76f22963293b97a3c" title=" " alt="" coords="153,182,386,228"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="73,116,107,142,150,168,162,173,160,178,147,173,104,147,70,120"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_global_grid_placement_mesh.html#ad03f96875f6782c9aa0d6e16dafbf439" title=" " alt="" coords="438,32,592,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,28,423,34,423,39,375,34"/>
+<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html#a30ad10d24e0d1f4a22672c29713bced7" title=" " alt="" coords="640,23,905,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="593,44,626,44,626,49,593,49"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="380,58,423,54,424,59,380,64"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_building_extension_1_1_global_grid_placement_mesh.html#ac2f2e3fb5c58c04a445bac9a09da4e5b" title=" " alt="" coords="481,155,550,183"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="391,149,466,160,465,165,390,154"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="386,185,466,173,466,179,387,190"/>
+</map>

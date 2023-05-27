@@ -1,0 +1,47 @@
+<map id="GetAttackTargetPosition" name="GetAttackTargetPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1277,380,1469,408"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_attack_1_1_attack_l_o_s.html#aa0e16d930e707772de5ccaac98abccd1" title=" " alt="" coords="978,101,1211,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1355,368,1305,284,1269,237,1227,195,1193,170,1156,151,1158,146,1195,166,1230,191,1273,234,1309,281,1360,365"/>
+<area shape="rect" id="Node000005" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#ab50d445b4dd6c10786fd078eff610d94" title=" " alt="" coords="316,148,544,195"/>
+<area shape="poly" id="edge16_Node000001_Node000005" title=" " alt="" coords="1351,370,1300,312,1266,283,1228,260,1172,241,1098,225,913,201,715,186,544,177,545,172,715,180,914,196,1099,220,1174,236,1230,256,1269,279,1303,308,1355,366"/>
+<area shape="rect" id="Node000006" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#aff1df571a572690ce2f587a3000fdc0c" title=" " alt="" coords="648,289,876,336"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1347,371,1295,327,1263,306,1228,290,1180,277,1130,270,1030,267,935,276,853,291,852,286,934,271,1029,262,1131,264,1181,272,1230,285,1265,301,1298,322,1350,367"/>
+<area shape="rect" id="Node000011" href="$class_r_t_s_engine_1_1_attack_1_1_attack_formation_selector.html#aec8b01afea316e2ce1dc393097ddc69b" title=" " alt="" coords="960,300,1229,347"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1298,378,1188,350,1190,345,1300,373"/>
+<area shape="rect" id="Node000012" href="$class_r_t_s_engine_1_1_entity_component_1_1_building_attack.html#aa5622ed56b2fd13d488f92982fc381f9" title=" " alt="" coords="975,371,1214,417"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1262,397,1214,397,1214,391,1262,391"/>
+<area shape="rect" id="Node000013" href="$class_r_t_s_engine_1_1_entity_component_1_1_building_attack.html#ab50d445b4dd6c10786fd078eff610d94" title=" " alt="" coords="634,401,889,448"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1309,415,1229,431,1141,439,1052,441,890,437,890,432,1052,436,1141,433,1228,426,1308,410"/>
+<area shape="rect" id="Node000014" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#af62bced1c7b986131d315bf8f1ce7bed" title=" " alt="" coords="972,493,1217,540"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="1337,419,1287,448,1230,476,1180,495,1178,490,1228,472,1285,443,1335,414"/>
+<area shape="rect" id="Node000015" href="$class_r_t_s_engine_1_1_attack_1_1_attack_launcher.html#afd7b3cac17d99b005ea0c7bcc9879475" title=" " alt="" coords="962,564,1227,611"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="1357,422,1305,488,1270,524,1230,554,1206,566,1204,561,1227,549,1267,520,1301,485,1352,419"/>
+<area shape="rect" id="Node000019" href="$class_r_t_s_engine_1_1_attack_1_1_attack_weapon.html#a16e60fc0b3187386dd30b4f31fa5715c" title=" " alt="" coords="964,635,1225,681"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="1365,423,1346,468,1318,522,1279,578,1256,603,1230,625,1212,637,1209,632,1227,621,1252,600,1275,575,1313,520,1341,465,1360,421"/>
+<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#afaddda85201af9e7c857778a94ed3a61" title=" " alt="" coords="611,5,912,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1014,99,912,66,871,55,872,50,913,61,1015,93"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#a2656d8fa7e7dd0e3b7768c607bc9c6ab" title=" " alt="" coords="636,76,887,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="963,117,887,112,888,106,963,112"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="963,137,545,166,544,161,963,131"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="703,284,562,208,531,198,533,193,564,204,706,279"/>
+<area shape="rect" id="Node000007" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#afaddda85201af9e7c857778a94ed3a61" title=" " alt="" coords="311,219,549,265"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="634,288,542,269,543,263,635,283"/>
+<area shape="rect" id="Node000008" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#a4b1505fa726e0dde80ddd88991b59964" title=" " alt="" coords="316,289,544,336"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="633,315,545,315,545,310,633,310"/>
+<area shape="rect" id="Node000009" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#a852c9fd1c14f653378b4267fe2e274bd" title=" " alt="" coords="316,360,544,407"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="635,342,543,362,542,357,634,337"/>
+<area shape="rect" id="Node000010" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#ac0d5f470c8df1a013793f2de0fff16c8" title=" " alt="" coords="306,431,554,496"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="699,345,612,391,589,406,564,420,535,433,533,428,562,416,586,402,610,386,697,341"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="945,321,876,319,876,314,946,316"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="961,409,890,416,890,410,960,404"/>
+<area shape="rect" id="Node000016" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#abe9b413e3c019ccee4f87ab0071c5aad" title=" " alt="" coords="648,564,876,611"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="947,590,876,590,876,585,947,585"/>
+<area shape="rect" id="Node000017" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#aae8219955c79ae1a802d42f41515a62a" title=" " alt="" coords="297,564,563,611"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="633,590,563,590,563,585,633,585"/>
+<area shape="rect" id="Node000018" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#aebf650e4eae93764c7794f955b9b5222" title=" " alt="" coords="5,564,249,611"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="282,590,249,590,249,585,282,585"/>
+<area shape="rect" id="Node000020" href="$class_r_t_s_engine_1_1_attack_1_1_attack_weapon.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="632,635,892,681"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="950,661,892,661,892,655,950,655"/>
+<area shape="rect" id="Node000021" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#a9cb3a79127469ae664cab1e68b0f624f" title=" " alt="" coords="315,635,545,681"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="617,661,546,661,546,655,617,655"/>
+</map>

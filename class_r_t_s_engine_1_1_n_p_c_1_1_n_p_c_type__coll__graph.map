@@ -1,0 +1,9 @@
+<map id="NPCType" name="NPCType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,309,337,450"/>
+<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="5,149,215,222"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,232,193,308,189,311,139,235"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="45,5,175,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,93,113,149,107,149,107,93"/>
+<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_faction_type_filtered_n_p_c_manager_input.html" title=" " alt="" coords="239,128,487,243"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,244,294,296,290,293,324,241"/>
+</map>
