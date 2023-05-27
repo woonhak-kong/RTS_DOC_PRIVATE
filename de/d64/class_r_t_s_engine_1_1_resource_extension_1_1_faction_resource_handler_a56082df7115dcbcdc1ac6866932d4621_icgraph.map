@@ -1,0 +1,8 @@
+<map id="HandleResourceCollectorDead" name="HandleResourceCollectorDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="534,29,772,58"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="703,17,686,11,653,8,623,10,607,15,602,20,608,27,604,30,597,20,603,11,622,5,653,3,688,5,705,12"/>
+<area shape="rect" id="Node000002" href="$de/d64/class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a96150c68f5a5203c012ce398db1c4dca" title=" " alt="" coords="248,29,486,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,46,486,46,486,41,519,41"/>
+<area shape="rect" id="Node000003" href="$de/d64/class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a4d0814a052eb3d8f505d54fe6bece093" title=" " alt="" coords="5,29,200,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,46,200,46,200,41,233,41"/>
+</map>

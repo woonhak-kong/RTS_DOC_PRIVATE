@@ -1,0 +1,12 @@
+<map id="HandleSquadDead" name="HandleSquadDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="526,32,682,61"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="642,19,629,13,604,11,581,13,568,17,565,23,570,30,566,33,560,23,565,13,580,7,604,5,630,8,644,15"/>
+<area shape="rect" id="Node000002" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a7c28171d2a0dc6f97ec4684bcba10740" title=" " alt="" coords="287,32,478,61"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="512,49,479,49,479,44,512,44"/>
+<area shape="rect" id="Node000003" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a545d2c243031853f6c0b98ac49d6e2b9" title=" " alt="" coords="94,5,239,34"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="272,35,239,31,240,26,272,30"/>
+<area shape="rect" id="Node000005" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#ad1e461f41bbb265ca7302f69d3a810ec" title=" " alt="" coords="138,59,195,87"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="272,63,196,72,195,67,272,57"/>
+<area shape="rect" id="Node000004" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,5,46,34"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="79,22,46,22,46,17,79,17"/>
+</map>

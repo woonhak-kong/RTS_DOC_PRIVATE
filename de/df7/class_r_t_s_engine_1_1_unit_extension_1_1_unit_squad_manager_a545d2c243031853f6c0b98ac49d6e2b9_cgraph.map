@@ -1,0 +1,16 @@
+<map id="JoinToNewSquad" name="JoinToNewSquad">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,191,151,219"/>
+<area shape="rect" id="Node000002" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a7c28171d2a0dc6f97ec4684bcba10740" title=" " alt="" coords="199,160,390,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,192,184,187,184,193,151,197"/>
+<area shape="rect" id="Node000006" href="$d4/d81/interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="438,212,664,259"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="151,207,423,225,423,230,151,212"/>
+<area shape="rect" id="Node000003" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a2939c02d56fd90199167434990786585" title=" " alt="" coords="474,29,629,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,157,363,113,399,89,437,68,459,59,461,64,439,73,402,93,367,117,313,162"/>
+<area shape="rect" id="Node000004" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#ac01accc02c50de6231595f8d64517c8e" title=" " alt="" coords="460,107,642,135"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="367,157,464,136,465,142,368,162"/>
+<area shape="rect" id="Node000005" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a18ccddcb7ace6125337e5099ee0d0bc0" title=" " alt="" coords="507,160,596,189"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="390,172,491,172,491,177,390,177"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="358,187,437,206,436,211,357,192"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="507,30,500,20,506,11,523,5,551,3,582,5,598,12,596,17,581,11,551,8,525,10,510,15,506,20,511,27"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="507,108,500,98,506,88,523,82,551,80,582,83,598,90,596,95,581,88,551,85,525,87,510,92,506,97,511,104"/>
+</map>

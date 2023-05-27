@@ -1,0 +1,25 @@
+var class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager =
+[
+    [ "DefaultUnitSquadElement", "d3/dab/struct_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager_1_1_default_unit_squad_element.html", "d3/dab/struct_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager_1_1_default_unit_squad_element" ],
+    [ "UnitSquadManagerSaveData", "d1/d3c/struct_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager_1_1_unit_squad_manager_save_data.html", "d1/d3c/struct_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager_1_1_unit_squad_manager_save_data" ],
+    [ "UnitSquadSaveData", "dd/daa/struct_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager_1_1_unit_squad_save_data.html", "dd/daa/struct_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager_1_1_unit_squad_save_data" ],
+    [ "GetSquad", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a5a1ad1575aa012b56205ff35d5975a00", null ],
+    [ "HandleSquadDead", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a2939c02d56fd90199167434990786585", null ],
+    [ "HandleSquadUnitDead", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#ac01accc02c50de6231595f8d64517c8e", null ],
+    [ "Init", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a269421768cd0dd34014f6d6907588ef9", null ],
+    [ "IsInSquad", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a18ccddcb7ace6125337e5099ee0d0bc0", null ],
+    [ "JoinToNewSquad", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a545d2c243031853f6c0b98ac49d6e2b9", null ],
+    [ "JoinToNewSquadWithID", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a7c28171d2a0dc6f97ec4684bcba10740", null ],
+    [ "Load", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#ad1e461f41bbb265ca7302f69d3a810ec", null ],
+    [ "Save", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#aead2ad91ceaa41ef513cf247ddb7509f", null ],
+    [ "defaultUnitSquads", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a8c1c94ed79b663a574585e6337cfde73", null ],
+    [ "nextSquadID", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#abf40d7acaa3d7d2e2c068e919b32b35a", null ],
+    [ "squadTracker", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a6126ba375f7e546570d0a113e8d44da0", null ],
+    [ "unitToSquadDic", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#af196ea21bbd29132d7af7e33ce94d769", null ],
+    [ "gameMgr", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#ad7ea2633c7270e816590318d3130ab7e", null ],
+    [ "globalEvent", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a7fce91063eb2562fefba866862a1a26c", null ],
+    [ "inputMgr", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a2823acc544813d58d72c4affc4c66d76", null ],
+    [ "logger", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#aba7bdfdc76616c4127db9886d6f8862b", null ],
+    [ "SaveCode", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#add5a4c735acc3ff09cef48461048bead", null ],
+    [ "saveFormatter", "de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a725a27201fb652041f55102cb2cdb085", null ]
+];

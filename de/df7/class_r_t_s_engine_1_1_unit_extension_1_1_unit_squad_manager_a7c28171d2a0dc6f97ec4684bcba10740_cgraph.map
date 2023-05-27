@@ -1,0 +1,13 @@
+<map id="JoinToNewSquadWithID" name="JoinToNewSquadWithID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,197,162"/>
+<area shape="rect" id="Node000002" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a2939c02d56fd90199167434990786585" title=" " alt="" coords="280,29,436,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,131,177,99,244,68,267,60,269,65,246,73,180,104,126,135"/>
+<area shape="rect" id="Node000003" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#ac01accc02c50de6231595f8d64517c8e" title=" " alt="" coords="267,107,449,135"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="197,135,252,129,252,135,197,140"/>
+<area shape="rect" id="Node000004" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#a18ccddcb7ace6125337e5099ee0d0bc0" title=" " alt="" coords="313,160,403,189"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="197,155,298,166,298,171,197,160"/>
+<area shape="rect" id="Node000005" href="$d4/d81/interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="245,212,471,259"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="141,160,246,198,265,205,263,210,244,204,139,165"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="314,30,307,20,313,11,330,5,358,3,389,5,405,12,403,17,388,11,358,8,331,10,316,15,312,20,318,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="314,108,307,98,313,88,330,82,358,80,389,83,405,90,403,95,388,88,358,85,331,87,316,92,312,97,318,104"/>
+</map>

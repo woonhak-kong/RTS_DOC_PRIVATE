@@ -1,0 +1,7 @@
+<map id="RotateBuilding" name="RotateBuilding">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,129,79"/>
+<area shape="rect" id="Node000002" href="$d6/d9a/interface_r_t_s_engine_1_1_controls_1_1_i_game_controls_manager.html#aa4e0583b02fad2cf18d5f489a17f404d" title=" " alt="" coords="177,5,390,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,52,161,46,162,52,129,57"/>
+<area shape="rect" id="Node000003" href="$d6/d9a/interface_r_t_s_engine_1_1_controls_1_1_i_game_controls_manager.html#abea8e301c3f8b0a40b107e7bd011247d" title=" " alt="" coords="177,76,390,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,72,162,77,161,82,129,77"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="OnCreateInput" name="OnCreateInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,127,79"/>
+<area shape="rect" id="Node000002" href="$d9/db0/class_r_t_s_engine_1_1_entities_1_1_init_building_parameters_input.html#aec43a0b65a3a701855b69eafe4689dae" title=" " alt="" coords="175,5,411,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,52,160,47,160,52,127,58"/>
+<area shape="rect" id="Node000004" href="$da/d9b/class_r_t_s_engine_1_1_entities_1_1_init_unit_parameters_input.html#a6261c0f1b5f48e975236be3ea7699adc" title=" " alt="" coords="187,76,399,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,71,172,78,171,83,126,77"/>
+<area shape="rect" id="Node000003" href="$d1/dda/interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aaade7afddb8cdb9c5f7223321cc739a1" title=" " alt="" coords="459,41,745,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,40,444,44,444,49,411,45"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="399,85,444,80,444,85,400,90"/>
+</map>

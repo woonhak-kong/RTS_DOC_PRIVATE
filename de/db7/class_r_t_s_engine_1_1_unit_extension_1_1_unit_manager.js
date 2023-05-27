@@ -1,0 +1,25 @@
+var class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager =
+[
+    [ "CreateUnit", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a8fe52b02e1f6391b37f2ebc668b98de5", null ],
+    [ "CreateUnitLocal", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a04ef5f5d0c0d2b5fa69b8a67e3d90ac7", null ],
+    [ "HandleEntityFactionUpdateStartGlobal", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a0969f123498ee034881cb8cec91b0f5d", null ],
+    [ "HandleGameStartRunning", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a10ef363cc8038b8794537a8d4d5d0307", null ],
+    [ "HandleUnitDeadGlobal", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#aa6a97aa3d5c7d04123f3d606b26197d6", null ],
+    [ "HandleUnitInitiatedGlobal", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#ad9b86dbedb9eda60f3de8b912f6227db", null ],
+    [ "Init", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a269421768cd0dd34014f6d6907588ef9", null ],
+    [ "OnDestroy", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#ac54ce402cec4f1d67a1cef4db841d26d", null ],
+    [ "allUnits", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#af17287894dff2ac2054aca13c04de2ee", null ],
+    [ "defaultAnimController", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a9ff6fbcf7901fc5783b3002b08835f8f", null ],
+    [ "freeUnitColor", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a8e7dfa84e4ea4aa6a5bf6ab945dec41b", null ],
+    [ "freeUnits", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#aa5698d28f3529b16811df08d9b64c0f0", null ],
+    [ "preSpawnedFreeUnits", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a21c729c6f1af0b7a74aab86a607b7fbf", null ],
+    [ "AllUnits", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#ade6052a91ddeee472b2da04ab5f8984d", null ],
+    [ "DefaultAnimController", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a76113b297eb89a42e03b64129adf2236", null ],
+    [ "FreeUnitColor", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a98524593ea1242cadedd36a834d2f346", null ],
+    [ "FreeUnits", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a22c1124ce8296259e0aa02f29d840458", null ],
+    [ "gameMgr", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#ad7ea2633c7270e816590318d3130ab7e", null ],
+    [ "globalEvent", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a7fce91063eb2562fefba866862a1a26c", null ],
+    [ "inputMgr", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#a2823acc544813d58d72c4affc4c66d76", null ],
+    [ "logger", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#aba7bdfdc76616c4127db9886d6f8862b", null ],
+    [ "squadMgr", "de/db7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_manager.html#ad1f057922ea6929bf2ce62efed718130", null ]
+];

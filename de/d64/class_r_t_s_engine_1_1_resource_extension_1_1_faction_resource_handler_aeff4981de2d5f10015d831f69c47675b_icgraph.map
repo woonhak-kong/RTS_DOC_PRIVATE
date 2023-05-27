@@ -1,0 +1,11 @@
+<map id="HandleResourceCollectorTargetUpdated" name="HandleResourceCollectorTargetUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="820,5,1065,52"/>
+<area shape="rect" id="Node000002" href="$de/d64/class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a96150c68f5a5203c012ce398db1c4dca" title=" " alt="" coords="248,14,486,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="806,20,772,18,653,15,534,18,486,21,486,15,534,13,653,10,772,13,806,14"/>
+<area shape="rect" id="Node000004" href="$de/d64/class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a56082df7115dcbcdc1ac6866932d4621" title=" " alt="" coords="534,52,772,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="806,49,770,54,769,48,805,44"/>
+<area shape="rect" id="Node000003" href="$de/d64/class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a4d0814a052eb3d8f505d54fe6bece093" title=" " alt="" coords="5,14,200,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,31,200,31,200,26,233,26"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="523,52,482,46,482,41,524,46"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="703,40,686,33,653,30,623,32,607,37,602,42,608,49,604,53,597,43,603,33,622,27,653,25,688,28,705,35"/>
+</map>

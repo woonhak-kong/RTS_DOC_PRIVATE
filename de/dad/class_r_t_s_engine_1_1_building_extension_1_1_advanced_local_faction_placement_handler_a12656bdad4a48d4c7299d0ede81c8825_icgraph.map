@@ -1,0 +1,5 @@
+<map id="MoveBuilding" name="MoveBuilding">
+<area shape="rect" id="Node000001" title=" " alt="" coords="189,5,304,34"/>
+<area shape="rect" id="Node000002" href="$de/dad/class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,5,141,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,22,141,22,141,17,174,17"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="OnHealthInput" name="OnHealthInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,123,114"/>
+<area shape="rect" id="Node000002" href="$d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a7f77d0c7a4b8a915aab1c93a4893781c" title=" " alt="" coords="171,5,365,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,82,184,55,186,60,109,87"/>
+<area shape="rect" id="Node000003" href="$d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a3aa2a1abf8a38911fe27f45613b8f607" title=" " alt="" coords="171,76,365,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,97,156,97,156,102,123,102"/>
+<area shape="rect" id="Node000004" href="$d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a946db41f01ca8bf851d2c92c8b077047" title=" " alt="" coords="171,147,365,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="109,112,186,139,184,144,107,117"/>
+</map>

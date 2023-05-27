@@ -1,0 +1,9 @@
+<map id="InitBuildingParametersInput" name="InitBuildingParametersInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,426,309,522"/>
+<area shape="rect" id="Node000002" href="$d5/d83/class_r_t_s_engine_1_1_entities_1_1_init_faction_entity_parameters.html" title=" " alt="" coords="5,275,209,349"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,359,181,425,177,428,135,362"/>
+<area shape="rect" id="Node000003" href="$d4/d5b/class_r_t_s_engine_1_1_entities_1_1_init_entity_parameters.html" title=" " alt="" coords="31,5,183,215"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,229,110,276,105,276,105,229"/>
+<area shape="rect" id="Node000004" href="$db/d45/struct_r_t_s_engine_1_1_building_extension_1_1_building_placed_data.html" title=" " alt="" coords="234,264,386,360"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,361,249,414,245,411,278,358"/>
+</map>

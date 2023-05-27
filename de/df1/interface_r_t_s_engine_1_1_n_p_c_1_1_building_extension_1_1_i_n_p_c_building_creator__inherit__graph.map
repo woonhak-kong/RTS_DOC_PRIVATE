@@ -1,0 +1,9 @@
+<map id="INPCBuildingCreator" name="INPCBuildingCreator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,493,257,676"/>
+<area shape="rect" id="Node000004" href="$d8/d3e/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html" title=" " alt="" coords="5,724,269,1556"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,690,140,724,135,724,135,690"/>
+<area shape="rect" id="Node000002" href="$dc/d33/interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_component.html" title=" " alt="" coords="69,327,205,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,459,140,494,135,494,135,459"/>
+<area shape="rect" id="Node000003" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="33,5,241,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,293,140,327,135,327,135,293"/>
+</map>

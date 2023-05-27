@@ -1,0 +1,39 @@
+<map id="ResourceNotificationUIHandler" name="ResourceNotificationUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,2121,483,2391"/>
+<area shape="rect" id="Node000002" href="$d4/d58/class_r_t_s_engine_1_1_utilities_1_1_object_pool.html" title=" " alt="" coords="5,1714,260,2055"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,2066,271,2120,266,2123,235,2069"/>
+<area shape="rect" id="Node000003" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="89,820,253,893"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,907,331,2122,326,2122,175,908"/>
+<area shape="rect" id="Node000004" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="73,328,185,401"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="136,415,169,796,171,820,166,820,163,796,130,416"/>
+<area shape="rect" id="Node000005" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="49,96,208,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,202,131,328,126,328,126,202"/>
+<area shape="rect" id="Node000006" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="359,5,567,279"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="349,222,184,330,181,326,346,217"/>
+<area shape="rect" id="Node000011" href="$d3/da7/interface_r_t_s_engine_1_1_utilities_1_1_i_poolable_object.html" title=" " alt="" coords="529,328,651,401"/>
+<area shape="poly" id="edge11_Node000011_Node000006" title=" " alt="" coords="551,290,572,327,567,329,546,292"/>
+<area shape="rect" id="Node000007" href="$d8/d82/class_r_t_s_engine_1_1_u_i_1_1_resource_notification.html" title=" " alt="" coords="347,1757,539,2012"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="412,2013,387,2106,382,2105,407,2011"/>
+<area shape="rect" id="Node000008" href="$d3/d81/class_r_t_s_engine_1_1_effect_1_1_effect_object.html" title=" " alt="" coords="336,917,551,1648"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="446,1662,446,1757,441,1757,441,1662"/>
+<area shape="rect" id="Node000009" href="$df/d31/class_r_t_s_engine_1_1_utilities_1_1_poolable_object.html" title=" " alt="" coords="336,507,551,739"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="446,754,446,918,441,918,441,754"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="383,328,504,401"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="446,416,446,508,441,508,441,416"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="565,415,511,509,507,506,561,412"/>
+<area shape="rect" id="Node000012" href="$d9/dae/interface_r_t_s_engine_1_1_effect_1_1_i_effect_object.html" title=" " alt="" coords="773,541,969,705"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="666,390,716,415,762,449,802,492,834,540,829,543,798,496,759,453,713,420,663,395"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="846,720,825,766,799,814,765,859,723,896,701,907,680,911,640,906,602,902,583,907,564,919,552,930,549,926,560,915,581,902,602,897,641,901,680,905,700,902,721,891,761,855,794,811,821,764,841,718"/>
+<area shape="rect" id="Node000013" href="$de/d0d/struct_r_t_s_engine_1_1_utilities_1_1_int2_d.html" title=" " alt="" coords="178,553,311,694"/>
+<area shape="poly" id="edge14_Node000008_Node000013" title=" " alt="" coords="268,693,334,910,329,911,263,694"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="209,328,358,401"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="279,416,258,553,252,552,273,415"/>
+<area shape="rect" id="Node000015" href="$d2/dbd/class_r_t_s_engine_1_1_utilities_1_1_follow_transform.html" title="Allows a &#39;source&#39; transform to follow the position and/or rotation of a &#39;target&#39; ModelCacheAwareTrans..." alt="" coords="575,451,749,796"/>
+<area shape="poly" id="edge16_Node000008_Node000015" title=" " alt="" coords="606,797,565,918,559,936,553,934,559,916,601,795"/>
+<area shape="rect" id="Node000016" href="$d1/d3c/struct_r_t_s_engine_1_1_determinism_1_1_time_modified_float.html" title=" " alt="" coords="575,1235,739,1331"/>
+<area shape="poly" id="edge17_Node000007_Node000016" title=" " alt="" coords="651,1331,618,1475,594,1562,564,1649,523,1744,518,1742,560,1647,589,1561,613,1473,645,1330"/>
+<area shape="rect" id="Node000017" href="$d1/dea/class_r_t_s_engine_1_1_entities_1_1_entity_target_picker.html" title=" " alt="" coords="687,1848,829,1921"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="721,1923,497,2123,493,2119,717,1919"/>
+<area shape="rect" id="Node000018" href="$d0/de1/class_r_t_s_engine_1_1_entities_1_1_entity_target_picker_base.html" title=" " alt="" coords="763,1237,940,1329"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="845,1343,766,1849,761,1848,840,1342"/>
+</map>

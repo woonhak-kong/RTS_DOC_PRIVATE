@@ -1,0 +1,13 @@
+<map id="TimeModifierUIHandler" name="TimeModifierUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="34,569,269,1005"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,448,127,521"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,534,92,569,87,571,77,536"/>
+<area shape="rect" id="Node000003" href="$d2/d22/interface_r_t_s_engine_1_1_game_1_1_i_post_run_game_service.html" title=" " alt="" coords="151,448,322,521"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,536,215,571,210,569,220,534"/>
+<area shape="rect" id="Node000004" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="181,327,293,400"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,414,239,448,234,448,234,414"/>
+<area shape="rect" id="Node000005" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="53,96,212,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="162,200,222,326,218,328,158,202"/>
+<area shape="rect" id="Node000006" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="237,5,445,279"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="273,292,256,328,251,326,268,290"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="OnInitialHealthAdded" name="OnInitialHealthAdded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,173,79"/>
+<area shape="rect" id="Node000002" href="$db/dae/class_r_t_s_engine_1_1_health_1_1_entity_health_state_handler.html#a17e07e81d98a376df23b9e7a13db4b87" title=" " alt="" coords="221,41,456,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,62,206,62,206,67,173,67"/>
+<area shape="rect" id="Node000003" href="$db/dae/class_r_t_s_engine_1_1_health_1_1_entity_health_state_handler.html#a73ce44bc3164e9ec10a6032421d1d67f" title=" " alt="" coords="504,5,739,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,47,489,43,490,48,457,52"/>
+<area shape="rect" id="Node000005" href="$df/d6b/class_r_t_s_engine_1_1_health_1_1_entity_health_state.html#a61a2c1ef6dc3a78bf07943305b9b9091" title=" " alt="" coords="504,76,739,123"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="457,76,490,80,489,86,456,82"/>
+<area shape="rect" id="Node000004" href="$df/d6b/class_r_t_s_engine_1_1_health_1_1_entity_health_state.html#a2e7b7b6fe4acc1251a6aebab7be917ea" title=" " alt="" coords="787,5,1023,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="740,26,772,26,772,31,740,31"/>
+</map>

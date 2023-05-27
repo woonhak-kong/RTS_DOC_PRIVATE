@@ -1,0 +1,28 @@
+var interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager =
+[
+    [ "AddFactionSlot", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a56eb56ef79612e71a6a091da9f8045cb", null ],
+    [ "CanRemoveFactionSlot", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#aedf91ef2af1d9bdfd594668a4fd87efe", null ],
+    [ "GetFactionSlot", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#abc2954e554633523019bf419a83551d6", null ],
+    [ "GetFactionSlotID", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a22706e93db18fbb97a375593e4af77a4", null ],
+    [ "GetHostFactionSlot", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#ae5132601e60b8754ab7d2ae428f4ba4c", null ],
+    [ "GetMap", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#acb1d0f5bdf4af41555fc2171f7c1adc8", null ],
+    [ "InterruptStartLobby", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a4ee93b3d91150c4a090b88fff327bc9f", null ],
+    [ "IsLobbyGameDataMaster", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#ad46d2b688f80b9acf515fed7b7682491", null ],
+    [ "LeaveLobby", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a2f01a6a9b44deddc9dc3360d479e0e3a", null ],
+    [ "StartLobby", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#ab215d192503279b0b9d54137871b2a4f", null ],
+    [ "CurrentLobbyGameData", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a3adac2931cce21ea528f171b45ee8f56", null ],
+    [ "CurrentMap", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#ac21fa797e12782f0d0add5bf96c28b14", null ],
+    [ "DefeatConditionSelector", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#ab245ea1474baa9a98e97503d395d8fae", null ],
+    [ "FactionColorSelector", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a310d0859d964686255b7d1d25cca5e9a", null ],
+    [ "FactionSlotCount", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a01409f041f7498303add656ce9865d2d", null ],
+    [ "FactionSlots", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#af06f7d3277199e57704d6892b069afa9", null ],
+    [ "GameCode", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a91b50e221119fb5a82c3041ba39b8b84", null ],
+    [ "InitialResourcesSelector", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a11818712191c8d746d24c11952164c65", null ],
+    [ "IsStartingLobby", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a5146756f41527e3a2c092d2255dcafbf", null ],
+    [ "LocalFactionSlot", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a2ead6c8cb2798ea0cd9617d784b40325", null ],
+    [ "Maps", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a3b533c43dbcc14a91d67311b7fc3bcf8", null ],
+    [ "TimeModifierSelector", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#ac64c0adc0aebafe3d427c540b2c07bc5", null ],
+    [ "FactionSlotAdded", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#a23f9e08c5ae7be9f05ce0553052a1d14", null ],
+    [ "FactionSlotRemoved", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#ac3b9c26286c93877979896e947087995", null ],
+    [ "LobbyGameDataUpdated", "de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#aff01a00788c62dd4609981b147a9a782", null ]
+];
