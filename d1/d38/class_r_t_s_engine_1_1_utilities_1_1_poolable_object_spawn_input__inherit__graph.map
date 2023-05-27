@@ -1,0 +1,17 @@
+<map id="PoolableObjectSpawnInput" name="PoolableObjectSpawnInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="449,5,669,169"/>
+<area shape="rect" id="Node000002" href="$dd/da4/class_r_t_s_engine_1_1_building_extension_1_1_border_object_spawn_input.html" title=" " alt="" coords="5,259,212,332"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,131,332,171,226,220,158,261,156,256,223,215,330,166,435,126"/>
+<area shape="rect" id="Node000003" href="$db/de7/class_r_t_s_engine_1_1_effect_1_1_effect_object_spawn_input.html" title=" " alt="" coords="236,225,435,366"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="463,181,412,227,409,223,459,177"/>
+<area shape="rect" id="Node000006" href="$d5/d3c/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_spawn_input.html" title=" " alt="" coords="459,236,660,355"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="562,184,562,237,557,237,557,184"/>
+<area shape="rect" id="Node000007" href="$d5/d31/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar_spawn_input.html" title=" " alt="" coords="685,236,909,355"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="665,177,732,234,728,238,662,181"/>
+<area shape="rect" id="Node000008" href="$d5/dfc/class_r_t_s_engine_1_1_u_i_1_1_requirement_display_u_i_spawn_input.html" title=" " alt="" coords="933,217,1159,373"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="684,123,801,164,922,215,934,221,932,226,920,220,799,169,682,128"/>
+<area shape="rect" id="Node000004" href="$d9/d9a/class_r_t_s_engine_1_1_attack_1_1_attack_object_spawn_input.html" title=" " alt="" coords="117,421,319,676"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="299,380,279,423,274,421,294,378"/>
+<area shape="rect" id="Node000005" href="$d7/db7/class_r_t_s_engine_1_1_u_i_1_1_resource_notification_spawn_input.html" title=" " alt="" coords="343,482,559,615"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="376,378,424,481,419,483,371,380"/>
+</map>

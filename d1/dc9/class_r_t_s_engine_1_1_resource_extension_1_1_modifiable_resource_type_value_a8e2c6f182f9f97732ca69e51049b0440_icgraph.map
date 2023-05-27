@@ -1,0 +1,9 @@
+<map id="Has" name="Has">
+<area shape="rect" id="Node000001" title=" " alt="" coords="670,50,719,79"/>
+<area shape="rect" id="Node000002" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a71f707ee0a61cf7591e62c3e39604945" title="Generates the resources for one period." alt="" coords="348,32,622,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="655,67,623,67,623,62,655,62"/>
+<area shape="rect" id="Node000003" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a028103aee6a09cd6a2d2520ae7a1f841" title=" " alt="" coords="5,5,300,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,51,300,47,300,42,333,46"/>
+<area shape="rect" id="Node000004" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#aec0783b5a136e042adcc47bae4fe5291" title="Updates the generated resources." alt="" coords="38,76,267,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="333,83,267,90,267,85,332,78"/>
+</map>

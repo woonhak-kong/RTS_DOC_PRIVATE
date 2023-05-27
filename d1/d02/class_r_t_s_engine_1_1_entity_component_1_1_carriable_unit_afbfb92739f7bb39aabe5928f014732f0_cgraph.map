@@ -1,0 +1,9 @@
+<map id="OnComponentUpgraded" name="OnComponentUpgraded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,198,74"/>
+<area shape="rect" id="Node000002" href="$d0/ded/interface_r_t_s_engine_1_1_entity_component_1_1_i_unit_carrier.html#af72ed4b9eb9e3b6bafa8a548bfef2117" title=" " alt="" coords="246,5,474,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,45,230,41,231,47,198,51"/>
+<area shape="rect" id="Node000003" href="$d1/d02/class_r_t_s_engine_1_1_entity_component_1_1_carriable_unit.html#a63d412eb01672042f60b1d63fe7a664b" title=" " alt="" coords="315,76,405,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,68,300,80,300,86,198,73"/>
+<area shape="rect" id="Node000004" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a942c81adff888a4382d1daf0fe7b1535" title=" " alt="" coords="522,67,757,113"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,87,507,87,507,93,405,93"/>
+</map>

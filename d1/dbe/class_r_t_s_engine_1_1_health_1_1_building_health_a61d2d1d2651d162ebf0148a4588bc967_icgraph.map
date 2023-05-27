@@ -1,0 +1,13 @@
+<map id="HandleWorkerProgressStart" name="HandleWorkerProgressStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="484,32,702,61"/>
+<area shape="rect" id="Node000002" href="$d1/dbe/class_r_t_s_engine_1_1_health_1_1_building_health.html#a447cf9bfdccfdf39bf291866660117d3" title=" " alt="" coords="258,5,426,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,36,426,31,427,26,469,31"/>
+<area shape="rect" id="Node000005" href="$d1/dbe/class_r_t_s_engine_1_1_health_1_1_building_health.html#a193d92cf886e5adc50c4db2648dc5f60" title=" " alt="" coords="248,59,436,87"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="469,62,437,66,436,60,469,57"/>
+<area shape="rect" id="Node000003" href="$d1/dbe/class_r_t_s_engine_1_1_health_1_1_building_health.html#ad18822b6a8b26509fc31ee61589194a2" title=" " alt="" coords="50,5,155,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,22,155,22,155,17,243,17"/>
+<area shape="rect" id="Node000004" href="$d1/dbe/class_r_t_s_engine_1_1_health_1_1_building_health.html#aee264f31f818985298b8bf900f0f6b25" title=" " alt="" coords="5,59,200,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="261,40,171,61,170,55,259,35"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="259,57,155,34,156,29,261,52"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="233,76,200,76,200,70,233,70"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CollectResourcesAction" name="CollectResourcesAction">
+<area shape="rect" id="Node000001" title="Collects all the generated resources." alt="" coords="507,93,695,122"/>
+<area shape="rect" id="Node000002" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a71f707ee0a61cf7591e62c3e39604945" title="Generates the resources for one period." alt="" coords="207,23,459,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="520,92,437,73,439,68,522,87"/>
+<area shape="rect" id="Node000005" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a89a3b876b020051bb0a4b160dc7615f2" title=" " alt="" coords="227,93,439,122"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="492,110,439,110,439,105,492,105"/>
+<area shape="rect" id="Node000006" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a089436776a49ced62441ba16abc85d4e" title="Called when the player clicks on the resource collection task by the TaskUI instance that handles tha..." alt="" coords="271,147,395,175"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="511,128,396,151,395,146,510,123"/>
+<area shape="rect" id="Node000003" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a028103aee6a09cd6a2d2520ae7a1f841" title=" " alt="" coords="5,5,159,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,34,159,30,159,25,192,29"/>
+<area shape="rect" id="Node000004" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#aec0783b5a136e042adcc47bae4fe5291" title="Updates the generated resources." alt="" coords="46,59,118,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,64,119,72,118,67,192,59"/>
+</map>

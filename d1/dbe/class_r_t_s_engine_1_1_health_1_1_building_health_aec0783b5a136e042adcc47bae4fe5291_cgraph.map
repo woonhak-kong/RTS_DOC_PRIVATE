@@ -1,0 +1,21 @@
+<map id="Update" name="Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,217,78,246"/>
+<area shape="rect" id="Node000002" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a6e8e71f0de894a9db172e09fa187c6b8" title=" " alt="" coords="126,85,394,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,215,81,178,124,141,177,116,180,121,127,146,85,182,55,218"/>
+<area shape="rect" id="Node000005" href="$d1/dbe/class_r_t_s_engine_1_1_health_1_1_building_health.html#a9765fcf4def0796bb0bd9ff18b6aa954" title=" " alt="" coords="211,156,309,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="73,214,125,194,196,177,197,182,126,199,75,219"/>
+<area shape="rect" id="Node000008" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a68bc67b62407402b3ab782409b0d1989" title=" " alt="" coords="137,208,383,255"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="78,229,122,229,122,234,78,234"/>
+<area shape="rect" id="Node000009" href="$dc/d59/class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html#a99934fbeea3a630beef45ffe692eb311" title=" " alt="" coords="132,279,388,325"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="75,244,127,265,146,271,145,276,125,270,73,249"/>
+<area shape="rect" id="Node000010" href="$d9/d41/interface_r_t_s_engine_1_1_logging_1_1_i_player_message_handler.html#ad4e048d5e8983e2b48e058a52aec1600" title=" " alt="" coords="128,349,392,396"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="53,245,81,290,102,315,127,336,134,340,131,345,124,340,99,319,77,294,48,248"/>
+<area shape="rect" id="Node000003" href="$d1/dda/interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="463,5,696,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,82,457,53,458,58,329,87"/>
+<area shape="rect" id="Node000004" href="$d1/dda/interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#a380b4a9b28b93b6e2ed73cfecddca5bd" title=" " alt="" coords="463,76,696,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="394,97,448,97,448,102,394,102"/>
+<area shape="rect" id="Node000006" href="$db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#ae68ab848563b348a1a7fa1efd6efa5b4" title=" " alt="" coords="450,147,710,193"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="309,167,435,167,435,173,309,173"/>
+<area shape="rect" id="Node000007" href="$db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#af7f3b342f60b783116fedaa2308c1269" title=" " alt="" coords="442,217,717,264"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="309,176,395,194,468,211,466,216,393,199,308,182"/>
+</map>

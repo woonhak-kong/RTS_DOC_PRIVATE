@@ -1,0 +1,7 @@
+<map id="AttackTargetPicker" name="AttackTargetPicker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,289,175,363"/>
+<area shape="rect" id="Node000002" href="$d6/d3a/class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html" title=" " alt="" coords="5,145,199,241"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,256,105,289,99,289,99,256"/>
+<area shape="rect" id="Node000003" href="$d0/de1/class_r_t_s_engine_1_1_entities_1_1_entity_target_picker_base.html" title=" " alt="" coords="13,5,191,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,112,105,146,99,146,99,112"/>
+</map>

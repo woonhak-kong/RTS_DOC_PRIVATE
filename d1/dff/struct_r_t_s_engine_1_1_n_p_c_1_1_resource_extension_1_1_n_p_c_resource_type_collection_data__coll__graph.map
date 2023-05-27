@@ -1,0 +1,15 @@
+<map id="NPCResourceTypeCollectionData" name="NPCResourceTypeCollectionData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,833,517,906"/>
+<area shape="rect" id="Node000002" href="$d2/d5f/class_r_t_s_engine_1_1_resource_extension_1_1_resource_type_info.html" title=" " alt="" coords="247,403,384,749"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="363,748,380,815,375,817,358,749"/>
+<area shape="rect" id="Node000003" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="5,196,215,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,280,249,460,245,462,136,283"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="45,5,175,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,93,113,197,107,197,107,93"/>
+<area shape="rect" id="Node000005" href="$d3/dd4/struct_r_t_s_engine_1_1_resource_extension_1_1_resource_type_value.html" title=" " alt="" coords="239,185,392,281"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="318,281,318,387,313,387,313,281"/>
+<area shape="rect" id="Node000006" href="$d3/d00/class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="413,528,535,624"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="470,624,453,711,425,810,421,818,416,816,419,808,448,710,465,623"/>
+<area shape="rect" id="Node000007" href="$d7/d61/class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="417,128,539,337"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="479,352,477,528,472,528,474,352"/>
+</map>

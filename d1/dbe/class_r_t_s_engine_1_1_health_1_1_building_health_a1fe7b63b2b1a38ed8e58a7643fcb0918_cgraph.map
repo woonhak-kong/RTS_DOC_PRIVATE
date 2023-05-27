@@ -1,0 +1,12 @@
+<map id="OnMaxHealthReached" name="OnMaxHealthReached">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,183,74"/>
+<area shape="rect" id="Node000002" href="$db/dae/class_r_t_s_engine_1_1_health_1_1_entity_health_state_handler.html#a73ce44bc3164e9ec10a6032421d1d67f" title=" " alt="" coords="514,5,749,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,52,499,34,499,39,183,57"/>
+<area shape="rect" id="Node000004" href="$db/dae/class_r_t_s_engine_1_1_health_1_1_entity_health_state_handler.html#a17e07e81d98a376df23b9e7a13db4b87" title=" " alt="" coords="231,67,466,113"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,67,217,71,216,77,183,73"/>
+<area shape="rect" id="Node000003" href="$df/d6b/class_r_t_s_engine_1_1_health_1_1_entity_health_state.html#a2e7b7b6fe4acc1251a6aebab7be917ea" title=" " alt="" coords="797,5,1033,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="750,26,782,26,782,31,750,31"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="459,63,506,53,507,58,460,69"/>
+<area shape="rect" id="Node000005" href="$df/d6b/class_r_t_s_engine_1_1_health_1_1_entity_health_state.html#a61a2c1ef6dc3a78bf07943305b9b9091" title=" " alt="" coords="514,76,749,123"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="467,91,499,92,499,98,467,97"/>
+</map>

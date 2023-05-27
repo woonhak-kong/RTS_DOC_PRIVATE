@@ -1,0 +1,12 @@
+<map id="TryGetEntityInstanceWithKey" name="TryGetEntityInstanceWithKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="568,85,788,114"/>
+<area shape="rect" id="Node000002" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html#ad1e461f41bbb265ca7302f69d3a810ec" title=" " alt="" coords="300,5,504,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="604,83,495,55,496,50,606,78"/>
+<area shape="rect" id="Node000003" href="$d9/db0/class_r_t_s_engine_1_1_entities_1_1_init_building_parameters_input.html#aec43a0b65a3a701855b69eafe4689dae" title=" " alt="" coords="284,76,520,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="553,102,520,102,520,97,553,97"/>
+<area shape="rect" id="Node000005" href="$da/d9b/class_r_t_s_engine_1_1_entities_1_1_init_unit_parameters_input.html#a6261c0f1b5f48e975236be3ea7699adc" title=" " alt="" coords="296,147,508,193"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="606,120,496,149,495,144,604,115"/>
+<area shape="rect" id="Node000004" href="$de/dfc/class_r_t_s_engine_1_1_determinism_1_1_input_manager.html#a21242b46c1ebd0d0f89b8d4e1131443f" title=" " alt="" coords="5,112,236,159"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,119,236,123,236,118,268,114"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="281,158,236,152,237,147,281,152"/>
+</map>

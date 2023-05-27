@@ -1,0 +1,17 @@
+<map id="FactionDefeatHandler" name="FactionDefeatHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,631,349,837"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,481,127,554"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,563,158,630,154,633,101,566"/>
+<area shape="rect" id="Node000003" href="$d2/d22/interface_r_t_s_engine_1_1_game_1_1_i_post_run_game_service.html" title=" " alt="" coords="151,481,322,554"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,568,239,632,234,632,234,568"/>
+<area shape="rect" id="Node000004" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="181,337,293,411"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,425,239,481,234,481,234,425"/>
+<area shape="rect" id="Node000005" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="53,96,212,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="161,199,223,336,218,339,156,202"/>
+<area shape="rect" id="Node000006" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="237,5,445,279"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="276,292,255,339,250,337,271,290"/>
+<area shape="rect" id="Node000007" href="$d6/d3a/class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html" title=" " alt="" coords="347,469,540,565"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="400,567,348,621,345,617,397,563"/>
+<area shape="rect" id="Node000008" href="$d0/de1/class_r_t_s_engine_1_1_entities_1_1_entity_target_picker_base.html" title=" " alt="" coords="355,328,532,420"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="446,434,446,469,441,469,441,434"/>
+</map>

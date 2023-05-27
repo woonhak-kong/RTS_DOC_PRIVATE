@@ -1,0 +1,9 @@
+<map id="PrioritizeServiceUI" name="PrioritizeServiceUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="559,50,709,79"/>
+<area shape="rect" id="Node000002" href="$db/ddd/class_r_t_s_engine_1_1_minimap_1_1_cameras_1_1_minimap_camera_controller.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="266,5,504,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,54,504,49,505,43,545,49"/>
+<area shape="rect" id="Node000003" href="$d0/d61/class_r_t_s_engine_1_1_selection_1_1_box_1_1_box_selector.html#a1656caf2f01d9d26b18c1c8a00af813e" title=" " alt="" coords="259,76,511,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="545,80,512,84,511,79,544,74"/>
+<area shape="rect" id="Node000004" href="$d0/d61/class_r_t_s_engine_1_1_selection_1_1_box_1_1_box_selector.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,76,211,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="244,102,211,102,211,97,244,97"/>
+</map>

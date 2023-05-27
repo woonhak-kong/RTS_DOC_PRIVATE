@@ -1,0 +1,7 @@
+<map id="SetFollowTarget" name="SetFollowTarget">
+<area shape="rect" id="Node000001" title="Updates the target that the camera will be following." alt="" coords="350,5,485,34"/>
+<area shape="rect" id="Node000002" href="$d1/d09/class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#afeea8f55dfb565a5bcde463b90518375" title=" " alt="" coords="114,5,302,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,22,303,22,303,17,335,17"/>
+<area shape="rect" id="Node000003" href="$d1/d09/class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html#a83547725c7532a8ebd835d603857bc2d" title=" " alt="" coords="5,5,66,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,22,66,22,66,17,99,17"/>
+</map>
