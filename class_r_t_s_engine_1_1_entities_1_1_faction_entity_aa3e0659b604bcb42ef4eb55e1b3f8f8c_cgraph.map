@@ -1,7 +1,0 @@
-<map id="UpdateColors" name="UpdateColors">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,124,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_game_1_1_i_game_manager.html#a1e9d0a6c6266bd5fc9f603ceeafdb051" title=" " alt="" coords="203,5,467,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,54,188,46,189,51,124,59"/>
-<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_utilities_1_1_model_cache_aware_colored_renderer.html#aac8fc75fe40f1000aed89e55cfd8f865" title=" " alt="" coords="172,76,498,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,70,157,74,157,79,124,75"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="FactionTypeFilteredFactionEntities.Element" name="FactionTypeFilteredFactionEntities.Element">
-<area shape="rect" id="Node000001" title=" " alt="" coords="8,503,212,595"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_faction_1_1_faction_type_info.html" title=" " alt="" coords="49,251,171,437"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,437,113,486,107,486,107,437"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="5,128,215,201"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,216,113,251,107,251,107,216"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="45,5,175,79"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,93,113,128,107,128,107,93"/>
-</map>

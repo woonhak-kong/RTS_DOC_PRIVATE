@@ -1,9 +1,0 @@
-<map id="LaunchActionLocal" name="LaunchActionLocal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,159,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_pending_task_entity_component_base.html#a76049655934e82675a5b1c54425745b3" title=" " alt="" coords="207,5,412,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,35,192,31,192,36,159,40"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_pending_task_entity_component_base.html#aba183c13f1c7e9f56629567645016110" title=" " alt="" coords="216,59,403,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,53,201,58,201,63,158,58"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_task_1_1_i_pending_tasks_handler.html#ad36ca5c2d19b93bde5112770b3c06d01" title=" " alt="" coords="460,50,706,96"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="404,70,445,70,445,76,404,76"/>
-</map>

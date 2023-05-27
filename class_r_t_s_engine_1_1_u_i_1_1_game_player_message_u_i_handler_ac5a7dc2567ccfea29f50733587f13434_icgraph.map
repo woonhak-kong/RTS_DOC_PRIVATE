@@ -1,7 +1,0 @@
-<map id="HandleShowPlayerMessageGlobal" name="HandleShowPlayerMessageGlobal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="158,32,421,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_game_player_message_u_i_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="37,5,78,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,32,78,25,79,19,145,27"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_game_player_message_u_i_handler.html#ad18822b6a8b26509fc31ee61589194a2" title=" " alt="" coords="5,59,110,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,66,111,70,110,64,145,60"/>
-</map>

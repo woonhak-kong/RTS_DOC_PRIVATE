@@ -1,7 +1,0 @@
-<map id="OnComplete" name="OnComplete">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,115,92"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_resource_manager.html#a97f18c711069e436031ad106a55ff4fc" title=" " alt="" coords="163,5,487,70"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,67,147,62,148,67,115,72"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#a7d498b13dc60fe7d0ba25025182d53fd" title=" " alt="" coords="185,94,465,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,83,171,92,170,97,115,88"/>
-</map>

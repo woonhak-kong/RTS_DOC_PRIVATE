@@ -1,7 +1,0 @@
-<map id="GetFiltered" name="GetFiltered">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,105,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_target_picker.html#ab48d1ff29481406b067009574e5750ae" title="Determines whether a target &#39;t&#39; can be picked as a valid target." alt="" coords="153,5,359,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,26,138,26,138,31,105,31"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_target_picker.html#ac9a2a02a6101fff502289963aa0f6ea0" title="Is the target &#39;t&#39; in the list?" alt="" coords="407,5,613,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,26,392,26,392,31,360,31"/>
-</map>

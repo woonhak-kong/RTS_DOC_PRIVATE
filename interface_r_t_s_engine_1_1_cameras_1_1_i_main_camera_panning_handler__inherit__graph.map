@@ -1,9 +1,0 @@
-<map id="IMainCameraPanningHandler" name="IMainCameraPanningHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="23,172,240,404"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html" title=" " alt="" coords="5,452,257,1156"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,418,134,452,129,452,129,418"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_control_handler.html" title=" " alt="" coords="26,5,237,124"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,138,134,172,129,172,129,138"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_panning_handler.html" title=" " alt="" coords="17,1204,246,1387"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,1170,134,1204,129,1204,129,1170"/>
-</map>

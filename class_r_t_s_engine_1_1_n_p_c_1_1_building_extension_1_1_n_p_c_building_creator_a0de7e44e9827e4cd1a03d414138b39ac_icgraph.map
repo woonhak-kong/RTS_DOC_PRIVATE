@@ -1,9 +1,0 @@
-<map id="DestroyActiveRegulator" name="DestroyActiveRegulator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="447,32,632,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a0a6df2dac4fa47f70282f645c7459001" title=" " alt="" coords="167,32,399,61"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,49,399,49,399,44,432,44"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="5,5,119,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,33,119,29,119,24,152,28"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html#a534c6da30f10b5cfdb0529d3d4168ec3" title="Called after all INPCComponent instances have been cached and initialized by the INPCManager instance..." alt="" coords="16,59,108,87"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="152,65,109,70,108,65,151,60"/>
-</map>

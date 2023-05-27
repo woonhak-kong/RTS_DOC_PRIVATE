@@ -1,7 +1,0 @@
-<map id="Add" name="Add">
-<area shape="rect" id="Node000001" title=" " alt="" coords="319,63,369,92"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html#aebfacca424c58d5ba7d7dde8f74c10e0" title=" " alt="" coords="5,5,271,70"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,73,271,66,272,61,305,67"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#a23238933755b85181969fa4f065bc92d" title=" " alt="" coords="36,94,240,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,88,240,100,239,95,304,83"/>
-</map>

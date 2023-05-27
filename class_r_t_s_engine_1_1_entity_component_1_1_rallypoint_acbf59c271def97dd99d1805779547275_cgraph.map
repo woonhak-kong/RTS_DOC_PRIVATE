@@ -1,6 +1,0 @@
-<map id="HandleBuildingBuiltOrEntityInitiated" name="HandleBuildingBuiltOrEntityInitiated">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,217,76"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="59,29,58,19,67,10,85,5,111,3,141,5,158,12,156,17,139,10,111,8,86,10,70,15,63,21,65,28"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_rallypoint.html#afd3706a245c1b26de3756774c45ca2d6" title=" " alt="" coords="265,38,500,67"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="217,50,250,50,250,55,217,55"/>
-</map>

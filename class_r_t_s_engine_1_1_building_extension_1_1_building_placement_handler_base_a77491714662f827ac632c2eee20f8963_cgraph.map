@@ -1,7 +1,0 @@
-<map id="OnUpdate" name="OnUpdate">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,98,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#a8f01c71ecef14c9db6aff06735a62ffd" title=" " alt="" coords="150,5,286,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,36,136,30,136,35,98,42"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#a7a86a8e5c1fdd23b4fec48592432ea09" title=" " alt="" coords="146,59,290,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,51,131,56,130,62,98,56"/>
-</map>

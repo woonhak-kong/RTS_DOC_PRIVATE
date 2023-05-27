@@ -1,5 +1,0 @@
-<map id="AudioClipFetcher" name="AudioClipFetcher">
-<area shape="rect" id="Node000001" title="Allows to define a set of AudioClip instances and retrieve one of them depending on the chosen type." alt="" coords="19,263,153,359"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_fetcher.html" title=" " alt="" coords="5,5,167,215"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,229,89,263,83,263,83,229"/>
-</map>

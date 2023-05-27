@@ -1,8 +1,0 @@
-<map id="SlowTick" name="SlowTick">
-<area shape="rect" id="Node000001" title=" " alt="" coords="314,5,398,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_editor_helper.html#a554d0f30ae93d2787435dca9a46c6c5d" title=" " alt="" coords="194,5,266,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,31,266,31,266,25,299,26"/>
-<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="281,8,314,8,314,14,281,13"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_editor_helper.html#a7984f5d99feec75b9410968ee1de7416" title=" " alt="" coords="5,5,146,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,22,146,22,146,17,179,17"/>
-</map>

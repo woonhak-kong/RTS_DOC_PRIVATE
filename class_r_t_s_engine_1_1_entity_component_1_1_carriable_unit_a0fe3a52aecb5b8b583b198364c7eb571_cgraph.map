@@ -1,9 +1,0 @@
-<map id="OnTargetPostLocked" name="OnTargetPostLocked">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,176,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_carriable_unit.html#a8b20199716187832b3b0459be1488044" title=" " alt="" coords="273,5,413,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,35,258,26,259,31,176,40"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_carriable_unit.html#a6677fb31a42d00f43c614db4c075e4f4" title=" " alt="" coords="224,59,462,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,53,209,56,208,61,176,58"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_utilities_1_1_follow_transform.html#a45f4dccc17051d4623693181b75d50d9" title=" " alt="" coords="510,50,715,96"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,70,495,70,495,76,463,76"/>
-</map>

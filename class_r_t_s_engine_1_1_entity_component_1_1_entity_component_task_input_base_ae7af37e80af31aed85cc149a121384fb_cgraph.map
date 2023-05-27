@@ -1,7 +1,0 @@
-<map id="OnComplete" name="OnComplete">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,115,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#aed95630b3e224827d3bb402bcfc38278" title=" " alt="" coords="187,5,414,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,54,172,45,173,50,116,59"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#af7f3b342f60b783116fedaa2308c1269" title=" " alt="" coords="163,76,438,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,70,148,75,148,80,115,75"/>
-</map>

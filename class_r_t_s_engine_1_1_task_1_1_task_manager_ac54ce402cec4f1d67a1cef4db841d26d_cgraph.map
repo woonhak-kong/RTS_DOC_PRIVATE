@@ -1,7 +1,0 @@
-<map id="OnDestroy" name="OnDestroy">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,101,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_task_1_1_task_manager.html#a66abdb9226d3a99998982ea23226ed4b" title=" " alt="" coords="149,5,372,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,26,134,26,134,31,101,31"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_task_1_1_task_manager.html#a587426a7bad14f3a37954d07282194b2" title=" " alt="" coords="420,5,643,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,26,405,26,405,31,372,31"/>
-</map>

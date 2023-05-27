@@ -1,9 +1,0 @@
-<map id="OnPostRunInit" name="OnPostRunInit">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,125,87"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_dev_tools_1_1_health_1_1_auto_building_constructor.html#a5b9d0a120e873f81d4f2e644f4711a99" title=" " alt="" coords="182,5,384,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,56,172,44,206,35,207,41,173,49,125,61"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_dev_tools_1_1_health_1_1_auto_building_constructor.html#a261d4a48f3c787a89517c7abeff536fc" title=" " alt="" coords="173,59,393,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,70,158,70,158,76,125,76"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_dev_tools_1_1_health_1_1_auto_building_constructor.html#aa5a382c8cde441075c56fa2a07b4973b" title=" " alt="" coords="227,112,339,141"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,85,173,97,213,107,212,112,172,102,124,90"/>
-</map>

@@ -1,6 +1,0 @@
-var _advanced_building_placer_8cs =
-[
-    [ "AdvancedBuildingPlacer", "class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer.html", "class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer" ],
-    [ "AdvancedBuildingPlacer.SegmentPeriodReplacementData", "struct_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer_1_1_segment_period_replacement_data.html", "struct_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer_1_1_segment_period_replacement_data" ],
-    [ "AdvancedBuildingPlacer.SegmentSnapData", "struct_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer_1_1_segment_snap_data.html", "struct_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer_1_1_segment_snap_data" ]
-];

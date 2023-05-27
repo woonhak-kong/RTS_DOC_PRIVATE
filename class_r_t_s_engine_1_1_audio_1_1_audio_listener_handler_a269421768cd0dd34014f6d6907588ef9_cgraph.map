@@ -1,9 +1,0 @@
-<map id="Init" name="Init">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,46,79"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_listener_handler.html#a9edca653493115c90677933924d71a5a" title=" " alt="" coords="94,50,338,79"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,62,79,62,79,67,46,67"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_utilities_1_1_raycast_hitter.html#a4eba8a2fad14065cb672d352cf3d28da" title=" " alt="" coords="412,5,628,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,48,397,40,398,46,339,53"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_controller.html#aad1c4f7bf74c0be46861603ec0b31cb3" title=" " alt="" coords="386,76,654,123"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="339,76,372,80,371,85,338,81"/>
-</map>

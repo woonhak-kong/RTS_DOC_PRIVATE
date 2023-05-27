@@ -1,7 +1,0 @@
-<map id="HandlePendingTaskEntityComponentRemoved" name="HandlePendingTaskEntityComponentRemoved">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,287,83"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#aebb5dde03e162537cd9f39632cf2533c" title=" " alt="" coords="335,5,574,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,43,319,39,320,45,287,48"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_pending_task_entity_component_tracker.html#a7e3bd21d64d04e8b6bd64fe4510143fb" title=" " alt="" coords="349,76,560,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,71,335,75,334,81,287,76"/>
-</map>

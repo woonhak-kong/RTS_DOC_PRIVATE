@@ -1,5 +1,0 @@
-<map id="NavMeshEntityObstacle" name="NavMeshEntityObstacle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,395,183,468"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_base_entity_obstacle.html" title=" " alt="" coords="11,5,177,347"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,361,97,395,91,395,91,361"/>
-</map>

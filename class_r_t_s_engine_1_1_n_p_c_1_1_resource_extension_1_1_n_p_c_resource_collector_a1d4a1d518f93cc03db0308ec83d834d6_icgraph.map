@@ -1,7 +1,0 @@
-<map id="ActivateCollectorRegulator" name="ActivateCollectorRegulator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="371,5,577,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html#a426bde58394d6a1ae9014a2b4453189c" title=" " alt="" coords="146,5,323,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,22,323,22,323,17,356,17"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html#a534c6da30f10b5cfdb0529d3d4168ec3" title="Called after all INPCComponent instances have been cached and initialized by the INPCManager instance..." alt="" coords="5,5,98,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,22,98,22,98,17,131,17"/>
-</map>

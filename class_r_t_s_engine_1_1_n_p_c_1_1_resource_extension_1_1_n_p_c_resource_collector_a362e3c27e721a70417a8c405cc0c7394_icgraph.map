@@ -1,9 +1,0 @@
-<map id="HandleCollectorSlotFreed" name="HandleCollectorSlotFreed">
-<area shape="rect" id="Node000001" title=" " alt="" coords="357,32,558,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html#acbceff927867a94c310b2c504ed9b31e" title=" " alt="" coords="139,5,309,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,36,309,32,310,27,342,31"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="167,59,281,87"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="343,62,281,69,281,64,342,57"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html#a30d8ad62047e95132edf459b2aabb5d2" title="Called when the INPCManager instance first initializes the INPCComponent instance." alt="" coords="5,5,91,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,22,91,22,91,17,124,17"/>
-</map>

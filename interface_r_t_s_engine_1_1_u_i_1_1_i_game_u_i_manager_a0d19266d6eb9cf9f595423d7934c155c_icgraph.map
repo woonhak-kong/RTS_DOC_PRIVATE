@@ -1,9 +1,0 @@
-<map id="HasPriority" name="HasPriority">
-<area shape="rect" id="Node000001" title=" " alt="" coords="559,50,657,79"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_selection_1_1_box_1_1_box_selector.html#a1656caf2f01d9d26b18c1c8a00af813e" title=" " alt="" coords="259,5,511,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,57,511,52,512,46,545,52"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_selection_1_1_selector_base.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="269,76,501,123"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="545,77,502,84,501,79,544,72"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_selection_1_1_box_1_1_box_selector.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,5,211,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,31,211,31,211,26,244,26"/>
-</map>

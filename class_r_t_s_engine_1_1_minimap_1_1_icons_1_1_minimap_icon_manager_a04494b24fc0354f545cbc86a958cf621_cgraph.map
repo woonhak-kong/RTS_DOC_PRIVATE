@@ -1,5 +1,0 @@
-<map id="Spawn" name="Spawn">
-<area shape="rect" id="Node000001" title="Creates a new minimap icon or gets an inactive one." alt="" coords="5,14,75,43"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_minimap_1_1_icons_1_1_i_minimap_icon.html#a254e8c82901a2374d0ddea78a8b4019a" title=" " alt="" coords="123,5,332,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,26,108,26,108,31,75,31"/>
-</map>

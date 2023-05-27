@@ -1,9 +1,0 @@
-<map id="EntityMinimapIconHandler" name="EntityMinimapIconHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="152,235,345,309"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,51,127,124"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,133,140,167,210,234,206,237,136,171,104,137"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_minimap_1_1_icons_1_1_i_entity_minimap_icon_handler.html" title=" " alt="" coords="151,51,347,124"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,138,251,236,246,236,246,138"/>
-<area shape="rect" id="Node000004" href="$struct_r_t_s_engine_1_1_minimap_1_1_icons_1_1_i_entity_minimap_icon_data.html" title=" " alt="" coords="371,5,547,169"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="374,166,304,227,300,223,370,162"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="RaiseFactionUpdateComplete" name="RaiseFactionUpdateComplete">
-<area shape="rect" id="Node000001" title=" " alt="" coords="286,50,519,79"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_faction_entity.html#a61d20648a0b1a6e1730dbdb46637ae2a" title=" " alt="" coords="15,5,228,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,51,228,45,229,40,272,45"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_resource.html#a66d3a8dbe1344d7e669d393c26490f88" title=" " alt="" coords="5,76,238,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,84,238,88,238,82,270,78"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SetReserveAmount" name="SetReserveAmount">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,162,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a52a18e307355b40602236a72527b1d67" title=" " alt="" coords="210,5,342,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,17,195,17,195,22,162,22"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a042d20fd16fa6deec55a8ccbb189c7c4" title=" " alt="" coords="390,5,558,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,17,375,17,375,22,342,22"/>
-</map>

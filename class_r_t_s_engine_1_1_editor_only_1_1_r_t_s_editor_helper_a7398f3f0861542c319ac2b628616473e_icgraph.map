@@ -1,9 +1,0 @@
-<map id="LogError" name="LogError">
-<area shape="rect" id="Node000001" title=" " alt="" coords="632,69,715,97"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_editor_only_1_1_advanced_building_placement_editor.html#ad68ba59a2d76d9d739e9207372e9d7cf" title=" " alt="" coords="319,51,584,115"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="617,86,585,86,585,80,617,80"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_editor_only_1_1_advanced_building_placement_editor.html#a12db89f016b69116cfc0099bf1471ea0" title=" " alt="" coords="5,5,271,70"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,64,271,60,272,54,304,59"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_editor_only_1_1_advanced_building_placement_editor.html#a4bf9467b232920af7c73b46926e4413b" title=" " alt="" coords="5,95,271,159"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="304,106,272,111,271,106,304,101"/>
-</map>

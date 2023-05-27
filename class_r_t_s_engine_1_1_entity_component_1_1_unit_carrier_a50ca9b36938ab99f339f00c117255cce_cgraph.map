@@ -1,8 +1,0 @@
-<map id="HandleCarriedUnitMovementStart" name="HandleCarriedUnitMovementStart">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,228,76"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="73,29,72,19,79,10,94,5,117,3,142,5,156,12,154,17,140,10,116,8,95,10,82,15,77,21,78,29"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html#a3a87e8d10b34de5ae7be00de388e2c9a" title=" " alt="" coords="276,38,414,67"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,50,261,50,261,55,228,55"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_entity_amount_handler.html#a376d4854e8dcb7b68ce901de5e65ce25" title=" " alt="" coords="462,29,672,76"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,50,447,50,447,55,414,55"/>
-</map>

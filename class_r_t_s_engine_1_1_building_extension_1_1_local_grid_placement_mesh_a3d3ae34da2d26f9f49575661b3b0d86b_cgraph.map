@@ -1,7 +1,0 @@
-<map id="HandleBuildingPlacementTransformUpdated" name="HandleBuildingPlacementTransformUpdated">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,276,92"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html#a30ad10d24e0d1f4a22672c29713bced7" title=" " alt="" coords="324,5,588,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,49,309,45,309,50,277,54"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html#a5a4be58268c72aa1dc70df7e1492cb61" title=" " alt="" coords="326,76,586,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,83,312,88,311,93,276,89"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="OnTaskUIClick" name="OnTaskUIClick">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,130,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_task_1_1_entity_component_awaiting_task.html#ae9ad1ef4bea00e4ce5297b803d8d7411" title=" " alt="" coords="178,5,440,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,26,163,26,163,31,130,31"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_task_1_1_entity_component_awaiting_task.html#ada38eb1c4b9243ee7028501e8270c25b" title=" " alt="" coords="488,5,750,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,26,473,26,473,31,441,31"/>
-</map>

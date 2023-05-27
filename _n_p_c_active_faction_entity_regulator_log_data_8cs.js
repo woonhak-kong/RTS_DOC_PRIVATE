@@ -1,4 +1,0 @@
-var _n_p_c_active_faction_entity_regulator_log_data_8cs =
-[
-    [ "NPCActiveFactionEntityRegulatorLogData", "struct_r_t_s_engine_1_1_logging_1_1_n_p_c_1_1_n_p_c_active_faction_entity_regulator_log_data.html", "struct_r_t_s_engine_1_1_logging_1_1_n_p_c_1_1_n_p_c_active_faction_entity_regulator_log_data" ]
-];

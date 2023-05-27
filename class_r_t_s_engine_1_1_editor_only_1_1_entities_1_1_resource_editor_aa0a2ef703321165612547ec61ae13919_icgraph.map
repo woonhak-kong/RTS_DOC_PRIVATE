@@ -1,7 +1,0 @@
-<map id="CanCollect" name="CanCollect">
-<area shape="rect" id="Node000001" title=" " alt="" coords="281,32,379,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_editor_only_1_1_entities_1_1_resource_editor.html#aeb424c050589029a27702f1a86063ac1" title=" " alt="" coords="70,5,168,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,41,168,29,169,23,266,36"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_editor_only_1_1_entities_1_1_resource_editor.html#a2e3d4099f886edf3f2e44e6f59327ead" title=" " alt="" coords="5,59,233,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,57,233,61,233,56,266,52"/>
-</map>

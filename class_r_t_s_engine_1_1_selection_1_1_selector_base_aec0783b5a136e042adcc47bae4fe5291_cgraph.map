@@ -1,9 +1,0 @@
-<map id="Update" name="Update">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,78,104"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_u_i_1_1_i_game_u_i_manager.html#a0d19266d6eb9cf9f595423d7934c155c" title=" " alt="" coords="126,5,375,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,76,125,61,148,54,149,59,126,66,79,81"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_selection_1_1_selector_base.html#a8f01c71ecef14c9db6aff06735a62ffd" title=" " alt="" coords="183,76,318,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="78,87,168,87,168,93,78,93"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_selection_1_1_selector_base.html#a7a86a8e5c1fdd23b4fec48592432ea09" title=" " alt="" coords="178,129,323,158"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="79,100,126,114,164,123,163,129,125,119,77,105"/>
-</map>

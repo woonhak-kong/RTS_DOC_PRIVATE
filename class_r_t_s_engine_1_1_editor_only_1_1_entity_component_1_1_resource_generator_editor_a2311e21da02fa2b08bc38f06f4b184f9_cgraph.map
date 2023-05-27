@@ -1,9 +1,0 @@
-<map id="OnTabSwitch" name="OnTabSwitch">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,120,87"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_editor_only_1_1_entity_component_1_1_resource_generator_editor.html#a440354fa86535eae94f08afd9c6814f7" title=" " alt="" coords="216,5,394,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,55,167,44,208,35,209,40,168,49,120,61"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_editor_only_1_1_entity_component_1_1_resource_generator_editor.html#ae2577b42003f1ba821cd0eca66c3f6f1" title=" " alt="" coords="212,59,398,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,70,197,70,197,76,120,76"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_editor_only_1_1_entity_component_1_1_resource_generator_editor.html#a820ed69733c55f415a28f5180140cb39" title=" " alt="" coords="168,112,442,141"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,85,168,97,209,106,208,111,167,102,119,91"/>
-</map>

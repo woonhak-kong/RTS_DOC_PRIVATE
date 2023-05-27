@@ -1,9 +1,0 @@
-<map id="CanComplete" name="CanComplete">
-<area shape="rect" id="Node000001" title=" " alt="" coords="544,63,662,92"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#ac70ce5a06bea6bf2c278f8383f56f93d" title=" " alt="" coords="407,63,496,92"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,80,497,80,497,75,529,75"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="50,5,314,70"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,72,314,60,315,55,393,66"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,94,359,141"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="393,89,344,96,343,91,392,84"/>
-</map>

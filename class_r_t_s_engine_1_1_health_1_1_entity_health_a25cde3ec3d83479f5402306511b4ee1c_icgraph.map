@@ -1,6 +1,0 @@
-<map id="HandleEntityInitialized" name="HandleEntityInitialized">
-<area shape="rect" id="Node000001" title=" " alt="" coords="177,29,349,58"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="296,17,285,10,263,8,243,10,232,15,229,20,233,27,229,30,223,20,228,11,241,5,263,3,286,5,299,12"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_health_1_1_entity_health.html#a34fba03cc03f19bcb0bba63c31d21abb" title=" " alt="" coords="5,29,129,58"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="162,46,129,46,129,41,162,41"/>
-</map>

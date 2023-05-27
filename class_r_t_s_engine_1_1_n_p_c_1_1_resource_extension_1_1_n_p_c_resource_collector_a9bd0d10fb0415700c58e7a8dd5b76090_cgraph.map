@@ -1,9 +1,0 @@
-<map id="OnResourceCollectionRequestInternal" name="OnResourceCollectionRequestInternal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,241,123"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#af1ef9dc6c908b881d5c0ed1bd43dea7b" title=" " alt="" coords="289,5,593,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,73,318,53,319,58,232,78"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="312,76,570,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,97,297,97,297,102,241,102"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_target_component.html#a500bfa1d5fcff4164d73d7fa06f47446" title=" " alt="" coords="310,147,572,193"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,121,319,140,318,146,230,126"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="HandleEntityVisiblityUpdateGlobal" name="HandleEntityVisiblityUpdateGlobal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,219,70"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a22c7960d495d3e0502b7c73394d3fbf3" title=" " alt="" coords="267,5,354,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,29,251,25,252,30,220,35"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a04494b24fc0354f545cbc86a958cf621" title="Creates a new minimap icon or gets an inactive one." alt="" coords="276,59,345,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,58,261,64,261,69,219,63"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_minimap_1_1_icons_1_1_i_minimap_icon.html#a254e8c82901a2374d0ddea78a8b4019a" title=" " alt="" coords="402,50,611,96"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="345,70,387,70,387,76,345,76"/>
-</map>

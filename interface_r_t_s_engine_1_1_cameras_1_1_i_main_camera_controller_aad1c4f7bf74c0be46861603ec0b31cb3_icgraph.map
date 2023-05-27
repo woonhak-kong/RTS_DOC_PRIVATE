@@ -1,9 +1,0 @@
-<map id="ScreenPointToRay" name="ScreenPointToRay">
-<area shape="rect" id="Node000001" title=" " alt="" coords="651,50,803,79"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_listener_handler.html#a9edca653493115c90677933924d71a5a" title=" " alt="" coords="301,41,603,88"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="636,67,603,67,603,62,636,62"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_audio_1_1_audio_listener_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,5,253,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,49,253,45,254,40,286,44"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_audio_1_1_audio_listener_handler.html#ac54ce402cec4f1d67a1cef4db841d26d" title=" " alt="" coords="5,76,253,123"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="286,85,253,89,253,83,286,80"/>
-</map>

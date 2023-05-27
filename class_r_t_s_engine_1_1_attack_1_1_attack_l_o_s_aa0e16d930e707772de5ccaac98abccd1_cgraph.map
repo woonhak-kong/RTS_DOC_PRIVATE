@@ -1,9 +1,0 @@
-<map id="IsInSight" name="IsInSight">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,85,104"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#ad915cec060191edf091ffe62a1dcde81" title=" " alt="" coords="133,5,388,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,75,132,61,156,54,157,59,133,66,86,80"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_attack_1_1_attack_l_o_s.html#a593ab933938fa037d56f4380fd77173f" title=" " alt="" coords="196,76,325,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="85,87,181,87,181,93,85,93"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_attack_1_1_attack_l_o_s.html#ae33b4b0eb4212bbf586a34eba43bb515" title=" " alt="" coords="185,129,336,158"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="86,100,133,114,171,123,170,128,132,119,84,105"/>
-</map>

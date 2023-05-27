@@ -1,7 +1,0 @@
-<map id="HandleEntityComponentUpgradedGlobal" name="HandleEntityComponentUpgradedGlobal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="216,23,475,70"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_upgrade_launcher.html#af273c9acfe31bca791a20412a7fbf3ce" title=" " alt="" coords="5,5,168,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,34,168,31,168,25,201,29"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_upgrade_launcher.html#aa218856a2d6cecc3cda5ee8f66dc5072" title=" " alt="" coords="27,59,146,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,64,146,70,146,64,201,59"/>
-</map>

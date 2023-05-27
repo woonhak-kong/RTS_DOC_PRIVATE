@@ -1,8 +1,0 @@
-<map id="SpawnMovementTargetEffect" name="SpawnMovementTargetEffect">
-<area shape="rect" id="Node000001" title=" " alt="" coords="490,32,716,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#a846d9c23ca2bc4e574dbca49c4438f36" title=" " alt="" coords="248,5,442,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,36,442,32,443,27,476,30"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_movement_1_1_movement_manager.html#a6ed6e42f9515f896e099c8ac7507123a" title=" " alt="" coords="5,32,200,61"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="475,49,200,49,200,44,475,44"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,35,200,38,200,33,232,29"/>
-</map>

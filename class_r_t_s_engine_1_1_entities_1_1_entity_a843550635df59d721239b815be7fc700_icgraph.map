@@ -1,7 +1,0 @@
-<map id="UpgradeComponent" name="UpgradeComponent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="362,5,525,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#af713873db13b86c2ae3fd6ff8649744f" title=" " alt="" coords="94,5,314,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,22,314,22,314,17,347,17"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_entity.html#a986f3d85839928aa120e3593f0a4f872" title=" " alt="" coords="5,5,46,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,22,46,22,46,17,79,17"/>
-</map>

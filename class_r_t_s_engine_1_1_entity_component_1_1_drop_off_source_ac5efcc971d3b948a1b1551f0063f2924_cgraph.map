@@ -1,7 +1,0 @@
-<map id="SendToTarget" name="SendToTarget">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,127,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html#a2ffdb175512ab4a96394786b76f782a2" title=" " alt="" coords="175,5,416,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,53,160,47,161,53,127,58"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity.html#aeed81598e731fb3fc10bdd85515ee3fc" title=" " alt="" coords="192,76,399,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,71,178,79,177,84,126,76"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="DisableProgress" name="DisableProgress">
-<area shape="rect" id="Node000001" title=" " alt="" coords="291,32,430,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#abb79ef2b8455509b21b5e4d924a338fa" title=" " alt="" coords="147,5,222,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,36,221,28,222,23,277,31"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#af9d0044d92fc30540e870087a24296e4" title=" " alt="" coords="126,59,243,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,62,244,67,243,62,276,56"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,59,78,87"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,76,78,76,78,70,111,70"/>
-</map>

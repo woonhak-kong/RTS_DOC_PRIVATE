@@ -1,7 +1,0 @@
-<map id="OnErrorMessage" name="OnErrorMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,147,97"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_u_i_1_1_i_game_u_i_text_display_manager.html#ae9d890a6d5bb5978fe7bd8923d4ca07c" title=" " alt="" coords="195,5,478,70"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,68,180,62,181,68,148,73"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#abb5f7307c03e178ae138a4f802baac4c" title=" " alt="" coords="197,95,476,159"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,92,182,98,181,103,147,98"/>
-</map>

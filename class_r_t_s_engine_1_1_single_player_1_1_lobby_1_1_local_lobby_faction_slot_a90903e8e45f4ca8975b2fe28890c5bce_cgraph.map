@@ -1,7 +1,0 @@
-<map id="HandleFactionSlotAddedOrRemoved" name="HandleFactionSlotAddedOrRemoved">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,219,52"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_local_lobby_faction_slot.html#a4c9f328cecd99d8000bf610f71d0e237" title=" " alt="" coords="267,14,392,43"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,26,252,26,252,31,219,31"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#aedf91ef2af1d9bdfd594668a4fd87efe" title=" " alt="" coords="440,5,704,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,26,425,26,425,31,393,31"/>
-</map>

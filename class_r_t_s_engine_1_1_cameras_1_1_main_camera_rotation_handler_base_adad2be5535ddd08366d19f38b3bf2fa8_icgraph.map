@@ -1,7 +1,0 @@
-<map id="ResetRotation" name="ResetRotation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="114,32,234,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_rotation_handler_base.html#a83547725c7532a8ebd835d603857bc2d" title=" " alt="" coords="5,5,66,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,35,65,28,66,23,100,29"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_cameras_1_1_main_camera_rotation_handler_base.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="15,59,56,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,63,57,72,56,67,99,58"/>
-</map>

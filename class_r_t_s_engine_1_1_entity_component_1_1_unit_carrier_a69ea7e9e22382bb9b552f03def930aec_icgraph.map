@@ -1,9 +1,0 @@
-<map id="EjectAllAction" name="EjectAllAction">
-<area shape="rect" id="Node000001" title=" " alt="" coords="344,32,461,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html#a478272853cd73d72c883e6d498310996" title=" " alt="" coords="158,32,296,61"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,49,296,49,296,44,329,44"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html#ad18822b6a8b26509fc31ee61589194a2" title=" " alt="" coords="5,5,110,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,36,109,30,110,25,143,31"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html#a01f1070c46e4cc24d25a0ea0869bc972" title=" " alt="" coords="27,59,88,87"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="143,62,89,71,88,66,143,57"/>
-</map>

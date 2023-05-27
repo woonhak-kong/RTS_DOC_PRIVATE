@@ -1,5 +1,0 @@
-var _n_p_c_building_regulator_data_input_8cs =
-[
-    [ "NPCBuildingRegulatorDataInput", "class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator_data_input.html", "class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator_data_input" ],
-    [ "NPCBuildingRegulatorDataInput.InputElement", "struct_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator_data_input_1_1_input_element.html", "struct_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator_data_input_1_1_input_element" ]
-];

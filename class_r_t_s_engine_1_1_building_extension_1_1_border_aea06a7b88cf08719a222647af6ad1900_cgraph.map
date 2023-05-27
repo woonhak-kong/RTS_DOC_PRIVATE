@@ -1,5 +1,0 @@
-<map id="RemoveBuilding" name="RemoveBuilding">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,141,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_border.html#a5b0aeaf63c28a9b976aeffe05ee4c20f" title=" " alt="" coords="189,5,381,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,17,173,17,173,22,141,22"/>
-</map>

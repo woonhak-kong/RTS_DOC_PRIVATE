@@ -1,7 +1,0 @@
-<map id="OnDisabled" name="OnDisabled">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,110,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_drop_off_resource_task_u_i.html#a7894427933cd87936d264b70371cc9c2" title=" " alt="" coords="158,5,369,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,26,143,26,143,31,110,31"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_drop_off_resource_task_u_i.html#aae6938c324ad9341fead6ae564d70fa2" title=" " alt="" coords="417,14,571,43"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,26,402,26,402,31,369,31"/>
-</map>

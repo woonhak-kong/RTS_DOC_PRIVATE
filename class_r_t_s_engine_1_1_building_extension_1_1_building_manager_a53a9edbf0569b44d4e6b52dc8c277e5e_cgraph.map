@@ -1,7 +1,0 @@
-<map id="CreatePlacedBuilding" name="CreatePlacedBuilding">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,180,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="229,5,463,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,50,214,45,215,50,180,55"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_init_building_parameters.html#a425698019fc6fb12f2c8406e1669ebd5" title=" " alt="" coords="228,76,464,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,74,213,78,212,84,180,79"/>
-</map>

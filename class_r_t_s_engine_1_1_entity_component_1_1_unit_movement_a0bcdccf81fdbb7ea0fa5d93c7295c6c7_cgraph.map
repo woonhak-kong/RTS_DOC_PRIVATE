@@ -1,7 +1,0 @@
-<map id="OnPathDestination" name="OnPathDestination">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,158,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_movement_1_1_i_movement_controller.html#a5569dcc13b121f8704e636dda8168bce" title="Attempts to calculate a valid path for the specified destination position. If the path calculation is..." alt="" coords="206,5,462,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,51,190,46,191,52,158,56"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_movement_1_1_i_movement_target_position_marker.html#a9ad9379236c9ed3345222542d6fd73e9" title=" " alt="" coords="206,76,462,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,72,191,77,191,82,158,78"/>
-</map>

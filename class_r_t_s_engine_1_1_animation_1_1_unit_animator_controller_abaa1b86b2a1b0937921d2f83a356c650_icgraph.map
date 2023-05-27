@@ -1,7 +1,0 @@
-<map id="HandleModifierUpdated" name="HandleModifierUpdated">
-<area shape="rect" id="Node000001" title=" " alt="" coords="184,32,371,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_animation_1_1_unit_animator_controller.html#a0b0a8402327309e2554c218967e472fe" title=" " alt="" coords="33,5,108,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,35,108,27,109,22,169,30"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_animation_1_1_unit_animator_controller.html#a25d428f586ae81fec6f4611d500bc6ac" title=" " alt="" coords="5,59,136,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,63,136,67,136,62,169,58"/>
-</map>

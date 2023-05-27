@@ -1,8 +1,0 @@
-<map id="IMinimapIcon" name="IMinimapIcon">
-<area shape="rect" id="Node000001" title=" " alt="" coords="57,448,161,521"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_utilities_1_1_i_poolable_object.html" title=" " alt="" coords="97,327,220,400"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,414,126,449,121,447,136,412"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="5,5,213,279"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="86,293,84,346,88,400,99,448,94,449,83,400,79,347,81,293"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,292,153,326,148,327,140,293"/>
-</map>

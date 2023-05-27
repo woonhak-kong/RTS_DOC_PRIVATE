@@ -1,6 +1,0 @@
-var namespace_r_t_s_engine_1_1_editor_only_1_1_building_extension =
-[
-    [ "AdvancedBuildingPlacerEditor", "class_r_t_s_engine_1_1_editor_only_1_1_building_extension_1_1_advanced_building_placer_editor.html", "class_r_t_s_engine_1_1_editor_only_1_1_building_extension_1_1_advanced_building_placer_editor" ],
-    [ "AdvancedLocalFactionPlacementHandlerEditor", "class_r_t_s_engine_1_1_editor_only_1_1_building_extension_1_1_advanced_local_faction_placement_handler_editor.html", "class_r_t_s_engine_1_1_editor_only_1_1_building_extension_1_1_advanced_local_faction_placement_handler_editor" ],
-    [ "BuildingPlacementEditor", "class_r_t_s_engine_1_1_editor_only_1_1_building_extension_1_1_building_placement_editor.html", "class_r_t_s_engine_1_1_editor_only_1_1_building_extension_1_1_building_placement_editor" ]
-];

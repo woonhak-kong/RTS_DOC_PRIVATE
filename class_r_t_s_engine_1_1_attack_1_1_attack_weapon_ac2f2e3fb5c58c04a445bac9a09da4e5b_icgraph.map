@@ -1,7 +1,0 @@
-<map id="Toggle" name="Toggle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="321,54,390,83"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#af2e2b253b2ef0b1b1778bf7de3f8fe82" title=" " alt="" coords="8,5,270,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,62,268,55,269,50,306,57"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#ae40de2313f9228ce691addb9a07923f9" title=" " alt="" coords="5,76,273,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,80,274,86,273,81,306,75"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="LookAtFactionSpawn" name="LookAtFactionSpawn">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,177,43"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_panning_handler.html#a31213ad519fb568d639ed98b07d4af56" title=" " alt="" coords="225,5,493,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,26,210,26,210,31,177,31"/>
-</map>

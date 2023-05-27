@@ -1,9 +1,0 @@
-<map id="Move" name="Move">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,65,74"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_resource_extension_1_1_drop_off_target.html#afe495446ede18e0e8c941b4a5808edae" title=" " alt="" coords="162,14,324,43"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,52,147,40,147,45,66,58"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_movement_1_1_i_movement_manager.html#a846d9c23ca2bc4e574dbca49c4438f36" title=" " alt="" coords="113,67,373,113"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="66,61,98,66,97,71,65,66"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_terrain_1_1_i_terrain_manager.html#a1ed363e7fc07549e2a5617022f116d31" title=" " alt="" coords="421,5,673,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,26,406,26,406,31,325,31"/>
-</map>

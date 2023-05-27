@@ -1,6 +1,0 @@
-<map id="Init" name="Init">
-<area shape="rect" id="Node000001" title=" " alt="" coords="20,29,60,58"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="17,37,5,26,5,14,17,6,40,3,59,5,71,10,76,18,74,27,69,26,71,19,68,14,57,10,40,8,19,11,9,17,10,24,21,33"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a15fc95b29535e0f5f0648f6045803f6b" title=" " alt="" coords="108,20,334,67"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="61,41,93,41,93,46,61,46"/>
-</map>

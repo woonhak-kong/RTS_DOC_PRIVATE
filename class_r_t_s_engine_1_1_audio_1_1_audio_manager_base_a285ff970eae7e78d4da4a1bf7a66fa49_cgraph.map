@@ -1,5 +1,0 @@
-<map id="PlaySFX" name="PlaySFX">
-<area shape="rect" id="Node000001" title="Plays an AudioClip instance in the global SFX audio source (Used for global sound effects)." alt="" coords="5,5,89,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#ae1e8baa131cd5176447c2c5f3d04e2c4" title=" " alt="" coords="137,5,220,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,17,122,17,122,22,89,22"/>
-</map>

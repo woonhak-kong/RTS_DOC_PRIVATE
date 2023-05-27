@@ -1,5 +1,0 @@
-<map id="OnPathPrepared" name="OnPathPrepared">
-<area shape="rect" id="Node000001" title=" " alt="" coords="300,14,439,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_movement_1_1_nav_mesh_agent_controller.html#a5569dcc13b121f8704e636dda8168bce" title="Attempts to calculate a valid path for the specified destination position. If the path calculation is..." alt="" coords="5,5,252,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,31,252,31,252,26,285,26"/>
-</map>

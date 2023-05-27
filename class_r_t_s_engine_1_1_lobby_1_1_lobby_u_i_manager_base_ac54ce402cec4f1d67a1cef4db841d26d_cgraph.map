@@ -1,9 +1,0 @@
-<map id="OnDestroy" name="OnDestroy">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,101,87"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_lobby_1_1_lobby_u_i_manager_base.html#ab5b9c40d8ad7a7af74ef4a03599d3598" title=" " alt="" coords="176,5,372,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,57,148,44,185,35,186,40,149,49,102,62"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_lobby_1_1_lobby_u_i_manager_base.html#a91aa2493b4e23c665a2294747c9e4e86" title=" " alt="" coords="149,59,399,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,70,134,70,134,76,101,76"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_lobby_1_1_lobby_u_i_manager_base.html#a7d789b95b6b597c16eb2f103b1b9609b" title=" " alt="" coords="217,112,331,141"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="102,84,149,97,204,110,202,115,148,102,101,89"/>
-</map>

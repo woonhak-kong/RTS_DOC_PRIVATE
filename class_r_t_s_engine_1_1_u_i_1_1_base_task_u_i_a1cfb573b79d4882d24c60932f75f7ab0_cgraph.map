@@ -1,7 +1,0 @@
-<map id="OnPointerEnter" name="OnPointerEnter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,134,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_u_i.html#add60f73da685db45be9c477ecddda062" title=" " alt="" coords="182,14,336,43"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,26,167,26,167,31,134,31"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a0ab4f8dc1ae6d0e2631485f2ac507169" title=" " alt="" coords="384,5,646,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,26,369,26,369,31,337,31"/>
-</map>

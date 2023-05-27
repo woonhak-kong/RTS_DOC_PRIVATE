@@ -1,8 +1,0 @@
-<map id="Show" name="Show">
-<area shape="rect" id="Node000001" title=" " alt="" coords="335,32,395,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_selection_group_u_i_handler.html#ad587ba5c880a0aa0c70e33a472569b24" title=" " alt="" coords="114,5,287,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,42,287,36,288,31,321,37"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_selection_group_u_i_handler.html#a01f1070c46e4cc24d25a0ea0869bc972" title=" " alt="" coords="5,32,66,61"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="320,49,66,49,66,44,320,44"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,39,67,44,66,39,99,33"/>
-</map>

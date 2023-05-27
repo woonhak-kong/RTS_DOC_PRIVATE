@@ -1,7 +1,0 @@
-<map id="CreateResourceLocal" name="CreateResourceLocal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,180,74"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html#a34897eac13eec9d010e88a424e65b11c" title=" " alt="" coords="244,5,466,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,46,229,41,230,46,181,52"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entities_1_1_i_resource.html#af95a38e0b47d06bfbbf71fed2e356210" title=" " alt="" coords="228,76,482,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,67,213,71,212,76,180,72"/>
-</map>

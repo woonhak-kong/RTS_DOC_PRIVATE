@@ -1,5 +1,0 @@
-<map id="UpdateMovementRotation" name="UpdateMovementRotation">
-<area shape="rect" id="Node000001" title="Handles updating the unit&#39;s rotation while it is in its movement state. This mainly handles blocking ..." alt="" coords="165,5,367,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a64cb65bfc7daed53934ffc6d155ff1ed" title="Handles updating the unit state whether it is in its idle or movement state." alt="" coords="5,5,117,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,22,117,22,117,17,150,17"/>
-</map>

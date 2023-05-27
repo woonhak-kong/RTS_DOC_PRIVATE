@@ -1,9 +1,0 @@
-<map id="BuildingPlacementHandlerBase" name="BuildingPlacementHandlerBase">
-<area shape="rect" id="Node000001" title=" " alt="" coords="135,331,368,1129"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html" title=" " alt="" coords="5,1302,236,1761"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,1144,161,1303,155,1302,181,1143"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_faction_placement_handler.html" title=" " alt="" coords="260,1177,504,1885"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,1143,327,1177,322,1178,316,1144"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_handler.html" title=" " alt="" coords="151,5,351,283"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,297,254,331,249,331,249,297"/>
-</map>

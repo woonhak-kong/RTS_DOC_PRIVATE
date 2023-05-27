@@ -1,7 +1,0 @@
-<map id="OnDestroy" name="OnDestroy">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,101,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_determinism_1_1_input_manager.html#af942b0767231eebe546f26e62ddb2c8d" title=" " alt="" coords="149,14,351,43"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,26,134,26,134,31,101,31"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html#a34897eac13eec9d010e88a424e65b11c" title=" " alt="" coords="399,5,620,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,26,384,26,384,31,351,31"/>
-</map>

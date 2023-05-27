@@ -1,5 +1,0 @@
-var _n_p_c_building_creator_8cs =
-[
-    [ "NPCBuildingCreator", "class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator.html", "class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator" ],
-    [ "NPCBuildingCreator.NPCBuildingCenterActiveBuildingsLogData", "struct_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator_1_1_n_p_c_buildifef306ef660508bb20c679c1e692405e.html", "struct_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_creator_1_1_n_p_c_buildifef306ef660508bb20c679c1e692405e" ]
-];

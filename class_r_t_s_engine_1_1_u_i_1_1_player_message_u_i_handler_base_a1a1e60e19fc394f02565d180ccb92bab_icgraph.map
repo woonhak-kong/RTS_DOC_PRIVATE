@@ -1,9 +1,0 @@
-<map id="DisplayMessage" name="DisplayMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="667,50,805,79"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_game_player_message_u_i_handler.html#ac5a7dc2567ccfea29f50733587f13434" title=" " alt="" coords="329,32,619,97"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="652,67,619,67,619,62,652,62"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_game_player_message_u_i_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,5,281,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,50,281,46,281,41,314,45"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_game_player_message_u_i_handler.html#ad18822b6a8b26509fc31ee61589194a2" title=" " alt="" coords="5,76,281,123"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="314,84,281,88,281,82,313,79"/>
-</map>

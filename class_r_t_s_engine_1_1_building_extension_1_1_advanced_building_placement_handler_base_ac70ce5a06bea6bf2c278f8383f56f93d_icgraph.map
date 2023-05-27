@@ -1,7 +1,0 @@
-<map id="Complete" name="Complete">
-<area shape="rect" id="Node000001" title=" " alt="" coords="558,23,647,52"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#a41241edf4e562296f39363fdba43c1d6" title=" " alt="" coords="367,23,510,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,40,510,40,510,35,543,35"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,5,319,70"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,40,319,40,319,35,352,35"/>
-</map>

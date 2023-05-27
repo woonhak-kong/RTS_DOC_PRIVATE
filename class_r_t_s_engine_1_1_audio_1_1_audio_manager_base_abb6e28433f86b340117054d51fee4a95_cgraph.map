@@ -1,7 +1,0 @@
-<map id="OnMusicVolumeSliderUpdated" name="OnMusicVolumeSliderUpdated">
-<area shape="rect" id="Node000001" title="Called when the music&#39;s volume slider&#39;s value is updated." alt="" coords="5,5,242,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a49381496f82d00d2eba1bddb7c039bde" title="Updates the volume of the music loops." alt="" coords="290,5,456,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,17,275,17,275,22,242,22"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a71eed4ed7a331c53e5d715d386a33ac4" title=" " alt="" coords="504,5,680,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,17,489,17,489,22,456,22"/>
-</map>

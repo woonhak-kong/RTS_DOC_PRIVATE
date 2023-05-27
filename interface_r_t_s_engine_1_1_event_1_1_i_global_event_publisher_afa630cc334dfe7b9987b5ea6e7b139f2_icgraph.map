@@ -1,7 +1,0 @@
-<map id="RaiseBuildingPlacementStopGlobal" name="RaiseBuildingPlacementStopGlobal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="368,54,593,101"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html#ae97ca89b021d4abab5ae84a5e76557be" title=" " alt="" coords="5,5,320,70"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,64,320,60,320,55,354,59"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#ae97ca89b021d4abab5ae84a5e76557be" title=" " alt="" coords="23,94,302,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="353,96,303,103,302,97,353,91"/>
-</map>

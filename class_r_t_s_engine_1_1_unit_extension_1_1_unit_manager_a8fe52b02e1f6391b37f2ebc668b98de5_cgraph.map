@@ -1,7 +1,0 @@
-<map id="CreateUnit" name="CreateUnit">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,102,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#aa2a2dbd5796e323bf0b5dc7b1e328309" title=" " alt="" coords="150,5,383,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,54,135,48,135,54,102,59"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_init_unit_parameters.html#ab6dbf05a76fb9036378836d1da27940e" title=" " alt="" coords="163,76,370,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,70,148,77,147,83,102,75"/>
-</map>

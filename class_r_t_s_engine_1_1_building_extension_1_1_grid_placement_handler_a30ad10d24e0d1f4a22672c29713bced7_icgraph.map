@@ -1,8 +1,0 @@
-<map id="IsOccupied" name="IsOccupied">
-<area shape="rect" id="Node000001" title=" " alt="" coords="153,32,252,61"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="227,19,218,13,202,11,188,13,180,17,177,23,181,30,176,32,172,23,176,14,186,8,202,5,220,8,230,15"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#ad718a99cd1e8ce05ac2c57c65d26d079" title=" " alt="" coords="5,5,105,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,37,105,31,106,26,138,32"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#aea7149c63044d385f2116418ce2dbc2d" title=" " alt="" coords="5,59,105,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,61,106,67,105,61,137,55"/>
-</map>

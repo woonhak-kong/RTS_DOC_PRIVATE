@@ -1,7 +1,0 @@
-<map id="UpgradeInstance" name="UpgradeInstance">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,145,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_manager.html#a172983d7a5740b67c4ecdad5e3176020" title=" " alt="" coords="193,5,530,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,53,177,49,178,54,145,59"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_unit_extension_1_1_i_unit_manager.html#a04ef5f5d0c0d2b5fa69b8a67e3d90ac7" title=" " alt="" coords="246,76,477,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,70,232,81,231,86,145,76"/>
-</map>

@@ -1,5 +1,0 @@
-var _building_placement_material_handler_8cs =
-[
-    [ "BuildingPlacementMaterialHandler", "class_r_t_s_engine_1_1_demo_1_1_building_placement_material_handler.html", "class_r_t_s_engine_1_1_demo_1_1_building_placement_material_handler" ],
-    [ "BuildingPlacementMaterialHandler.PlacementMaterialData", "struct_r_t_s_engine_1_1_demo_1_1_building_placement_material_handler_1_1_placement_material_data.html", "struct_r_t_s_engine_1_1_demo_1_1_building_placement_material_handler_1_1_placement_material_data" ]
-];

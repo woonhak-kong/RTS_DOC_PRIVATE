@@ -1,7 +1,0 @@
-<map id="HandleBorderDisabledGlobal" name="HandleBorderDisabledGlobal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="191,32,417,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a3e9a1e1cd7a478a0d00f0efb51a8e4cf" title=" " alt="" coords="26,5,122,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,34,122,28,122,22,176,29"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_building_manager.html#a0929fa40a996e5f15b4ee0a836e08c13" title=" " alt="" coords="5,59,143,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,64,143,68,143,62,176,59"/>
-</map>

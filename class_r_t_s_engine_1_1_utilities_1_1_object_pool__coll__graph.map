@@ -1,9 +1,0 @@
-<map id="ObjectPool&lt; T, V &gt;" name="ObjectPool&lt; T, V &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="181,345,330,645"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,105,127,179"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,189,183,354,178,357,89,192"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="151,5,359,279"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,293,258,345,253,345,253,293"/>
-<area shape="rect" id="Node000004" href="$struct_r_t_s_engine_1_1_utilities_1_1_poolable_object_spawn_data.html" title=" " alt="" coords="384,94,585,190"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="456,191,342,366,337,364,452,188"/>
-</map>

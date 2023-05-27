@@ -1,9 +1,0 @@
-<map id="INPCTerritoryManager" name="INPCTerritoryManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="40,493,209,567"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html" title=" " alt="" coords="5,615,244,1265"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,581,127,615,122,615,122,581"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_component.html" title=" " alt="" coords="57,327,193,445"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,460,127,493,122,493,122,460"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="21,5,229,279"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,293,127,327,122,327,122,293"/>
-</map>

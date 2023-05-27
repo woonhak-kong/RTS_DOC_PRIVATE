@@ -1,7 +1,0 @@
-<map id="BooleansToMask" name="BooleansToMask">
-<area shape="rect" id="Node000001" title=" " alt="" coords="319,54,462,83"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#a5d39a20f1c5f24dd643580d01ba807a3" title=" " alt="" coords="20,5,256,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,58,256,50,257,45,304,52"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html#aebfacca424c58d5ba7d7dde8f74c10e0" title=" " alt="" coords="5,76,271,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,85,271,90,270,85,303,80"/>
-</map>

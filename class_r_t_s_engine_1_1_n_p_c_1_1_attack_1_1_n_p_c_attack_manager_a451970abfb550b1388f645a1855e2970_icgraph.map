@@ -1,9 +1,0 @@
-<map id="LaunchAttack" name="LaunchAttack">
-<area shape="rect" id="Node000001" title="Launches an attack on the NPC faction&#39;s current target faction." alt="" coords="425,32,540,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a861e749da3289aeda5f541e1b16a96cd" title=" " alt="" coords="189,5,377,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="410,39,377,35,378,30,411,34"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a5b5c78c30d1b5f8f6517906626268e6b" title="Directly assign a target faction slot." alt="" coords="212,59,354,87"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="411,59,355,66,354,61,410,53"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,5,141,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,22,141,22,141,17,174,17"/>
-</map>

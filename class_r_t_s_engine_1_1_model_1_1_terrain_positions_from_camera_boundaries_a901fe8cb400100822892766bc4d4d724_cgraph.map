@@ -1,7 +1,0 @@
-<map id="CalculateContour" name="CalculateContour">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,147,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_model_1_1_terrain_positions_from_camera_boundaries.html#ab0929af86c8fa6ff8e1cacc0901c022a" title=" " alt="" coords="195,5,318,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,33,180,28,180,34,147,39"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_model_1_1_terrain_positions_from_camera_boundaries.html#af5b3ae82f446ae93d2e7a6b50f181d5b" title=" " alt="" coords="227,59,286,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,54,213,64,212,69,147,59"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="StopFlash" name="StopFlash">
-<area shape="rect" id="Node000001" title=" " alt="" coords="177,32,269,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#a34fba03cc03f19bcb0bba63c31d21abb" title=" " alt="" coords="5,5,129,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,39,129,33,129,28,162,33"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#afb0cddf16ec423b33e360e4df49b8d3a" title=" " alt="" coords="21,59,113,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,59,114,68,113,62,162,54"/>
-</map>

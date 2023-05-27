@@ -1,7 +1,0 @@
-<map id="OnEnabled" name="OnEnabled">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,105,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_creation_task.html#a96150c68f5a5203c012ce398db1c4dca" title=" " alt="" coords="153,5,391,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,17,138,17,138,22,105,22"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_creation_task.html#a37b2892d15410f9605ed7b02b269883f" title=" " alt="" coords="439,5,586,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,17,424,17,424,22,392,22"/>
-</map>

@@ -1,5 +1,0 @@
-var _n_p_c_unit_behaviour_manager_8cs =
-[
-    [ "NPCUnitBehaviourManager", "class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager.html", "class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager" ],
-    [ "NPCUnitBehaviourManager.NPCUnitBehaviourLogData", "struct_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager_1_1_n_p_c_unit_behaviour_log_data.html", "struct_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager_1_1_n_p_c_unit_behaviour_log_data" ]
-];

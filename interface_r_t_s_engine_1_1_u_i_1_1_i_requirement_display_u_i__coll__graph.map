@@ -1,7 +1,0 @@
-<map id="IRequirementDisplayUI" name="IRequirementDisplayUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="24,448,195,544"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_utilities_1_1_i_poolable_object.html" title=" " alt="" coords="48,327,171,400"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,414,112,448,107,448,107,414"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="5,5,213,279"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,293,112,327,107,327,107,293"/>
-</map>

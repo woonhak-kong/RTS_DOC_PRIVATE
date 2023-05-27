@@ -1,9 +1,0 @@
-<map id="OnPositionUpdate" name="OnPositionUpdate">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,155,123"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement.html#a56b4d75a0a908ef586abf15b1380a17e" title=" " alt="" coords="218,5,452,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,91,202,62,228,54,230,59,203,67,121,96"/>
-<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_building_extension_1_1_building_placement_grid_data.html#aaed5348159c2fb631fa0fa506c324293" title=" " alt="" coords="206,76,464,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,106,191,106,191,111,155,111"/>
-<area shape="rect" id="Node000004" href="$struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html#a982003b4988cf50dcd00f488172d1de3" title=" " alt="" coords="203,165,467,212"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,121,203,150,230,158,228,163,202,155,119,126"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="BorderObjectSpawnInput" name="BorderObjectSpawnInput">
-<area shape="rect" id="Node000001" title=" " alt="" coords="12,217,219,291"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_poolable_object_spawn_input.html" title=" " alt="" coords="5,5,225,169"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,184,118,218,113,218,113,184"/>
-</map>

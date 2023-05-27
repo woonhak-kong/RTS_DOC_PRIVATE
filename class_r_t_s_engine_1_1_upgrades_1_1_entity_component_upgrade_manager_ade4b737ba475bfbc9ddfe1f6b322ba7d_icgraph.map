@@ -1,8 +1,0 @@
-<map id="HandleSourceOnlyUpgradeDead" name="HandleSourceOnlyUpgradeDead">
-<area shape="rect" id="Node000001" title=" " alt="" coords="163,32,413,61"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="327,19,314,13,288,11,264,13,251,17,248,23,253,30,248,33,242,23,248,13,263,7,288,5,315,8,329,15"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_upgrades_1_1_entity_component_upgrade_manager.html#a6d4b9389c593414e60195a0dd40af2c4" title=" " alt="" coords="5,5,115,34"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="147,33,115,29,115,23,148,27"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_upgrades_1_1_entity_component_upgrade_manager.html#ac54ce402cec4f1d67a1cef4db841d26d" title=" " alt="" coords="12,59,108,87"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="148,65,109,70,108,65,148,60"/>
-</map>

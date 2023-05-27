@@ -1,7 +1,0 @@
-<map id="RaiseResourceInitiatedGlobal" name="RaiseResourceInitiatedGlobal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="310,36,538,65"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_resource.html#af95a38e0b47d06bfbbf71fed2e356210" title=" " alt="" coords="8,5,259,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,39,259,36,260,30,295,34"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_resource_building.html#a091da84fb75dfb89a39e9fc9ae8da2c1" title=" " alt="" coords="5,58,262,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,67,263,70,262,65,294,61"/>
-</map>

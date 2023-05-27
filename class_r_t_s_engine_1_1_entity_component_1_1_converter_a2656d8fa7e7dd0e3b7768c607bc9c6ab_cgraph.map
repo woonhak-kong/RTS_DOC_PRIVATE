@@ -1,9 +1,0 @@
-<map id="IsTargetValid" name="IsTargetValid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,119,123"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_r_t_s_helper.html#aebb5dde03e162537cd9f39632cf2533c" title=" " alt="" coords="198,5,437,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,91,166,62,193,54,195,59,168,67,95,96"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#aa5622ed56b2fd13d488f92982fc381f9" title=" " alt="" coords="167,76,468,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,106,152,106,152,111,119,111"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_entity_component_1_1_advanced_faction_entity_target_picker.html#a36b78e781348b07de485fabc7fdba810" title=" " alt="" coords="180,166,455,230"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,121,168,150,190,158,188,163,166,155,95,126"/>
-</map>

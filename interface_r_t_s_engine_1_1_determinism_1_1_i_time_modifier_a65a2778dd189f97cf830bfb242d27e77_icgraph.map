@@ -1,9 +1,0 @@
-<map id="SetModifier" name="SetModifier">
-<area shape="rect" id="Node000001" title=" " alt="" coords="572,50,674,79"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_time_modifier_u_i_handler.html#a4ba97b18fd29bfb14804d1380e7d02e4" title=" " alt="" coords="269,41,524,88"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,67,525,67,525,62,557,62"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_time_modifier_u_i_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,5,221,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,49,221,45,222,40,254,44"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_time_modifier_u_i_handler.html#a564865008ed916e6257358e6c53da909" title=" " alt="" coords="5,76,221,123"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,85,222,89,221,83,254,79"/>
-</map>

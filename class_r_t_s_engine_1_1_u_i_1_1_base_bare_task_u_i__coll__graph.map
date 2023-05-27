@@ -1,9 +1,0 @@
-<map id="BaseBareTaskUI&lt; T &gt;" name="BaseBareTaskUI&lt; T &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="49,539,216,952"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,372,127,445"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,458,94,538,89,539,73,459"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_u_i_1_1_i_task_u_i.html" title=" " alt="" coords="151,327,250,491"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,505,177,539,172,538,179,504"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="97,5,305,279"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,293,203,327,198,327,198,293"/>
-</map>

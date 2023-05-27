@@ -1,7 +1,0 @@
-<map id="HandleLocalFactionEntityRemoved" name="HandleLocalFactionEntityRemoved">
-<area shape="rect" id="Node000001" title=" " alt="" coords="129,23,327,70"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_task_panel_u_i_handler.html#a1f8be84feac6d2e2b44e604854725f81" title=" " alt="" coords="5,5,81,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,33,81,28,82,22,114,27"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_task_panel_u_i_handler.html#a01f1070c46e4cc24d25a0ea0869bc972" title=" " alt="" coords="13,59,73,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,65,74,71,73,66,114,60"/>
-</map>

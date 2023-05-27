@@ -1,5 +1,0 @@
-<map id="Disable" name="Disable">
-<area shape="rect" id="Node000001" title="Called by the IMovementComponent instance when the unit is disabled." alt="" coords="306,14,381,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a6893b7898c3c7b1ee63732472e918fea" title=" " alt="" coords="5,5,258,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,31,258,31,258,26,291,26"/>
-</map>

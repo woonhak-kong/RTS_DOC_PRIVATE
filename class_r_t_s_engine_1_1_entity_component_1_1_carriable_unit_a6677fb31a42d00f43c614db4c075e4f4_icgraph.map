@@ -1,7 +1,0 @@
-<map id="HandleTargetCarrierUnitAdded" name="HandleTargetCarrierUnitAdded">
-<area shape="rect" id="Node000001" title=" " alt="" coords="224,32,462,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_carriable_unit.html#ae7b01447576c83c845fd84c56fa67997" title=" " alt="" coords="53,5,128,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,35,128,26,129,21,209,29"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_carriable_unit.html#a0fe3a52aecb5b8b583b198364c7eb571" title=" " alt="" coords="5,59,176,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,63,176,67,176,61,208,58"/>
-</map>

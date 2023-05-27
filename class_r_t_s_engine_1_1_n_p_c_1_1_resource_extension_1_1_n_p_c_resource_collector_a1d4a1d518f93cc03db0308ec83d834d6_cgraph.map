@@ -1,9 +1,0 @@
-<map id="ActivateCollectorRegulator" name="ActivateCollectorRegulator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,212,114"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#a32f396e453ecc8bddff762f648bf4019" title=" " alt="" coords="260,5,552,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,82,259,61,290,53,291,59,260,66,173,87"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html#a34897eac13eec9d010e88a424e65b11c" title=" " alt="" coords="295,76,517,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,97,281,97,281,102,212,102"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_resource_collector.html#a71ace32f93e21dee2a325e9f7302b612" title=" " alt="" coords="271,147,541,212"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,112,270,140,268,145,164,117"/>
-</map>

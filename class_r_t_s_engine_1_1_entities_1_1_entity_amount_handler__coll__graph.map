@@ -1,7 +1,0 @@
-<map id="EntityAmountHandler" name="EntityAmountHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,329,163,403"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entities_1_1_entity_amount.html" title=" " alt="" coords="32,190,136,263"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,263,87,312,81,312,81,263"/>
-<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html" title=" " alt="" coords="9,5,159,124"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,124,87,173,81,173,81,124"/>
-</map>

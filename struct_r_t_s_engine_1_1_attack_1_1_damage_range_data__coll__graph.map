@@ -1,9 +1,0 @@
-<map id="DamageRangeData" name="DamageRangeData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="9,491,163,565"/>
-<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_attack_1_1_damage_data.html" title=" " alt="" coords="32,329,140,425"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,425,89,474,83,474,83,425"/>
-<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_attack_1_1_custom_damage_data.html" title=" " alt="" coords="5,190,167,263"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,263,89,312,83,312,83,263"/>
-<area shape="rect" id="Node000004" href="$struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html" title=" " alt="" coords="11,5,161,124"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,124,89,173,83,173,83,124"/>
-</map>

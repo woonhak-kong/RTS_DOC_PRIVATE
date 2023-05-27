@@ -1,7 +1,0 @@
-<map id="OnAmountUpdated" name="OnAmountUpdated">
-<area shape="rect" id="Node000001" title=" " alt="" coords="325,5,479,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a8220421cca5b47428698292933348fa0" title=" " alt="" coords="152,5,277,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,22,277,22,277,17,310,17"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a9f649e546d69d63abe423e4927684688" title=" " alt="" coords="5,5,104,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,22,104,22,104,17,137,17"/>
-</map>

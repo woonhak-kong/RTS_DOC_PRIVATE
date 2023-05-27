@@ -1,9 +1,0 @@
-<map id="OnClick" name="OnClick">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,82,123"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_selection_1_1_i_selection_manager.html#aa78ee55184da33271d339f15eaf2a669" title=" " alt="" coords="142,5,384,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,91,129,62,150,55,152,60,131,67,71,96"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_u_i.html#afcaafe36725101dc02283e2231e0c444" title=" " alt="" coords="130,76,396,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="82,106,115,106,115,111,82,111"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_selection_1_1_i_selection_manager.html#a3185a64765c536f18b08ecc234504e19" title=" " alt="" coords="142,165,384,212"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="71,121,131,150,152,158,150,163,129,155,69,126"/>
-</map>

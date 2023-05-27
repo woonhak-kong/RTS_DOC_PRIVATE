@@ -1,4 +1,0 @@
-var _attack_minimap_notification_manager_8cs =
-[
-    [ "AttackMinimapNotificationManager", "class_r_t_s_engine_1_1_minimap_1_1_notification_1_1_attack_minimap_notification_manager.html", "class_r_t_s_engine_1_1_minimap_1_1_notification_1_1_attack_minimap_notification_manager" ]
-];

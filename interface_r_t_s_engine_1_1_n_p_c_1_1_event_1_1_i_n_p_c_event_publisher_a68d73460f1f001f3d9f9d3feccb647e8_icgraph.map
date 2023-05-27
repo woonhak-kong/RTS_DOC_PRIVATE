@@ -1,9 +1,0 @@
-<map id="RaiseAttackEngageOrder" name="RaiseAttackEngageOrder">
-<area shape="rect" id="Node000001" title=" " alt="" coords="978,23,1180,52"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a41f8fcc6a436a20d07ab2a79a728b76f" title=" " alt="" coords="640,5,930,70"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="963,40,931,40,931,35,963,35"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#add97cb272e313c30c700835aef5555dc" title=" " alt="" coords="323,14,592,61"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="625,40,592,40,592,35,625,35"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,14,275,61"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="307,40,275,40,275,35,307,35"/>
-</map>

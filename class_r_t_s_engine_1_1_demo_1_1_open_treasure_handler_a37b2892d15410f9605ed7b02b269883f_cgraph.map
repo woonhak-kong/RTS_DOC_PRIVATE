@@ -1,6 +1,0 @@
-<map id="HandleEntityDead" name="HandleEntityDead">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,153,58"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="41,30,36,20,41,11,55,5,79,3,105,5,119,12,116,17,104,10,79,8,57,10,44,15,41,20,46,27"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_effect_1_1_i_effect_object_pool.html#afcfbd9536a0e60dd0e33d310367ea66e" title=" " alt="" coords="201,20,393,67"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="153,41,186,41,186,46,153,46"/>
-</map>

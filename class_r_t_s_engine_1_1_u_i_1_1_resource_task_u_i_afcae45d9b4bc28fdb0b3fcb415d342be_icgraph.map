@@ -1,9 +1,0 @@
-<map id="HandleResourceAmountUpdated" name="HandleResourceAmountUpdated">
-<area shape="rect" id="Node000001" title=" " alt="" coords="170,59,420,87"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_resource_task_u_i.html#ad18822b6a8b26509fc31ee61589194a2" title=" " alt="" coords="11,5,116,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,57,115,34,117,29,216,52"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_resource_task_u_i.html#a5aaf47591a0457cff1b214b32b638a98" title=" " alt="" coords="5,59,122,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,76,122,76,122,70,155,70"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_resource_task_u_i.html#a7714b0d1437ed97682c0ad1fadfac674" title=" " alt="" coords="18,112,109,141"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,94,110,119,109,113,214,89"/>
-</map>

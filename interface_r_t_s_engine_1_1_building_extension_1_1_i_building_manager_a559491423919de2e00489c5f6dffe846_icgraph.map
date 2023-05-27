@@ -1,7 +1,0 @@
-<map id="Despawn" name="Despawn">
-<area shape="rect" id="Node000001" title=" " alt="" coords="312,50,399,79"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_border_object.html#a826231dea9b14aac3174c88ea1e62b85" title=" " alt="" coords="18,5,251,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,58,251,50,252,45,298,53"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_building_extension_1_1_border_minimap_u_i_object.html#a826231dea9b14aac3174c88ea1e62b85" title=" " alt="" coords="5,76,264,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,76,264,82,264,76,297,71"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="OnPlacedInit" name="OnPlacedInit">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,115,141"/>
-<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_building_extension_1_1_building_placement_grid_data.html#aaed5348159c2fb631fa0fa506c324293" title=" " alt="" coords="163,5,422,70"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,110,162,81,181,73,183,78,164,85,95,115"/>
-<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_building_extension_1_1_building_placement_grid_data.html#a3621f0ee2641b6e4b009d11dac7f45b5" title=" " alt="" coords="163,95,422,159"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,124,148,124,148,130,115,130"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html#a5a4be58268c72aa1dc70df7e1492cb61" title=" " alt="" coords="163,184,422,249"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="95,139,164,169,183,176,181,181,162,173,93,144"/>
-</map>

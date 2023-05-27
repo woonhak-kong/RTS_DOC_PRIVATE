@@ -1,6 +1,0 @@
-<map id="UpdateCells" name="UpdateCells">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,113,58"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="28,30,23,20,27,11,40,5,59,3,80,5,92,12,89,17,79,10,59,8,41,10,31,15,28,20,32,28"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_building_extension_1_1_grid_placement_handler.html#abdfa116c0ef8b4aadc2227593de24787" title=" " alt="" coords="161,29,312,58"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,41,146,41,146,46,113,46"/>
-</map>

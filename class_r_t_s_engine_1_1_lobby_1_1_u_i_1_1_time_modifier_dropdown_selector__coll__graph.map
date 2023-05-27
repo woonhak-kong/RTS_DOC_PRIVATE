@@ -1,7 +1,0 @@
-<map id="TimeModifierDropdownSelector" name="TimeModifierDropdownSelector">
-<area shape="rect" id="Node000001" title=" " alt="" coords="75,507,331,603"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_lobby_1_1_u_i_1_1_dropdown_selector.html" title=" " alt="" coords="5,5,203,441"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,454,191,507,186,508,170,456"/>
-<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_determinism_1_1_time_modifier_option.html" title=" " alt="" coords="227,175,378,271"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,272,224,492,219,491,286,270"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="HandleBuildingPlacementResetGlobal" name="HandleBuildingPlacementResetGlobal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="167,23,408,70"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_u_i.html#a069a56dd441bcc313e80c5fe848bb847" title=" " alt="" coords="15,5,109,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,33,109,28,110,23,152,28"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_u_i.html#a402fa21591946420014ad9a5c90b8d65" title=" " alt="" coords="5,59,119,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,65,119,69,119,64,152,60"/>
-</map>

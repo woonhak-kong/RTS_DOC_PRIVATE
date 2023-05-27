@@ -1,7 +1,0 @@
-<map id="TaskPanelUIHandler" name="TaskPanelUIHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="152,345,403,1066"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html" title=" " alt="" coords="5,5,277,279"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,292,193,344,188,345,175,293"/>
-<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_u_i_1_1_task_panel_u_i_handler_1_1_category.html" title=" " alt="" coords="302,71,525,213"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="399,213,371,330,366,328,394,212"/>
-</map>

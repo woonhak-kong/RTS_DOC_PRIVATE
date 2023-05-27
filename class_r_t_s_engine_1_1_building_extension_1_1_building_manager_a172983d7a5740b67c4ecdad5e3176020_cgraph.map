@@ -1,7 +1,0 @@
-<map id="CreatePlacedBuildingLocal" name="CreatePlacedBuildingLocal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,218,74"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html#a34897eac13eec9d010e88a424e65b11c" title=" " alt="" coords="277,5,498,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,45,261,40,262,45,218,50"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entities_1_1_i_building.html#af4e5fcb1760d83c83336450da855ba6c" title=" " alt="" coords="266,76,509,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,68,251,72,251,77,218,74"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Prepare" name="Prepare">
-<area shape="rect" id="Node000001" title="Attempts to calculate a valid path for the specified destination position. If the path calculation is..." alt="" coords="5,50,84,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_movement_component.html#a9764287e38e73ddb7caffb1e2d96f57b" title=" " alt="" coords="141,5,422,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,56,125,50,126,55,84,61"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entity_component_1_1_i_movement_component.html#a5105526f7076d2237fe7fd7e514e5b06" title=" " alt="" coords="132,76,431,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="84,68,117,73,116,78,84,73"/>
-</map>

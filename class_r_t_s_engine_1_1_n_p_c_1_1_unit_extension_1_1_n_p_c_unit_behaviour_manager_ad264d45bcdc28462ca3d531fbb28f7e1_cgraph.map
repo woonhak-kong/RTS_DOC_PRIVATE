@@ -1,7 +1,0 @@
-<map id="HandleTerritoryDefenseOrder" name="HandleTerritoryDefenseOrder">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,232,79"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#af1ef9dc6c908b881d5c0ed1bd43dea7b" title=" " alt="" coords="280,5,584,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,49,264,45,265,51,232,54"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="303,76,561,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,75,288,81,288,86,232,80"/>
-</map>

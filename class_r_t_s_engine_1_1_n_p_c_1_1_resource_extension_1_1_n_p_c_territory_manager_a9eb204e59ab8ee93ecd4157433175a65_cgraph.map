@@ -1,7 +1,0 @@
-<map id="OnExpandRequestInternal" name="OnExpandRequestInternal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,207,83"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="273,5,532,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,52,258,45,259,51,208,58"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_i_n_p_c_building_creator.html#a6d1d2134007f2df1703dc03fc069840e" title=" " alt="" coords="255,76,550,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,80,240,84,239,89,207,85"/>
-</map>

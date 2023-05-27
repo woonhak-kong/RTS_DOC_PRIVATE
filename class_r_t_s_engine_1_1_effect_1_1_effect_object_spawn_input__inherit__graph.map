@@ -1,9 +1,0 @@
-<map id="EffectObjectSpawnInput" name="EffectObjectSpawnInput">
-<area shape="rect" id="Node000001" title=" " alt="" coords="123,217,322,359"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_attack_1_1_attack_object_spawn_input.html" title=" " alt="" coords="5,407,208,661"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,373,169,408,164,406,181,370"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_u_i_1_1_resource_notification_spawn_input.html" title=" " alt="" coords="232,467,448,601"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="265,370,311,466,306,469,260,373"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_poolable_object_spawn_input.html" title=" " alt="" coords="113,5,333,169"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,184,225,218,220,218,220,184"/>
-</map>

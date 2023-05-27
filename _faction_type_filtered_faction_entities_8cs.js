@@ -1,5 +1,0 @@
-var _faction_type_filtered_faction_entities_8cs =
-[
-    [ "FactionTypeFilteredFactionEntities", "class_r_t_s_engine_1_1_entities_1_1_faction_type_filtered_faction_entities.html", "class_r_t_s_engine_1_1_entities_1_1_faction_type_filtered_faction_entities" ],
-    [ "FactionTypeFilteredFactionEntities.Element", "struct_r_t_s_engine_1_1_entities_1_1_faction_type_filtered_faction_entities_1_1_element.html", "struct_r_t_s_engine_1_1_entities_1_1_faction_type_filtered_faction_entities_1_1_element" ]
-];

@@ -1,7 +1,0 @@
-<map id="StartLobbyDelayed" name="StartLobbyDelayed">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,161,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_scene_1_1_scene_loader.html#ae605f79e5267bb78b262c5218740c074" title=" " alt="" coords="209,5,462,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,26,194,26,194,31,161,31"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_scene_1_1_scene_loader.html#ae4bc268219cdf610c16f366bafa6fa89" title=" " alt="" coords="510,5,763,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,26,495,26,495,31,462,31"/>
-</map>

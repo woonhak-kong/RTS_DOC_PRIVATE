@@ -1,9 +1,0 @@
-<map id="Border" name="Border">
-<area shape="rect" id="Node000001" title=" " alt="" coords="35,675,289,1605"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,440,127,513"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,527,97,675,92,675,71,528"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_building_extension_1_1_i_border.html" title=" " alt="" coords="151,327,365,627"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,641,232,676,227,675,232,640"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="154,5,362,279"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,293,261,327,255,327,255,293"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="HandleResourceGeneratorDead" name="HandleResourceGeneratorDead">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,252,58"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="78,30,70,20,77,10,97,5,129,3,164,5,183,12,181,17,163,11,128,8,97,10,80,15,75,20,82,27"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_resource_extension_1_1_faction_resource_handler.html#a6159c437314a4bc279b049d4927347b9" title=" " alt="" coords="300,20,553,67"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="252,41,285,41,285,46,252,46"/>
-</map>

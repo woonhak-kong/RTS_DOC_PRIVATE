@@ -1,7 +1,0 @@
-<map id="UpdateTarget" name="UpdateTarget">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,123,70"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#a47579d1e34a91732e44347b18a6e9102" title=" " alt="" coords="205,5,374,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,44,190,33,191,38,124,49"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html#a500bfa1d5fcff4164d73d7fa06f47446" title=" " alt="" coords="171,58,408,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,62,156,67,155,72,123,67"/>
-</map>

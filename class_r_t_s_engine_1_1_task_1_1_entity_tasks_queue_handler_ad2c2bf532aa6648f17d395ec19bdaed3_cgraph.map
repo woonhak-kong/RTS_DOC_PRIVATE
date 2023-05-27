@@ -1,7 +1,0 @@
-<map id="CanAdd" name="CanAdd">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,85,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_task_1_1_entity_tasks_queue_handler.html#aa71d36872f416feaa853788a7a7a7ef8" title=" " alt="" coords="133,14,192,43"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,26,118,26,118,31,85,31"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_entity_component_base.html#a2ffdb175512ab4a96394786b76f782a2" title=" " alt="" coords="240,5,515,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,26,225,26,225,31,192,31"/>
-</map>

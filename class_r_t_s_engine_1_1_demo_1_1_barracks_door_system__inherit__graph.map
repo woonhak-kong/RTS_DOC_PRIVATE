@@ -1,9 +1,0 @@
-<map id="BarracksDoorSystem" name="BarracksDoorSystem">
-<area shape="rect" id="Node000001" title=" " alt="" coords="43,248,254,725"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,127,127,200"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,213,90,247,85,249,76,214"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="151,127,312,200"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,214,212,249,207,247,216,213"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="167,5,296,79"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,93,234,127,229,127,229,93"/>
-</map>

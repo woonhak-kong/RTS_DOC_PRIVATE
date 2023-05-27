@@ -1,5 +1,0 @@
-var _advanced_building_placement_handler_base_8cs =
-[
-    [ "AdvancedPendingPlacementData", "struct_r_t_s_engine_1_1_building_extension_1_1_advanced_pending_placement_data.html", "struct_r_t_s_engine_1_1_building_extension_1_1_advanced_pending_placement_data" ],
-    [ "AdvancedBuildingPlacementHandlerBase", "class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html", "class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base" ]
-];

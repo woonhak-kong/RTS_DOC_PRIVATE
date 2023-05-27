@@ -1,7 +1,0 @@
-<map id="OnCarriedUnitDead" name="OnCarriedUnitDead">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,166,43"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html#a3a87e8d10b34de5ae7be00de388e2c9a" title=" " alt="" coords="214,14,352,43"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,26,199,26,199,31,166,31"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entities_1_1_entity_amount_handler.html#a376d4854e8dcb7b68ce901de5e65ce25" title=" " alt="" coords="400,5,610,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,26,385,26,385,31,352,31"/>
-</map>

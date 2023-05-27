@@ -1,5 +1,0 @@
-<map id="HoverHealthBarSpawnInput" name="HoverHealthBarSpawnInput">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,217,229,336"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_utilities_1_1_poolable_object_spawn_input.html" title=" " alt="" coords="7,5,227,169"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,183,120,218,115,218,115,183"/>
-</map>

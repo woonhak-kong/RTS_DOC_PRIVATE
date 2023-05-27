@@ -1,9 +1,0 @@
-<map id="OnHealthUpdated" name="OnHealthUpdated">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,151,83"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_health_1_1_entity_health_state_handler.html#a73ce44bc3164e9ec10a6032421d1d67f" title=" " alt="" coords="232,5,468,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,55,217,45,218,51,152,61"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#aca51304798a7f5abe081228622a7aeb2" title=" " alt="" coords="199,76,501,141"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,77,185,82,184,87,151,82"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_health_1_1_entity_health_state.html#a2e7b7b6fe4acc1251a6aebab7be917ea" title=" " alt="" coords="549,5,784,52"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,26,534,26,534,31,468,31"/>
-</map>

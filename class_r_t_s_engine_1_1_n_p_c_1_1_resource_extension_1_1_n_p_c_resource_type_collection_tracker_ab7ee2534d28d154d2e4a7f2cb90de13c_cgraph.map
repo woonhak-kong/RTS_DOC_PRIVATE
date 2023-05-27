@@ -1,9 +1,0 @@
-<map id="AddResource" name="AddResource">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,123,61"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_tracker.html#a447cf9bfdccfdf39bf291866660117d3" title=" " alt="" coords="181,5,349,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,36,165,30,166,35,124,41"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_tracker.html#a193d92cf886e5adc50c4db2648dc5f60" title=" " alt="" coords="171,59,359,87"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,51,156,56,156,61,123,57"/>
-<area shape="rect" id="Node000004" href="$class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_tracker.html#a85d0777d3dfc47518d98cf7e04703dae" title=" " alt="" coords="407,59,600,87"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="360,70,392,70,392,76,360,76"/>
-</map>

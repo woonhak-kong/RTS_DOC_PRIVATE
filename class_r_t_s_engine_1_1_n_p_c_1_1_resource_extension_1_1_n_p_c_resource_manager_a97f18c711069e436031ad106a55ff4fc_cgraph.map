@@ -1,9 +1,0 @@
-<map id="OnIncreaseMissingResourceRequest" name="OnIncreaseMissingResourceRequest">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,227,123"/>
-<area shape="rect" id="Node000002" href="$interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#ae68ab848563b348a1a7fa1efd6efa5b4" title=" " alt="" coords="311,5,571,52"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,73,274,61,310,53,311,58,275,66,222,78"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="312,76,570,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,97,297,97,297,102,227,102"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_capacity_resource_manager.html#a073afa6c67d22dc76821b80f2ba3e963" title=" " alt="" coords="275,147,607,212"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,121,293,140,292,146,213,126"/>
-</map>

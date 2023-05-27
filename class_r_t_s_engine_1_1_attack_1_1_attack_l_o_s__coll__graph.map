@@ -1,5 +1,0 @@
-<map id="AttackLOS" name="AttackLOS">
-<area shape="rect" id="Node000001" title=" " alt="" coords="6,263,170,517"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_attack_1_1_attack_sub_component.html" title=" " alt="" coords="5,5,171,215"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,229,91,263,85,263,85,229"/>
-</map>

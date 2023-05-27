@@ -1,6 +1,0 @@
-<map id="Init" name="Init">
-<area shape="rect" id="Node000001" title=" " alt="" coords="290,29,330,58"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="339,26,342,19,339,14,328,10,310,8,288,11,278,17,279,24,291,34,288,38,274,27,274,14,286,6,310,3,330,5,342,10,347,19,344,28"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_target_entity_finder.html#a11bf00a99f06d801e92abe935c2ae4a7" title="Initializes a TargetEntityFinder instance." alt="" coords="5,11,242,76"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="275,46,242,46,242,41,275,41"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="GameData" name="GameData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,307,176,425"/>
-<area shape="rect" id="Node000002" href="$struct_r_t_s_engine_1_1_determinism_1_1_time_modifier_options.html" title=" " alt="" coords="11,167,170,241"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,240,93,290,88,290,88,240"/>
-<area shape="rect" id="Node000003" href="$struct_r_t_s_engine_1_1_determinism_1_1_time_modifier_option.html" title=" " alt="" coords="15,5,166,101"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,101,93,150,88,150,88,101"/>
-</map>

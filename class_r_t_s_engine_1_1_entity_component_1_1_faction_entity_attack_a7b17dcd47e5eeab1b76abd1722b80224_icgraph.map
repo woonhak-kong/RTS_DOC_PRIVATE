@@ -1,7 +1,0 @@
-<map id="CanSwitchAttack" name="CanSwitchAttack">
-<area shape="rect" id="Node000001" title=" " alt="" coords="381,5,521,34"/>
-<area shape="rect" id="Node000002" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#ac7e0608d80e3ee20e6ab8e7e479dfe05" title=" " alt="" coords="178,5,333,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,22,333,22,333,17,366,17"/>
-<area shape="rect" id="Node000003" href="$class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#a089436776a49ced62441ba16abc85d4e" title=" " alt="" coords="5,5,130,34"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,22,130,22,130,17,163,17"/>
-</map>

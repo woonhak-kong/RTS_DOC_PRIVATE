@@ -1,9 +1,0 @@
-<map id="FarmStateHandler" name="FarmStateHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="25,248,269,661"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,127,127,200"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,213,92,248,87,249,77,214"/>
-<area shape="rect" id="Node000003" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="151,127,306,200"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,214,208,249,203,248,212,213"/>
-<area shape="rect" id="Node000004" href="$interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="164,5,293,79"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,93,231,127,226,127,226,93"/>
-</map>
