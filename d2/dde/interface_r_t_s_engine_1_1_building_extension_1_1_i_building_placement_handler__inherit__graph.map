@@ -1,0 +1,15 @@
+<map id="IBuildingPlacementHandler" name="IBuildingPlacementHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="313,5,513,283"/>
+<area shape="rect" id="Node000002" href="$dc/d73/class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html" title=" " alt="" coords="27,331,265,1665"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,288,286,332,267,378,262,376,281,330,303,286"/>
+<area shape="rect" id="Node000004" href="$d3/d93/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html" title=" " alt="" coords="296,599,529,1397"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="415,297,415,599,410,599,410,297"/>
+<area shape="rect" id="Node000007" href="$d4/dc4/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html" title=" " alt="" coords="554,589,778,1407"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="522,285,544,330,568,392,589,457,621,589,616,590,584,458,563,394,540,332,518,288"/>
+<area shape="rect" id="Node000003" href="$de/dad/class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html" title=" " alt="" coords="5,1795,273,2340"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,1679,144,1795,138,1795,139,1679"/>
+<area shape="rect" id="Node000005" href="$da/d38/class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html" title=" " alt="" coords="297,1838,528,2297"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="415,1412,415,1838,410,1838,410,1412"/>
+<area shape="rect" id="Node000006" href="$d0/d54/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_faction_placement_handler.html" title=" " alt="" coords="552,1713,796,2421"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="487,1410,545,1665,558,1713,553,1715,539,1666,482,1412"/>
+</map>

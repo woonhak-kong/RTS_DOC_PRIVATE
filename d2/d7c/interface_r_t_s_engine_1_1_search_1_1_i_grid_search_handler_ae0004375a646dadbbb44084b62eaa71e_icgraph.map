@@ -1,0 +1,20 @@
+<map id="TryGetSearchCell" name="TryGetSearchCell">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1549,173,1693,202"/>
+<area shape="rect" id="Node000002" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#af78ba89a8388b587bf84a97e8fea1910" title="Checks whether moving entities that belong to the search cell have left the cell or not." alt="" coords="1261,134,1501,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1534,179,1501,175,1502,170,1535,174"/>
+<area shape="rect" id="Node000005" href="$da/d8b/class_r_t_s_engine_1_1_movement_1_1_unit_target_position_marker.html#a9ad9379236c9ed3345222542d6fd73e9" title="Enables or disables the marker." alt="" coords="5,94,259,140"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="1534,198,1334,213,1094,221,773,221,621,213,471,193,335,168,225,143,226,138,336,163,472,188,622,208,773,216,1094,216,1333,208,1534,193"/>
+<area shape="rect" id="Node000003" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a079eac6385f3f00c744eeb7a45974a17" title=" " alt="" coords="972,58,1213,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1275,132,1183,108,1185,102,1276,127"/>
+<area shape="rect" id="Node000004" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a423797f9b1ae4f2cb90443a1ddf4df79" title=" " alt="" coords="307,41,576,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1026,54,977,36,924,22,840,11,775,9,624,22,562,31,503,43,502,38,561,26,624,17,775,3,841,5,925,17,978,31,1028,49"/>
+<area shape="rect" id="Node000006" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a3b791d0544ba5612446ed99df8eaef97" title=" " alt="" coords="624,32,924,79"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="957,73,925,70,925,65,958,68"/>
+<area shape="rect" id="Node000007" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a4e6a5c08ff9019a20134e95f16851447" title=" " alt="" coords="321,94,562,140"/>
+<area shape="poly" id="edge10_Node000003_Node000007" title=" " alt="" coords="957,91,924,93,562,113,562,108,924,88,957,86"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="346,76,307,84,248,96,247,90,306,78,345,71"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="609,58,577,58,577,53,609,53"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="630,85,562,97,561,92,629,80"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="577,120,1260,149,1260,155,577,125"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="306,120,259,120,259,114,306,114"/>
+</map>

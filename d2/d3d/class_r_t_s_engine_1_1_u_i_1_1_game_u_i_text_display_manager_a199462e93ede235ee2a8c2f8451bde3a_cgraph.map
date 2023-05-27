@@ -1,0 +1,19 @@
+<map id="UpgradeTaskTooltipToString" name="UpgradeTaskTooltipToString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,142,228,171"/>
+<area shape="rect" id="Node000002" href="$d2/d3d/class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#ae07dcb561c668c9a1b0262da549a3837" title=" " alt="" coords="278,97,500,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,139,263,135,264,140,229,145"/>
+<area shape="rect" id="Node000009" href="$d4/d81/interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="276,168,502,215"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="229,168,261,172,260,178,228,174"/>
+<area shape="rect" id="Node000003" href="$d2/d3d/class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#a552e03b3a8225255c6d1ee518e59a1fa" title=" " alt="" coords="550,5,771,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,94,549,61,568,54,570,59,551,66,456,99"/>
+<area shape="rect" id="Node000004" href="$d2/d3d/class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#af26edc7acadd19e67edf2a3202f35a9c" title=" " alt="" coords="568,76,754,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="500,105,552,100,553,105,500,111"/>
+<area shape="rect" id="Node000005" href="$d2/d3d/class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#aafc116d03fda4ccde05d86c0c3865958" title=" " alt="" coords="557,128,765,175"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="500,131,542,135,541,141,500,136"/>
+<area shape="rect" id="Node000006" href="$d2/d3d/class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#a4d78a6e2d487a88315a3487f0d060541" title=" " alt="" coords="571,198,750,227"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="477,142,503,153,527,169,551,184,571,191,570,196,549,188,524,173,501,158,475,147"/>
+<area shape="rect" id="Node000007" href="$db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#ae68ab848563b348a1a7fa1efd6efa5b4" title=" " alt="" coords="819,159,1080,205"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="751,200,804,195,805,200,751,206"/>
+<area shape="rect" id="Node000008" href="$d2/d3d/class_r_t_s_engine_1_1_u_i_1_1_game_u_i_text_display_manager.html#a522cccbd30f2454d96c24cd191871235" title=" " alt="" coords="839,229,1060,258"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="751,220,824,227,824,233,751,225"/>
+</map>

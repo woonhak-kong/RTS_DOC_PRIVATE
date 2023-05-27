@@ -1,0 +1,12 @@
+<map id="HandleFollowEntityMovementStart" name="HandleFollowEntityMovementStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="449,23,674,70"/>
+<area shape="rect" id="Node000002" href="$d2/daf/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_u_i_icon.html#a1b93d0ae2f2128065c6650aee6593474" title=" " alt="" coords="256,5,401,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,34,401,31,401,25,434,29"/>
+<area shape="rect" id="Node000005" href="$d2/daf/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_u_i_icon.html#a25049f84e508324411e7b9ff493a7bf8" title=" " alt="" coords="264,59,393,87"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="434,64,393,68,393,63,434,58"/>
+<area shape="rect" id="Node000003" href="$d2/daf/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_u_i_icon.html#aa9a665650277e5e430ec67edd5264061" title=" " alt="" coords="5,5,208,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,22,208,22,208,17,241,17"/>
+<area shape="rect" id="Node000004" href="$d2/daf/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_u_i_icon.html#a254e8c82901a2374d0ddea78a8b4019a" title=" " alt="" coords="62,59,151,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="252,41,152,65,151,60,251,35"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="249,76,152,76,152,70,249,70"/>
+</map>

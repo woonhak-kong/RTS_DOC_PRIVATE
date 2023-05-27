@@ -1,0 +1,15 @@
+<map id="FactionSlotInitialEntitiesElement" name="FactionSlotInitialEntitiesElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="248,557,427,649"/>
+<area shape="rect" id="Node000002" href="$db/d7f/struct_r_t_s_engine_1_1_faction_1_1_initial_faction_entities_option.html" title=" " alt="" coords="239,373,436,491"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,491,340,540,335,540,335,491"/>
+<area shape="rect" id="Node000003" href="$db/d07/class_r_t_s_engine_1_1_faction_1_1_faction_type_target_picker.html" title="Target picker for FactionTypeInfo." alt="" coords="27,213,216,286"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,284,233,347,250,360,246,364,229,351,158,288"/>
+<area shape="rect" id="Node000004" href="$da/dcc/class_r_t_s_engine_1_1_entities_1_1_target_picker.html" title=" " alt="" coords="5,5,224,143"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,157,123,213,117,213,115,157"/>
+<area shape="rect" id="Node000005" href="$d2/dea/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_type_target_picker.html" title=" " alt="" coords="252,213,423,286"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="340,286,340,356,335,356,335,286"/>
+<area shape="rect" id="Node000006" href="$da/dcc/class_r_t_s_engine_1_1_entities_1_1_target_picker.html" title=" " alt="" coords="249,5,437,143"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="343,157,341,213,336,213,337,157"/>
+<area shape="rect" id="Node000007" href="$d7/d90/struct_r_t_s_engine_1_1_faction_1_1_initial_faction_entity_prefab_option.html" title=" " alt="" coords="447,192,633,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="479,309,417,364,413,360,475,305"/>
+</map>

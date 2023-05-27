@@ -1,0 +1,45 @@
+<map id="Init" name="Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,288,46,317"/>
+<area shape="rect" id="Node000002" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#ab7ee2534d28d154d2e4a7f2cb90de13c" title="Adds a Resource instance to the border list if it belongs to it." alt="" coords="431,148,548,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,287,31,257,42,218,62,180,75,163,92,149,134,128,179,115,226,110,273,110,362,121,435,140,433,146,361,127,272,115,226,115,180,121,136,133,95,154,79,167,66,183,47,220,36,258,31,288"/>
+<area shape="rect" id="Node000010" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a4ca4fb5326df8b06e6a7234727f74b48" title=" " alt="" coords="112,164,365,211"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="33,286,57,253,73,235,92,220,100,215,103,220,95,225,77,239,61,256,37,289"/>
+<area shape="rect" id="Node000011" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a261d4a48f3c787a89517c7abeff536fc" title=" " alt="" coords="128,288,349,317"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="46,300,114,300,114,305,46,305"/>
+<area shape="rect" id="Node000017" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a6aa51ea7c7aafa8f41ec68252de38254" title=" " alt="" coords="120,235,357,263"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="45,291,93,273,127,264,128,270,94,278,47,296"/>
+<area shape="rect" id="Node000018" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#aa2e77c38af13839955e7ffe9b097deb9" title=" " alt="" coords="208,341,269,370"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="47,309,94,326,194,347,193,352,93,332,45,314"/>
+<area shape="rect" id="Node000019" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a4ccf8dc9b557743f1bc12c18bd0b39d8" title=" " alt="" coords="94,394,383,440"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="37,316,61,349,77,366,95,380,103,385,100,389,92,385,73,370,57,352,33,319"/>
+<area shape="rect" id="Node000020" href="$d3/d65/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_manager.html#a0e2ead06ca98731e59b2022767c1caf7" title=" " alt="" coords="95,464,382,511"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="32,316,38,345,49,382,68,419,96,451,99,454,96,458,92,455,64,422,45,384,33,347,26,317"/>
+<area shape="rect" id="Node000003" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a65efee9f25b0c13855d51e58f1bc8503" title=" " alt="" coords="631,41,855,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,146,543,112,568,95,595,80,616,72,618,77,597,85,571,99,546,116,507,150"/>
+<area shape="rect" id="Node000007" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a0e19a5269130ff030befd4a8accdd1b0" title=" " alt="" coords="697,95,789,123"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="547,145,596,133,682,116,683,121,597,138,548,150"/>
+<area shape="rect" id="Node000008" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#aad9f317128751cf2a134a3c975aeaed4" title=" " alt="" coords="665,148,821,177"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="549,160,651,160,651,165,549,165"/>
+<area shape="rect" id="Node000009" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#affc5ff1773059e17222c66cfbfd45bf0" title=" " alt="" coords="596,201,890,265"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="545,175,611,194,610,199,543,180"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="699,42,693,32,699,23,716,17,743,15,774,17,789,24,787,29,772,23,743,20,717,22,702,27,698,32,704,39"/>
+<area shape="rect" id="Node000004" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a6b99cfd6a22391b4946b87e1213903e1" title="Removes a Resource instance from the border resources list." alt="" coords="938,41,1084,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="856,53,923,53,923,58,856,58"/>
+<area shape="rect" id="Node000005" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a4018cf0ae5d70317b159bdd8bbfa1ce7" title=" " alt="" coords="1201,5,1376,34"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1084,44,1186,30,1186,36,1085,49"/>
+<area shape="rect" id="Node000006" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a9713b3518f3e410a236b711aae6a936d" title=" " alt="" coords="1132,58,1445,123"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="1085,62,1117,66,1117,72,1084,67"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="365,172,416,167,417,172,365,178"/>
+<area shape="rect" id="Node000012" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a759104be6f9c1a5c4c849f9227bb1449" title=" " alt="" coords="437,313,543,342"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="349,311,422,318,422,324,349,316"/>
+<area shape="rect" id="Node000013" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a8fdccd3d1d7d884f726b37ec8ae68e37" title=" " alt="" coords="636,313,850,342"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="543,325,622,325,622,330,543,330"/>
+<area shape="rect" id="Node000016" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#ad8a9f93786878f63ef12503c585d5d28" title=" " alt="" coords="671,367,815,395"/>
+<area shape="poly" id="edge18_Node000012_Node000016" title=" " alt="" coords="544,339,597,352,657,364,656,369,596,357,543,344"/>
+<area shape="poly" id="edge15_Node000013_Node000013" title=" " alt="" coords="699,314,693,304,699,295,716,289,743,287,774,289,789,296,787,301,772,295,743,292,717,294,702,299,698,304,704,311"/>
+<area shape="rect" id="Node000014" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#aea06a7b88cf08719a222647af6ad1900" title=" " alt="" coords="943,313,1079,342"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="850,325,928,325,928,330,850,330"/>
+<area shape="rect" id="Node000015" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a5b0aeaf63c28a9b976aeffe05ee4c20f" title=" " alt="" coords="1193,313,1385,342"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="1079,325,1177,325,1177,330,1079,330"/>
+<area shape="poly" id="edge20_Node000017_Node000002" title=" " alt="" coords="342,232,382,220,420,203,454,183,456,187,422,207,384,225,344,237"/>
+</map>

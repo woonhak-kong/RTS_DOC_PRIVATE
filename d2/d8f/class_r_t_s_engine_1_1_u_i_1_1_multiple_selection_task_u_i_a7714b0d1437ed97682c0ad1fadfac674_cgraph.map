@@ -1,0 +1,12 @@
+<map id="OnReload" name="OnReload">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,97,114"/>
+<area shape="rect" id="Node000002" href="$d2/d8f/class_r_t_s_engine_1_1_u_i_1_1_multiple_selection_task_u_i.html#adb4c8d67759ae3646f4ef9f4d9b630fb" title=" " alt="" coords="149,5,363,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,82,144,61,162,55,164,60,146,66,90,87"/>
+<area shape="rect" id="Node000004" href="$d2/d8f/class_r_t_s_engine_1_1_u_i_1_1_multiple_selection_task_u_i.html#aebb616010ec54cd7dfd0849425d9cd46" title=" " alt="" coords="145,76,367,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,97,129,97,129,102,97,102"/>
+<area shape="rect" id="Node000005" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html#ac2f2e3fb5c58c04a445bac9a09da4e5b" title=" " alt="" coords="150,147,362,193"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="92,112,146,131,167,139,166,144,144,137,90,117"/>
+<area shape="rect" id="Node000003" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html#a7b067e0772a91a0c212c289441ac2cd5" title=" " alt="" coords="415,41,627,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,41,401,46,400,51,363,46"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="367,82,400,78,401,83,368,87"/>
+</map>

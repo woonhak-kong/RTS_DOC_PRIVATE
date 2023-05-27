@@ -1,0 +1,9 @@
+<map id="RemoveAllResources" name="RemoveAllResources">
+<area shape="rect" id="Node000001" title="Removes all Resource instances registered as part of the border territory." alt="" coords="5,41,177,70"/>
+<area shape="rect" id="Node000002" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a6b99cfd6a22391b4946b87e1213903e1" title="Removes a Resource instance from the border resources list." alt="" coords="225,41,371,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,53,210,53,210,58,177,58"/>
+<area shape="rect" id="Node000003" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a4018cf0ae5d70317b159bdd8bbfa1ce7" title=" " alt="" coords="488,5,663,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,44,473,30,473,36,372,49"/>
+<area shape="rect" id="Node000004" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a9713b3518f3e410a236b711aae6a936d" title=" " alt="" coords="419,58,732,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="372,62,404,66,404,72,371,67"/>
+</map>

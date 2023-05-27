@@ -1,0 +1,7 @@
+<map id="RemoveResource" name="RemoveResource">
+<area shape="rect" id="Node000001" title="Removes a Resource instance from the border resources list." alt="" coords="5,41,152,70"/>
+<area shape="rect" id="Node000002" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#a4018cf0ae5d70317b159bdd8bbfa1ce7" title=" " alt="" coords="269,5,444,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,44,253,30,254,36,152,49"/>
+<area shape="rect" id="Node000003" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a9713b3518f3e410a236b711aae6a936d" title=" " alt="" coords="200,58,513,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,62,185,66,184,72,152,67"/>
+</map>
