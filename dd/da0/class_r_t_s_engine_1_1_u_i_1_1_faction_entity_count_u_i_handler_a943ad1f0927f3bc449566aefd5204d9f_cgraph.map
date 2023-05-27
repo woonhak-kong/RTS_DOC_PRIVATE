@@ -1,0 +1,15 @@
+<map id="HandleLocalFactionEntityAdded" name="HandleLocalFactionEntityAdded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,98,204,145"/>
+<area shape="rect" id="Node000002" href="$dd/da0/class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a85d97e85990a6374d1de2891bf8dbfd6" title=" " alt="" coords="252,107,312,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,119,237,119,237,124,204,124"/>
+<area shape="rect" id="Node000003" href="$dd/da0/class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#aab873c0a501d6987c83e42d1645b9f97" title=" " alt="" coords="479,23,529,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,105,324,82,359,62,413,45,464,37,465,43,414,50,361,67,327,87,300,109"/>
+<area shape="rect" id="Node000005" href="$dd/da0/class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a130bc36524c72ad408ecd7338f1e0070" title=" " alt="" coords="477,77,531,105"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="312,115,462,94,463,99,313,120"/>
+<area shape="rect" id="Node000006" href="$d6/d3a/class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html#a78ee3a5a62e6bb8ed3e416ef07b20276" title=" " alt="" coords="382,129,627,176"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="313,123,367,131,366,136,312,128"/>
+<area shape="rect" id="Node000007" href="$d1/dda/interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#ad7ea2ffef3664d1562692c037f41271e" title=" " alt="" coords="360,200,648,246"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="298,134,326,160,361,185,376,191,373,196,359,189,322,164,295,138"/>
+<area shape="rect" id="Node000004" href="$d6/ddb/class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html#a37d1ea833e3c8b695835e1e87feed923" title=" " alt="" coords="696,5,1010,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="530,35,682,35,682,40,530,40"/>
+</map>

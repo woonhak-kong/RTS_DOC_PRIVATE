@@ -1,0 +1,9 @@
+<map id="CancelInternal" name="CancelInternal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,125,123"/>
+<area shape="rect" id="Node000002" href="$d6/def/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component_task_input.html#a65d947895e4cc5b6b670329f992a07ac" title=" " alt="" coords="173,5,455,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,91,172,62,198,54,199,59,174,67,100,96"/>
+<area shape="rect" id="Node000003" href="$df/d1f/interface_r_t_s_engine_1_1_entity_component_1_1_i_pending_task_entity_component.html#a581a5d937ff481a748ca9392d3fc7c20" title=" " alt="" coords="184,76,444,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,106,169,106,169,111,125,111"/>
+<area shape="rect" id="Node000004" href="$dd/d65/class_r_t_s_engine_1_1_task_1_1_pending_tasks_handler.html#abe74d6dfc6b5e84bcfcd75f0c450d5a6" title=" " alt="" coords="188,165,440,194"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="98,121,173,150,206,159,205,164,172,155,96,126"/>
+</map>

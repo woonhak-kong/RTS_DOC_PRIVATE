@@ -1,0 +1,22 @@
+<map id="OnInit" name="OnInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,66,153"/>
+<area shape="rect" id="Node000002" href="$dd/da0/class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a943ad1f0927f3bc449566aefd5204d9f" title=" " alt="" coords="114,24,312,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,122,112,87,138,74,141,79,115,92,59,127"/>
+<area shape="rect" id="Node000003" href="$dd/da0/class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a85d97e85990a6374d1de2891bf8dbfd6" title=" " alt="" coords="360,94,420,123"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="66,134,345,109,346,115,66,139"/>
+<area shape="rect" id="Node000006" href="$dd/da0/class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a130bc36524c72ad408ecd7338f1e0070" title=" " alt="" coords="585,217,640,245"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="50,152,78,180,95,193,115,203,176,223,240,237,305,244,369,248,485,244,570,235,571,240,485,249,369,253,305,250,239,242,175,228,113,208,93,197,74,184,47,156"/>
+<area shape="rect" id="Node000009" href="$dd/da0/class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#a7bf61279407a67f1ff26b0d8d07cdbac" title=" " alt="" coords="114,146,312,193"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="67,142,99,147,98,153,66,147"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="283,68,347,91,345,96,281,73"/>
+<area shape="rect" id="Node000004" href="$dd/da0/class_r_t_s_engine_1_1_u_i_1_1_faction_entity_count_u_i_handler.html#aab873c0a501d6987c83e42d1645b9f97" title=" " alt="" coords="587,23,638,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,91,437,75,467,60,521,46,572,38,573,43,522,51,469,66,439,80,413,96"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="401,122,427,163,447,185,470,203,494,215,520,222,571,229,570,234,519,228,492,220,467,208,443,189,423,167,396,124"/>
+<area shape="rect" id="Node000007" href="$d6/d3a/class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html#a78ee3a5a62e6bb8ed3e416ef07b20276" title=" " alt="" coords="490,76,735,122"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="421,104,475,102,475,107,421,110"/>
+<area shape="rect" id="Node000008" href="$d1/dda/interface_r_t_s_engine_1_1_determinism_1_1_i_input_manager.html#ad7ea2ffef3664d1562692c037f41271e" title=" " alt="" coords="468,146,757,193"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="422,116,469,131,499,139,498,145,468,136,420,121"/>
+<area shape="rect" id="Node000005" href="$d6/ddb/class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html#a37d1ea833e3c8b695835e1e87feed923" title=" " alt="" coords="805,5,1118,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="638,35,790,35,790,40,638,40"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="281,143,345,121,347,126,283,148"/>
+</map>

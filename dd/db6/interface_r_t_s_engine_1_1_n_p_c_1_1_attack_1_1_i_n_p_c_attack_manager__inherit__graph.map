@@ -1,0 +1,9 @@
+<map id="INPCAttackManager" name="INPCAttackManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,493,243,725"/>
+<area shape="rect" id="Node000004" href="$d4/d79/class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html" title="Responsible for picking a target faction and launching attacks for a NPC faction." alt="" coords="5,773,264,1723"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,740,137,774,132,774,132,740"/>
+<area shape="rect" id="Node000002" href="$dc/d33/interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_component.html" title=" " alt="" coords="67,327,203,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,460,137,494,132,494,132,460"/>
+<area shape="rect" id="Node000003" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="31,5,239,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,293,137,327,132,327,132,293"/>
+</map>
