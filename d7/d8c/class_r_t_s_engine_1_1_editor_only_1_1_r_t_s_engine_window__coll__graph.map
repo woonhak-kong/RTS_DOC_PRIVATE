@@ -1,0 +1,9 @@
+<map id="RTSEngineWindow" name="RTSEngineWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,898,240,1602"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="62,5,173,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,93,124,898,118,898,115,93"/>
+<area shape="rect" id="Node000003" href="$d2/d91/class_r_t_s_engine_1_1_editor_only_1_1_r_t_s_engine_window.html" title=" " alt="" coords="139,128,373,832"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="135,91,147,127,142,129,130,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,832,189,882,184,881,192,831"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="375,417,385,427,393,441,400,480,397,509,387,530,382,528,391,507,395,480,388,443,381,430,371,420"/>
+</map>

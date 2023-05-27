@@ -1,0 +1,9 @@
+<map id="OnDeselected" name="OnDeselected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,127,74"/>
+<area shape="rect" id="Node000002" href="$db/d3a/interface_r_t_s_engine_1_1_selection_1_1_i_entity_selection_marker.html#a0b0a8402327309e2554c218967e472fe" title=" " alt="" coords="175,5,390,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,48,159,43,160,49,127,53"/>
+<area shape="rect" id="Node000003" href="$d7/da7/class_r_t_s_engine_1_1_selection_1_1_entity_selection.html#abfd4e1dd16cbe35b15996addc5c9b008" title=" " alt="" coords="211,76,354,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,65,197,75,196,81,126,71"/>
+<area shape="rect" id="Node000004" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#add7ac46d9b0a3104e20337b827f4e75b" title=" " alt="" coords="438,58,687,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="354,87,423,87,423,93,354,93"/>
+</map>

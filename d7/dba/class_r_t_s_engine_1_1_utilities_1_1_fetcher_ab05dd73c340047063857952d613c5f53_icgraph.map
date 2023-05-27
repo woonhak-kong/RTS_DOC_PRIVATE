@@ -1,0 +1,92 @@
+<map id="CanFetch" name="CanFetch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1787,682,1877,711"/>
+<area shape="rect" id="Node000002" href="$d7/dba/class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#aff9a086b4bfcb9a767e6e735f27843b2" title=" " alt="" coords="1679,682,1739,711"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1773,699,1740,699,1740,694,1773,694"/>
+<area shape="rect" id="Node000003" href="$db/d66/class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html#a643e4ba328585a515e1d9d1c9f7ca8b4" title=" " alt="" coords="1358,17,1587,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1706,667,1704,543,1696,370,1686,282,1672,201,1654,134,1642,109,1629,89,1609,72,1586,59,1588,54,1612,67,1633,86,1647,106,1659,132,1678,200,1691,281,1701,370,1710,543,1711,667"/>
+<area shape="rect" id="Node000005" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a8afaaccdad3eca0d005055354fcb69eb" title=" " alt="" coords="1353,100,1592,147"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1705,667,1702,557,1691,408,1682,332,1668,263,1651,206,1629,168,1612,153,1591,141,1594,137,1615,148,1633,164,1656,204,1674,261,1687,331,1697,407,1707,557,1710,667"/>
+<area shape="rect" id="Node000008" href="$d9/d07/class_r_t_s_engine_1_1_attack_1_1_attack_object.html#a50842c72303ec8316d3ddcbc750122f2" title=" " alt="" coords="300,223,546,269"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="1705,667,1703,564,1693,425,1683,356,1670,294,1652,244,1641,225,1629,212,1608,201,1573,193,1468,183,1329,182,1167,187,827,210,547,236,546,231,827,205,1167,182,1329,177,1468,178,1573,187,1610,196,1633,208,1646,222,1657,242,1675,292,1689,355,1698,425,1708,564,1711,667"/>
+<area shape="rect" id="Node000010" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a623b0e6d8a4d85cc812b486779098cbf" title=" " alt="" coords="1330,222,1615,286"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="1703,668,1696,583,1683,473,1661,368,1646,327,1629,300,1614,286,1617,282,1633,296,1651,325,1666,366,1688,472,1702,582,1709,667"/>
+<area shape="rect" id="Node000012" href="$d7/d5d/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#a522f81d72681c1762f1e8f5a6c84609e" title=" " alt="" coords="1358,363,1587,409"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="1706,668,1704,615,1694,548,1684,514,1670,480,1652,450,1629,423,1609,408,1586,398,1588,393,1612,403,1633,419,1657,446,1675,478,1689,512,1699,547,1709,614,1711,667"/>
+<area shape="rect" id="Node000016" href="$df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a0dd9cc162a49395739fba688ced86a7e" title=" " alt="" coords="1325,310,1620,339"/>
+<area shape="poly" id="edge16_Node000002_Node000016" title=" " alt="" coords="1703,668,1695,593,1681,497,1659,408,1645,374,1629,352,1616,342,1619,338,1633,348,1650,372,1664,407,1686,496,1700,592,1708,667"/>
+<area shape="rect" id="Node000019" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a3aa2a1abf8a38911fe27f45613b8f607" title=" " alt="" coords="1353,433,1592,480"/>
+<area shape="poly" id="edge21_Node000002_Node000019" title=" " alt="" coords="1703,668,1696,628,1683,581,1661,534,1647,513,1629,495,1611,482,1591,473,1594,468,1614,478,1633,491,1651,510,1666,531,1688,579,1701,627,1708,667"/>
+<area shape="rect" id="Node000020" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#a6bf809300cb87a9861c2ac0f329f6953" title=" " alt="" coords="1320,504,1625,569"/>
+<area shape="poly" id="edge22_Node000002_Node000020" title=" " alt="" coords="1694,670,1668,625,1650,602,1629,583,1612,572,1615,567,1633,579,1654,598,1673,622,1699,667"/>
+<area shape="rect" id="Node000023" href="$dc/d2e/class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#a5b829d68b633256bba04d5cf82fdb8c7" title="Called on the building instance when it is placed. Called after the EntityPreInit method." alt="" coords="1356,593,1589,640"/>
+<area shape="poly" id="edge25_Node000002_Node000023" title=" " alt="" coords="1673,677,1630,655,1589,642,1590,637,1632,650,1675,672"/>
+<area shape="rect" id="Node000024" href="$de/dad/class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#a1e60e11219a376636a86161d0001bb10" title=" " alt="" coords="1316,664,1629,729"/>
+<area shape="poly" id="edge26_Node000002_Node000024" title=" " alt="" coords="1664,699,1629,699,1629,694,1664,694"/>
+<area shape="rect" id="Node000025" href="$d8/dbb/class_r_t_s_engine_1_1_entity_component_1_1_builder.html#afdcfc67b6ba365e901f5bc809e4a9040" title=" " alt="" coords="1358,753,1587,800"/>
+<area shape="poly" id="edge27_Node000002_Node000025" title=" " alt="" coords="1675,721,1632,743,1588,758,1586,752,1630,738,1673,717"/>
+<area shape="rect" id="Node000026" href="$d6/d5b/class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#ae66b35cc5dce8aec7bfd22b848b10203" title="Coroutine that plays music loops." alt="" coords="1346,824,1599,871"/>
+<area shape="poly" id="edge28_Node000002_Node000026" title=" " alt="" coords="1699,726,1673,771,1655,794,1633,814,1601,830,1598,826,1629,809,1651,791,1669,768,1694,724"/>
+<area shape="rect" id="Node000031" href="$d0/d6f/class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a9764287e38e73ddb7caffb1e2d96f57b" title=" " alt="" coords="1358,895,1587,941"/>
+<area shape="poly" id="edge33_Node000002_Node000031" title=" " alt="" coords="1707,726,1699,763,1685,805,1664,848,1633,884,1611,898,1588,908,1586,903,1609,894,1629,880,1659,845,1680,803,1694,761,1702,725"/>
+<area shape="rect" id="Node000032" href="$d0/d6f/class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a5105526f7076d2237fe7fd7e514e5b06" title=" " alt="" coords="1351,965,1594,1012"/>
+<area shape="poly" id="edge34_Node000002_Node000032" title=" " alt="" coords="1711,726,1707,776,1696,837,1673,900,1655,929,1633,955,1615,968,1595,978,1593,973,1612,963,1629,951,1651,926,1668,898,1691,836,1702,775,1705,726"/>
+<area shape="rect" id="Node000033" href="$d8/dbb/class_r_t_s_engine_1_1_entity_component_1_1_builder.html#aebf650e4eae93764c7794f955b9b5222" title=" " alt="" coords="1358,1036,1587,1083"/>
+<area shape="poly" id="edge35_Node000002_Node000033" title=" " alt="" coords="1708,726,1699,797,1683,886,1662,970,1648,1003,1633,1025,1612,1041,1588,1052,1586,1047,1609,1037,1629,1021,1644,1000,1657,968,1678,885,1693,796,1702,726"/>
+<area shape="rect" id="Node000034" href="$d7/da7/class_r_t_s_engine_1_1_selection_1_1_entity_selection.html#a7a1a4846c2e6c5ea3770298375a698e1" title=" " alt="" coords="1366,1107,1579,1153"/>
+<area shape="poly" id="edge36_Node000002_Node000034" title=" " alt="" coords="1709,726,1702,811,1688,922,1666,1027,1651,1068,1633,1096,1608,1114,1580,1126,1578,1121,1606,1110,1629,1092,1646,1065,1661,1025,1683,921,1697,811,1704,726"/>
+<area shape="rect" id="Node000035" href="$d6/d5b/class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a18211eeb96ab83811b50646944ae6191" title=" " alt="" coords="1346,1177,1599,1224"/>
+<area shape="poly" id="edge37_Node000002_Node000035" title=" " alt="" coords="1710,726,1705,825,1693,956,1683,1023,1670,1083,1654,1132,1633,1166,1601,1189,1598,1185,1629,1163,1649,1130,1665,1081,1678,1022,1688,956,1700,825,1704,726"/>
+<area shape="rect" id="Node000036" href="$d5/d07/class_r_t_s_engine_1_1_animation_1_1_unit_animator_controller.html#a0894a508b60e6ccc91f348e0addbfd52" title=" " alt="" coords="1344,1248,1601,1313"/>
+<area shape="poly" id="edge38_Node000002_Node000036" title=" " alt="" coords="1710,726,1707,837,1697,990,1687,1067,1674,1138,1656,1196,1633,1237,1603,1261,1599,1257,1629,1234,1651,1194,1669,1137,1682,1066,1691,989,1702,837,1705,726"/>
+<area shape="rect" id="Node000041" href="$d2/d6c/class_r_t_s_engine_1_1_minimap_1_1_notification_1_1_attack_minimap_notification_manager.html#a1411b441c7fee9734835447428ff28b6" title="Spawns a new attack warning." alt="" coords="1314,1337,1631,1384"/>
+<area shape="poly" id="edge43_Node000002_Node000041" title=" " alt="" coords="1711,726,1711,854,1703,1034,1694,1126,1680,1210,1660,1279,1648,1306,1633,1326,1619,1339,1616,1335,1629,1323,1643,1303,1655,1277,1675,1208,1689,1125,1698,1033,1706,854,1706,726"/>
+<area shape="rect" id="Node000004" href="$db/d66/class_r_t_s_engine_1_1_entity_component_1_1_unit_carrier.html#a0faa0c53f64faf163f49747fde98e4c3" title=" " alt="" coords="992,5,1221,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1343,39,1221,35,1221,30,1343,34"/>
+<area shape="rect" id="Node000006" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a25cde3ec3d83479f5402306511b4ee1c" title=" " alt="" coords="987,100,1226,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1338,126,1226,126,1226,121,1338,121"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="1167,88,1145,81,1106,79,1073,81,1051,86,1042,92,1044,99,1039,100,1037,90,1049,81,1072,75,1107,73,1146,76,1169,83"/>
+<area shape="rect" id="Node000007" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a34fba03cc03f19bcb0bba63c31d21abb" title=" " alt="" coords="627,100,866,147"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="972,126,866,126,866,121,972,121"/>
+<area shape="rect" id="Node000009" href="$d9/d07/class_r_t_s_engine_1_1_attack_1_1_attack_object.html#acff9d685fff96c7038a9bab324551813" title=" " alt="" coords="5,223,252,269"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="285,249,252,249,252,243,285,243"/>
+<area shape="rect" id="Node000011" href="$d1/db0/class_r_t_s_engine_1_1_entity_component_1_1_resource_generator.html#a028103aee6a09cd6a2d2520ae7a1f841" title=" " alt="" coords="959,223,1254,269"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1314,253,1254,252,1254,247,1315,248"/>
+<area shape="rect" id="Node000013" href="$d7/d5d/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#abe9b413e3c019ccee4f87ab0071c5aad" title=" " alt="" coords="992,416,1221,463"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1343,407,1221,425,1221,420,1343,402"/>
+<area shape="rect" id="Node000014" href="$d7/d5d/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#aae8219955c79ae1a802d42f41515a62a" title=" " alt="" coords="614,416,880,463"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="978,442,880,442,880,437,978,437"/>
+<area shape="rect" id="Node000015" href="$d7/d5d/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html#aebf650e4eae93764c7794f955b9b5222" title=" " alt="" coords="301,416,545,463"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="599,442,545,442,545,437,599,437"/>
+<area shape="rect" id="Node000017" href="$df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a5f80ca2e0cd8c3f5023a427983acf1e8" title=" " alt="" coords="616,284,878,331"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1310,323,878,313,878,308,1310,318"/>
+<area shape="rect" id="Node000018" href="$df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#ae46ee737a55c988a3a30409f741eae8e" title=" " alt="" coords="975,345,1238,392"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="1334,344,1238,356,1237,350,1333,339"/>
+<area shape="poly" id="edge18_Node000017_Node000008" title=" " alt="" coords="605,283,546,272,547,267,606,278"/>
+<area shape="poly" id="edge20_Node000018_Node000017" title=" " alt="" coords="960,346,878,332,879,327,961,341"/>
+<area shape="rect" id="Node000021" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#af9d0044d92fc30540e870087a24296e4" title=" " alt="" coords="954,504,1259,569"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="1305,539,1260,539,1260,534,1305,534"/>
+<area shape="rect" id="Node000022" href="$d8/d91/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_progress_component.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="594,504,899,569"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="939,539,900,539,900,534,939,534"/>
+<area shape="rect" id="Node000027" href="$d6/d5b/class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a2d8fb91a096920436a0d045e39895eda" title="Starts playing the music loops." alt="" coords="980,824,1233,871"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="1330,850,1234,850,1234,845,1330,845"/>
+<area shape="rect" id="Node000028" href="$d6/d5b/class_r_t_s_engine_1_1_audio_1_1_audio_manager_base.html#a7089be27c6f25883fc13b7b3df06900a" title=" " alt="" coords="620,824,873,871"/>
+<area shape="poly" id="edge30_Node000027_Node000028" title=" " alt="" coords="965,850,874,850,874,845,965,845"/>
+<area shape="rect" id="Node000029" href="$d3/df3/class_r_t_s_engine_1_1_audio_1_1_game_audio_manager.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="306,789,540,836"/>
+<area shape="poly" id="edge31_Node000028_Node000029" title=" " alt="" coords="605,835,540,828,540,823,606,830"/>
+<area shape="rect" id="Node000030" href="$d8/de4/class_r_t_s_engine_1_1_lobby_1_1_audio_1_1_lobby_audio_manager.html#a13e8bb380e7f50580dbcdc898ece0236" title=" " alt="" coords="303,860,543,907"/>
+<area shape="poly" id="edge32_Node000028_Node000030" title=" " alt="" coords="606,866,544,873,543,867,605,860"/>
+<area shape="rect" id="Node000037" href="$d5/d07/class_r_t_s_engine_1_1_animation_1_1_unit_animator_controller.html#aca94b6bc0871e360fcdd8f12395c04f5" title=" " alt="" coords="979,1168,1234,1233"/>
+<area shape="poly" id="edge39_Node000036_Node000037" title=" " alt="" coords="1329,1252,1234,1231,1235,1226,1330,1247"/>
+<area shape="rect" id="Node000039" href="$d5/d07/class_r_t_s_engine_1_1_animation_1_1_unit_animator_controller.html#a4ea87f05742b0edb1dfe432c624088c1" title=" " alt="" coords="958,1257,1255,1304"/>
+<area shape="poly" id="edge41_Node000036_Node000039" title=" " alt="" coords="1329,1283,1255,1283,1255,1278,1329,1278"/>
+<area shape="rect" id="Node000038" href="$d5/d07/class_r_t_s_engine_1_1_animation_1_1_unit_animator_controller.html#a2d5abb3cb8283aa92cff6c29feb0ec55" title=" " alt="" coords="617,1168,876,1233"/>
+<area shape="poly" id="edge40_Node000037_Node000038" title=" " alt="" coords="964,1203,877,1203,877,1198,964,1198"/>
+<area shape="rect" id="Node000040" href="$d5/d07/class_r_t_s_engine_1_1_animation_1_1_unit_animator_controller.html#a25d428f586ae81fec6f4611d500bc6ac" title=" " alt="" coords="615,1257,879,1304"/>
+<area shape="poly" id="edge42_Node000039_Node000040" title=" " alt="" coords="944,1283,879,1283,879,1278,944,1278"/>
+<area shape="rect" id="Node000042" href="$d2/d6c/class_r_t_s_engine_1_1_minimap_1_1_notification_1_1_attack_minimap_notification_manager.html#a5c5a51f9642cb7edef4b96ecc3f09578" title=" " alt="" coords="947,1328,1266,1393"/>
+<area shape="poly" id="edge44_Node000041_Node000042" title=" " alt="" coords="1299,1363,1266,1363,1266,1358,1299,1358"/>
+<area shape="rect" id="Node000043" href="$d2/d6c/class_r_t_s_engine_1_1_minimap_1_1_notification_1_1_attack_minimap_notification_manager.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="603,1332,891,1379"/>
+<area shape="poly" id="edge45_Node000042_Node000043" title=" " alt="" coords="933,1361,891,1360,891,1355,933,1355"/>
+<area shape="rect" id="Node000044" href="$d2/d6c/class_r_t_s_engine_1_1_minimap_1_1_notification_1_1_attack_minimap_notification_manager.html#ac54ce402cec4f1d67a1cef4db841d26d" title=" " alt="" coords="602,1403,891,1468"/>
+<area shape="poly" id="edge46_Node000042_Node000044" title=" " alt="" coords="934,1399,892,1408,891,1403,933,1394"/>
+</map>

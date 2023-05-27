@@ -1,0 +1,7 @@
+<map id="DestroyLocal" name="DestroyLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,50,397,79"/>
+<area shape="rect" id="Node000002" href="$db/db8/class_r_t_s_engine_1_1_entities_1_1_resource_building.html#ae9b01e7f87cad64cea674ce5697367ff" title=" " alt="" coords="6,5,235,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,56,235,50,235,45,269,50"/>
+<area shape="rect" id="Node000003" href="$de/dfc/class_r_t_s_engine_1_1_determinism_1_1_input_manager.html#a36fe5c345aafb45dcfd5b8874ed2e1d7" title=" " alt="" coords="5,76,236,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,79,237,84,236,78,268,73"/>
+</map>

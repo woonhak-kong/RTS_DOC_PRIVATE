@@ -1,0 +1,15 @@
+<map id="GridPlacementHandler" name="GridPlacementHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,849,267,1331"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,649,127,722"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,736,103,849,98,850,74,737"/>
+<area shape="rect" id="Node000003" href="$d6/d58/interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html" title=" " alt="" coords="151,569,325,801"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,816,205,850,200,849,208,815"/>
+<area shape="rect" id="Node000004" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="156,448,320,521"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,536,241,570,235,570,235,536"/>
+<area shape="rect" id="Node000005" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="182,327,294,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,414,241,448,235,448,235,414"/>
+<area shape="rect" id="Node000006" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="55,96,213,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="164,200,224,326,219,328,159,202"/>
+<area shape="rect" id="Node000007" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="238,5,446,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="274,292,257,328,252,326,269,290"/>
+</map>

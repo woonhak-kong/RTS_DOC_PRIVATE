@@ -1,0 +1,7 @@
+<map id="OnEntityHealthInit" name="OnEntityHealthInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,148,74"/>
+<area shape="rect" id="Node000002" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html#ab52a2180cfbf302a6ed9a1df58edfc81" title=" " alt="" coords="196,5,417,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,47,180,43,181,48,148,53"/>
+<area shape="rect" id="Node000003" href="$d7/d5e/class_r_t_s_engine_1_1_health_1_1_faction_entity_health.html#a16df3fda0d972cd7ef425bda73b1a299" title=" " alt="" coords="209,76,404,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,66,195,72,194,78,147,71"/>
+</map>

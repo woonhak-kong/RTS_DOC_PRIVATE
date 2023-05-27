@@ -1,0 +1,9 @@
+<map id="OnEntityPostInit" name="OnEntityPostInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,136,95"/>
+<area shape="rect" id="Node000002" href="$d7/d35/class_r_t_s_engine_1_1_entities_1_1_base_entity_obstacle.html#a9ca17d8890df17b0af79828dcd5670a7" title=" " alt="" coords="266,5,358,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,64,183,42,250,28,251,33,184,48,115,69"/>
+<area shape="rect" id="Node000003" href="$d1/dd2/interface_r_t_s_engine_1_1_movement_1_1_i_movement_system.html#ae87297cd54f1134e345896cf4255d970" title=" " alt="" coords="184,58,440,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,78,169,78,169,84,136,84"/>
+<area shape="rect" id="Node000004" href="$d7/d35/class_r_t_s_engine_1_1_entities_1_1_base_entity_obstacle.html#a05f5340e636cbd550d5f948357ecba46" title=" " alt="" coords="268,128,356,157"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,93,184,113,254,129,253,134,183,118,116,99"/>
+</map>

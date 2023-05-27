@@ -1,0 +1,23 @@
+<map id="OnUpdate" name="OnUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,98,114"/>
+<area shape="rect" id="Node000002" href="$dc/d59/class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html#a99934fbeea3a630beef45ffe692eb311" title=" " alt="" coords="150,5,407,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,82,145,61,166,54,168,59,147,66,90,87"/>
+<area shape="rect" id="Node000003" href="$d3/df3/class_r_t_s_engine_1_1_attack_1_1_attack_launcher.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="146,76,411,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,97,131,97,131,102,98,102"/>
+<area shape="rect" id="Node000008" href="$df/ddc/class_r_t_s_engine_1_1_attack_1_1_attack_weapon.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="148,147,409,193"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="91,112,147,131,172,139,171,145,145,137,90,117"/>
+<area shape="rect" id="Node000004" href="$d3/df3/class_r_t_s_engine_1_1_attack_1_1_attack_launcher.html#a522f81d72681c1762f1e8f5a6c84609e" title=" " alt="" coords="459,5,724,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="384,73,470,53,472,58,385,78"/>
+<area shape="rect" id="Node000007" href="$d3/df3/class_r_t_s_engine_1_1_attack_1_1_attack_launcher.html#ad22cbfd5ac7ec4a8a5aa8cd3dcaef6ea" title=" " alt="" coords="459,76,724,123"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="411,97,444,97,444,102,411,102"/>
+<area shape="rect" id="Node000005" href="$d3/df3/class_r_t_s_engine_1_1_attack_1_1_attack_launcher.html#a372de693ad40b3f42839c8ec6ac845f4" title=" " alt="" coords="772,5,1038,52"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="725,26,757,26,757,31,725,31"/>
+<area shape="rect" id="Node000006" href="$d9/dae/interface_r_t_s_engine_1_1_effect_1_1_i_effect_object.html#a6794acc3b70953521571143cbabdd275" title=" " alt="" coords="1086,5,1278,52"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1038,26,1071,26,1071,31,1038,31"/>
+<area shape="rect" id="Node000009" href="$df/ddc/class_r_t_s_engine_1_1_attack_1_1_attack_weapon.html#a16e60fc0b3187386dd30b4f31fa5715c" title=" " alt="" coords="462,147,722,193"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="409,167,447,167,447,173,409,173"/>
+<area shape="rect" id="Node000011" href="$df/ddc/class_r_t_s_engine_1_1_attack_1_1_attack_weapon.html#a1dd376c9856fd74687e66a1c16e9b2e1" title=" " alt="" coords="462,217,722,264"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="385,191,472,211,470,216,384,197"/>
+<area shape="rect" id="Node000010" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#ad915cec060191edf091ffe62a1dcde81" title=" " alt="" coords="777,147,1033,193"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="722,167,762,167,762,173,722,173"/>
+</map>

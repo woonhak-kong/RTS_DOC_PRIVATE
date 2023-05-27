@@ -1,0 +1,5 @@
+<map id="FactionTargetPicker" name="FactionTargetPicker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,191,160,332"/>
+<area shape="rect" id="Node000002" href="$da/dcc/class_r_t_s_engine_1_1_entities_1_1_target_picker.html" title=" " alt="" coords="15,5,151,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,157,85,191,80,191,80,157"/>
+</map>

@@ -1,0 +1,28 @@
+var interface_r_t_s_engine_1_1_health_1_1_i_entity_health =
+[
+    [ "Add", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a6277141408538f4f4077e6a07014d137", null ],
+    [ "AddLocal", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a7f77d0c7a4b8a915aab1c93a4893781c", null ],
+    [ "CanAdd", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#ae006137a6a81d2722dce7e23601757f2", null ],
+    [ "CanDestroy", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#aa56d614d1c63085cf4497c443c312608", null ],
+    [ "Destroy", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a6c821c05270060afda2c579bebd0f592", null ],
+    [ "DestroyLocal", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a3aa2a1abf8a38911fe27f45613b8f607", null ],
+    [ "SetMax", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a037950c235598f39c1806ef704721661", null ],
+    [ "SetMaxLocal", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a946db41f01ca8bf851d2c92c8b077047", null ],
+    [ "CanDecrease", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#aef304fd1b722ab53b51f31b4fb9bfe06", null ],
+    [ "CanIncrease", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a97e9abbef45b0417b9ecdeb2aa11d608", null ],
+    [ "CurrHealth", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#aa7b15bb7c0b10d1be20c312cf46ff4bb", null ],
+    [ "DestroyObjectDelay", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a47c9a00ed50da485fde586e19693d69e", null ],
+    [ "Entity", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#acddc524940a9081297f925a8e275a847", null ],
+    [ "EntityType", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a7cbe0ac3dad8cb1c8424937acad91e28", null ],
+    [ "HasMaxHealth", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a7001ee3084d480fb0bb320904d414626", null ],
+    [ "HealthRatio", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a6d5d6ff341aa3cadd9e4ad73b32b3ab8", null ],
+    [ "HoverHealthBarData", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a00cbbeaf849823c61c60873447be0ceb", null ],
+    [ "HoverHealthBarY", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#ae4542667a0aa7b64c1796835e8445e56", null ],
+    [ "IsDead", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a979659ec464cee64a84df219494fc2ea", null ],
+    [ "IsInitialized", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#acf7e27e5129fb4febbb44dbd372a8a5a", null ],
+    [ "MaxHealth", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a3c2e060d93469b3b009ba04a9fcec104", null ],
+    [ "TerminatedBy", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#afee9735a7b934945ea76496541ee060e", null ],
+    [ "EntityDead", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#a9b0a42b118dbc01bb7cf0e93cde4548f", null ],
+    [ "EntityHealthUpdated", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#af6db3f1f63db14c0d7d15b839e7f7b5c", null ],
+    [ "EntityMaxHealthUpdated", "d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html#ae5d997f047293da7e3b1155020530b67", null ]
+];

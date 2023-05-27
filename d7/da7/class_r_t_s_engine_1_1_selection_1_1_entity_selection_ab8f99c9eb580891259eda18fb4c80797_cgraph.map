@@ -1,0 +1,11 @@
+<map id="OnDirectAction" name="OnDirectAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,133,79"/>
+<area shape="rect" id="Node000002" href="$de/dd0/interface_r_t_s_engine_1_1_selection_1_1_i_selection_manager.html#a937a6c40d7301814d7de8a231f745c91" title=" " alt="" coords="187,5,430,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,52,172,47,173,52,134,58"/>
+<area shape="rect" id="Node000003" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a7495a855a328bfd3cc46e02a1e2ddaa9" title=" " alt="" coords="181,76,436,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,71,166,76,165,81,133,77"/>
+<area shape="rect" id="Node000004" href="$dd/ddf/interface_r_t_s_engine_1_1_attack_1_1_i_attack_manager.html#ab2d0deb4a4d3868d2c9f8f19e34fc848" title=" " alt="" coords="512,40,712,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="436,82,497,74,498,80,437,87"/>
+<area shape="rect" id="Node000005" href="$d4/dee/interface_r_t_s_engine_1_1_movement_1_1_i_movement_manager.html#a9efb73f7d04b22239ce14fa7260b6451" title=" " alt="" coords="484,111,740,157"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="437,111,470,115,469,120,436,117"/>
+</map>

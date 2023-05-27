@@ -1,0 +1,9 @@
+<map id="OnTabSwitch" name="OnTabSwitch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,120,61"/>
+<area shape="rect" id="Node000002" href="$d7/deb/class_r_t_s_engine_1_1_editor_only_1_1_n_p_c_1_1_n_p_c_component_editor.html#a106ad3b10817eb6ed7d1fc3dbdf7009d" title=" " alt="" coords="168,5,420,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,37,153,33,153,39,120,42"/>
+<area shape="rect" id="Node000003" href="$d7/deb/class_r_t_s_engine_1_1_editor_only_1_1_n_p_c_1_1_n_p_c_component_editor.html#aa922e0c392bee24d6d26cbd9c6fd5567" title=" " alt="" coords="211,59,377,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,50,197,59,196,64,119,56"/>
+<area shape="rect" id="Node000004" href="$d7/deb/class_r_t_s_engine_1_1_editor_only_1_1_n_p_c_1_1_n_p_c_component_editor.html#a1ad0fa66148f167c4ffc6b940b238c36" title=" " alt="" coords="468,59,676,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="377,70,453,70,453,76,377,76"/>
+</map>

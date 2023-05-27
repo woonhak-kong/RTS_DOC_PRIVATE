@@ -1,0 +1,12 @@
+<map id="UpdateAmountText" name="UpdateAmountText">
+<area shape="rect" id="Node000001" title=" " alt="" coords="429,87,583,115"/>
+<area shape="rect" id="Node000002" href="$d7/d4d/class_r_t_s_engine_1_1_u_i_1_1_drop_off_resource_task_u_i.html#a7894427933cd87936d264b70371cc9c2" title=" " alt="" coords="170,47,381,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,91,381,87,382,82,415,86"/>
+<area shape="rect" id="Node000005" href="$d7/d4d/class_r_t_s_engine_1_1_u_i_1_1_drop_off_resource_task_u_i.html#a7714b0d1437ed97682c0ad1fadfac674" title=" " alt="" coords="18,113,109,142"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="414,109,109,128,109,122,414,104"/>
+<area shape="rect" id="Node000003" href="$d7/d4d/class_r_t_s_engine_1_1_u_i_1_1_drop_off_resource_task_u_i.html#ad18822b6a8b26509fc31ee61589194a2" title=" " alt="" coords="11,5,116,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="160,46,115,35,116,29,162,40"/>
+<area shape="rect" id="Node000004" href="$d7/d4d/class_r_t_s_engine_1_1_u_i_1_1_drop_off_resource_task_u_i.html#a5aaf47591a0457cff1b214b32b638a98" title=" " alt="" coords="5,59,122,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="155,75,122,75,122,70,155,69"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="173,101,110,118,109,113,172,96"/>
+</map>
