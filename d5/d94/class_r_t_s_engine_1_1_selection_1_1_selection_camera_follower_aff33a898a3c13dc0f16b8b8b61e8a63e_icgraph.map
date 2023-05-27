@@ -1,0 +1,13 @@
+<map id="ResetTarget" name="ResetTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="579,37,687,66"/>
+<area shape="rect" id="Node000002" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#a246f3588aa16db93cb8f2efb36c78c3f" title=" " alt="" coords="126,7,261,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,34,531,18,459,10,387,8,261,15,261,10,387,3,460,5,532,13,586,29"/>
+<area shape="rect" id="Node000004" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aa7b17b06e0fe3131642fb3152426d3fc" title=" " alt="" coords="309,28,531,75"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="565,63,532,63,532,58,565,57"/>
+<area shape="rect" id="Node000005" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="400,99,440,127"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="578,74,532,89,441,111,440,106,531,84,577,69"/>
+<area shape="rect" id="Node000003" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,7,78,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,24,78,24,78,18,111,18"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="546,40,579,41,579,46,546,45"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="294,37,261,33,262,27,295,32"/>
+</map>

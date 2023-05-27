@@ -1,0 +1,4 @@
+var struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager_1_1_territory_logs =
+[
+    [ "currTerritoryRatio", "d5/ddd/struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager_1_1_territory_logs.html#a6056dda89507b5c3da5a03c301f2f3b7", null ]
+];

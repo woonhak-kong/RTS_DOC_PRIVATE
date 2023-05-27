@@ -1,0 +1,10 @@
+<map id="Init" name="Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,46,43"/>
+<area shape="rect" id="Node000002" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aff33a898a3c13dc0f16b8b8b61e8a63e" title=" " alt="" coords="94,14,201,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,26,79,26,79,31,46,31"/>
+<area shape="rect" id="Node000003" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aa7b17b06e0fe3131642fb3152426d3fc" title=" " alt="" coords="272,5,494,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="202,34,257,35,257,40,202,39"/>
+<area shape="rect" id="Node000004" href="$d4/daf/interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_panning_handler.html#a3eaab14ab7d16460ca32309efa9b8394" title=" " alt="" coords="249,76,517,123"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="191,41,250,61,277,69,276,74,248,66,189,46"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="272,22,216,23,216,18,271,17"/>
+</map>

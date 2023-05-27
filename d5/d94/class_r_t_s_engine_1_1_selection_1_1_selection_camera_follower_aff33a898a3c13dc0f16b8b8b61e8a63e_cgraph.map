@@ -1,0 +1,8 @@
+<map id="ResetTarget" name="ResetTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,113,43"/>
+<area shape="rect" id="Node000002" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aa7b17b06e0fe3131642fb3152426d3fc" title=" " alt="" coords="184,5,406,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,34,169,35,169,40,113,39"/>
+<area shape="rect" id="Node000003" href="$d4/daf/interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_panning_handler.html#a3eaab14ab7d16460ca32309efa9b8394" title=" " alt="" coords="161,76,429,123"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="102,41,161,61,189,69,187,74,160,66,101,46"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="183,22,127,23,127,18,183,17"/>
+</map>

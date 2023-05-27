@@ -1,0 +1,14 @@
+<map id="FollowNextEntity" name="FollowNextEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,141,144"/>
+<area shape="rect" id="Node000002" href="$de/dd0/interface_r_t_s_engine_1_1_selection_1_1_i_selection_manager.html#a937a6c40d7301814d7de8a231f745c91" title=" " alt="" coords="189,5,431,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,113,137,87,188,61,203,55,205,60,190,66,139,91,98,117"/>
+<area shape="rect" id="Node000003" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aa7b17b06e0fe3131642fb3152426d3fc" title=" " alt="" coords="199,76,421,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,119,184,113,184,118,141,124"/>
+<area shape="rect" id="Node000004" href="$d5/d94/class_r_t_s_engine_1_1_selection_1_1_selection_camera_follower.html#aff33a898a3c13dc0f16b8b8b61e8a63e" title=" " alt="" coords="479,116,586,144"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="141,130,189,131,431,131,464,130,464,136,431,137,189,137,141,135"/>
+<area shape="rect" id="Node000005" href="$d4/daf/interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_panning_handler.html#a3eaab14ab7d16460ca32309efa9b8394" title=" " alt="" coords="634,163,903,209"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="141,135,189,139,620,173,619,179,188,145,141,140"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="419,121,465,126,464,132,418,126"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="479,118,435,110,436,105,480,112"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="588,140,655,156,653,161,586,145"/>
+</map>

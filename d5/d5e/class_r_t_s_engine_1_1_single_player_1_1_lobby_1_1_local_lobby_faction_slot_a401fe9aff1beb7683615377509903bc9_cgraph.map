@@ -1,0 +1,7 @@
+<map id="ResetNPCType" name="ResetNPCType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,136,79"/>
+<area shape="rect" id="Node000002" href="$de/dc9/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager.html#acb1d0f5bdf4af41555fc2171f7c1adc8" title=" " alt="" coords="184,5,448,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,52,168,48,169,53,137,58"/>
+<area shape="rect" id="Node000003" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a569d0b1596246041c1ab7b855d43d25a" title=" " alt="" coords="197,76,435,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,71,183,78,182,83,136,77"/>
+</map>

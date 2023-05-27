@@ -1,0 +1,14 @@
+var namespace_r_t_s_engine_1_1_n_p_c_1_1_resource_extension =
+[
+    [ "INPCCapacityResourceManager", "de/dfa/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_capacity_resource_manager.html", "de/dfa/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_capacity_resource_manager" ],
+    [ "INPCResourceCollector", "d9/deb/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_resource_collector.html", "d9/deb/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_resource_collector" ],
+    [ "INPCResourceManager", "d3/df9/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_resource_manager.html", "d3/df9/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_resource_manager" ],
+    [ "INPCTerritoryManager", "d5/d80/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_territory_manager.html", "d5/d80/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_territory_manager" ],
+    [ "NPCBorderResourceTracker", "d0/d93/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_border_resource_tracker.html", "d0/d93/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_border_resource_tracker" ],
+    [ "NPCCapacityResourceManager", "db/dad/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager.html", "db/dad/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_capacity_resource_manager" ],
+    [ "NPCResourceCollector", "d3/dd0/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html", "d3/dd0/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector" ],
+    [ "NPCResourceManager", "df/d6c/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_manager.html", "df/d6c/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_manager" ],
+    [ "NPCResourceTypeCollectionData", "d8/d4a/struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_data.html", "d8/d4a/struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_data" ],
+    [ "NPCResourceTypeCollectionTracker", "d0/db3/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_tracker.html", "d0/db3/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_type_collection_tracker" ],
+    [ "NPCTerritoryManager", "db/d37/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager.html", "db/d37/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_territory_manager" ]
+];

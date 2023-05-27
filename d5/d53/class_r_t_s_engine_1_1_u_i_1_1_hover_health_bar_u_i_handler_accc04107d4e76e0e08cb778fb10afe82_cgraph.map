@@ -1,0 +1,27 @@
+<map id="HandleEntityInitiatedGlobal" name="HandleEntityInitiatedGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,89,213,118"/>
+<area shape="rect" id="Node000002" href="$d5/d53/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar_u_i_handler.html#af107ebe22964e1bdbdaafe22974cbc44" title=" " alt="" coords="261,89,331,118"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,101,246,101,246,106,213,106"/>
+<area shape="rect" id="Node000003" href="$d5/d53/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar_u_i_handler.html#ac4cdd587efa0266b542b6a2705dc0723" title=" " alt="" coords="379,62,478,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,94,364,87,365,92,332,99"/>
+<area shape="rect" id="Node000004" href="$d5/d53/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar_u_i_handler.html#a3fcb2076b3bf8a6933783626b192291a" title=" " alt="" coords="394,116,463,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="332,108,380,118,379,123,331,113"/>
+<area shape="rect" id="Node000005" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#ae16ab41d17eee075f5b2197a5d615ff4" title=" " alt="" coords="526,107,735,153"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="464,127,512,127,512,133,464,133"/>
+<area shape="rect" id="Node000006" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#afee149cf822bd739452126a0c20319f3" title=" " alt="" coords="785,15,993,61"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="697,104,806,64,808,69,699,109"/>
+<area shape="rect" id="Node000009" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#afd0afb47c214032b8a4d4f592ec495e4" title=" " alt="" coords="1303,76,1545,123"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="735,123,1289,102,1289,107,735,129"/>
+<area shape="rect" id="Node000010" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html#ac2f2e3fb5c58c04a445bac9a09da4e5b" title=" " alt="" coords="783,137,995,184"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="735,140,768,144,768,149,735,145"/>
+<area shape="rect" id="Node000011" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#a6db101ddefd9844a109a3cb2c512d6bd" title=" " alt="" coords="785,208,993,255"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="684,151,784,194,800,200,798,205,782,199,682,156"/>
+<area shape="rect" id="Node000007" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#a826231dea9b14aac3174c88ea1e62b85" title=" " alt="" coords="1045,15,1253,61"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="993,44,1030,44,1030,50,993,50"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="1044,32,1008,32,1008,26,1045,26"/>
+<area shape="rect" id="Node000008" href="$d4/d58/class_r_t_s_engine_1_1_utilities_1_1_object_pool.html#a3feacf416b81d1192a83e78361e174b3" title=" " alt="" coords="1321,5,1527,52"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1254,32,1306,30,1306,35,1254,37"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="1254,59,1303,70,1302,75,1253,64"/>
+<area shape="rect" id="Node000012" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html#a7b067e0772a91a0c212c289441ac2cd5" title=" " alt="" coords="1043,208,1255,255"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="993,229,1028,229,1028,234,993,234"/>
+</map>

@@ -1,0 +1,61 @@
+<map id="EntityHealth" name="EntityHealth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="731,2021,976,2978"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="69,1784,190,1857"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,1870,173,1932,191,1965,211,1995,270,2064,335,2129,404,2191,474,2248,612,2348,732,2426,730,2430,609,2353,471,2252,400,2195,332,2133,267,2067,207,1998,186,1968,168,1935,142,1872"/>
+<area shape="rect" id="Node000003" href="$d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html" title=" " alt="" coords="5,1154,173,1681"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,1681,194,1692,204,1703,218,1737,226,1767,229,1821,233,1874,241,1903,256,1935,304,2011,361,2084,422,2153,487,2217,616,2329,733,2416,729,2420,613,2333,483,2221,418,2156,357,2088,300,2015,251,1938,236,1905,227,1875,224,1821,220,1768,213,1739,199,1706,190,1696,179,1685"/>
+<area shape="rect" id="Node000004" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="24,264,232,537"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,552,105,604,92,888,89,1154,84,1154,87,888,100,603,105,551"/>
+<area shape="rect" id="Node000029" href="$d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html" title=" " alt="" coords="115,603,283,1130"/>
+<area shape="poly" id="edge30_Node000029_Node000004" title=" " alt="" coords="153,551,161,603,156,604,148,552"/>
+<area shape="rect" id="Node000005" href="$d7/dae/interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="439,1784,593,1857"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="542,1869,733,2251,728,2253,537,1871"/>
+<area shape="rect" id="Node000006" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="454,830,583,903"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="521,917,519,1784,513,1784,516,917"/>
+<area shape="rect" id="Node000007" href="$de/d0d/struct_r_t_s_engine_1_1_utilities_1_1_int2_d.html" title=" " alt="" coords="617,1750,751,1891"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="704,1891,732,2003,727,2005,699,1892"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="609,830,759,903"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="687,918,687,1750,681,1750,681,918"/>
+<area shape="rect" id="Node000009" href="$d2/d7e/struct_r_t_s_engine_1_1_health_1_1_hover_health_bar_data.html" title=" " alt="" coords="775,1761,932,1880"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="856,1880,856,2004,851,2004,851,1880"/>
+<area shape="rect" id="Node000010" href="$df/db4/class_r_t_s_engine_1_1_utilities_1_1_game_object_to_effect_object_input.html" title=" " alt="" coords="957,1775,1161,1867"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1049,1867,1012,1997,983,2092,978,2091,1007,1996,1044,1866"/>
+<area shape="rect" id="Node000011" href="$d9/d7f/class_r_t_s_engine_1_1_utilities_1_1_game_object_to_component_input.html" title=" " alt="" coords="816,798,1048,935"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="945,949,1055,1774,1050,1775,940,950"/>
+<area shape="rect" id="Node000012" href="$db/de7/class_r_t_s_engine_1_1_effect_1_1_effect_object_spawn_input.html" title=" " alt="" coords="1185,1750,1383,1891"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1242,1893,987,2293,983,2290,1238,1890"/>
+<area shape="rect" id="Node000013" href="$d9/df7/class_r_t_s_engine_1_1_utilities_1_1_poolable_object_spawn_input.html" title=" " alt="" coords="1073,785,1293,949"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1195,962,1279,1750,1274,1750,1190,963"/>
+<area shape="rect" id="Node000014" href="$d8/d6c/class_r_t_s_engine_1_1_audio_1_1_audio_clip_fetcher.html" title="Allows to define a set of AudioClip instances and retrieve one of them depending on the chosen type." alt="" coords="1407,1773,1542,1869"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1447,1870,1398,1938,1343,1998,990,2364,986,2361,1339,1995,1394,1935,1443,1867"/>
+<area shape="rect" id="Node000015" href="$d7/dba/class_r_t_s_engine_1_1_utilities_1_1_fetcher.html" title=" " alt="" coords="1317,762,1478,971"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1410,985,1474,1773,1468,1773,1404,986"/>
+<area shape="rect" id="Node000016" href="$df/d35/class_r_t_s_engine_1_1_determinism_1_1_global_time_modified_timer.html" title=" " alt="" coords="1502,717,1735,1017"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="1599,1017,1487,1756,1482,1756,1594,1016"/>
+<area shape="rect" id="Node000017" href="$dc/d59/class_r_t_s_engine_1_1_determinism_1_1_time_modified_timer.html" title=" " alt="" coords="1363,273,1533,528"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1502,541,1566,716,1561,718,1497,542"/>
+<area shape="rect" id="Node000018" href="$d3/d00/class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="1557,353,1680,449"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="1621,449,1621,700,1616,700,1616,449"/>
+<area shape="rect" id="Node000019" href="$d7/d61/class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="1557,5,1680,215"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1621,229,1621,353,1616,353,1616,229"/>
+<area shape="rect" id="Node000020" href="$d4/d10/struct_r_t_s_engine_1_1_resource_extension_1_1_resource_input.html" title=" " alt="" coords="1647,1784,1783,1857"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="1676,1859,1508,1999,1233,2214,991,2398,988,2394,1230,2210,1505,1995,1672,1855"/>
+<area shape="rect" id="Node000021" href="$d2/d5f/class_r_t_s_engine_1_1_resource_extension_1_1_resource_type_info.html" title=" " alt="" coords="1759,694,1897,1039"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="1810,1039,1724,1768,1718,1767,1805,1039"/>
+<area shape="rect" id="Node000022" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="1705,364,1914,437"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="1814,452,1824,694,1818,694,1809,452"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="1745,73,1874,147"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="1812,161,1812,364,1807,364,1807,161"/>
+<area shape="rect" id="Node000024" href="$d3/dd4/struct_r_t_s_engine_1_1_resource_extension_1_1_resource_type_value.html" title=" " alt="" coords="1938,353,2091,449"/>
+<area shape="poly" id="edge24_Node000020_Node000024" title=" " alt="" coords="2025,448,2035,535,2046,659,2051,809,2046,979,2039,1069,2028,1160,2012,1251,1990,1343,1963,1432,1929,1520,1889,1603,1841,1682,1831,1692,1820,1696,1809,1700,1798,1707,1769,1738,1745,1771,1741,1768,1765,1734,1794,1703,1807,1695,1818,1691,1828,1688,1837,1679,1884,1601,1925,1517,1958,1431,1985,1341,2006,1250,2022,1159,2034,1068,2041,979,2045,809,2040,659,2030,536,2019,449"/>
+<area shape="poly" id="edge23_Node000021_Node000024" title=" " alt="" coords="1995,450,1966,496,1928,539,1915,548,1902,551,1891,554,1881,563,1865,589,1852,617,1834,678,1829,676,1847,615,1860,587,1877,560,1889,549,1901,546,1913,543,1925,535,1962,493,1990,447"/>
+<area shape="rect" id="Node000025" href="$db/dae/class_r_t_s_engine_1_1_health_1_1_entity_health_state_handler.html" title=" " alt="" coords="1807,1716,1993,1925"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="1810,1927,1796,1939,1694,2017,1587,2093,1477,2164,1367,2231,1161,2347,992,2434,990,2430,1159,2342,1365,2226,1474,2160,1584,2088,1691,2013,1793,1935,1807,1923"/>
+<area shape="rect" id="Node000026" href="$df/d6b/class_r_t_s_engine_1_1_health_1_1_entity_health_state.html" title=" " alt="" coords="266,1705,414,1937"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="416,1918,429,1935,723,2322,718,2325,425,1938,412,1921"/>
+<area shape="rect" id="Node000027" href="$d6/d14/class_r_t_s_engine_1_1_int_range.html" title=" " alt="" coords="307,819,429,915"/>
+<area shape="poly" id="edge27_Node000026_Node000027" title=" " alt="" coords="369,915,347,1688,341,1688,364,914"/>
+<area shape="rect" id="Node000028" href="$d7/d61/class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="307,296,429,505"/>
+<area shape="poly" id="edge28_Node000027_Node000028" title=" " alt="" coords="371,519,371,819,365,819,365,519"/>
+<area shape="poly" id="edge29_Node000026_Node000029" title=" " alt="" coords="182,1130,183,1260,192,1400,213,1542,229,1612,250,1680,261,1707,256,1709,244,1682,224,1613,208,1543,187,1400,178,1260,177,1130"/>
+</map>

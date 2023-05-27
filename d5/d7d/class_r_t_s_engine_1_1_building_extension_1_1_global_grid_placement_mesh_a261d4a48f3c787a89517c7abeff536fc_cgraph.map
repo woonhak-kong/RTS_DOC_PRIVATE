@@ -1,0 +1,7 @@
+<map id="HandleBuildingPlacedGlobal" name="HandleBuildingPlacedGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,226,43"/>
+<area shape="rect" id="Node000002" href="$d5/d7d/class_r_t_s_engine_1_1_building_extension_1_1_global_grid_placement_mesh.html#ad03f96875f6782c9aa0d6e16dafbf439" title=" " alt="" coords="274,14,428,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,26,259,26,259,31,226,31"/>
+<area shape="rect" id="Node000003" href="$d6/d58/interface_r_t_s_engine_1_1_building_extension_1_1_i_grid_placement_handler.html#a30ad10d24e0d1f4a22672c29713bced7" title=" " alt="" coords="476,5,740,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,26,461,26,461,31,429,31"/>
+</map>
