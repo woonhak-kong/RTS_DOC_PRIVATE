@@ -1,0 +1,11 @@
+<map id="LocalLobbyFactionSlot" name="LocalLobbyFactionSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,660,284,1477"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,539,127,612"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,626,83,660,78,661,72,627"/>
+<area shape="rect" id="Node000003" href="$df/d91/interface_r_t_s_engine_1_1_single_player_1_1_lobby_1_1_i_local_lobby_faction_slot.html" title=" " alt="" coords="151,539,327,612"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,627,227,661,222,660,228,626"/>
+<area shape="rect" id="Node000004" href="$df/dd6/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_faction_slot.html" title=" " alt="" coords="167,327,312,491"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,505,242,539,237,539,237,505"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="135,5,343,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,293,242,327,237,327,237,293"/>
+</map>

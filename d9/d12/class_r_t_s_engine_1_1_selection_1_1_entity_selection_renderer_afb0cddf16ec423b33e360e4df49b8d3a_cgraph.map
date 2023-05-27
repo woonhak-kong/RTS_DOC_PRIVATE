@@ -1,0 +1,11 @@
+<map id="StartFlash" name="StartFlash">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,98,61"/>
+<area shape="rect" id="Node000002" href="$d9/d12/class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#ab2ea7c10e8548d86145d3e23213ee8be" title=" " alt="" coords="162,5,222,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,35,147,25,148,31,99,40"/>
+<area shape="rect" id="Node000003" href="$d9/d12/class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#a43cfe9623384bf28d0b51d7d7efa6465" title=" " alt="" coords="146,59,238,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,53,131,59,130,64,98,58"/>
+<area shape="rect" id="Node000004" href="$d9/d12/class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#a0b0a8402327309e2554c218967e472fe" title=" " alt="" coords="286,32,361,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="238,61,271,54,272,60,239,66"/>
+<area shape="rect" id="Node000005" href="$d9/d12/class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#ab54a4752efd8105eb26e795c150a0e4c" title=" " alt="" coords="289,85,359,114"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="239,80,274,87,273,92,238,85"/>
+</map>

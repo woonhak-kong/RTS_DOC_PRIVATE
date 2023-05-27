@@ -1,0 +1,7 @@
+<map id="MultipleSelectionTaskPanelUIHandler" name="MultipleSelectionTaskPanelUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="144,345,404,659"/>
+<area shape="rect" id="Node000002" href="$d6/ddb/class_r_t_s_engine_1_1_u_i_1_1_base_task_panel_u_i_handler.html" title=" " alt="" coords="5,5,276,279"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,291,218,344,213,346,194,293"/>
+<area shape="rect" id="Node000003" href="$dc/d8f/struct_r_t_s_engine_1_1_u_i_1_1_multiple_selection_task_u_i_data.html" title=" " alt="" coords="301,94,514,190"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="393,191,341,330,336,328,388,189"/>
+</map>

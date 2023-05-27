@@ -1,0 +1,9 @@
+<map id="INPCResourceCollector" name="INPCResourceCollector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,493,253,612"/>
+<area shape="rect" id="Node000004" href="$d3/dd0/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html" title=" " alt="" coords="5,660,253,1292"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,626,132,660,127,660,127,626"/>
+<area shape="rect" id="Node000002" href="$dc/d33/interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_component.html" title=" " alt="" coords="61,327,197,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,460,132,493,127,493,127,460"/>
+<area shape="rect" id="Node000003" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="25,5,233,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,293,132,327,127,327,127,293"/>
+</map>

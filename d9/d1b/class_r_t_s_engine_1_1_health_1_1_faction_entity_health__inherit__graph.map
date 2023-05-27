@@ -1,0 +1,22 @@
+<map id="FactionEntityHealth" name="FactionEntityHealth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,2020,442,2388"/>
+<area shape="rect" id="Node000009" href="$d1/dbe/class_r_t_s_engine_1_1_health_1_1_building_health.html" title=" " alt="" coords="100,2436,331,3076"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="296,2403,288,2437,283,2436,291,2401"/>
+<area shape="rect" id="Node000010" href="$d7/d29/class_r_t_s_engine_1_1_health_1_1_unit_health.html" title=" " alt="" coords="355,2674,561,2838"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="383,2401,443,2674,438,2675,377,2402"/>
+<area shape="rect" id="Node000002" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html" title=" " alt="" coords="93,901,338,1972"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,1986,310,2020,305,2021,300,1986"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,553,127,627"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,640,124,901,118,902,72,641"/>
+<area shape="rect" id="Node000004" href="$d7/d23/interface_r_t_s_engine_1_1_health_1_1_i_entity_health.html" title=" " alt="" coords="362,327,530,853"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="362,868,353,902,341,945,335,944,347,901,357,867"/>
+<area shape="rect" id="Node000008" href="$dd/d87/interface_r_t_s_engine_1_1_health_1_1_i_faction_entity_health.html" title=" " alt="" coords="362,1366,554,1507"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="453,867,460,1366,454,1366,447,867"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="342,5,550,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="449,293,449,327,443,327,443,293"/>
+<area shape="rect" id="Node000006" href="$d7/dae/interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="151,553,306,627"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="231,641,226,902,221,902,225,641"/>
+<area shape="rect" id="Node000007" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="164,105,293,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="231,193,231,553,226,553,226,193"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="447,1522,368,2021,363,2020,442,1521"/>
+</map>

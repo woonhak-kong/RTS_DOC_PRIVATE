@@ -1,0 +1,13 @@
+<map id="LobbyUIManagerBase&lt; T &gt;" name="LobbyUIManagerBase&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,633,301,1137"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,489,127,563"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,575,100,633,94,634,78,577"/>
+<area shape="rect" id="Node000003" href="$dd/d95/interface_r_t_s_engine_1_1_lobby_1_1_i_lobby_manager_u_i.html" title=" " alt="" coords="151,467,399,585"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,600,246,634,241,633,252,598"/>
+<area shape="rect" id="Node000004" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="79,145,287,419"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,431,256,466,251,468,237,433"/>
+<area shape="rect" id="Node000005" href="$d8/d29/interface_r_t_s_engine_1_1_lobby_1_1_service_1_1_i_lobby_service.html" title=" " alt="" coords="311,245,423,319"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="351,333,300,468,295,466,346,331"/>
+<area shape="rect" id="Node000006" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="280,5,455,97"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="370,112,370,246,365,246,365,112"/>
+</map>

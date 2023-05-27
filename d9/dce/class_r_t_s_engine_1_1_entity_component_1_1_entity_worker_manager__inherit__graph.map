@@ -1,0 +1,19 @@
+<map id="EntityWorkerManager" name="EntityWorkerManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="146,773,338,1459"/>
+<area shape="rect" id="Node000008" href="$d7/ddc/class_r_t_s_engine_1_1_entity_component_1_1_building_worker_manager.html" title=" " alt="" coords="46,1507,227,1580"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="156,1473,148,1508,143,1506,151,1472"/>
+<area shape="rect" id="Node000009" href="$d4/d52/class_r_t_s_engine_1_1_entity_component_1_1_resource_worker_manager.html" title=" " alt="" coords="252,1507,445,1580"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="334,1472,342,1506,337,1508,329,1473"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,595,127,669"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,681,149,851,144,853,81,683"/>
+<area shape="rect" id="Node000003" href="$d0/d63/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_worker_manager.html" title=" " alt="" coords="151,539,333,725"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,739,245,773,239,773,239,739"/>
+<area shape="rect" id="Node000004" href="$da/d94/interface_r_t_s_engine_1_1_unit_extension_1_1_i_addable_unit.html" title=" " alt="" coords="155,327,329,491"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="245,505,245,539,239,539,239,505"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="138,5,346,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="245,293,245,327,239,327,239,293"/>
+<area shape="rect" id="Node000006" href="$d7/dae/interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="358,595,513,669"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="418,683,340,877,335,875,413,681"/>
+<area shape="rect" id="Node000007" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="371,372,500,445"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="438,459,438,596,433,596,433,459"/>
+</map>

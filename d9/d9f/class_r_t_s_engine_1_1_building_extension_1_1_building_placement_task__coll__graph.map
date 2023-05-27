@@ -1,0 +1,20 @@
+<map id="BuildingPlacementTask" name="BuildingPlacementTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,999,413,1367"/>
+<area shape="rect" id="Node000002" href="$d2/ddf/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_task.html" title=" " alt="" coords="5,701,216,933"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,944,211,998,207,1001,177,947"/>
+<area shape="rect" id="Node000003" href="$d4/d10/struct_r_t_s_engine_1_1_resource_extension_1_1_resource_input.html" title=" " alt="" coords="240,781,376,854"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,854,311,983,305,983,305,854"/>
+<area shape="rect" id="Node000004" href="$d2/d5f/class_r_t_s_engine_1_1_resource_extension_1_1_resource_type_info.html" title=" " alt="" coords="126,290,263,635"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,634,294,764,289,765,247,636"/>
+<area shape="rect" id="Node000005" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="18,139,227,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="138,225,154,289,149,291,132,227"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="58,5,187,79"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="125,93,125,139,120,139,120,93"/>
+<area shape="rect" id="Node000007" href="$d3/dd4/struct_r_t_s_engine_1_1_resource_extension_1_1_resource_type_value.html" title=" " alt="" coords="251,128,405,224"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="329,224,312,763,307,763,324,224"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="253,220,198,250,187,275,182,273,194,246,250,215"/>
+<area shape="rect" id="Node000008" href="$db/de9/struct_r_t_s_engine_1_1_entities_1_1_faction_entity_requirement.html" title=" " alt="" coords="400,758,592,877"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="490,877,479,926,461,976,425,1041,420,1038,456,974,474,925,485,876"/>
+<area shape="rect" id="Node000009" href="$d9/de6/struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html" title=" " alt="" coords="421,403,571,522"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="499,522,499,741,493,741,493,522"/>
+</map>

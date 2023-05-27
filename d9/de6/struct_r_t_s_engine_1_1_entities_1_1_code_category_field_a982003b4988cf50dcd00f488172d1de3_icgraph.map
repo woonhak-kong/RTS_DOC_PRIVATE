@@ -1,0 +1,29 @@
+<map id="Contains" name="Contains">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1693,129,1776,158"/>
+<area shape="rect" id="Node000002" href="$d9/d47/struct_r_t_s_engine_1_1_attack_1_1_damage_data.html#a404ac0c6f5963061a9e1b16a901cdc53" title=" " alt="" coords="1363,32,1641,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1708,120,1679,95,1644,74,1616,63,1618,58,1646,69,1682,91,1711,116"/>
+<area shape="rect" id="Node000007" href="$d2/dc4/class_r_t_s_engine_1_1_building_extension_1_1_border.html#aa144a1225c42ca0a3430bdbf2524247a" title=" " alt="" coords="1375,84,1629,131"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="1678,137,1629,130,1630,124,1679,132"/>
+<area shape="rect" id="Node000008" href="$d0/d38/struct_r_t_s_engine_1_1_building_extension_1_1_building_place_around_data.html#a9efd51c1f904397bbb3edfd25780d408" title=" " alt="" coords="1359,155,1645,201"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1679,154,1646,159,1645,154,1678,149"/>
+<area shape="rect" id="Node000013" href="$d5/d6b/class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer.html#af4094c0aba39debf630be6e8858e7358" title=" " alt="" coords="1365,226,1639,290"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="1710,170,1680,194,1646,216,1623,227,1620,223,1644,212,1677,190,1706,166"/>
+<area shape="rect" id="Node000003" href="$df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a5f80ca2e0cd8c3f5023a427983acf1e8" title=" " alt="" coords="640,5,902,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1379,32,1311,26,1095,21,902,25,902,20,1095,16,1311,21,1380,27"/>
+<area shape="rect" id="Node000006" href="$df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#ae46ee737a55c988a3a30409f741eae8e" title=" " alt="" coords="1022,36,1284,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1348,55,1284,57,1284,52,1348,49"/>
+<area shape="rect" id="Node000004" href="$d9/d07/class_r_t_s_engine_1_1_attack_1_1_attack_object.html#a50842c72303ec8316d3ddcbc750122f2" title=" " alt="" coords="300,5,546,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="624,31,546,31,546,26,624,26"/>
+<area shape="rect" id="Node000005" href="$d9/d07/class_r_t_s_engine_1_1_attack_1_1_attack_object.html#acff9d685fff96c7038a9bab324551813" title=" " alt="" coords="5,5,252,52"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="285,31,252,31,252,26,285,26"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="1007,50,902,42,902,37,1008,45"/>
+<area shape="rect" id="Node000009" href="$d4/d29/class_r_t_s_engine_1_1_building_extension_1_1_building_place_around_handler.html#ad401ab72b93baef094f1001745a0b86c" title=" " alt="" coords="1015,132,1291,197"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1344,175,1292,173,1292,167,1344,169"/>
+<area shape="rect" id="Node000011" href="$d0/d54/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_faction_placement_handler.html#ae2c351d79e9567fdabd63074ade8ea0d" title=" " alt="" coords="995,222,1311,286"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="1378,208,1305,224,1303,219,1377,202"/>
+<area shape="rect" id="Node000010" href="$d0/d54/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="594,151,947,197"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1000,171,948,172,948,167,1000,166"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="981,221,885,201,886,195,982,215"/>
+<area shape="rect" id="Node000012" href="$d0/d54/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_faction_placement_handler.html#a391480a9619c0448b5e567e2bca0a894" title=" " alt="" coords="625,231,917,277"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="980,257,917,257,917,251,980,251"/>
+</map>

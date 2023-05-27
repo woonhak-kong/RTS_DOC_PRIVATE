@@ -1,0 +1,26 @@
+<map id="SelectionGroupHandler" name="SelectionGroupHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,1228,433,1415"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,896,127,969"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,983,97,1070,115,1117,140,1160,166,1192,196,1221,260,1269,257,1273,193,1225,162,1196,136,1164,110,1119,92,1071,70,984"/>
+<area shape="rect" id="Node000003" href="$d5/da2/interface_r_t_s_engine_1_1_selection_1_1_i_selection_group_handler.html" title=" " alt="" coords="151,885,328,981"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,994,323,1227,318,1229,253,995"/>
+<area shape="rect" id="Node000004" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="157,507,321,581"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,595,242,885,237,885,237,595"/>
+<area shape="rect" id="Node000005" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="183,328,295,401"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,416,242,507,237,507,237,416"/>
+<area shape="rect" id="Node000006" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="56,96,215,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="165,200,225,327,220,329,160,202"/>
+<area shape="rect" id="Node000007" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="239,5,447,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="276,293,258,329,254,327,271,290"/>
+<area shape="rect" id="Node000008" href="$d1/df1/class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="575,451,714,637"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="669,637,686,750,691,816,691,887,686,958,673,1030,652,1099,620,1163,586,1206,544,1241,497,1269,450,1291,448,1286,494,1265,541,1237,582,1202,616,1161,647,1097,668,1029,680,958,686,886,685,817,680,751,664,638"/>
+<area shape="rect" id="Node000011" href="$de/d40/class_r_t_s_engine_1_1_selection_1_1_selection_group.html" title=" " alt="" coords="353,703,606,1162"/>
+<area shape="poly" id="edge12_Node000011_Node000008" title=" " alt="" coords="608,638,586,689,581,687,603,636"/>
+<area shape="rect" id="Node000009" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="540,328,749,401"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="647,416,647,451,642,451,642,416"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="580,105,709,179"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="647,193,647,328,642,328,642,193"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="403,1163,386,1213,381,1211,398,1161"/>
+<area shape="rect" id="Node000012" href="$db/d1a/interface_r_t_s_engine_1_1_selection_1_1_i_selection_group.html" title=" " alt="" coords="417,496,541,592"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="482,606,482,703,477,703,477,606"/>
+</map>

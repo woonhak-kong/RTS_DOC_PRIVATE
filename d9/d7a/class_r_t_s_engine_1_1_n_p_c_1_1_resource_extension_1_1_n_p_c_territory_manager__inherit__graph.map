@@ -1,0 +1,14 @@
+<map id="NPCTerritoryManager" name="NPCTerritoryManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,1227,371,1877"/>
+<area shape="rect" id="Node000002" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html" title=" " alt="" coords="5,493,261,1179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,1192,201,1226,195,1227,190,1193"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="73,349,194,423"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,437,136,493,131,493,131,437"/>
+<area shape="rect" id="Node000004" href="$dc/d33/interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_component.html" title=" " alt="" coords="260,327,396,445"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="294,459,277,494,264,524,259,522,272,492,289,457"/>
+<area shape="rect" id="Node000006" href="$d5/d80/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_territory_manager.html" title=" " alt="" coords="286,799,455,873"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="338,459,370,800,365,800,332,460"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="224,5,432,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="331,293,331,327,325,327,325,293"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="365,887,308,1228,303,1227,360,886"/>
+</map>

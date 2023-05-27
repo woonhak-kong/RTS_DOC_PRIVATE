@@ -1,0 +1,9 @@
+<map id="ILobbyPlayerMessageUIHandler" name="ILobbyPlayerMessageUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,267,241,340"/>
+<area shape="rect" id="Node000004" href="$db/d56/class_r_t_s_engine_1_1_lobby_1_1_u_i_1_1_lobby_player_message_u_i_handler.html" title=" " alt="" coords="7,388,240,461"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,354,126,388,121,388,121,354"/>
+<area shape="rect" id="Node000002" href="$d8/d29/interface_r_t_s_engine_1_1_lobby_1_1_service_1_1_i_lobby_service.html" title=" " alt="" coords="67,145,179,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,233,126,267,121,267,121,233"/>
+<area shape="rect" id="Node000003" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="36,5,211,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,112,126,146,121,146,121,112"/>
+</map>

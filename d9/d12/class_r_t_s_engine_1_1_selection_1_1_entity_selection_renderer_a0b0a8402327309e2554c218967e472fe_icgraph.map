@@ -1,0 +1,10 @@
+<map id="Disable" name="Disable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="317,32,392,61"/>
+<area shape="rect" id="Node000002" href="$d9/d12/class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#a34fba03cc03f19bcb0bba63c31d21abb" title=" " alt="" coords="5,5,129,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,44,129,28,130,23,303,39"/>
+<area shape="rect" id="Node000003" href="$d9/d12/class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#a43cfe9623384bf28d0b51d7d7efa6465" title=" " alt="" coords="177,57,269,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,59,270,65,269,60,302,54"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="163,55,111,37,113,32,165,50"/>
+<area shape="rect" id="Node000004" href="$d9/d12/class_r_t_s_engine_1_1_selection_1_1_entity_selection_renderer.html#afb0cddf16ec423b33e360e4df49b8d3a" title=" " alt="" coords="21,59,113,87"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="162,75,114,75,114,70,162,70"/>
+</map>
