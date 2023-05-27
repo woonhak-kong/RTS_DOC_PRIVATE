@@ -1,0 +1,7 @@
+<map id="Spawn" name="Spawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,32,192,61"/>
+<area shape="rect" id="Node000002" href="$dc/d00/class_r_t_s_engine_1_1_effect_1_1_effect_object_pool.html#a856b204793660a012ba092d4e9b1b676" title=" " alt="" coords="5,5,75,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,38,75,30,76,25,109,33"/>
+<area shape="rect" id="Node000003" href="$dc/d00/class_r_t_s_engine_1_1_effect_1_1_effect_object_pool.html#a08ea8248aa9fefce48701b6889bd0694" title=" " alt="" coords="5,59,75,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,60,76,68,75,63,108,55"/>
+</map>

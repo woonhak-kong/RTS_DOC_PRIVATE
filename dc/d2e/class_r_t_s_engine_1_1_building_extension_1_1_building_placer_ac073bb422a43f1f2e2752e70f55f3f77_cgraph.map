@@ -1,0 +1,6 @@
+<map id="OnPlacementUpdate" name="OnPlacementUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,172,58"/>
+<area shape="rect" id="Node000002" href="$dc/d2e/class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#a5b0b3777b2fee779b1059d6b35459909" title=" " alt="" coords="220,29,386,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,41,205,41,205,46,172,46"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="266,30,260,20,265,11,280,5,303,3,328,5,342,12,340,17,327,10,303,8,281,10,269,15,265,20,270,27"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AddBuilding" name="AddBuilding">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,112,65"/>
+<area shape="rect" id="Node000002" href="$dc/d1f/class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#a916e002db12cb008076e8dc05a5f45ef" title=" " alt="" coords="214,5,355,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,41,199,29,200,34,113,46"/>
+<area shape="rect" id="Node000004" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a2bbb7d8eefee1eac664c1e666df9d907" title=" " alt="" coords="160,58,409,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,55,145,59,145,65,112,60"/>
+<area shape="rect" id="Node000003" href="$dc/d1f/class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#ad90be35c7ba45a7c1e041382701796ad" title=" " alt="" coords="457,5,563,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,17,442,17,442,22,355,22"/>
+</map>

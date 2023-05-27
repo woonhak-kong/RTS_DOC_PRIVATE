@@ -1,0 +1,20 @@
+<map id="BuildingGateHandler" name="BuildingGateHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,1529,471,1897"/>
+<area shape="rect" id="Node000002" href="$df/d89/class_r_t_s_engine_1_1_entity_component_1_1_entity_component_base.html" title=" " alt="" coords="151,796,375,1481"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,1495,340,1529,334,1530,328,1496"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,561,127,635"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,647,154,831,149,833,81,649"/>
+<area shape="rect" id="Node000004" href="$d8/df1/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="151,448,375,748"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="266,762,266,796,261,796,261,762"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="45,127,253,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,412,215,447,210,449,197,414"/>
+<area shape="rect" id="Node000006" href="$d7/d9a/interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="277,227,439,300"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="347,314,308,449,303,447,342,313"/>
+<area shape="rect" id="Node000007" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="352,5,481,79"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="406,93,370,228,365,226,401,91"/>
+<area shape="rect" id="Node000008" href="$d7/dae/interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="399,561,554,635"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="442,91,453,126,472,250,481,374,483,483,481,561,476,561,478,482,476,374,467,251,447,127,437,93"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="456,649,390,797,378,827,373,825,385,795,451,647"/>
+<area shape="rect" id="Node000009" href="$df/d44/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_gate_handler.html" title=" " alt="" coords="399,1091,559,1187"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="471,1201,408,1530,403,1529,465,1200"/>
+</map>

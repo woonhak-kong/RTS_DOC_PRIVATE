@@ -1,0 +1,7 @@
+<map id="CancelDefense" name="CancelDefense">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,135,79"/>
+<area shape="rect" id="Node000002" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="212,5,471,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,53,197,45,198,50,135,59"/>
+<area shape="rect" id="Node000003" href="$d0/db4/interface_r_t_s_engine_1_1_n_p_c_1_1_event_1_1_i_n_p_c_event_publisher.html#ad664adc5a1453d6f0be52d2bed61cbd5" title=" " alt="" coords="183,76,500,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,70,168,75,168,80,135,76"/>
+</map>

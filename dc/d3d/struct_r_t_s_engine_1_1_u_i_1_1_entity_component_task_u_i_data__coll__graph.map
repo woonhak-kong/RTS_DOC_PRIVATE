@@ -1,0 +1,11 @@
+<map id="EntityComponentTaskUIData" name="EntityComponentTaskUIData">
+<area shape="rect" id="Node000001" title="Holds information regarding the UI elements of a task that belongs to a component that implements IEn..." alt="" coords="23,503,236,803"/>
+<area shape="rect" id="Node000002" href="$d4/da6/struct_r_t_s_engine_1_1_task_1_1_task_cursor_data.html" title=" " alt="" coords="5,285,133,403"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,403,100,486,94,487,78,404"/>
+<area shape="rect" id="Node000003" href="$d1/df1/class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="157,251,296,437"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,438,184,488,179,486,195,436"/>
+<area shape="rect" id="Node000004" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="122,128,331,201"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,216,229,251,224,251,224,216"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="162,5,291,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="229,93,229,128,224,128,224,93"/>
+</map>

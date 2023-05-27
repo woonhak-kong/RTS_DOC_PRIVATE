@@ -1,0 +1,15 @@
+<map id="GameUITextDisplayManager" name="GameUITextDisplayManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,1079,285,1517"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,763,127,837"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,850,125,1079,120,1080,73,851"/>
+<area shape="rect" id="Node000003" href="$d2/d23/interface_r_t_s_engine_1_1_u_i_1_1_i_game_u_i_text_display_manager.html" title=" " alt="" coords="151,569,387,1031"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,1045,215,1079,209,1078,216,1044"/>
+<area shape="rect" id="Node000004" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="187,448,351,521"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,536,271,570,266,570,266,536"/>
+<area shape="rect" id="Node000005" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="213,327,325,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,414,271,448,266,448,266,414"/>
+<area shape="rect" id="Node000006" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="85,96,244,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="194,200,254,326,250,328,190,202"/>
+<area shape="rect" id="Node000007" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="269,5,477,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="305,292,288,328,283,326,300,290"/>
+</map>

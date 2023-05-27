@@ -1,0 +1,14 @@
+<map id="HandleGameStartRunning" name="HandleGameStartRunning">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,208,79"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="62,51,55,41,61,32,78,26,107,24,138,26,154,33,152,38,137,32,106,29,80,31,64,36,60,41,66,48"/>
+<area shape="rect" id="Node000002" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html#ab52a2180cfbf302a6ed9a1df58edfc81" title=" " alt="" coords="256,5,477,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,48,241,43,241,49,208,53"/>
+<area shape="rect" id="Node000003" href="$dc/deb/class_r_t_s_engine_1_1_building_extension_1_1_building_placement.html#a29e00129e94af7087eb02f78fdc327fb" title=" " alt="" coords="263,76,470,123"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="208,76,248,81,248,86,208,81"/>
+<area shape="rect" id="Node000004" href="$d0/d1e/interface_r_t_s_engine_1_1_game_1_1_i_game_manager.html#a1e9d0a6c6266bd5fc9f603ceeafdb051" title=" " alt="" coords="525,5,789,52"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="465,73,544,53,545,59,466,78"/>
+<area shape="rect" id="Node000005" href="$d0/d22/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_handler.html#aa5179ede3e18bf750e382def6aefc26b" title=" " alt="" coords="541,76,774,123"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="470,97,526,97,526,102,470,102"/>
+<area shape="rect" id="Node000006" href="$d4/d81/interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="544,147,770,193"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="466,121,545,140,544,145,465,126"/>
+</map>

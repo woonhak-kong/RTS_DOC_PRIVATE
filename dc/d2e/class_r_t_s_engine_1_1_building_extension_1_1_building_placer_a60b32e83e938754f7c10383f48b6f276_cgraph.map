@@ -1,0 +1,8 @@
+<map id="OnTriggerExit" name="OnTriggerExit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,57,123,86"/>
+<area shape="rect" id="Node000002" href="$db/dbf/interface_r_t_s_engine_1_1_selection_1_1_i_entity_selection.html#ad54e1dd60fc87cd33082230a6c8fb5b6" title=" " alt="" coords="171,5,391,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,57,156,51,157,56,124,62"/>
+<area shape="rect" id="Node000003" href="$dc/d2e/class_r_t_s_engine_1_1_building_extension_1_1_building_placer.html#a5b0b3777b2fee779b1059d6b35459909" title=" " alt="" coords="198,100,364,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,80,191,94,190,99,123,85"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="243,100,238,91,243,81,257,75,281,73,307,76,320,82,318,87,305,81,281,78,259,80,246,85,243,90,248,98"/>
+</map>

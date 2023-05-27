@@ -1,0 +1,13 @@
+<map id="AddUnit" name="AddUnit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,89,83,118"/>
+<area shape="rect" id="Node000002" href="$dc/d1f/class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#a916e002db12cb008076e8dc05a5f45ef" title=" " alt="" coords="185,5,326,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,87,92,64,130,44,170,31,171,36,132,49,95,69,65,91"/>
+<area shape="rect" id="Node000004" href="$dc/d1f/class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#aa4ee8b6935a10c88949414893790971f" title=" " alt="" coords="159,59,352,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="83,95,144,87,144,92,84,101"/>
+<area shape="rect" id="Node000005" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a2bbb7d8eefee1eac664c1e666df9d907" title=" " alt="" coords="131,111,380,158"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="84,107,117,111,116,117,83,112"/>
+<area shape="rect" id="Node000006" href="$dc/d1f/class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#ad5f298272f072e96a83c8d1f58cc16ef" title=" " alt="" coords="140,181,371,210"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="62,116,93,142,132,167,150,174,148,179,129,171,90,147,59,121"/>
+<area shape="rect" id="Node000003" href="$dc/d1f/class_r_t_s_engine_1_1_faction_1_1_faction_manager.html#ad90be35c7ba45a7c1e041382701796ad" title=" " alt="" coords="428,5,534,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="326,17,413,17,413,22,326,22"/>
+</map>

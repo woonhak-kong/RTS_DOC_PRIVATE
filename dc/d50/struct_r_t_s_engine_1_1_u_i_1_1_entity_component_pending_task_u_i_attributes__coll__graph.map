@@ -1,0 +1,21 @@
+<map id="EntityComponentPendingTaskUIAttributes" name="EntityComponentPendingTaskUIAttributes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="273,937,497,1029"/>
+<area shape="rect" id="Node000002" href="$d6/dd7/interface_r_t_s_engine_1_1_u_i_1_1_i_task_u_i_attributes.html" title=" " alt="" coords="5,685,135,758"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,770,113,822,130,847,149,869,177,893,208,913,274,945,272,950,206,918,174,897,145,873,125,850,108,824,84,773"/>
+<area shape="rect" id="Node000003" href="$d1/d75/struct_r_t_s_engine_1_1_u_i_1_1_entity_component_task_u_i_data.html" title="Holds information regarding the UI elements of a task that belongs to a component that implements IEn..." alt="" coords="159,571,373,871"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="334,870,354,912,358,921,353,923,349,914,330,872"/>
+<area shape="rect" id="Node000004" href="$d4/da6/struct_r_t_s_engine_1_1_task_1_1_task_cursor_data.html" title=" " alt="" coords="65,319,193,437"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="154,436,202,555,197,557,149,438"/>
+<area shape="rect" id="Node000005" href="$d1/df1/class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="217,285,355,471"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="283,471,278,554,273,554,278,471"/>
+<area shape="rect" id="Node000006" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="181,128,391,201"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="289,216,289,285,283,285,283,216"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="221,5,351,79"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="289,93,289,128,283,128,283,93"/>
+<area shape="rect" id="Node000008" href="$d6/d4c/struct_r_t_s_engine_1_1_u_i_1_1_entity_component_pending_task_u_i_data.html" title=" " alt="" coords="397,675,621,767"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="490,768,416,923,411,921,485,766"/>
+<area shape="rect" id="Node000009" href="$de/dcc/interface_r_t_s_engine_1_1_task_1_1_i_pending_tasks_handler.html" title=" " alt="" coords="400,251,617,505"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="511,505,511,658,506,658,506,505"/>
+<area shape="rect" id="Node000010" href="$df/d62/struct_r_t_s_engine_1_1_u_i_1_1_entity_component_locked_task_u_i_data.html" title=" " alt="" coords="645,664,863,779"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="720,780,682,829,634,873,576,911,513,941,511,936,573,906,631,869,678,825,716,777"/>
+</map>

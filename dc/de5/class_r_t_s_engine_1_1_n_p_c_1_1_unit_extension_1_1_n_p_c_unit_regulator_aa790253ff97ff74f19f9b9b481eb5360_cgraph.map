@@ -1,0 +1,20 @@
+<map id="HandleUnitCreatorUpdated" name="HandleUnitCreatorUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,216,123"/>
+<area shape="rect" id="Node000002" href="$dc/de5/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_regulator.html#ad611cc81dc29f8de51e821c33bc86235" title=" " alt="" coords="278,68,409,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,94,263,88,264,94,216,99"/>
+<area shape="rect" id="Node000009" href="$dc/de5/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_regulator.html#afada991244eea6fdfad13f6096ead9a3" title=" " alt="" coords="264,121,423,150"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="216,118,249,122,248,127,216,123"/>
+<area shape="rect" id="Node000003" href="$df/d75/interface_r_t_s_engine_1_1_entity_component_1_1_i_unit_creator.html#ace7eb7631337f571d41e453fd0dd9bed" title=" " alt="" coords="471,41,699,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,75,456,71,456,77,409,80"/>
+<area shape="rect" id="Node000004" href="$dc/de5/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_regulator.html#ab33766a8c904620feb2932c95dcc3fa3" title=" " alt="" coords="481,112,689,159"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="409,94,468,107,466,112,408,99"/>
+<area shape="rect" id="Node000005" href="$da/d16/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#a84ec573022251aae6022bb56afba3658" title=" " alt="" coords="796,5,1040,52"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="674,109,698,98,721,80,731,70,746,61,781,48,783,53,749,66,734,74,725,84,701,103,676,114"/>
+<area shape="rect" id="Node000006" href="$db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a5fb64515b43947ff01e81bf02624f1e7" title=" " alt="" coords="773,76,1063,123"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="689,121,758,114,758,119,690,127"/>
+<area shape="rect" id="Node000007" href="$da/d16/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator.html#af4602f9cb71c7c3533b61ab5bd73a215" title=" " alt="" coords="796,147,1040,193"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="690,144,781,153,781,158,689,149"/>
+<area shape="rect" id="Node000008" href="$db/d78/interface_r_t_s_engine_1_1_resource_extension_1_1_i_resource_manager.html#a1e415273a1cc15ebdb85429472e10693" title=" " alt="" coords="747,217,1089,264"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="635,157,689,181,748,203,772,211,771,216,746,209,687,186,633,162"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="424,133,466,133,466,138,424,138"/>
+</map>

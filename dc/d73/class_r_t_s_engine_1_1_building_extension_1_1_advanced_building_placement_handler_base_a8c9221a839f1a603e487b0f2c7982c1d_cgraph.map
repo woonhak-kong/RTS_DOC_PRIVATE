@@ -1,0 +1,9 @@
+<map id="AddExistingToSnap" name="AddExistingToSnap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,166,105"/>
+<area shape="rect" id="Node000002" href="$dc/d73/class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#ab1bd28bf2619dbc38674760c71593649" title=" " alt="" coords="259,5,441,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,73,213,44,249,35,250,40,214,49,126,78"/>
+<area shape="rect" id="Node000003" href="$dd/d8c/struct_r_t_s_engine_1_1_building_extension_1_1_advanced_pending_placement_data.html#a0cfc70d6ee2526207f2e1e7293fc0cd6" title=" " alt="" coords="214,58,486,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,88,199,88,199,93,166,93"/>
+<area shape="rect" id="Node000004" href="$d4/d81/interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="237,147,463,194"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,103,214,132,242,140,241,145,213,137,126,108"/>
+</map>
