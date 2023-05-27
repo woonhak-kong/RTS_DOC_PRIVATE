@@ -1,0 +1,7 @@
+<map id="EntityComponentPendingTaskUI" name="EntityComponentPendingTaskUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,858,366,1090"/>
+<area shape="rect" id="Node000002" href="$d3/d51/class_r_t_s_engine_1_1_u_i_1_1_base_task_u_i.html" title=" " alt="" coords="5,5,249,792"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,806,226,858,221,859,210,807"/>
+<area shape="rect" id="Node000003" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html" title=" " alt="" coords="274,271,461,526"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="344,526,277,842,272,841,338,525"/>
+</map>

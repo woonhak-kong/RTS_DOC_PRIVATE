@@ -1,0 +1,25 @@
+<map id="OnObjectPoolInit" name="OnObjectPoolInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,173,143,202"/>
+<area shape="rect" id="Node000002" href="$da/dda/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a51908ae27c17af66ac7cecb5d6be5ac9" title=" " alt="" coords="208,5,400,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,171,121,109,152,73,189,43,198,38,200,43,192,47,156,77,125,112,85,174"/>
+<area shape="rect" id="Node000004" href="$da/dda/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a3ca2845ce1213bd8179e16bdcd3eb48c" title=" " alt="" coords="198,199,410,246"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,195,184,202,183,207,142,201"/>
+<area shape="rect" id="Node000007" href="$da/dda/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a867395159a90058becc67b821f9495b1" title=" " alt="" coords="198,58,410,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="94,170,137,142,190,113,203,108,205,112,192,118,140,147,97,175"/>
+<area shape="rect" id="Node000008" href="$da/dda/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#af62407f9621016a99a9d1263eb210b91" title=" " alt="" coords="200,269,408,298"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="97,200,139,229,192,256,209,262,207,267,190,261,136,233,94,205"/>
+<area shape="rect" id="Node000009" href="$da/dda/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a78a1ee9c0eb663ae02565349fd542733" title=" " alt="" coords="197,128,411,175"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="142,174,182,168,183,173,143,180"/>
+<area shape="rect" id="Node000010" href="$d4/d81/interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#ae921eb90b8b14d59ae5e2ab06f926707" title=" " alt="" coords="191,322,417,368"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="87,201,129,253,159,283,192,308,199,312,197,317,189,313,155,287,125,257,83,204"/>
+<area shape="rect" id="Node000003" href="$da/dda/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a22c7960d495d3e0502b7c73394d3fbf3" title=" " alt="" coords="465,67,552,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,32,418,42,461,58,459,63,416,48,378,37"/>
+<area shape="rect" id="Node000005" href="$da/dda/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a04494b24fc0354f545cbc86a958cf621" title="Creates a new minimap icon or gets an inactive one." alt="" coords="474,208,543,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="410,220,459,220,459,225,410,225"/>
+<area shape="rect" id="Node000006" href="$d2/d57/interface_r_t_s_engine_1_1_minimap_1_1_icons_1_1_i_minimap_icon.html#a254e8c82901a2374d0ddea78a8b4019a" title=" " alt="" coords="600,199,810,246"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="544,220,586,220,586,225,544,225"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="410,78,450,78,450,84,410,84"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="378,266,416,256,459,240,461,245,418,261,379,271"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="380,125,416,113,455,99,457,104,418,118,382,130"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="386,173,418,184,461,200,459,205,416,189,384,178"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="UnitCarrier" name="UnitCarrier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="176,1529,401,2755"/>
+<area shape="rect" id="Node000002" href="$df/d89/class_r_t_s_engine_1_1_entity_component_1_1_entity_component_base.html" title=" " alt="" coords="53,796,277,1481"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,1495,216,1529,210,1530,206,1496"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,561,127,635"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,648,105,796,100,797,72,649"/>
+<area shape="rect" id="Node000004" href="$d8/df1/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="218,448,442,748"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="283,762,272,797,267,795,278,761"/>
+<area shape="rect" id="Node000009" href="$d0/ded/interface_r_t_s_engine_1_1_entity_component_1_1_i_unit_carrier.html" title=" " alt="" coords="301,1000,527,1277"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="358,761,395,1000,390,1001,353,762"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="446,127,654,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="455,413,431,450,426,447,450,410"/>
+<area shape="rect" id="Node000010" href="$da/d94/interface_r_t_s_engine_1_1_unit_extension_1_1_i_addable_unit.html" title=" " alt="" coords="467,516,641,680"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="554,414,556,516,550,516,549,414"/>
+<area shape="rect" id="Node000006" href="$d7/d9a/interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="253,227,415,300"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="336,314,334,448,329,448,331,314"/>
+<area shape="rect" id="Node000007" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="177,5,307,79"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="265,91,322,226,317,228,260,93"/>
+<area shape="rect" id="Node000008" href="$d7/dae/interface_r_t_s_engine_1_1_entities_1_1_i_entity_pre_initializable.html" title=" " alt="" coords="74,227,229,300"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="224,93,168,228,163,226,220,91"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="155,314,162,796,157,796,149,314"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="398,1292,368,1530,363,1529,392,1291"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="532,694,452,1001,447,1000,527,693"/>
+</map>

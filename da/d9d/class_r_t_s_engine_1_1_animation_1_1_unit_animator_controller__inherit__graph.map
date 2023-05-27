@@ -1,0 +1,13 @@
+<map id="UnitAnimatorController" name="UnitAnimatorController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,625,405,1325"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,415,127,489"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,501,153,660,148,662,83,503"/>
+<area shape="rect" id="Node000003" href="$d3/d81/interface_r_t_s_engine_1_1_animation_1_1_i_animator_controller.html" title=" " alt="" coords="151,327,405,577"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,591,281,626,275,626,275,591"/>
+<area shape="rect" id="Node000004" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="174,5,382,279"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,293,281,327,275,327,275,293"/>
+<area shape="rect" id="Node000005" href="$d7/d9a/interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="429,415,591,489"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="491,502,408,690,403,688,486,500"/>
+<area shape="rect" id="Node000006" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="445,105,575,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="513,193,513,415,507,415,507,193"/>
+</map>

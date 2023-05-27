@@ -1,0 +1,11 @@
+<map id="IsValidTarget" name="IsValidTarget">
+<area shape="rect" id="Node000001" title="Determines whether a target &#39;t&#39; can be picked as a valid target." alt="" coords="380,121,493,150"/>
+<area shape="rect" id="Node000002" href="$d9/d62/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator_data_input.html#a8274805f68e8db23a2f352c61cdbbb17" title=" " alt="" coords="5,5,332,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,113,371,88,331,66,302,55,304,50,333,61,374,84,409,109"/>
+<area shape="rect" id="Node000003" href="$df/d89/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_regulator_data_input.html#a6edfd23ba6ff0f3db58f2d483e4de773" title=" " alt="" coords="20,76,317,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="365,128,317,122,318,117,365,123"/>
+<area shape="rect" id="Node000004" href="$d7/d4e/class_r_t_s_engine_1_1_faction_1_1_initial_faction_entities_spawner.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="63,147,274,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,147,274,159,274,154,365,142"/>
+<area shape="rect" id="Node000005" href="$d0/dd4/class_r_t_s_engine_1_1_u_i_1_1_resource_panel_u_i_handler.html#a01f1070c46e4cc24d25a0ea0869bc972" title=" " alt="" coords="53,217,284,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="408,161,373,185,333,207,285,223,283,218,331,202,370,181,405,157"/>
+</map>

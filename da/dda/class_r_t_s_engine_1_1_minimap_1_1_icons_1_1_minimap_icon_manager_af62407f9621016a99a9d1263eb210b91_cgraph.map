@@ -1,0 +1,7 @@
+<map id="HandleEntityInitiatedGlobal" name="HandleEntityInitiatedGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,14,213,43"/>
+<area shape="rect" id="Node000002" href="$da/dda/class_r_t_s_engine_1_1_minimap_1_1_icons_1_1_minimap_icon_manager.html#a04494b24fc0354f545cbc86a958cf621" title="Creates a new minimap icon or gets an inactive one." alt="" coords="261,14,330,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,26,246,26,246,31,213,31"/>
+<area shape="rect" id="Node000003" href="$d2/d57/interface_r_t_s_engine_1_1_minimap_1_1_icons_1_1_i_minimap_icon.html#a254e8c82901a2374d0ddea78a8b4019a" title=" " alt="" coords="378,5,587,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,26,363,26,363,31,331,31"/>
+</map>

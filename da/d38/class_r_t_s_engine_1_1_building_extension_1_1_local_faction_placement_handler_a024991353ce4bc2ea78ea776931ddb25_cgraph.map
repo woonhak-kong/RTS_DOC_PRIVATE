@@ -1,0 +1,24 @@
+<map id="OnActiveUpdate" name="OnActiveUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,343,141,372"/>
+<area shape="rect" id="Node000002" href="$d3/d93/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#ac70ce5a06bea6bf2c278f8383f56f93d" title=" " alt="" coords="189,214,503,261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,340,276,265,279,270,109,345"/>
+<area shape="rect" id="Node000008" href="$d3/d93/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#a7d498b13dc60fe7d0ba25025182d53fd" title=" " alt="" coords="561,325,840,372"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="141,354,546,348,546,353,141,359"/>
+<area shape="rect" id="Node000009" href="$da/d38/class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html#a6a64b693130ba294eebfc2764db04d34" title=" " alt="" coords="288,369,404,397"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="141,361,273,374,273,379,141,367"/>
+<area shape="rect" id="Node000010" href="$da/d38/class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html#af8492050867e77c60bd8a0fb1d9771a3" title=" " alt="" coords="284,422,408,451"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="103,370,143,390,189,407,270,425,269,430,188,412,141,394,101,375"/>
+<area shape="rect" id="Node000003" href="$d3/d93/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#a3af50b27ef1c3ac2f5e633700b9d95c5" title=" " alt="" coords="563,5,838,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,212,446,147,496,111,550,79,561,74,563,79,552,84,499,115,450,151,373,216"/>
+<area shape="rect" id="Node000005" href="$d3/d65/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_manager.html#a53a9edbf0569b44d4e6b52dc8c277e5e" title=" " alt="" coords="551,94,850,141"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="397,211,469,180,550,150,573,143,575,148,552,155,471,185,399,216"/>
+<area shape="rect" id="Node000006" href="$d2/ddf/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_task.html#a8ee772bedaec01e0fc63f6a13980c1a2" title=" " alt="" coords="561,165,841,212"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="503,213,546,207,546,212,504,218"/>
+<area shape="rect" id="Node000007" href="$d3/d93/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html#aa8237bb3cce27e97dfe7e54f7894856d" title=" " alt="" coords="568,236,834,301"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="503,249,553,253,553,258,503,254"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="408,259,552,310,581,318,580,323,550,315,406,264"/>
+<area shape="rect" id="Node000004" href="$d2/ddf/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_task.html#a3af50b27ef1c3ac2f5e633700b9d95c5" title=" " alt="" coords="898,14,1188,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="839,35,884,35,884,40,839,40"/>
+<area shape="rect" id="Node000011" href="$d6/d9a/interface_r_t_s_engine_1_1_controls_1_1_i_game_controls_manager.html#aa4e0583b02fad2cf18d5f489a17f404d" title=" " alt="" coords="594,413,807,460"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="408,434,579,434,579,439,408,439"/>
+</map>

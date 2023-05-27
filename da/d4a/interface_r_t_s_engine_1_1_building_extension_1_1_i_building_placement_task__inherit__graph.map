@@ -1,0 +1,7 @@
+<map id="IBuildingPlacementTask" name="IBuildingPlacementTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,5,321,237"/>
+<area shape="rect" id="Node000002" href="$d7/d70/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_task.html" title=" " alt="" coords="5,285,216,699"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,252,172,286,167,285,177,250"/>
+<area shape="rect" id="Node000003" href="$d3/d0a/class_r_t_s_engine_1_1_entity_component_1_1_building_creation_task.html" title=" " alt="" coords="240,433,403,551"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,250,307,432,302,434,250,252"/>
+</map>

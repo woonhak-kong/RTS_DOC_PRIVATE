@@ -1,0 +1,13 @@
+<map id="IUnit" name="IUnit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,1204,310,1436"/>
+<area shape="rect" id="Node000006" href="$d1/dea/class_r_t_s_engine_1_1_entities_1_1_unit.html" title=" " alt="" coords="114,1484,310,1875"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="215,1450,215,1484,209,1484,209,1450"/>
+<area shape="rect" id="Node000002" href="$d5/d4f/interface_r_t_s_engine_1_1_entities_1_1_i_faction_entity.html" title=" " alt="" coords="128,879,296,1156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,1170,215,1204,209,1204,209,1170"/>
+<area shape="rect" id="Node000003" href="$d0/de4/interface_r_t_s_engine_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="82,327,342,831"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,845,215,879,209,879,209,845"/>
+<area shape="rect" id="Node000004" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="5,5,213,279"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,292,155,326,150,328,142,293"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="238,105,391,179"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="306,193,274,328,269,327,300,192"/>
+</map>

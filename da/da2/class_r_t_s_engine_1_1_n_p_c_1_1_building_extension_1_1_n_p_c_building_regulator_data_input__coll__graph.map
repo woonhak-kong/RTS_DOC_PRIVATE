@@ -1,0 +1,34 @@
+<map id="NPCBuildingRegulatorDataInput" name="NPCBuildingRegulatorDataInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="278,1284,482,1376"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="133,1135,254,1209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,1216,328,1282,325,1286,245,1220"/>
+<area shape="rect" id="Node000003" href="$d1/d2c/class_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator_data.html" title=" " alt="" coords="467,828,680,1060"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="568,1060,559,1103,531,1188,512,1222,482,1262,470,1275,466,1271,478,1258,508,1219,527,1186,553,1101,563,1059"/>
+<area shape="rect" id="Node000012" href="$d2/dab/struct_r_t_s_engine_1_1_n_p_c_1_1_building_extension_1_1_n_p_c_building_regulator_data_input_1_1_input_element.html" title=" " alt="" coords="278,1126,482,1218"/>
+<area shape="poly" id="edge12_Node000012_Node000003" title=" " alt="" coords="471,1062,450,1086,427,1114,423,1111,446,1082,467,1058"/>
+<area shape="rect" id="Node000004" href="$dc/dba/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_regulator_data.html" title=" " alt="" coords="468,501,679,779"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="576,793,576,828,571,828,571,793"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="285,303,414,377"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="387,387,472,500,468,503,383,390"/>
+<area shape="rect" id="Node000006" href="$d6/d14/class_r_t_s_engine_1_1_int_range.html" title=" " alt="" coords="439,292,561,388"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="490,388,485,432,490,477,492,484,486,486,484,478,480,432,485,388"/>
+<area shape="rect" id="Node000007" href="$d7/d61/class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="439,5,561,215"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="503,228,503,292,497,292,497,228"/>
+<area shape="rect" id="Node000008" href="$d3/d00/class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="600,292,723,388"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="656,388,635,478,632,486,627,484,629,477,650,387"/>
+<area shape="rect" id="Node000009" href="$d7/d61/class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="600,5,723,215"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="664,228,664,292,659,292,659,228"/>
+<area shape="rect" id="Node000010" href="$db/de9/struct_r_t_s_engine_1_1_entities_1_1_faction_entity_requirement.html" title=" " alt="" coords="747,281,939,399"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="836,400,823,440,802,479,779,507,752,533,694,577,691,573,749,529,775,504,798,476,818,438,831,398"/>
+<area shape="rect" id="Node000011" href="$d9/de6/struct_r_t_s_engine_1_1_entities_1_1_code_category_field.html" title=" " alt="" coords="767,51,918,169"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="845,169,845,264,840,264,840,169"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="383,1218,383,1267,377,1267,377,1218"/>
+<area shape="rect" id="Node000013" href="$db/d07/class_r_t_s_engine_1_1_faction_1_1_faction_type_target_picker.html" title="Target picker for FactionTypeInfo." alt="" coords="31,907,220,981"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="144,979,179,1040,202,1072,230,1100,264,1120,261,1125,227,1104,198,1075,174,1043,139,982"/>
+<area shape="rect" id="Node000014" href="$da/dcc/class_r_t_s_engine_1_1_entities_1_1_target_picker.html" title=" " alt="" coords="5,571,224,709"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="120,723,127,907,121,908,115,723"/>
+<area shape="rect" id="Node000015" href="$d2/dea/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_type_target_picker.html" title=" " alt="" coords="253,907,424,981"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="335,980,332,1038,334,1070,340,1101,343,1110,338,1111,335,1103,329,1071,327,1038,330,980"/>
+<area shape="rect" id="Node000016" href="$da/dcc/class_r_t_s_engine_1_1_entities_1_1_target_picker.html" title=" " alt="" coords="249,571,437,709"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="344,723,342,908,336,907,339,723"/>
+</map>

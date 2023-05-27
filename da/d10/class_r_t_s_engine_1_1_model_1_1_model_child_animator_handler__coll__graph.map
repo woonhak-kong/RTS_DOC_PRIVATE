@@ -1,0 +1,9 @@
+<map id="ModelChildAnimatorHandler" name="ModelChildAnimatorHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,403,297,657"/>
+<area shape="rect" id="Node000002" href="$d4/dbe/class_r_t_s_engine_1_1_model_1_1_model_child_handler.html" title=" " alt="" coords="5,127,172,355"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,368,144,402,138,404,127,369"/>
+<area shape="rect" id="Node000003" href="$d9/dbb/interface_r_t_s_engine_1_1_model_1_1_i_model_child_animator.html" title=" " alt="" coords="197,181,354,300"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,314,225,404,220,402,250,313"/>
+<area shape="rect" id="Node000004" href="$dd/d94/interface_r_t_s_engine_1_1_model_1_1_i_model_child.html" title=" " alt="" coords="215,5,335,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="278,93,278,182,273,182,273,93"/>
+</map>

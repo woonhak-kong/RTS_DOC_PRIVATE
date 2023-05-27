@@ -1,0 +1,5 @@
+<map id="Launch" name="Launch">
+<area shape="rect" id="Node000001" title="Starts the unit movement using the last calculated path from the Prepare() method." alt="" coords="296,14,367,43"/>
+<area shape="rect" id="Node000002" href="$d0/d6f/class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a5105526f7076d2237fe7fd7e514e5b06" title=" " alt="" coords="5,5,248,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,31,248,31,248,26,281,26"/>
+</map>

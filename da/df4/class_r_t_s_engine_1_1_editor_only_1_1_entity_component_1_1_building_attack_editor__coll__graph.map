@@ -1,0 +1,5 @@
+<map id="BuildingAttackEditor" name="BuildingAttackEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,395,216,491"/>
+<area shape="rect" id="Node000002" href="$df/de5/class_r_t_s_engine_1_1_editor_only_1_1_entity_component_1_1_faction_entity_attack_editor.html" title=" " alt="" coords="5,5,229,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,361,120,395,115,395,115,361"/>
+</map>

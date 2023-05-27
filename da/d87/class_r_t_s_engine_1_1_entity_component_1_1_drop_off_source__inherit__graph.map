@@ -1,0 +1,17 @@
+<map id="DropOffSource" name="DropOffSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,2391,395,3412"/>
+<area shape="rect" id="Node000002" href="$da/d39/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html" title=" " alt="" coords="5,1257,251,2343"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,2357,200,2391,195,2391,191,2357"/>
+<area shape="rect" id="Node000003" href="$d5/dec/interface_r_t_s_engine_1_1_entity_component_1_1_i_drop_off_source.html" title=" " alt="" coords="275,1684,501,1916"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="375,1930,321,2391,315,2390,370,1930"/>
+<area shape="rect" id="Node000004" href="$d4/d4c/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_target_component.html" title=" " alt="" coords="281,796,495,1209"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="391,1223,391,1685,385,1685,385,1223"/>
+<area shape="rect" id="Node000005" href="$d8/df1/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="276,448,500,748"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="391,762,391,796,385,796,385,762"/>
+<area shape="rect" id="Node000006" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="180,127,388,400"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,413,344,447,339,449,328,414"/>
+<area shape="rect" id="Node000007" href="$d7/d9a/interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="413,227,574,300"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="480,314,438,449,433,447,475,313"/>
+<area shape="rect" id="Node000008" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="429,5,558,79"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="496,93,496,227,491,227,491,93"/>
+</map>

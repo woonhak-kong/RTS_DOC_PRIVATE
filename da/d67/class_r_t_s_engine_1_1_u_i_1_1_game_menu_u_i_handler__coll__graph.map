@@ -1,0 +1,19 @@
+<map id="GameMenuUIHandler" name="GameMenuUIHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,703,432,1162"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,507,192,581"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,593,202,703,197,705,150,595"/>
+<area shape="rect" id="Node000003" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="216,507,380,581"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,595,301,704,295,704,295,595"/>
+<area shape="rect" id="Node000004" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="237,328,349,401"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="297,416,300,507,294,507,292,416"/>
+<area shape="rect" id="Node000005" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="5,96,164,188"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="119,198,146,238,179,277,208,303,239,326,235,331,204,307,175,281,142,242,115,201"/>
+<area shape="rect" id="Node000006" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="189,5,397,279"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="295,293,295,328,290,328,290,293"/>
+<area shape="rect" id="Node000007" href="$d1/df1/class_r_t_s_engine_1_1_controls_1_1_control_type.html" title=" " alt="" coords="413,451,551,637"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="441,638,417,689,412,687,436,636"/>
+<area shape="rect" id="Node000008" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="381,328,591,401"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="488,416,487,451,481,451,482,416"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="421,105,551,179"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="489,193,489,328,483,328,483,193"/>
+</map>

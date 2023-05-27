@@ -1,0 +1,7 @@
+<map id="OnComplete" name="OnComplete">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,115,79"/>
+<area shape="rect" id="Node000002" href="$d6/d9a/interface_r_t_s_engine_1_1_controls_1_1_i_game_controls_manager.html#a088fb8ee9ae90d9c60c85e59fdd5bcf9" title=" " alt="" coords="174,5,416,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,54,159,47,160,52,116,59"/>
+<area shape="rect" id="Node000003" href="$d9/d41/interface_r_t_s_engine_1_1_logging_1_1_i_player_message_handler.html#ad4e048d5e8983e2b48e058a52aec1600" title=" " alt="" coords="163,76,427,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,70,148,75,148,80,115,75"/>
+</map>
