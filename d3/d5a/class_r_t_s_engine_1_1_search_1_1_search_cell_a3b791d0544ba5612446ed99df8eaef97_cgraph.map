@@ -1,0 +1,26 @@
+<map id="HandleMovingEntityComponentUpgrade" name="HandleMovingEntityComponentUpgrade">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,245,145"/>
+<area shape="rect" id="Node000002" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a079eac6385f3f00c744eeb7a45974a17" title=" " alt="" coords="293,108,468,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,119,278,119,278,125,245,125"/>
+<area shape="rect" id="Node000007" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#af2dde947a279721629528c7356a453b3" title=" " alt="" coords="1099,194,1274,223"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="181,143,327,199,426,231,537,259,656,282,780,295,905,295,967,289,1027,278,1092,256,1147,229,1150,233,1094,261,1028,283,967,294,905,300,780,300,656,287,536,264,425,236,326,204,179,148"/>
+<area shape="rect" id="Node000003" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#af78ba89a8388b587bf84a97e8fea1910" title="Checks whether moving entities that belong to the search cell have left the cell or not." alt="" coords="546,160,707,188"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,134,542,153,540,159,451,140"/>
+<area shape="rect" id="Node000011" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html#a0b2fe51d2b4fa786f58c7409dbcae82f" title=" " alt="" coords="516,37,737,84"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="440,105,516,86,517,91,441,110"/>
+<area shape="rect" id="Node000004" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a3b7bf20b8cd4e125aa64a759361ddb08" title="Check if a Vector3 position is inside the search cell&#39;s boundaries." alt="" coords="885,98,928,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="695,156,870,118,871,123,696,162"/>
+<area shape="rect" id="Node000005" href="$d4/d81/interface_r_t_s_engine_1_1_logging_1_1_i_logging_service.html#a39507a73527de730541ef50382a508e2" title=" " alt="" coords="793,151,1020,197"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="708,171,778,171,778,177,708,177"/>
+<area shape="rect" id="Node000006" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a4e6a5c08ff9019a20134e95f16851447" title=" " alt="" coords="867,45,946,74"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="697,157,736,138,750,125,759,112,768,97,784,84,817,69,851,61,852,67,819,74,787,88,772,101,763,114,754,129,739,143,699,162"/>
+<area shape="rect" id="Node000010" href="$d2/d7c/interface_r_t_s_engine_1_1_search_1_1_i_grid_search_handler.html#ae0004375a646dadbbb44084b62eaa71e" title=" " alt="" coords="785,221,1028,268"/>
+<area shape="poly" id="edge11_Node000003_Node000010" title=" " alt="" coords="687,186,798,215,797,220,686,192"/>
+<area shape="poly" id="edge8_Node000006_Node000001" title=" " alt="" coords="866,52,805,38,737,27,627,19,516,27,435,40,355,58,214,96,212,91,353,53,434,35,516,22,627,14,738,22,806,33,867,46"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="867,71,738,98,605,113,483,121,483,115,605,107,737,93,866,65"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="947,61,987,69,1029,84,1090,126,1159,182,1155,187,1087,130,1026,88,986,74,946,66"/>
+<area shape="rect" id="Node000008" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#ab11c738e5cf8bd9c79980abb9fc4e9f5" title=" " alt="" coords="1087,76,1286,104"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="947,61,1072,75,1072,80,946,66"/>
+<area shape="rect" id="Node000009" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html#a588822aebd9ebb501fa19f94f73e8ca9" title=" " alt="" coords="1076,5,1297,52"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="946,52,1060,40,1061,45,947,58"/>
+</map>

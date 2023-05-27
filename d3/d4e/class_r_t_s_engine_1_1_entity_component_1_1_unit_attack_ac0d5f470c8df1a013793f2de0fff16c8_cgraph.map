@@ -1,0 +1,16 @@
+<map id="TryUpdateValidAttackPosition" name="TryUpdateValidAttackPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,236,104"/>
+<area shape="rect" id="Node000002" href="$d3/d4e/class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#aff1df571a572690ce2f587a3000fdc0c" title=" " alt="" coords="334,45,468,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,75,318,66,319,71,236,80"/>
+<area shape="rect" id="Node000007" href="$dd/ddf/interface_r_t_s_engine_1_1_attack_1_1_i_attack_manager.html#af21299b072362817ee75f0d64b56849f" title=" " alt="" coords="284,97,518,144"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="236,100,269,104,268,109,236,105"/>
+<area shape="rect" id="Node000003" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#ad915cec060191edf091ffe62a1dcde81" title=" " alt="" coords="889,5,1144,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,42,509,30,566,21,645,15,725,12,874,16,874,21,725,18,645,20,566,26,510,35,457,47"/>
+<area shape="rect" id="Node000004" href="$d1/dd6/class_r_t_s_engine_1_1_attack_1_1_attack_l_o_s.html#ae33b4b0eb4212bbf586a34eba43bb515" title=" " alt="" coords="584,36,817,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="468,57,569,57,569,62,468,62"/>
+<area shape="rect" id="Node000005" href="$d4/d1a/class_r_t_s_engine_1_1_attack_1_1_attack_formation_selector.html#aec8b01afea316e2ce1dc393097ddc69b" title=" " alt="" coords="566,107,834,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="468,72,519,83,588,100,587,105,517,89,467,77"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="797,103,834,93,941,55,942,60,835,98,799,109"/>
+<area shape="rect" id="Node000006" href="$d4/d1a/class_r_t_s_engine_1_1_attack_1_1_attack_formation_selector.html#abc702a4e494b730a7e11d7c9ea844571" title="Get the appropriate stopping distance for an attack depending on the target type." alt="" coords="882,107,1151,153"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="835,127,867,127,867,133,835,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SetResource" name="SetResource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,118,65"/>
+<area shape="rect" id="Node000002" href="$d3/d6a/class_r_t_s_engine_1_1_resource_extension_1_1_resource_manager.html#a3b54bcd263609c79df0a179d42a9e5fc" title=" " alt="" coords="193,5,417,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,41,178,33,179,38,118,46"/>
+<area shape="rect" id="Node000003" href="$d1/d2c/interface_r_t_s_engine_1_1_resource_extension_1_1_i_faction_resource_handler.html#a9f649e546d69d63abe423e4927684688" title=" " alt="" coords="166,58,444,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,55,151,59,151,64,118,60"/>
+</map>

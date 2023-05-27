@@ -1,0 +1,5 @@
+<map id="EntityComponentTaskUITracker" name="EntityComponentTaskUITracker">
+<area shape="rect" id="Node000001" title="Tracks the components that implement interfaces which allow to launch the a certain task on the panel..." alt="" coords="5,149,259,427"/>
+<area shape="rect" id="Node000002" href="$d3/d8f/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component_group_displayer.html" title=" " alt="" coords="10,5,254,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,116,135,150,129,150,129,116"/>
+</map>

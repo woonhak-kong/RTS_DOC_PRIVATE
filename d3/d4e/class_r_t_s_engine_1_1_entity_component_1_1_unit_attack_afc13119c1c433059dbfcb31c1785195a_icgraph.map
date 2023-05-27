@@ -1,0 +1,7 @@
+<map id="HandleMovementStart" name="HandleMovementStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,32,377,61"/>
+<area shape="rect" id="Node000002" href="$d3/d4e/class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#ab3d92ce45c1e5a33f2d601841e3cdd81" title=" " alt="" coords="5,5,154,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,36,154,32,154,26,187,31"/>
+<area shape="rect" id="Node000003" href="$d3/d4e/class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#a7f5f3f50291dcef1aa855d55736b1ba6" title=" " alt="" coords="27,59,132,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,62,133,69,132,64,187,57"/>
+</map>

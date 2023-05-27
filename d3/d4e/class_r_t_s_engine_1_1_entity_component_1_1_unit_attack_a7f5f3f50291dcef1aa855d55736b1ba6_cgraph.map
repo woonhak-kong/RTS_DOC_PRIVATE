@@ -1,0 +1,14 @@
+<map id="OnAttackInit" name="OnAttackInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,110,87"/>
+<area shape="rect" id="Node000002" href="$d3/d4e/class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#afc13119c1c433059dbfcb31c1785195a" title=" " alt="" coords="204,5,380,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,56,157,44,197,35,198,40,158,49,111,61"/>
+<area shape="rect" id="Node000004" href="$d3/d4e/class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#acc59a76d9ea624477e83b5cf7fde75b8" title=" " alt="" coords="204,59,380,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,70,189,70,189,76,110,76"/>
+<area shape="rect" id="Node000005" href="$d4/d1a/class_r_t_s_engine_1_1_attack_1_1_attack_formation_selector.html#ada3fcc5adc98c2a8c32be71f174c594e" title=" " alt="" coords="158,111,426,158"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="111,84,158,97,185,104,184,109,157,102,109,89"/>
+<area shape="rect" id="Node000003" href="$d3/d4e/class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html#ab2a6eb1ec73ffe10b577d30a03447af6" title=" " alt="" coords="522,32,679,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,25,507,36,507,41,380,30"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="380,63,507,52,507,57,380,68"/>
+<area shape="rect" id="Node000006" href="$d3/dde/class_r_t_s_engine_1_1_movement_1_1_movement_formation_selector.html#a1e3b6d38df0786ccf7f938d60e386aae" title=" " alt="" coords="474,111,727,158"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="427,132,459,132,459,137,427,137"/>
+</map>

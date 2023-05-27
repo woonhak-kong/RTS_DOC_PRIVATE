@@ -1,0 +1,19 @@
+<map id="OnSpawn" name="OnSpawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,106,95,135"/>
+<area shape="rect" id="Node000002" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#afee149cf822bd739452126a0c20319f3" title=" " alt="" coords="175,24,323,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,103,142,69,180,55,181,60,144,74,77,108"/>
+<area shape="rect" id="Node000005" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#afd0afb47c214032b8a4d4f592ec495e4" title=" " alt="" coords="663,76,876,104"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="95,115,143,113,648,92,649,97,143,118,95,121"/>
+<area shape="rect" id="Node000006" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html#ac2f2e3fb5c58c04a445bac9a09da4e5b" title=" " alt="" coords="143,128,355,175"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="95,125,128,130,127,135,94,130"/>
+<area shape="rect" id="Node000007" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#a6db101ddefd9844a109a3cb2c512d6bd" title=" " alt="" coords="178,198,320,227"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="69,134,102,160,144,185,165,193,163,198,141,190,99,164,66,138"/>
+<area shape="rect" id="Node000003" href="$d3/d1c/class_r_t_s_engine_1_1_u_i_1_1_hover_health_bar.html#a826231dea9b14aac3174c88ea1e62b85" title=" " alt="" coords="466,24,553,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,44,451,43,451,48,323,49"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="465,34,337,32,337,27,465,28"/>
+<area shape="rect" id="Node000004" href="$d4/d58/class_r_t_s_engine_1_1_utilities_1_1_object_pool.html#a3feacf416b81d1192a83e78361e174b3" title=" " alt="" coords="667,5,872,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,34,652,30,652,36,553,39"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="554,44,681,70,679,75,553,49"/>
+<area shape="rect" id="Node000008" href="$d2/d37/class_r_t_s_engine_1_1_u_i_1_1_progress_bar_u_i.html#a7b067e0772a91a0c212c289441ac2cd5" title=" " alt="" coords="403,189,615,236"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="320,210,388,210,388,215,320,215"/>
+</map>

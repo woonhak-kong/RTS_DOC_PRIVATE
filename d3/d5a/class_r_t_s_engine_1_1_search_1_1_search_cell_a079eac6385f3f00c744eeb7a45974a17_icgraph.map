@@ -1,0 +1,17 @@
+<map id="HandleMovementStart" name="HandleMovementStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="721,75,897,103"/>
+<area shape="rect" id="Node000002" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a423797f9b1ae4f2cb90443a1ddf4df79" title=" " alt="" coords="321,44,372,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="772,69,726,44,673,25,607,12,554,8,501,13,435,25,402,35,373,48,371,43,400,30,433,20,500,8,554,3,607,7,674,20,728,39,775,64"/>
+<area shape="rect" id="Node000004" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a3b791d0544ba5612446ed99df8eaef97" title=" " alt="" coords="434,35,673,82"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="706,79,673,76,674,70,707,74"/>
+<area shape="rect" id="Node000005" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a4e6a5c08ff9019a20134e95f16851447" title=" " alt="" coords="307,100,386,129"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="707,97,386,115,386,110,706,92"/>
+<area shape="rect" id="Node000003" href="$da/d8b/class_r_t_s_engine_1_1_movement_1_1_unit_target_position_marker.html#a9ad9379236c9ed3345222542d6fd73e9" title="Enables or disables the marker." alt="" coords="5,48,259,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,64,259,67,259,61,306,58"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="420,61,372,61,372,56,420,56"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="452,89,387,106,386,101,451,84"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="291,106,252,98,253,93,292,101"/>
+<area shape="rect" id="Node000006" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#af78ba89a8388b587bf84a97e8fea1910" title="Checks whether moving entities that belong to the search cell have left the cell or not." alt="" coords="51,131,213,159"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="292,125,214,136,213,131,291,120"/>
+<area shape="poly" id="edge7_Node000006_Node000001" title=" " alt="" coords="227,143,386,138,530,129,673,112,735,102,735,107,674,117,530,135,386,144,228,148"/>
+</map>

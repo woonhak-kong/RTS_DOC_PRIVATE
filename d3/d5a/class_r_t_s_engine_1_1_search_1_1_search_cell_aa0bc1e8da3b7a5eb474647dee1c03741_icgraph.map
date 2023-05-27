@@ -1,0 +1,14 @@
+<map id="HandleSearchObstacleDisabled" name="HandleSearchObstacleDisabled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1118,77,1363,105"/>
+<area shape="rect" id="Node000002" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#a27721e610d2fe3d7ce9665777dccaad5" title=" " alt="" coords="943,23,1055,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1157,75,1055,53,1056,47,1158,70"/>
+<area shape="rect" id="Node000006" href="$d3/d5a/class_r_t_s_engine_1_1_search_1_1_search_cell.html#ac32cd34da1c66f5bf743baedb32717bd" title=" " alt="" coords="928,77,1070,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1103,103,1070,102,1070,97,1103,97"/>
+<area shape="rect" id="Node000003" href="$d8/db8/class_r_t_s_engine_1_1_search_1_1_grid_search_handler.html#a4b17fef448da693ab947fcb51e51ab2e" title=" " alt="" coords="639,14,880,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="928,40,881,40,881,35,928,35"/>
+<area shape="rect" id="Node000004" href="$d8/db8/class_r_t_s_engine_1_1_search_1_1_grid_search_handler.html#ae02a50a2e491976909278611a0186917" title=" " alt="" coords="293,5,591,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="624,40,591,40,591,35,624,35"/>
+<area shape="rect" id="Node000005" href="$d8/db8/class_r_t_s_engine_1_1_search_1_1_grid_search_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,14,245,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,40,245,40,245,35,278,35"/>
+<area shape="poly" id="edge6_Node000006_Node000001" title=" " alt="" coords="1085,80,1117,79,1117,85,1085,85"/>
+</map>

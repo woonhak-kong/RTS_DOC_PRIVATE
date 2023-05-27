@@ -1,0 +1,12 @@
+<map id="IsTargetInRange" name="IsTargetInRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,140,74"/>
+<area shape="rect" id="Node000002" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#ad915cec060191edf091ffe62a1dcde81" title=" " alt="" coords="511,5,766,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,42,147,30,187,21,266,12,347,9,496,12,496,18,347,14,267,17,188,26,148,35,112,47"/>
+<area shape="rect" id="Node000003" href="$d1/dd6/class_r_t_s_engine_1_1_attack_1_1_attack_l_o_s.html#ae33b4b0eb4212bbf586a34eba43bb515" title=" " alt="" coords="205,36,439,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,57,190,57,190,62,140,62"/>
+<area shape="rect" id="Node000004" href="$d4/d1a/class_r_t_s_engine_1_1_attack_1_1_attack_formation_selector.html#aec8b01afea316e2ce1dc393097ddc69b" title=" " alt="" coords="188,107,456,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,72,188,93,213,100,212,105,187,98,118,77"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="419,103,455,93,562,55,564,60,457,98,420,109"/>
+<area shape="rect" id="Node000005" href="$d4/d1a/class_r_t_s_engine_1_1_attack_1_1_attack_formation_selector.html#abc702a4e494b730a7e11d7c9ea844571" title="Get the appropriate stopping distance for an attack depending on the target type." alt="" coords="504,107,772,153"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="457,127,489,127,489,133,457,133"/>
+</map>

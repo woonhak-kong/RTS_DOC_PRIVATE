@@ -1,0 +1,16 @@
+<map id="IEffectObject" name="IEffectObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,448,300,612"/>
+<area shape="rect" id="Node000004" href="$d8/d45/interface_r_t_s_engine_1_1_attack_1_1_i_attack_object.html" title=" " alt="" coords="57,989,163,1107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,627,177,660,121,989,116,988,171,660,178,626"/>
+<area shape="rect" id="Node000006" href="$d3/d81/class_r_t_s_engine_1_1_effect_1_1_effect_object.html" title=" " alt="" coords="187,660,401,1436"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="222,626,228,660,222,661,216,627"/>
+<area shape="rect" id="Node000002" href="$d3/da7/interface_r_t_s_engine_1_1_utilities_1_1_i_poolable_object.html" title=" " alt="" coords="141,327,263,400"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,414,205,448,199,448,199,414"/>
+<area shape="rect" id="Node000003" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="98,5,306,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,293,205,327,199,327,199,293"/>
+<area shape="rect" id="Node000005" href="$d9/d07/class_r_t_s_engine_1_1_attack_1_1_attack_object.html" title=" " alt="" coords="5,1484,215,2147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="113,1121,113,1484,107,1484,107,1121"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="200,1450,192,1485,187,1484,195,1449"/>
+<area shape="rect" id="Node000007" href="$d8/d82/class_r_t_s_engine_1_1_u_i_1_1_resource_notification.html" title=" " alt="" coords="239,1677,431,1954"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="318,1450,331,1677,325,1677,313,1450"/>
+</map>

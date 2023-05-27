@@ -1,0 +1,9 @@
+<map id="IOptionalGameService" name="IOptionalGameService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,5,285,79"/>
+<area shape="rect" id="Node000002" href="$d8/d1a/interface_r_t_s_engine_1_1_save_1_1_i_o_1_1_i_save_formatter.html" title=" " alt="" coords="5,138,197,234"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,92,136,140,132,137,165,89"/>
+<area shape="rect" id="Node000003" href="$d5/d22/interface_r_t_s_engine_1_1_unit_extension_1_1_i_unit_squad_manager.html" title=" " alt="" coords="221,127,379,245"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,89,261,125,257,128,231,92"/>
+<area shape="rect" id="Node000004" href="$de/df7/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad_manager.html" title=" " alt="" coords="198,293,402,752"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,260,303,293,297,293,297,260"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="LooseGame" name="LooseGame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,114,74"/>
+<area shape="rect" id="Node000002" href="$d8/dfe/interface_r_t_s_engine_1_1_audio_1_1_i_game_audio_manager.html#abcb0aaf0710a42221dc8858d7a231c67" title=" " alt="" coords="162,5,399,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,49,146,45,147,50,115,54"/>
+<area shape="rect" id="Node000003" href="$d3/ddc/class_r_t_s_engine_1_1_game_1_1_game_manager.html#a9335a7beb4fa7e6f44f8c6aee885c77a" title=" " alt="" coords="239,76,322,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,64,225,80,224,85,114,69"/>
+<area shape="rect" id="Node000004" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a852dae32e5634a57ee366a3acc4ebbc9" title=" " alt="" coords="447,58,718,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="322,87,432,87,432,93,322,93"/>
+</map>

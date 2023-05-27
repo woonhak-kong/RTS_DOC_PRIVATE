@@ -1,0 +1,4 @@
+var _n_p_c_territory_defense_order_unit_behaviour_data_8cs =
+[
+    [ "NPCTerritoryDefenseOrderUnitBehaviourData", "d0/d9c/struct_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_territory_defense_order_unit_behaviour_data.html", "d0/d9c/struct_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_territory_defense_order_unit_behaviour_data" ]
+];

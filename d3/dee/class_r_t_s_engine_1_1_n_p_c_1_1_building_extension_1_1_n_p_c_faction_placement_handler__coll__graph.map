@@ -1,0 +1,13 @@
+<map id="NPCFactionPlacementHandler" name="NPCFactionPlacementHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="196,1251,440,1845"/>
+<area shape="rect" id="Node000002" href="$d3/d93/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_base.html" title=" " alt="" coords="5,332,239,1131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,1143,249,1251,244,1252,218,1145"/>
+<area shape="rect" id="Node000003" href="$d0/d22/interface_r_t_s_engine_1_1_building_extension_1_1_i_building_placement_handler.html" title=" " alt="" coords="22,5,222,283"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,297,125,332,119,332,119,297"/>
+<area shape="rect" id="Node000004" href="$d3/d00/class_r_t_s_engine_1_1_float_range.html" title=" " alt="" coords="263,683,386,779"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="327,779,322,1155,321,1234,316,1234,317,1155,321,779"/>
+<area shape="rect" id="Node000005" href="$d7/d61/class_r_t_s_engine_1_1_range.html" title=" " alt="" coords="263,39,386,249"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="327,263,327,684,322,684,322,263"/>
+<area shape="rect" id="Node000006" href="$d4/d29/class_r_t_s_engine_1_1_building_extension_1_1_building_place_around_handler.html" title=" " alt="" coords="416,627,649,836"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="543,836,544,921,541,1021,529,1125,506,1227,482,1293,450,1356,446,1354,477,1291,501,1226,524,1124,535,1020,539,921,538,836"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="OnFactionDefeatedLocal" name="OnFactionDefeatedLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,147,202,176"/>
+<area shape="rect" id="Node000002" href="$d2/d23/interface_r_t_s_engine_1_1_u_i_1_1_i_game_u_i_text_display_manager.html#ae0f04e74510f46b4393ba41bd274349d" title=" " alt="" coords="257,5,522,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,145,181,113,249,79,263,73,265,78,251,84,184,117,130,149"/>
+<area shape="rect" id="Node000003" href="$d3/ddc/class_r_t_s_engine_1_1_game_1_1_game_manager.html#a974e44d3ae064bf292abb74632e59f24" title=" " alt="" coords="335,147,444,176"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,159,320,159,320,164,202,164"/>
+<area shape="rect" id="Node000007" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a79ca5488dd3e1fd57f38749821fa99ed" title=" " alt="" coords="252,200,527,265"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="166,174,242,193,241,198,164,179"/>
+<area shape="rect" id="Node000008" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#abb5f7307c03e178ae138a4f802baac4c" title=" " alt="" coords="250,289,529,354"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="121,174,176,223,212,250,251,274,264,281,262,285,248,279,209,254,173,227,118,178"/>
+<area shape="rect" id="Node000009" href="$d3/ddc/class_r_t_s_engine_1_1_game_1_1_game_manager.html#a2c0f8397f25c541a9f13c6eaf691a6f2" title=" " alt="" coords="344,94,435,123"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="184,144,329,117,330,122,185,149"/>
+<area shape="rect" id="Node000004" href="$d8/dfe/interface_r_t_s_engine_1_1_audio_1_1_i_game_audio_manager.html#abcb0aaf0710a42221dc8858d7a231c67" title=" " alt="" coords="577,81,814,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,149,562,127,563,132,444,154"/>
+<area shape="rect" id="Node000005" href="$d3/ddc/class_r_t_s_engine_1_1_game_1_1_game_manager.html#a9335a7beb4fa7e6f44f8c6aee885c77a" title=" " alt="" coords="655,151,737,180"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="444,160,640,162,640,168,444,165"/>
+<area shape="rect" id="Node000006" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a852dae32e5634a57ee366a3acc4ebbc9" title=" " alt="" coords="862,133,1134,198"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="737,163,847,163,847,168,737,168"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="435,105,562,103,562,109,436,110"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="436,114,641,153,640,158,435,119"/>
+</map>

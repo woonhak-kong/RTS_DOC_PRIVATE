@@ -1,0 +1,14 @@
+<map id="NPCDefenseManager" name="NPCDefenseManager">
+<area shape="rect" id="Node000001" title="Responsible for defending a NPC faction&#39;s territory." alt="" coords="133,1227,381,1859"/>
+<area shape="rect" id="Node000002" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html" title=" " alt="" coords="5,493,261,1179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,1192,205,1226,199,1227,193,1193"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="73,349,194,423"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,437,136,493,131,493,131,437"/>
+<area shape="rect" id="Node000004" href="$dc/d33/interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_component.html" title=" " alt="" coords="267,327,403,445"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="296,459,277,495,264,523,259,520,272,492,291,456"/>
+<area shape="rect" id="Node000006" href="$d3/d5b/interface_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_i_n_p_c_defense_manager.html" title=" " alt="" coords="286,754,479,918"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="345,459,377,754,371,755,340,460"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="231,5,439,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="337,293,337,327,332,327,332,293"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="368,932,316,1227,311,1226,363,932"/>
+</map>

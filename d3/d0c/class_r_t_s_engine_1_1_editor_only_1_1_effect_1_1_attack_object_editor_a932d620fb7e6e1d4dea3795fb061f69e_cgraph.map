@@ -1,0 +1,11 @@
+<map id="OnComponentSpecificInspectorGUI" name="OnComponentSpecificInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,274,114"/>
+<area shape="rect" id="Node000002" href="$d3/d0c/class_r_t_s_engine_1_1_editor_only_1_1_effect_1_1_attack_object_editor.html#a53c04b1ca6c82c801af4b423a0f74921" title=" " alt="" coords="347,5,538,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,82,321,44,356,35,357,40,322,49,189,87"/>
+<area shape="rect" id="Node000003" href="$d3/d0c/class_r_t_s_engine_1_1_editor_only_1_1_effect_1_1_attack_object_editor.html#af01f0ba57b75920df6fd324f27f22530" title=" " alt="" coords="333,59,552,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,85,318,81,318,87,274,90"/>
+<area shape="rect" id="Node000004" href="$d3/d0c/class_r_t_s_engine_1_1_editor_only_1_1_effect_1_1_attack_object_editor.html#a2a8c4c7c00f5f23d2d0fb96be9c02758" title=" " alt="" coords="322,112,563,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="274,109,307,112,306,117,274,114"/>
+<area shape="rect" id="Node000005" href="$d3/d0c/class_r_t_s_engine_1_1_editor_only_1_1_effect_1_1_attack_object_editor.html#a24a48a283bdbabcf3ee5b5aaa26f5e8a" title=" " alt="" coords="341,165,544,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="189,112,322,150,357,159,356,164,321,156,187,117"/>
+</map>
