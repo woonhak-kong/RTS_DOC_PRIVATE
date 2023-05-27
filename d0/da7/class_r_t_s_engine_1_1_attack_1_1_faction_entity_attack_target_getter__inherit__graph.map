@@ -1,0 +1,11 @@
+<map id="FactionEntityAttackTargetGetter" name="FactionEntityAttackTargetGetter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,369,255,575"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,248,127,321"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,333,111,368,106,371,88,335"/>
+<area shape="rect" id="Node000003" href="$d8/d11/interface_r_t_s_engine_1_1_attack_1_1_i_attack_target_position_getter.html" title=" " alt="" coords="151,248,357,321"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,335,214,371,209,368,227,333"/>
+<area shape="rect" id="Node000004" href="$d7/d9a/interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="173,127,335,200"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,214,257,248,251,248,251,214"/>
+<area shape="rect" id="Node000005" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="189,5,319,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,93,257,127,251,127,251,93"/>
+</map>

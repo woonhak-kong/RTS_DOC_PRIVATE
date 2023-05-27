@@ -1,0 +1,9 @@
+<map id="OnTargetDisabled" name="OnTargetDisabled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,155,104"/>
+<area shape="rect" id="Node000002" href="$da/df7/interface_r_t_s_engine_1_1_movement_1_1_i_movement_controller.html#a0b0a8402327309e2554c218967e472fe" title="Called by the IMovementComponent instance when the unit is disabled." alt="" coords="203,5,459,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,73,218,54,219,59,142,78"/>
+<area shape="rect" id="Node000003" href="$d0/d6f/class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#ac1f59dc5bcc8c76451c963e0c4ca477e" title=" " alt="" coords="220,76,442,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,87,205,87,205,93,155,93"/>
+<area shape="rect" id="Node000004" href="$da/d03/interface_r_t_s_engine_1_1_movement_1_1_i_movement_target_position_marker.html#a9ad9379236c9ed3345222542d6fd73e9" title=" " alt="" coords="203,128,459,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,102,219,121,218,126,141,107"/>
+</map>

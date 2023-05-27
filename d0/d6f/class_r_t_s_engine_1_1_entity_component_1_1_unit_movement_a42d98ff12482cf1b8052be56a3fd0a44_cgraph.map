@@ -1,0 +1,7 @@
+<map id="UpdateMovementRotation" name="UpdateMovementRotation">
+<area shape="rect" id="Node000001" title="Handles updating the unit&#39;s rotation while it is in its movement state. This mainly handles blocking ..." alt="" coords="5,14,208,43"/>
+<area shape="rect" id="Node000002" href="$d0/d6f/class_r_t_s_engine_1_1_entity_component_1_1_unit_movement.html#a7aeccc68e06146747d09b143fd0036ec" title="Deactivates the movement controller and sets the unit&#39;s rotation target to the next corner in the pat..." alt="" coords="256,14,456,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,26,240,26,240,31,208,31"/>
+<area shape="rect" id="Node000003" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#ab96b32f111a8f77c3e87d9094354030a" title=" " alt="" coords="504,5,750,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,26,489,26,489,31,456,31"/>
+</map>

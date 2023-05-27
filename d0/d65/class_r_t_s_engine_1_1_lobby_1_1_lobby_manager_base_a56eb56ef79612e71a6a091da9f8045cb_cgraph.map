@@ -1,0 +1,7 @@
+<map id="AddFactionSlot" name="AddFactionSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,135,61"/>
+<area shape="rect" id="Node000002" href="$d0/d65/class_r_t_s_engine_1_1_lobby_1_1_lobby_manager_base.html#a856654e7d6cce1949fa0d6c6114cce63" title=" " alt="" coords="183,5,424,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,36,168,33,168,38,135,42"/>
+<area shape="rect" id="Node000003" href="$d0/d65/class_r_t_s_engine_1_1_lobby_1_1_lobby_manager_base.html#ada7bd7efd26e9709595b3eadf5271c0a" title=" " alt="" coords="209,59,398,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,51,195,58,194,63,135,56"/>
+</map>

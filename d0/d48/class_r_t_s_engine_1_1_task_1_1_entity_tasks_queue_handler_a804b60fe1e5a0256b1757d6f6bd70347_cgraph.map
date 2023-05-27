@@ -1,0 +1,11 @@
+<map id="TryLaunchNext" name="TryLaunchNext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,129,104"/>
+<area shape="rect" id="Node000002" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a68bc67b62407402b3ab782409b0d1989" title=" " alt="" coords="177,5,422,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,73,194,54,195,59,125,78"/>
+<area shape="rect" id="Node000003" href="$d0/d48/class_r_t_s_engine_1_1_task_1_1_entity_tasks_queue_handler.html#ae5a2a5099916576e14c7613c330c24a1" title=" " alt="" coords="208,76,391,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,87,193,87,193,93,129,93"/>
+<area shape="rect" id="Node000004" href="$d0/d48/class_r_t_s_engine_1_1_task_1_1_entity_tasks_queue_handler.html#a8151945ca93506e82dfeefdb902c8309" title=" " alt="" coords="470,102,699,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="391,96,456,102,455,107,391,101"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="469,127,329,129,252,126,176,119,132,111,133,106,177,114,253,121,329,123,469,121"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="536,103,529,93,535,84,554,78,585,76,619,78,637,85,635,90,618,84,585,81,555,83,538,88,534,93,540,100"/>
+</map>

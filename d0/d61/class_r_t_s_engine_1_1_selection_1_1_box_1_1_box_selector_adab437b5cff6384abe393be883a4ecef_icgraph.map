@@ -1,0 +1,7 @@
+<map id="IsTargetInSelectionBox" name="IsTargetInSelectionBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="341,5,521,34"/>
+<area shape="rect" id="Node000002" href="$d0/d61/class_r_t_s_engine_1_1_selection_1_1_box_1_1_box_selector.html#a6c41724901c5a28effffc67331cc093b" title=" " alt="" coords="126,5,293,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,22,293,22,293,17,326,17"/>
+<area shape="rect" id="Node000003" href="$d0/d61/class_r_t_s_engine_1_1_selection_1_1_box_1_1_box_selector.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="5,5,78,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,22,78,22,78,17,111,17"/>
+</map>

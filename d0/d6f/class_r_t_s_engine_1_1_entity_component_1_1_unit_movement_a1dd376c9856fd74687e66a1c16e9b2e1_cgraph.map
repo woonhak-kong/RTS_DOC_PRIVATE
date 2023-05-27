@@ -1,0 +1,5 @@
+<map id="UpdateIdleRotation" name="UpdateIdleRotation">
+<area shape="rect" id="Node000001" title="Handles updating the unit&#39;s rotation while in idle state." alt="" coords="5,14,160,43"/>
+<area shape="rect" id="Node000002" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#ab96b32f111a8f77c3e87d9094354030a" title=" " alt="" coords="208,5,454,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,26,193,26,193,31,160,31"/>
+</map>

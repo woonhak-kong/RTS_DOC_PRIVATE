@@ -1,0 +1,9 @@
+<map id="CompleteTaskAction" name="CompleteTaskAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,50,173,79"/>
+<area shape="rect" id="Node000002" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a9b8d0bb48abf63a6f727708a98d1dde5" title="Determines whether an entity instance belongs to the local player or not." alt="" coords="221,50,495,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,62,205,62,205,67,173,67"/>
+<area shape="rect" id="Node000003" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a942c81adff888a4382d1daf0fe7b1535" title=" " alt="" coords="548,5,783,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="486,47,533,41,534,47,486,52"/>
+<area shape="rect" id="Node000004" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a68bc67b62407402b3ab782409b0d1989" title=" " alt="" coords="543,76,788,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="491,77,529,81,528,87,490,82"/>
+</map>

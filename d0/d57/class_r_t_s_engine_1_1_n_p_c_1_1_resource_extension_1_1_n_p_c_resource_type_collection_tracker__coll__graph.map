@@ -1,0 +1,7 @@
+<map id="NPCResourceTypeCollectionTracker" name="NPCResourceTypeCollectionTracker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,554,233,959"/>
+<area shape="rect" id="Node000002" href="$d4/d35/interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_manager.html" title=" " alt="" coords="15,328,223,488"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,488,122,537,117,537,117,488"/>
+<area shape="rect" id="Node000003" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="15,5,223,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,293,122,328,117,328,117,293"/>
+</map>
