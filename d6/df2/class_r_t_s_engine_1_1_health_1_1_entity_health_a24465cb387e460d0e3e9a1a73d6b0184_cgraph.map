@@ -1,0 +1,9 @@
+<map id="SetMaxLocal" name="SetMaxLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,118,61"/>
+<area shape="rect" id="Node000002" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#aebf70c0cad2a8c24d3b231920c66bc77" title=" " alt="" coords="210,5,355,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,37,194,28,195,33,118,42"/>
+<area shape="rect" id="Node000003" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#aa8b862af4df478108467e2723ddcbcd8" title=" " alt="" coords="166,59,399,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,50,151,54,150,60,118,56"/>
+<area shape="rect" id="Node000004" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a60d02f924d9c9a6de0c86a9fe6d50e4b" title=" " alt="" coords="447,41,749,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,70,432,70,432,76,399,76"/>
+</map>

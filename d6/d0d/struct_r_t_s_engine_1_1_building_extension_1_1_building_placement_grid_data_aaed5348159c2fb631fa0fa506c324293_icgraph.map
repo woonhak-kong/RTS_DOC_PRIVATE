@@ -1,0 +1,13 @@
+<map id="ApplyPivotPoint" name="ApplyPivotPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1060,94,1192,123"/>
+<area shape="rect" id="Node000002" href="$d5/d6b/class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer.html#ab442f40d5b3b5ed1c3e2f286663dcd99" title=" " alt="" coords="728,5,1012,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1076,91,1011,67,971,55,972,50,1013,62,1078,86"/>
+<area shape="rect" id="Node000003" href="$d5/d6b/class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placer.html#af4094c0aba39debf630be6e8858e7358" title=" " alt="" coords="734,76,1007,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1046,111,1007,111,1007,106,1046,106"/>
+<area shape="rect" id="Node000004" href="$dc/d73/class_r_t_s_engine_1_1_building_extension_1_1_advanced_building_placement_handler_base.html#abb7e54ee490339d530a6d918b3e01231" title=" " alt="" coords="733,166,1008,230"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1076,131,1013,155,977,168,975,163,1011,150,1074,126"/>
+<area shape="rect" id="Node000005" href="$de/dad/class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#a12656bdad4a48d4c7299d0ede81c8825" title=" " alt="" coords="367,166,680,230"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="718,201,680,201,680,195,718,195"/>
+<area shape="rect" id="Node000006" href="$de/dad/class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,166,319,230"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="352,201,319,201,319,195,352,195"/>
+</map>

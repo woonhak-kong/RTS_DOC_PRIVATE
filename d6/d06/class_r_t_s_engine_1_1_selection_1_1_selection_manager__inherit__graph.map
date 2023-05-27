@@ -1,0 +1,15 @@
+<map id="SelectionManager" name="SelectionManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,985,266,1667"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,717,127,790"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,804,107,985,102,986,72,805"/>
+<area shape="rect" id="Node000003" href="$de/dd0/interface_r_t_s_engine_1_1_selection_1_1_i_selection_manager.html" title=" " alt="" coords="151,569,360,937"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,952,220,986,214,985,220,951"/>
+<area shape="rect" id="Node000004" href="$db/df9/interface_r_t_s_engine_1_1_game_1_1_i_pre_run_game_service.html" title=" " alt="" coords="173,448,337,521"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,536,258,569,253,569,253,536"/>
+<area shape="rect" id="Node000005" href="$d2/dbe/interface_r_t_s_engine_1_1_game_1_1_i_game_service.html" title=" " alt="" coords="199,327,311,400"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="258,414,258,448,253,448,253,414"/>
+<area shape="rect" id="Node000006" href="$d6/d76/interface_r_t_s_engine_1_1_service_1_1_i_service_component.html" title=" " alt="" coords="72,96,231,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="181,200,241,326,236,328,176,202"/>
+<area shape="rect" id="Node000007" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="255,5,463,279"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="291,292,274,328,270,326,287,290"/>
+</map>

@@ -1,0 +1,5 @@
+var _n_p_c_resource_collector_8cs =
+[
+    [ "NPCResourceCollector", "d3/dd0/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector.html", "d3/dd0/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector" ],
+    [ "NPCResourceCollector.NPCResourceTypeCollectionTrackerLogData", "d9/d3b/struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector_1_1_n_p_c_reso23a2dc234d7d7c5dd4097bd89f5931e4.html", "d9/d3b/struct_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_collector_1_1_n_p_c_reso23a2dc234d7d7c5dd4097bd89f5931e4" ]
+];

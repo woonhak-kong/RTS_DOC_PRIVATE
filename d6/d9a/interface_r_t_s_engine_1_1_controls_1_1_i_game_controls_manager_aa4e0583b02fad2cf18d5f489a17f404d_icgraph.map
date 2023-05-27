@@ -1,0 +1,26 @@
+<map id="Get" name="Get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="728,377,774,406"/>
+<area shape="rect" id="Node000002" href="$dc/d26/class_r_t_s_engine_1_1_cameras_1_1_main_camera_rotation_handler_base.html#a83547725c7532a8ebd835d603857bc2d" title=" " alt="" coords="391,5,656,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="745,362,738,292,724,203,705,120,692,88,678,67,655,49,658,45,682,63,697,85,710,118,730,202,743,291,750,362"/>
+<area shape="rect" id="Node000003" href="$de/dad/class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#a1e60e11219a376636a86161d0001bb10" title=" " alt="" coords="367,76,680,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="747,363,744,317,733,262,712,205,697,179,678,156,663,144,667,140,682,152,702,176,717,203,738,260,749,317,752,362"/>
+<area shape="rect" id="Node000004" href="$da/d38/class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html#af8492050867e77c60bd8a0fb1d9771a3" title=" " alt="" coords="379,166,668,230"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="741,363,720,303,702,272,678,245,661,233,664,229,682,241,706,269,725,301,746,362"/>
+<area shape="rect" id="Node000006" href="$de/dad/class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#af8492050867e77c60bd8a0fb1d9771a3" title=" " alt="" coords="367,255,680,320"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="724,369,703,351,679,335,652,323,655,318,681,330,706,346,727,365"/>
+<area shape="rect" id="Node000008" href="$d4/d44/class_r_t_s_engine_1_1_selection_1_1_selection_group_handler.html#aec0783b5a136e042adcc47bae4fe5291" title=" " alt="" coords="404,368,643,415"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="713,394,644,394,644,389,713,389"/>
+<area shape="rect" id="Node000009" href="$de/d40/class_r_t_s_engine_1_1_selection_1_1_selection_group.html#a9c909cca6e9d2fa1dc88c3ecc06c9696" title=" " alt="" coords="404,439,643,485"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="716,414,681,430,644,441,643,436,679,425,714,409"/>
+<area shape="rect" id="Node000010" href="$d1/d20/class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_panning_handler.html#ab801ffdb964fa23df75048d8e4e06697" title=" " alt="" coords="380,509,667,556"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="741,421,718,462,701,483,682,500,663,511,660,506,678,496,698,479,713,459,736,418"/>
+<area shape="rect" id="Node000011" href="$d4/d92/class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_rotation_handler.html#ab801ffdb964fa23df75048d8e4e06697" title=" " alt="" coords="379,580,668,627"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="749,421,743,456,730,496,711,536,682,571,666,582,663,577,678,567,706,533,725,494,738,454,744,420"/>
+<area shape="rect" id="Node000012" href="$d5/df8/class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_zoom_handler.html#ab801ffdb964fa23df75048d8e4e06697" title=" " alt="" coords="388,651,659,697"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="753,421,751,469,741,528,719,589,703,617,682,641,661,657,657,652,678,637,699,614,715,587,736,527,745,468,748,421"/>
+<area shape="rect" id="Node000005" href="$da/d38/class_r_t_s_engine_1_1_building_extension_1_1_local_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="30,166,294,230"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="364,201,294,201,294,195,364,195"/>
+<area shape="rect" id="Node000007" href="$de/dad/class_r_t_s_engine_1_1_building_extension_1_1_advanced_local_faction_placement_handler.html#a024991353ce4bc2ea78ea776931ddb25" title=" " alt="" coords="5,255,319,320"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="352,290,319,290,319,285,352,285"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="561,356,547,349,523,347,502,349,489,353,484,359,485,367,479,368,479,358,486,349,501,343,523,341,548,344,563,351"/>
+</map>

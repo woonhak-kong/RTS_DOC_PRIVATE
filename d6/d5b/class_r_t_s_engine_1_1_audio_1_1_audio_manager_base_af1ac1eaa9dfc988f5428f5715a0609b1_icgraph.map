@@ -1,0 +1,7 @@
+<map id="StopMusic" name="StopMusic">
+<area shape="rect" id="Node000001" title="Stops playing music loops." alt="" coords="612,14,707,43"/>
+<area shape="rect" id="Node000002" href="$d3/df3/class_r_t_s_engine_1_1_audio_1_1_game_audio_manager.html#a4a4cf7d09fa92f9201b429f9c22903b4" title=" " alt="" coords="288,5,564,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,31,564,31,564,26,597,26"/>
+<area shape="rect" id="Node000003" href="$d3/df3/class_r_t_s_engine_1_1_audio_1_1_game_audio_manager.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,5,240,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,31,240,31,240,26,273,26"/>
+</map>

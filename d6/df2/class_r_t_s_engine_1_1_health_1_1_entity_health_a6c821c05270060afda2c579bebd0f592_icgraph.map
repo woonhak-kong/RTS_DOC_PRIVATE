@@ -1,0 +1,15 @@
+<map id="Destroy" name="Destroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="588,83,664,111"/>
+<area shape="rect" id="Node000002" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a8afaaccdad3eca0d005055354fcb69eb" title=" " alt="" coords="425,29,513,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="573,82,512,61,514,56,575,77"/>
+<area shape="rect" id="Node000005" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#ad3a61c81502c1fbfea65243b1d020a53" title=" " alt="" coords="397,83,540,111"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="573,100,541,100,541,94,573,94"/>
+<area shape="rect" id="Node000006" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a3aa2a1abf8a38911fe27f45613b8f607" title=" " alt="" coords="206,108,320,137"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="575,118,541,126,482,132,423,134,320,130,320,125,423,129,482,127,540,121,573,113"/>
+<area shape="rect" id="Node000003" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a25cde3ec3d83479f5402306511b4ee1c" title=" " alt="" coords="177,29,349,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,46,349,46,349,41,410,41"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="296,17,285,10,263,8,243,10,232,15,229,20,233,27,229,30,223,20,228,11,241,5,263,3,286,5,299,12"/>
+<area shape="rect" id="Node000004" href="$d6/df2/class_r_t_s_engine_1_1_health_1_1_entity_health.html#a34fba03cc03f19bcb0bba63c31d21abb" title=" " alt="" coords="5,29,129,58"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="162,46,129,46,129,41,162,41"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="383,110,320,118,319,113,382,105"/>
+</map>

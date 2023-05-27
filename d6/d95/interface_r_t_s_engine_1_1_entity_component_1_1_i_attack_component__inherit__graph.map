@@ -1,0 +1,19 @@
+<map id="IAttackComponent" name="IAttackComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,1257,337,1761"/>
+<area shape="rect" id="Node000007" href="$d7/d5d/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_attack.html" title=" " alt="" coords="89,1809,337,3103"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="216,1776,216,1809,211,1809,211,1776"/>
+<area shape="rect" id="Node000002" href="$d4/d4c/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_target_component.html" title=" " alt="" coords="107,796,320,1209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,1224,216,1257,211,1257,211,1224"/>
+<area shape="rect" id="Node000003" href="$d8/df1/interface_r_t_s_engine_1_1_entity_component_1_1_i_entity_component.html" title=" " alt="" coords="101,448,325,748"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,762,216,796,211,796,211,762"/>
+<area shape="rect" id="Node000004" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="5,127,213,400"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,413,169,447,164,449,153,414"/>
+<area shape="rect" id="Node000005" href="$d7/d9a/interface_r_t_s_engine_1_1_entities_1_1_i_entity_post_initializable.html" title=" " alt="" coords="238,227,399,300"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="306,314,263,449,258,447,301,313"/>
+<area shape="rect" id="Node000006" href="$d9/de3/interface_r_t_s_engine_1_1_entities_1_1_i_entity_initializable.html" title=" " alt="" coords="254,5,383,79"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="321,93,321,227,316,227,316,93"/>
+<area shape="rect" id="Node000008" href="$d5/d03/class_r_t_s_engine_1_1_entity_component_1_1_building_attack.html" title=" " alt="" coords="8,3500,176,3619"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="143,3117,101,3500,96,3500,138,3117"/>
+<area shape="rect" id="Node000009" href="$d3/d4e/class_r_t_s_engine_1_1_entity_component_1_1_unit_attack.html" title=" " alt="" coords="201,3151,471,3968"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="289,3117,293,3151,288,3151,284,3117"/>
+</map>

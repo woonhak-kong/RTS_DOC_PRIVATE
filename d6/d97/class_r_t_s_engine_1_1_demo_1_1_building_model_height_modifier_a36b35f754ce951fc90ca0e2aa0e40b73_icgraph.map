@@ -1,0 +1,6 @@
+<map id="HandleEntityDead" name="HandleEntityDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,29,261,58"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="213,17,204,10,187,8,172,10,164,14,162,20,165,28,160,30,156,20,160,11,170,5,187,3,206,5,216,12"/>
+<area shape="rect" id="Node000002" href="$d6/d97/class_r_t_s_engine_1_1_demo_1_1_building_model_height_modifier.html#a01f1070c46e4cc24d25a0ea0869bc972" title=" " alt="" coords="5,29,66,58"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="99,46,66,46,66,41,99,41"/>
+</map>
