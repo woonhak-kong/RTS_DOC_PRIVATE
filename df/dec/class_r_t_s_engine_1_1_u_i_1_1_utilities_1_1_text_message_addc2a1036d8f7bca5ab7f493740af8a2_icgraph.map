@@ -1,0 +1,13 @@
+<map id="Init" name="Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="672,59,712,87"/>
+<area shape="rect" id="Node000002" href="$dd/ddf/class_r_t_s_engine_1_1_u_i_1_1_peace_time_u_i_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="329,5,624,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="658,61,623,49,574,37,576,32,625,44,660,56"/>
+<area shape="rect" id="Node000003" href="$df/d04/class_r_t_s_engine_1_1_u_i_1_1_tooltip_u_i_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="346,59,607,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="657,76,607,76,607,70,657,70"/>
+<area shape="rect" id="Node000004" href="$db/df9/class_r_t_s_engine_1_1_u_i_1_1_player_message_u_i_handler_base.html#a3d0b4082a7bebe90886a35cf7f23d8fa" title=" " alt="" coords="360,111,593,158"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="659,90,625,102,588,113,586,108,623,97,658,84"/>
+<area shape="rect" id="Node000005" href="$d2/d4a/class_r_t_s_engine_1_1_u_i_1_1_game_player_message_u_i_handler.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="5,75,281,122"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="345,123,281,116,282,111,346,118"/>
+<area shape="rect" id="Node000006" href="$db/d56/class_r_t_s_engine_1_1_lobby_1_1_u_i_1_1_lobby_player_message_u_i_handler.html#a13e8bb380e7f50580dbcdc898ece0236" title=" " alt="" coords="32,146,254,192"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="346,151,254,160,254,155,345,145"/>
+</map>

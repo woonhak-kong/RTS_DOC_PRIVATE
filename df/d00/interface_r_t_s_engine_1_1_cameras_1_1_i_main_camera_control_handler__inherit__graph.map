@@ -1,0 +1,21 @@
+<map id="IMainCameraControlHandler" name="IMainCameraControlHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="303,5,514,124"/>
+<area shape="rect" id="Node000002" href="$d4/daf/interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_panning_handler.html" title=" " alt="" coords="40,172,257,404"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,135,259,197,256,192,328,131"/>
+<area shape="rect" id="Node000005" href="$d7/d91/interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_rotation_handler.html" title=" " alt="" coords="299,217,518,359"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="411,139,411,218,406,218,406,139"/>
+<area shape="rect" id="Node000008" href="$d9/db3/interface_r_t_s_engine_1_1_cameras_1_1_i_main_camera_zoom_handler.html" title=" " alt="" coords="560,206,761,370"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="487,131,532,170,571,204,567,208,528,174,484,135"/>
+<area shape="rect" id="Node000003" href="$d1/d09/class_r_t_s_engine_1_1_cameras_1_1_main_camera_panning_handler_base.html" title=" " alt="" coords="5,556,257,1260"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="148,418,144,556,139,556,142,418"/>
+<area shape="rect" id="Node000004" href="$d1/d20/class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_panning_handler.html" title=" " alt="" coords="17,1412,246,1595"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,1274,134,1412,129,1412,129,1274"/>
+<area shape="rect" id="Node000006" href="$dc/d26/class_r_t_s_engine_1_1_cameras_1_1_main_camera_rotation_handler_base.html" title=" " alt="" coords="282,554,535,1262"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="411,373,411,554,406,554,406,373"/>
+<area shape="rect" id="Node000007" href="$d4/d92/class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_rotation_handler.html" title=" " alt="" coords="293,1423,522,1583"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="411,1276,410,1424,405,1424,405,1276"/>
+<area shape="rect" id="Node000009" href="$d2/d17/class_r_t_s_engine_1_1_cameras_1_1_main_camera_zoom_handler_base.html" title=" " alt="" coords="559,452,799,1364"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="666,384,668,452,663,452,661,384"/>
+<area shape="rect" id="Node000010" href="$d5/df8/class_r_t_s_engine_1_1_cameras_1_1_main_camera_keyboard_zoom_handler.html" title=" " alt="" coords="547,1444,812,1563"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="682,1378,682,1444,677,1444,677,1378"/>
+</map>

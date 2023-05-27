@@ -1,0 +1,9 @@
+<map id="ModelChildTransformHandler" name="ModelChildTransformHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,403,301,861"/>
+<area shape="rect" id="Node000002" href="$d4/dbe/class_r_t_s_engine_1_1_model_1_1_model_child_handler.html" title=" " alt="" coords="5,127,172,355"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,368,130,402,125,403,117,369"/>
+<area shape="rect" id="Node000003" href="$da/d50/interface_r_t_s_engine_1_1_model_1_1_i_model_child_transform.html" title=" " alt="" coords="197,136,362,345"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,360,242,404,237,402,248,358"/>
+<area shape="rect" id="Node000004" href="$dd/d94/interface_r_t_s_engine_1_1_model_1_1_i_model_child.html" title=" " alt="" coords="219,5,339,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="282,93,282,136,277,136,277,93"/>
+</map>

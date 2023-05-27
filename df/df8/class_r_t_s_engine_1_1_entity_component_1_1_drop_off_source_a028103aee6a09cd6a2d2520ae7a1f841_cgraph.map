@@ -1,0 +1,9 @@
+<map id="LaunchActionLocal" name="LaunchActionLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,159,70"/>
+<area shape="rect" id="Node000002" href="$df/df8/class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#ab1d97cde87ff611190213c154f477cb8" title=" " alt="" coords="207,41,366,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,53,192,53,192,58,159,58"/>
+<area shape="rect" id="Node000003" href="$df/df8/class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#aca6f6f90140b891c9a969ab9a25e4a7a" title=" " alt="" coords="437,5,651,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="366,42,422,34,423,39,367,47"/>
+<area shape="rect" id="Node000004" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a4cee67076db69798abe901dda5ec20b4" title=" " alt="" coords="414,58,674,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="367,64,400,68,399,73,366,69"/>
+</map>

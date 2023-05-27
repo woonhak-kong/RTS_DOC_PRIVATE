@@ -1,0 +1,19 @@
+<map id="Deal" name="Deal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,226,60,255"/>
+<area shape="rect" id="Node000002" href="$d7/dba/class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#aff9a086b4bfcb9a767e6e735f27843b2" title=" " alt="" coords="122,76,339,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,225,63,179,82,153,106,132,112,128,115,132,109,136,86,157,67,182,42,227"/>
+<area shape="rect" id="Node000006" href="$d6/d3a/class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html#a78ee3a5a62e6bb8ed3e416ef07b20276" title=" " alt="" coords="108,147,353,193"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="59,224,107,202,124,196,126,201,109,207,61,229"/>
+<area shape="rect" id="Node000007" href="$d8/dfe/interface_r_t_s_engine_1_1_audio_1_1_i_game_audio_manager.html#abcb0aaf0710a42221dc8858d7a231c67" title=" " alt="" coords="112,217,349,264"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="60,238,97,238,97,243,60,243"/>
+<area shape="rect" id="Node000008" href="$df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a8c1e149e8a853aa10518de425338aebb" title=" " alt="" coords="128,288,333,316"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="61,252,109,273,136,281,135,286,107,278,59,257"/>
+<area shape="rect" id="Node000009" href="$dd/d27/interface_r_t_s_engine_1_1_effect_1_1_i_effect_object_pool.html#afcfbd9536a0e60dd0e33d310367ea66e" title=" " alt="" coords="134,340,327,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="45,254,71,291,89,310,109,326,122,334,119,338,106,331,85,314,66,294,40,257"/>
+<area shape="rect" id="Node000003" href="$d7/dba/class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#ab05dd73c340047063857952d613c5f53" title=" " alt="" coords="401,5,618,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,73,400,54,401,59,326,78"/>
+<area shape="rect" id="Node000004" href="$d7/dba/class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#af6790a7bb539c2d3d760bfe34d129cff" title=" " alt="" coords="401,76,618,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="339,97,386,97,386,102,339,102"/>
+<area shape="rect" id="Node000005" href="$d7/dba/class_r_t_s_engine_1_1_utilities_1_1_fetcher.html#a967ed4c750af7faa152862f3a014ab97" title=" " alt="" coords="401,147,618,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="326,121,401,140,400,145,325,126"/>
+</map>

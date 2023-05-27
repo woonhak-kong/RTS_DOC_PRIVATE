@@ -1,0 +1,7 @@
+<map id="InitFactionEntities" name="InitFactionEntities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="278,50,422,79"/>
+<area shape="rect" id="Node000002" href="$d7/d4e/class_r_t_s_engine_1_1_faction_1_1_initial_faction_entities_spawner.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="12,5,223,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,54,223,48,223,42,263,49"/>
+<area shape="rect" id="Node000003" href="$da/d53/class_r_t_s_engine_1_1_faction_1_1_faction_slot.html#aa7de0ef3eb909eb5d155126e26ad07d2" title=" " alt="" coords="5,76,230,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,80,231,85,230,80,262,75"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="HandleBorderResourceRemovedGlobal" name="HandleBorderResourceRemovedGlobal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,258,92"/>
+<area shape="rect" id="Node000002" href="$df/d6c/class_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_n_p_c_resource_manager.html#a90aef0eeac7588e73d22016da5b3d6b3" title=" " alt="" coords="306,54,500,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,66,291,66,291,71,258,71"/>
+<area shape="rect" id="Node000003" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="577,5,835,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,53,562,45,563,50,501,58"/>
+<area shape="rect" id="Node000004" href="$d9/deb/interface_r_t_s_engine_1_1_n_p_c_1_1_resource_extension_1_1_i_n_p_c_resource_collector.html#abfca497012df0e4b8926c57454292409" title=" " alt="" coords="548,76,864,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="501,79,534,83,533,89,500,84"/>
+</map>

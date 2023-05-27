@@ -1,0 +1,7 @@
+<map id="IsFactionEntity" name="IsFactionEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,128,61"/>
+<area shape="rect" id="Node000002" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a4089aec7aff711db141bbf407c2ff8bd" title=" " alt="" coords="176,5,264,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,33,161,27,161,32,129,38"/>
+<area shape="rect" id="Node000003" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a75669546212d80b7a4eded69f3f47fba" title=" " alt="" coords="190,59,250,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,54,176,63,175,68,128,60"/>
+</map>

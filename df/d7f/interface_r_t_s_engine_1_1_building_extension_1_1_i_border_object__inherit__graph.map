@@ -1,0 +1,11 @@
+<map id="IBorderObject" name="IBorderObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,448,273,544"/>
+<area shape="rect" id="Node000004" href="$d4/de3/class_r_t_s_engine_1_1_building_extension_1_1_border_minimap_u_i_object.html" title=" " alt="" coords="5,592,213,801"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,558,169,593,164,591,184,555"/>
+<area shape="rect" id="Node000005" href="$d4/d5d/class_r_t_s_engine_1_1_building_extension_1_1_border_object.html" title=" " alt="" coords="238,603,418,790"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="254,555,280,602,275,605,249,558"/>
+<area shape="rect" id="Node000002" href="$d3/da7/interface_r_t_s_engine_1_1_utilities_1_1_i_poolable_object.html" title=" " alt="" coords="157,327,280,400"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,414,221,448,216,448,216,414"/>
+<area shape="rect" id="Node000003" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="115,5,323,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,293,221,327,216,327,216,293"/>
+</map>

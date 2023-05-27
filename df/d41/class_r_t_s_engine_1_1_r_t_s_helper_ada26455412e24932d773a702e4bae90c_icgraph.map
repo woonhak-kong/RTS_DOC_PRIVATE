@@ -1,0 +1,13 @@
+<map id="Init" name="Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="587,85,627,114"/>
+<area shape="rect" id="Node000002" href="$d3/ddc/class_r_t_s_engine_1_1_game_1_1_game_manager.html#ae4b513cddd594f1c359e4f0a3e79a8c6" title=" " alt="" coords="278,5,539,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="573,83,538,66,508,55,509,50,540,61,575,78"/>
+<area shape="rect" id="Node000003" href="$d0/d65/class_r_t_s_engine_1_1_lobby_1_1_lobby_manager_base.html#ae4b513cddd594f1c359e4f0a3e79a8c6" title=" " alt="" coords="280,76,537,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="572,102,537,102,537,97,572,97"/>
+<area shape="rect" id="Node000004" href="$df/d41/class_r_t_s_engine_1_1_r_t_s_helper.html#a94188560499ed8290ea553fe677480d1" title=" " alt="" coords="336,146,481,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="575,121,540,137,482,152,480,147,538,131,573,116"/>
+<area shape="rect" id="Node000005" href="$d7/d4e/class_r_t_s_engine_1_1_faction_1_1_initial_faction_entities_spawner.html#a269421768cd0dd34014f6d6907588ef9" title=" " alt="" coords="12,101,223,148"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,153,223,140,223,135,322,147"/>
+<area shape="rect" id="Node000006" href="$da/d53/class_r_t_s_engine_1_1_faction_1_1_faction_slot.html#aa7de0ef3eb909eb5d155126e26ad07d2" title=" " alt="" coords="5,172,230,219"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="322,174,231,185,230,179,321,168"/>
+</map>

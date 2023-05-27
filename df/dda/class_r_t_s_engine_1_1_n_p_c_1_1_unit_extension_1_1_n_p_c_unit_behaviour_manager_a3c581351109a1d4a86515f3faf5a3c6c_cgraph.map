@@ -1,0 +1,13 @@
+<map id="HandleTerritoryDefenseCancelled" name="HandleTerritoryDefenseCancelled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,262,114"/>
+<area shape="rect" id="Node000002" href="$dc/d29/interface_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_i_n_p_c_unit_creator.html#af1ef9dc6c908b881d5c0ed1bd43dea7b" title=" " alt="" coords="526,5,830,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,82,309,70,511,45,512,50,310,75,230,87"/>
+<area shape="rect" id="Node000003" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="549,147,807,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,112,310,123,534,151,534,157,309,129,229,117"/>
+<area shape="rect" id="Node000004" href="$df/dda/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager.html#a9d90086806c170222c12adf39d348006" title=" " alt="" coords="310,85,478,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,97,295,97,295,102,262,102"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="447,82,525,61,555,53,556,59,527,66,448,87"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="448,112,527,133,556,140,555,145,525,138,447,117"/>
+<area shape="rect" id="Node000005" href="$d4/dee/interface_r_t_s_engine_1_1_movement_1_1_i_movement_manager.html#a9efb73f7d04b22239ce14fa7260b6451" title=" " alt="" coords="550,76,806,123"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="479,97,536,97,536,102,479,102"/>
+</map>

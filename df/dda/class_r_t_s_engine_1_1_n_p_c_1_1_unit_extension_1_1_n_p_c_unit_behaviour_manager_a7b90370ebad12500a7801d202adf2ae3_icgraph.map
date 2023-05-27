@@ -1,0 +1,7 @@
+<map id="HandleAttackCancelled" name="HandleAttackCancelled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="167,32,351,61"/>
+<area shape="rect" id="Node000002" href="$df/dda/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager.html#a3744ca631484a1cca5745cea62f80600" title=" " alt="" coords="5,5,119,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,34,119,30,119,25,152,29"/>
+<area shape="rect" id="Node000003" href="$df/dda/class_r_t_s_engine_1_1_n_p_c_1_1_unit_extension_1_1_n_p_c_unit_behaviour_manager.html#a534c6da30f10b5cfdb0529d3d4168ec3" title="Called after all INPCComponent instances have been cached and initialized by the INPCManager instance..." alt="" coords="16,59,108,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,63,109,69,108,64,152,58"/>
+</map>

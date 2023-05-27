@@ -1,0 +1,7 @@
+<map id="HandleBuildingBuilt" name="HandleBuildingBuilt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,32,340,61"/>
+<area shape="rect" id="Node000002" href="$df/d72/class_r_t_s_engine_1_1_demo_1_1_infinite_rotation.html#a0b0a8402327309e2554c218967e472fe" title=" " alt="" coords="33,5,108,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,36,108,27,109,22,170,31"/>
+<area shape="rect" id="Node000003" href="$df/d72/class_r_t_s_engine_1_1_demo_1_1_infinite_rotation.html#a25d428f586ae81fec6f4611d500bc6ac" title=" " alt="" coords="5,59,136,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,62,136,67,136,61,168,57"/>
+</map>

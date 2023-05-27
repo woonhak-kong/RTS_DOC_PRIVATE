@@ -1,0 +1,7 @@
+<map id="SendToTargetLocal" name="SendToTargetLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,165,70"/>
+<area shape="rect" id="Node000002" href="$df/df8/class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#aca6f6f90140b891c9a969ab9a25e4a7a" title=" " alt="" coords="236,5,450,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,42,220,34,221,39,166,47"/>
+<area shape="rect" id="Node000003" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a4cee67076db69798abe901dda5ec20b4" title=" " alt="" coords="213,58,473,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,64,198,68,198,73,165,69"/>
+</map>

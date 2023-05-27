@@ -1,0 +1,12 @@
+<map id="GenerateRandomIndexList" name="GenerateRandomIndexList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="933,62,1140,91"/>
+<area shape="rect" id="Node000002" href="$d0/d65/class_r_t_s_engine_1_1_lobby_1_1_lobby_manager_base.html#ae4b513cddd594f1c359e4f0a3e79a8c6" title=" " alt="" coords="626,5,883,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="933,62,883,53,884,48,934,57"/>
+<area shape="rect" id="Node000003" href="$d3/ddc/class_r_t_s_engine_1_1_game_1_1_game_manager.html#a51fb7841b4ae412bbf2a91cc9511da0a" title=" " alt="" coords="624,100,885,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="932,97,886,104,885,99,931,91"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="801,88,784,81,755,79,728,81,712,85,705,91,706,99,701,100,700,90,709,81,727,75,755,73,785,76,803,83"/>
+<area shape="rect" id="Node000004" href="$d3/ddc/class_r_t_s_engine_1_1_game_1_1_game_manager.html#af69b55163643eef6df77e533aae209d9" title=" " alt="" coords="315,100,576,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="609,126,576,126,576,121,609,121"/>
+<area shape="rect" id="Node000005" href="$d3/ddc/class_r_t_s_engine_1_1_game_1_1_game_manager.html#ae4b513cddd594f1c359e4f0a3e79a8c6" title=" " alt="" coords="5,100,267,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="300,126,267,126,267,121,300,121"/>
+</map>

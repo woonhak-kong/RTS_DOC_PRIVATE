@@ -1,0 +1,27 @@
+var class_r_t_s_engine_1_1_attack_1_1_attack_damage =
+[
+    [ "Deal", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a0dd9cc162a49395739fba688ced86a7e", null ],
+    [ "OnInit", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a01f1070c46e4cc24d25a0ea0869bc972", null ],
+    [ "RaiseAttackDamageDealt", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a8c1e149e8a853aa10518de425338aebb", null ],
+    [ "Trigger", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a5f80ca2e0cd8c3f5023a427983acf1e8", null ],
+    [ "TriggerArea", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#ae46ee737a55c988a3a30409f741eae8e", null ],
+    [ "UpdateAreaAttackDamage", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a1dada4cdacfc654bc213571c51c38951", null ],
+    [ "UpdateDamage", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#ae1006e8668eca372c653fa4f5f12c86a", null ],
+    [ "UpdateDotData", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a9e4f73a04a4e8b88474e41bd70907ede", null ],
+    [ "areaAttackData", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a4dd293eaa07b24aca4cb6eb231f92836", null ],
+    [ "areaAttackEnabled", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#aaecddb63254b55a9cd3f45bcd96b0c8a", null ],
+    [ "AttackDamageDealt", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a5e25d0a4f955472db0893b1a872616cc", null ],
+    [ "damageDealtEvent", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a347a692992343ab5566eee304506bebc", null ],
+    [ "data", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#adb8121417b82c09b7110d32eedda1b05", null ],
+    [ "dotData", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#aa071178abde9a5eb52ab4c09e644ace6", null ],
+    [ "dotEnabled", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#abf0e7d18c31dfb5ca01372771aa9e4a0", null ],
+    [ "enabled", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a8740ba80e30dd75e71d09fa1dcf04f3d", null ],
+    [ "hitEffects", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a8f41fe78f743db0429e19c898a9aa2c9", null ],
+    [ "resetDamageDealt", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#ac8fbbf904b77fab81efe65df3970b86a", null ],
+    [ "AreaAttackData", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#abdc7b1cf04093caddf58b35fd9ba9f2e", null ],
+    [ "DamageDealt", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a5149275293265a07daffa914882c2ea5", null ],
+    [ "Data", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a12c8309fe7c136952967e7ba16bf121f", null ],
+    [ "DotData", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#ac8b1ffc21a8f019b663efb2c4d50b929", null ],
+    [ "gridSearch", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a43c4af71b835588f32676bc0653afbd0", null ],
+    [ "LastTarget", "df/db4/class_r_t_s_engine_1_1_attack_1_1_attack_damage.html#a155fb28dc6a0caef5a49e507da1f84ef", null ]
+];

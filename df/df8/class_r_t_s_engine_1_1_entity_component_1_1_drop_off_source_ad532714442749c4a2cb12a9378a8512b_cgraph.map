@@ -1,0 +1,9 @@
+<map id="HandleOwnFactionEntityRemoved" name="HandleOwnFactionEntityRemoved">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,264,70"/>
+<area shape="rect" id="Node000002" href="$df/df8/class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#adbe8636f64b9ce024e37e05ecc8a5ead" title=" " alt="" coords="312,41,429,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,53,297,53,297,58,264,58"/>
+<area shape="rect" id="Node000003" href="$df/df8/class_r_t_s_engine_1_1_entity_component_1_1_drop_off_source.html#a47579d1e34a91732e44347b18a6e9102" title=" " alt="" coords="512,5,680,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,44,497,33,497,38,430,49"/>
+<area shape="rect" id="Node000004" href="$da/d39/class_r_t_s_engine_1_1_entity_component_1_1_faction_entity_target_component.html#a500bfa1d5fcff4164d73d7fa06f47446" title=" " alt="" coords="477,58,714,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="430,62,463,67,462,72,429,67"/>
+</map>

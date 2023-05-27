@@ -1,0 +1,13 @@
+<map id="OnDestroy" name="OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,101,74"/>
+<area shape="rect" id="Node000002" href="$df/d32/class_r_t_s_engine_1_1_selection_1_1_selector_base.html#a37467ef6d065ed62b52bbbfd82a59d0f" title=" " alt="" coords="149,45,364,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,57,134,57,134,62,101,62"/>
+<area shape="rect" id="Node000003" href="$de/dd0/interface_r_t_s_engine_1_1_selection_1_1_i_selection_manager.html#a9aa9f847832ca5467851014a0d73e9bc" title=" " alt="" coords="412,5,654,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,45,397,41,398,46,365,50"/>
+<area shape="rect" id="Node000004" href="$df/d32/class_r_t_s_engine_1_1_selection_1_1_selector_base.html#a923b2a2028cd0a0918f55b0eb22fd3b6" title=" " alt="" coords="451,76,616,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,69,436,77,436,82,364,74"/>
+<area shape="rect" id="Node000005" href="$de/dd0/interface_r_t_s_engine_1_1_selection_1_1_i_selection_manager.html#aa78ee55184da33271d339f15eaf2a669" title=" " alt="" coords="705,36,948,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="616,79,690,71,691,76,617,84"/>
+<area shape="rect" id="Node000006" href="$df/d32/class_r_t_s_engine_1_1_selection_1_1_selector_base.html#aff535cb7a8e9dfa39458f58e92d2ef94" title=" " alt="" coords="702,106,951,135"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="617,96,688,103,687,109,616,101"/>
+</map>

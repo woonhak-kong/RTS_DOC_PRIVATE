@@ -1,0 +1,13 @@
+<map id="ILoggingService" name="ILoggingService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,327,266,604"/>
+<area shape="rect" id="Node000003" href="$d2/d52/interface_r_t_s_engine_1_1_lobby_1_1_logging_1_1_i_lobby_logging_service.html" title=" " alt="" coords="5,652,175,725"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,618,108,653,103,651,118,616"/>
+<area shape="rect" id="Node000005" href="$d2/d69/interface_r_t_s_engine_1_1_logging_1_1_i_game_logging_service.html" title=" " alt="" coords="199,652,368,725"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="255,616,270,651,265,653,250,618"/>
+<area shape="rect" id="Node000002" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="82,5,290,279"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,293,189,327,183,327,183,293"/>
+<area shape="rect" id="Node000004" href="$d9/d86/class_r_t_s_engine_1_1_lobby_1_1_logging_1_1_lobby_logger.html" title=" " alt="" coords="37,773,143,847"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="93,740,93,774,87,774,87,740"/>
+<area shape="rect" id="Node000006" href="$d8/dc8/class_r_t_s_engine_1_1_logging_1_1_game_logger.html" title=" " alt="" coords="231,773,336,847"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="286,740,286,774,281,774,281,740"/>
+</map>

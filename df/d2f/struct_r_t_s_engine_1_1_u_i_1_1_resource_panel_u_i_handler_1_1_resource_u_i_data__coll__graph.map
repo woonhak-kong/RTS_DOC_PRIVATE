@@ -1,0 +1,15 @@
+<map id="ResourcePanelUIHandler.ResourceUIData" name="ResourcePanelUIHandler.ResourceUIData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="290,743,549,835"/>
+<area shape="rect" id="Node000002" href="$d2/d5f/class_r_t_s_engine_1_1_resource_extension_1_1_resource_type_info.html" title=" " alt="" coords="247,331,384,677"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="381,675,400,726,395,728,376,677"/>
+<area shape="rect" id="Node000003" href="$db/d4c/class_r_t_s_engine_1_1_r_t_s_engine_scriptable_object.html" title=" " alt="" coords="5,160,215,233"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,243,249,399,244,402,139,246"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="45,5,175,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,93,113,160,107,160,107,93"/>
+<area shape="rect" id="Node000005" href="$d3/dd4/struct_r_t_s_engine_1_1_resource_extension_1_1_resource_type_value.html" title=" " alt="" coords="239,149,392,245"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="318,244,318,314,313,314,313,244"/>
+<area shape="rect" id="Node000006" href="$db/d07/class_r_t_s_engine_1_1_faction_1_1_faction_type_target_picker.html" title="Target picker for FactionTypeInfo." alt="" coords="421,467,610,541"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="506,541,443,727,437,726,501,540"/>
+<area shape="rect" id="Node000007" href="$da/dcc/class_r_t_s_engine_1_1_entities_1_1_target_picker.html" title=" " alt="" coords="417,128,635,265"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="526,280,519,467,514,467,520,279"/>
+</map>
