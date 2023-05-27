@@ -1,0 +1,11 @@
+<map id="OnStart" name="OnStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="291,32,365,61"/>
+<area shape="rect" id="Node000002" href="$d4/dc4/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html#acff8886a227180e29bb415b6ae4c91a7" title=" " alt="" coords="150,5,201,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,40,200,27,201,21,277,35"/>
+<area shape="rect" id="Node000003" href="$d4/dc4/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html#a562874c31a261d7698d3725e306720b0" title=" " alt="" coords="108,59,243,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,58,244,64,243,59,276,53"/>
+<area shape="rect" id="Node000004" href="$d4/dc4/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html#aa5179ede3e18bf750e382def6aefc26b" title=" " alt="" coords="12,32,53,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,60,53,53,54,47,93,55"/>
+<area shape="rect" id="Node000005" href="$d4/dc4/class_r_t_s_engine_1_1_building_extension_1_1_building_placement_handler_mono_behaviour_base.html#ae97ca89b021d4abab5ae84a5e76557be" title=" " alt="" coords="5,85,60,114"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="93,91,61,97,60,92,92,86"/>
+</map>

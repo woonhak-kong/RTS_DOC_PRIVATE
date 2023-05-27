@@ -1,0 +1,25 @@
+<map id="SetTargetFaction" name="SetTargetFaction">
+<area shape="rect" id="Node000001" title="Directly assign a target faction slot." alt="" coords="5,137,148,166"/>
+<area shape="rect" id="Node000002" href="$d4/d79/class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#ade0979f29f25f8d6c0bc856593115695" title="Stops the NPC faction from attacking and resets its targets." alt="" coords="196,76,311,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,134,195,107,197,112,121,139"/>
+<area shape="rect" id="Node000003" href="$d4/d79/class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a9264334745b6efe7cf5a814e8352c00d" title=" " alt="" coords="375,5,606,52"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="90,134,134,96,163,77,195,61,235,47,277,38,359,27,360,32,278,43,236,53,197,66,166,81,138,101,94,139"/>
+<area shape="rect" id="Node000004" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html#ae1af67de2150a2a990430176bfe3f9e0" title=" " alt="" coords="963,240,1221,287"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="149,158,359,183,948,246,948,252,359,189,148,163"/>
+<area shape="rect" id="Node000006" href="$d4/d79/class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a451970abfb550b1388f645a1855e2970" title="Launches an attack on the NPC faction&#39;s current target faction." alt="" coords="196,250,311,279"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="100,164,197,229,215,240,212,245,194,234,97,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,81,413,54,415,59,311,86"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="311,88,453,94,537,101,622,113,706,128,771,145,916,191,1022,231,1020,236,914,197,769,150,705,134,621,118,537,107,452,99,311,93"/>
+<area shape="rect" id="Node000005" href="$d0/db4/interface_r_t_s_engine_1_1_n_p_c_1_1_event_1_1_i_n_p_c_event_publisher.html#a025bc523447188f259fac4e0ddc5d880" title=" " alt="" coords="359,128,621,175"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="311,102,384,121,383,126,310,107"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="375,52,302,73,300,68,373,47"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="311,262,948,261,948,266,311,267"/>
+<area shape="rect" id="Node000007" href="$d4/d79/class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a144fc5b4ce4551833cebbade71ab8b80" title="Sets the current faction entity target to the closest from an a set of potential targets." alt="" coords="426,330,554,359"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="299,277,433,323,431,328,297,282"/>
+<area shape="poly" id="edge11_Node000007_Node000004" title=" " alt="" coords="554,333,947,280,948,285,555,339"/>
+<area shape="rect" id="Node000008" href="$d6/d3a/class_r_t_s_engine_1_1_entities_1_1_faction_entity_target_picker.html#a78ee3a5a62e6bb8ed3e416ef07b20276" title=" " alt="" coords="669,352,915,399"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="555,349,655,359,654,364,555,354"/>
+<area shape="rect" id="Node000009" href="$d4/d79/class_r_t_s_engine_1_1_n_p_c_1_1_attack_1_1_n_p_c_attack_manager.html#a841d4e4a4765d16740e8b122c1e2a7e9" title="Resets the currentTarget FactionEntity to null." alt="" coords="713,422,871,451"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="527,357,593,383,670,409,699,416,698,422,669,414,591,388,525,362"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="871,424,914,409,956,384,995,355,1058,295,1062,299,999,359,959,389,916,414,872,429"/>
+</map>

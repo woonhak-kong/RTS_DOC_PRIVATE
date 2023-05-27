@@ -1,0 +1,9 @@
+<map id="HandleUnitSelected" name="HandleUnitSelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,165,83"/>
+<area shape="rect" id="Node000002" href="$d4/d7e/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#aae6b677d47187a8187e734714222240b" title=" " alt="" coords="213,54,278,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,66,197,66,197,71,165,71"/>
+<area shape="rect" id="Node000003" href="$de/dd0/interface_r_t_s_engine_1_1_selection_1_1_i_selection_manager.html#aa78ee55184da33271d339f15eaf2a669" title=" " alt="" coords="338,5,580,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,60,323,52,324,57,279,65"/>
+<area shape="rect" id="Node000004" href="$d9/dd7/interface_r_t_s_engine_1_1_event_1_1_i_global_event_publisher.html#a19864eb1029fba0fed2023dafaf523b9" title=" " alt="" coords="326,76,592,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="279,72,312,78,311,84,278,77"/>
+</map>

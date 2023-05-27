@@ -1,0 +1,28 @@
+<map id="IFactionEntity" name="IFactionEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,879,422,1156"/>
+<area shape="rect" id="Node000005" href="$d9/d6a/class_r_t_s_engine_1_1_entities_1_1_faction_entity.html" title=" " alt="" coords="254,1204,422,1799"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="341,1170,341,1204,335,1204,335,1170"/>
+<area shape="rect" id="Node000009" href="$d6/dd6/interface_r_t_s_engine_1_1_entities_1_1_i_building.html" title=" " alt="" coords="458,1385,642,1617"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="420,1167,436,1203,511,1384,506,1386,432,1205,415,1170"/>
+<area shape="rect" id="Node000012" href="$da/d72/interface_r_t_s_engine_1_1_entities_1_1_i_unit.html" title=" " alt="" coords="24,1385,220,1617"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="261,1170,244,1205,168,1386,163,1384,240,1203,256,1167"/>
+<area shape="rect" id="Node000002" href="$d0/de4/interface_r_t_s_engine_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="208,327,468,831"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,845,341,879,335,879,335,845"/>
+<area shape="rect" id="Node000003" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="131,5,339,279"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,292,281,326,276,328,268,293"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="364,105,517,179"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="432,193,400,328,395,327,426,192"/>
+<area shape="rect" id="Node000006" href="$da/dc7/class_r_t_s_engine_1_1_entities_1_1_building.html" title=" " alt="" coords="226,1905,469,2519"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="345,1813,346,1906,341,1906,339,1813"/>
+<area shape="rect" id="Node000008" href="$d1/dea/class_r_t_s_engine_1_1_entities_1_1_unit.html" title=" " alt="" coords="5,2017,201,2407"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="252,1750,234,1800,217,1848,163,2018,158,2016,211,1846,229,1798,247,1748"/>
+<area shape="rect" id="Node000007" href="$db/db8/class_r_t_s_engine_1_1_entities_1_1_resource_building.html" title=" " alt="" coords="350,2625,558,3016"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="406,2532,422,2625,417,2626,401,2533"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="516,1632,437,1906,432,1905,511,1631"/>
+<area shape="rect" id="Node000010" href="$d2/d96/interface_r_t_s_engine_1_1_entities_1_1_i_resource_building.html" title=" " alt="" coords="493,2175,631,2249"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="555,1631,564,2176,559,2176,550,1632"/>
+<area shape="rect" id="Node000011" href="$d3/d5a/class_r_t_s_engine_1_1_entities_1_1_static_1_1_static_building.html" title=" " alt="" coords="655,1847,839,2577"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="588,1630,658,1880,653,1881,583,1632"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="556,2263,491,2626,486,2625,551,2262"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="121,1631,111,2017,106,2017,116,1631"/>
+</map>

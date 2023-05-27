@@ -1,0 +1,13 @@
+<map id="HandleUnitMaxHealthUpdated" name="HandleUnitMaxHealthUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="415,30,646,59"/>
+<area shape="rect" id="Node000002" href="$d4/d7e/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#adac31525ae7d06bf0583dd61a333112e" title=" " alt="" coords="5,30,56,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,30,373,18,287,10,195,9,104,19,57,35,55,30,103,14,195,4,287,5,374,13,447,24"/>
+<area shape="rect" id="Node000003" href="$d4/d7e/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#abe1e6709da362ffec69d286c762ffe1e" title=" " alt="" coords="288,55,367,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="401,63,368,68,367,62,401,58"/>
+<area shape="rect" id="Node000004" href="$d4/d7e/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#ac919a991060ede6983343719401686de" title=" " alt="" coords="134,29,210,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,63,209,52,210,47,274,58"/>
+<area shape="rect" id="Node000005" href="$d4/d7e/class_r_t_s_engine_1_1_unit_extension_1_1_unit_squad.html#a5483c7619ad005659ef824cdbf3b6f3c" title=" " alt="" coords="104,82,240,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="274,90,241,96,240,91,273,85"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="116,79,55,56,57,51,118,74"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="227,76,287,66,288,71,227,81"/>
+</map>

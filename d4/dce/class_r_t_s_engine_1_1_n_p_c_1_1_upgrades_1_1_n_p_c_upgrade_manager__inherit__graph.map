@@ -1,0 +1,13 @@
+<map id="NPCUpgradeManager" name="NPCUpgradeManager">
+<area shape="rect" id="Node000001" title="Manages upgrade tasks for a NPC faction." alt="" coords="138,1227,410,1719"/>
+<area shape="rect" id="Node000002" href="$da/dbe/class_r_t_s_engine_1_1_n_p_c_1_1_n_p_c_component_base.html" title=" " alt="" coords="14,493,270,1179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,1192,226,1226,220,1227,213,1193"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,349,127,423"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,436,87,493,81,494,72,437"/>
+<area shape="rect" id="Node000004" href="$dc/d33/interface_r_t_s_engine_1_1_n_p_c_1_1_i_n_p_c_component.html" title=" " alt="" coords="151,327,287,445"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="210,459,204,494,198,493,204,459"/>
+<area shape="rect" id="Node000005" href="$db/d7c/interface_r_t_s_engine_1_1_i_mono_behaviour.html" title=" " alt="" coords="115,5,323,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="222,293,222,327,217,327,217,293"/>
+<area shape="rect" id="Node000006" href="$d6/dc3/interface_r_t_s_engine_1_1_n_p_c_1_1_upgrades_1_1_i_n_p_c_upgrade_manager.html" title=" " alt="" coords="295,799,517,873"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="398,887,328,1227,322,1226,393,886"/>
+</map>
